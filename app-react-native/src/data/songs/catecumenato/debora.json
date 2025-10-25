@@ -1,0 +1,352 @@
+{
+  "titulo_principal": "DÉBORA",
+  "subtitulo": null,
+  "referencia": "Juízes 5",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUANDO ISRAEL REÚNE A ASSEMBLÉIA,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "QUANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO O POVO SE OFERECE VOLUNTÁRIO:",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZEI A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDIZEI A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDIZEI A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE A IAHWEH QUERO CANTAR!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESPERTA DÉBORA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESPERTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DÉBORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESPERTA DÉBORA,",
+              "acordes": []
+            },
+            {
+              "letra": "ENTOA UM CÂNTICO!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÂNTICO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESPERTA DÉBORA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESPERTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DÉBORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESPERTA DÉBORA,",
+              "acordes": []
+            },
+            {
+              "letra": "LEVANTA-TE BARAC!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BARAC",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NOS DIAS DE SANGAR, FILHO DE ANAT,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NOS DIAS DE JAEL,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO HAVIA CARAVANAS;",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO SE PODIA ANDAR PELOS CAMINHOS,",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE ISRAEL ESCOLHERA OUTROS DEUSES;",
+              "acordes": []
+            },
+            {
+              "letra": "POR ISSO, A GUERRA ESTAVA A SUAS PORTAS;",
+              "acordes": []
+            },
+            {
+              "letra": "E NÃO HAVIA GUERREIRO EM ISRAEL,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO SE ACHAVA UMA LANÇA ENTRE DEZ MIL.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZEI A IAHWEH, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUANDO SAÍAS DE SEIR, IAHWEH, MEU DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "QUANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO AVANÇAVAS PELOS CAMPOS DE EDOM,",
+              "acordes": []
+            },
+            {
+              "letra": "TREMEU A TERRA, SE ESTREMECEU O CÉU,",
+              "acordes": []
+            },
+            {
+              "letra": "AS NUVENS DESFIZERAM-SE EM ÁGUA.",
+              "acordes": []
+            },
+            {
+              "letra": "DIANTE DE TI OS MONTES SE FUNDIRAM,",
+              "acordes": []
+            },
+            {
+              "letra": "DIANTE DE TI, DEUS DE ISRAEL.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DESDE OS CÉUS LUTARAM AS ESTRELAS,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DESDE OS CÉUS LUTARAM AS ESTRELAS,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DESDE OS CÉUS LUTARAM CONTRA SÍSARA.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DESDE OS CÉUS LUTARAM CONTRA SÍSARA.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TORRENTE DO QUISON,",
+              "acordes": []
+            },
+            {
+              "letra": "A TORRENTE SAGRADA OS VARREU!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZEI A IAHWEH, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

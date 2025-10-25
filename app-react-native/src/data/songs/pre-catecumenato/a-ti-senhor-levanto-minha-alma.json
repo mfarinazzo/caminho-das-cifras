@@ -1,0 +1,286 @@
+{
+  "titulo_principal": "A TI, SENHOR LEVANTO MINHA ALMA",
+  "subtitulo": null,
+  "referencia": "Salmo 25 (24)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI, SENHOR, LEVANTO MINHA ALMA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI, Ó MEU DEUS!",
+              "acordes": [
+                {
+                  "cifra": "Re- Fa",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EM TI CONFIO, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO TRIUNFEM SOBRE MIM MEUS INIMIGOS!",
+              "acordes": [
+                {
+                  "cifra": "Re- Fa",
+                  "palavra_alvo": "SOBRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MOSTRA-ME, SENHOR, TEU CAMINHO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MOSTRA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENSINA-ME, SENHOR, TUA VEREDA.",
+              "acordes": [
+                {
+                  "cifra": "Re- Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VEREDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI, SENHOR, LEVANTO MINHA ALMA, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RECORDA-TE, SENHOR, DE TUA TERNURA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RECORDA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TERNURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE TUA IMENSA COMPAIXÃO, QUE SÃO DE SEMPRE.",
+              "acordes": [
+                {
+                  "cifra": "Re- Fa",
+                  "palavra_alvo": "COMPAIXÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE MEUS PECADOS, SENHOR, NÃO TE RECORDES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PECADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RECORDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RECORDA-TE, SENHOR, QUE ÉS MISERICÓRDIA.",
+              "acordes": [
+                {
+                  "cifra": "Re- Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ROCIA-ME, SENHOR, COM TUA MISERICÓRDIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ROCIA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SUBMERGE-ME, SENHOR, EM TUA MISERICÓRDIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SUBMERGE-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI, SENHOR, LEVANTO MINHA ALMA, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

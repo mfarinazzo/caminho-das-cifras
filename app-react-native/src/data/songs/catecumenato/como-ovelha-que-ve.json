@@ -1,0 +1,398 @@
+{
+  "titulo_principal": "COMO OVELHA QUE VÊ",
+  "subtitulo": "Kontákion da Sexta-Feira Santa, de São Romano, o Melodista",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO OVELHA QUE VÊ",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO LEVAM O SEU CORDEIRINHO AO MATADOURO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "matadouro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "MARIA SEGUIA-O CONSUMIDA DE DOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "dor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E DIZIA-LHE: \"ONDE TE LEVAM MEU FILHO?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "filho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO ACABA TÃO CEDO",
+              "acordes": []
+            },
+            {
+              "letra": "O CURSO DA TUA VIDA?",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "FALA-ME, NÃO PASSES, TE ROGO, SEM ME FALAR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Fala-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "falar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "MEU FILHO, MEU FILHO E MEU DEUS!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MEU FILHO, MEU FILHO E MEU DEUS!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NUNCA PODERIA IMAGINAR",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Nunca",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE CHEGARIA A VER-TE NESTE ESTADO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "estado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "NUNCA PODERIA CRER",
+              "acordes": []
+            },
+            {
+              "letra": "QUE CHEGARIAM A TAL PONTO DE ÓDIO E DE FUROR,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "de",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "APRESSANDO-TE CONTRA TODA JUSTIÇA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CONTRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "QUISERA COMPREENDER, AI DE MIM!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "QUISERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO É POSSÍVEL QUE A LUZ SE APAGUE!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO É POSSÍVEL QUE TE CRAVEM NUMA CRUZ!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POSSÍVEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CRUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MEU FILHO, MEU FILHO E MEU DEUS!\"",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"POR QUE CHORAS, POR QUE CHORAS, MINHA MÃE?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR QUE CHORAS, POR QUE CHORAS, MINHA MÃE?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACASO NÃO DEVERIA SOFRER?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ACASO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SOFRER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACASO NÃO DEVO MORRER?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ACASO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MORRER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENTÃO COMO PODEREI SALVAR ADÃO?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ENTÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ADÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO PODERIAS VER EVA VOLTAR À VIDA?\"",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO OVELHA QUE VÊ ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

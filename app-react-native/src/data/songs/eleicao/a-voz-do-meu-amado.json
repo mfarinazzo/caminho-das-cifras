@@ -1,0 +1,606 @@
+{
+  "titulo_principal": "A VOZ DO MEU AMADO",
+  "subtitulo": null,
+  "referencia": "Cântico dos Cânticos 2. 8-17",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A VOZ DO MEU AMADO!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "EI-LO AQUI QUE VEM",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CORRENDO PELOS MONTES,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "montes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "BRINCANDO PELAS COLINAS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "brincando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "colinas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SEMELHANTE É O MEU AMADO A UMA GAZELA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "gazela",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "OU A UM JOVEM CERVOZINHO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "cervozinho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "SEMELHANTE É O MEU AMADO A UMA GAZELA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "gazela",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "EI-LO QUE JÁ PÁRA",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Ei-lo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "pára",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ATRÁS DE NOSSA PAREDE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "parede",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESPIANDO PELA JANELA, ESPREITANDO PELAS GRADES.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "grades",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMEÇA A FALAR O MEU AMADO E ME DIZ:",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Começa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "LEVANTA-TE, AMADA MINHA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LEVANTA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "LEVANTA-TE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "LEVANTA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FORMOSA MINHA E VEM!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VÊ: O INVERNO JÁ PASSOU,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Vê",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "passou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E AS CHUVAS JÁ SE FORAM, JÁ SE FORAM.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "foram",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "APARECERAM AS FLORES NA TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Apareceram",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "O TEMPO DAS CANÇÕES JÁ CHEGOU,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "chegou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OUVE-SE O CANTO DA ROLA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ouve-se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "rola",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DESPONTAM OS BROTOS DA FIGUEIRA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Despontam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E A VINHA FLORIDA EXALA PERFUME.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "perfume",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANTA-TE, AMADA MINHA, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LEVANTA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó MINHA POMBA, QUE HABITAS NAS FENDAS DA ROCHA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "rocha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E NOS ESCONDERIJOS DOS BARRANCOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "barrancos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "DEIXA-ME OUVIR TUA VOZ, DEIXA-ME OUVIR TUA VOZ.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "deixa-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "voz",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CAÇAI-NOS AS RAPOSAS, AS RAPOSAS PEQUENINAS",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Caçai-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "as",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE DEVASTAM NOSSA VINHA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "vinha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE A NOSSA VINHA ESTÁ EM FLOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOSSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FLOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE A NOSSA VINHA ESTÁ EM FLOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOSSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FLOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MEU AMADO É PARA MIM,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Meu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E EU SOU PARA O MEU AMADO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ANTES QUE SOPRE A BRISA",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Antes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "brisa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E SE ALONGUEM AS SOMBRAS DA MORTE.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "RETORNA, RETORNA, RETORNA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RETORNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RETORNA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RETORNA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LEVANTA-TE, AMADA MINHA, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LEVANTA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

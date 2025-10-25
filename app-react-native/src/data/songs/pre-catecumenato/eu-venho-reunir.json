@@ -1,0 +1,493 @@
+{
+  "titulo_principal": "EU VENHO REUNIR",
+  "subtitulo": null,
+  "referencia": "Isaías 66, 18-21",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU VENHO REUNIR,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "REUNIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU VENHO REUNIR",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TODAS AS NAÇÕES,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TODAS AS NAÇÕES;",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VIRÃO E VERÃO A MINHA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "VIRÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VIRÃO E VERÃO A MINHA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VIRÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA, GLÓRIA, GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POREI NELES UM SINAL",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "POREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E OS ENVIAREI ÀS NAÇÕES MAIS LONGÍNQUAS",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ENVIAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LONGÍNQUAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE ANUNCIEM A MINHA GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ANUNCIEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE ANUNCIEM A MINHA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ANUNCIEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA, GLÓRIA, GLÓRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E TRARÃO VOSSOS IRMÃOS",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "TRARÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE TODAS AS NAÇÕES",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO OBLAÇÃO AO SENHOR;",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "OBLAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO OBLAÇÃO AO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "OBLAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E DENTRE ELES TOMAREI",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "DENTRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "TOMAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SACERDOTES PARA MIM,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "SACERDOTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SACERDOTES QUE ANUNCIEM A MINHA GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SACERDOTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SACERDOTES QUE ANUNCIEM A MINHA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SACERDOTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA, GLÓRIA, GLÓRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

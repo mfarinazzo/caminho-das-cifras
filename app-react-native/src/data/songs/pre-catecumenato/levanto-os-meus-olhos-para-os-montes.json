@@ -1,0 +1,458 @@
+{
+  "titulo_principal": "LEVANTO OS MEUS OLHOS PARA OS MONTES",
+  "subtitulo": "Salmo 121 (120)",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANTO OS MEUS OLHOS PARA OS MONTES:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#-",
+                  "palavra_alvo": "MONTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE ONDE ME VIRÁ O AUXÍLIO?",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AUXÍLIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O AUXÍLIO ME VEM DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AUXÍLIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE FEZ O CÉU E A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O AUXÍLIO ME VEM DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AUXÍLIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE FEZ O CÉU E A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Não permitirá que vacile o teu pé!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#-",
+                  "palavra_alvo": "PÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Teu guardião não dorme!",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "GUARDIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DORME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Não dorme, nem repousa",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "REPOUSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o guardião de Israel.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "GUARDIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANTO OS MEUS OLHOS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Senhor te guarda à sua sombra,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#-",
+                  "palavra_alvo": "SOMBRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ele está a tua direita.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "TUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIREITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "De dia não te fará mal o sol,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "nem a lua de noite.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "LUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANTO OS MEUS OLHOS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Senhor te guardará de todo mal,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ele protege tua vida;",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "TUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ele guarda tuas entradas e saídas,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SAÍDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "agora e para sempre.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "AGORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANTO OS MEUS OLHOS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

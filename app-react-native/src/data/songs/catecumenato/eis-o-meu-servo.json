@@ -1,0 +1,321 @@
+{
+  "titulo_principal": "EIS O MEU SERVO",
+  "subtitulo": null,
+  "referencia": "Primeiro canto do Servo de Iahweh - Isaías 42",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EIS O MEU SERVO, A QUEM ELEGI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SERVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ELEGI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EIS O MEU SERVO, A QUEM ELEGI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SERVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ELEGI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MEU AMADO, EM QUEM MINHA ALMA SE COMPRAZ,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMPRAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MEU AMADO, A QUEM ELEGI.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ELEGI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FAREI DESCANSAR MEU ESPÍRITO SOBRE ELE;",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DESCANSAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ANUNCIARÁ O DIREITO ÀS NAÇÕES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIREITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ANUNCIARÁ O DIREITO ÀS NAÇÕES.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIREITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ÀS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO DISPUTARÁ, NEM GRITARÁ,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRITARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NINGUÉM OUVIRÁ SUA VOZ NAS PRAÇAS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NINGUÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A CANA RACHADA NÃO A QUEBRARÁ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "QUEBRARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A MECHA BRUXULEANTE NÃO A APAGARÁ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "APAGARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ATÉ FAZER TRIUNFAR O DIREITO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FAZER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIREITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ATÉ FAZER TRIUNFAR O DIREITO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FAZER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIREITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E EM SEU NOME, E EM SEU NOME",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORÃO AS NAÇÕES SUA ESPERANÇA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PORÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPERANÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

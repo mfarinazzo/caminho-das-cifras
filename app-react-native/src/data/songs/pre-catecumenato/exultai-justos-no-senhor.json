@@ -1,0 +1,341 @@
+{
+  "titulo_principal": "EXULTAI, JUSTOS, NO SENHOR",
+  "subtitulo": "Salmo 33 (32)",
+  "referencia": "Salmo 33 (32)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EXULTAI, JUSTOS, NO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EXULTAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É PRÓPRIO DOS SANTOS O LOUVOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PRÓPRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "LOUVOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAI GRAÇAS AO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM A CÍTARA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CÍTARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM A HARPA DE DEZ CORDAS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DEZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TOCAI PARA ELE!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Cantai ao Senhor um canto novo,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Cantai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "novo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "tocai a cítara com arte e aclamai-o.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "tocai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "aclamai-o",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Porque reta é a Palavra do Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "reta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Palavra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "verdade são todas as suas obras.",
+              "acordes": []
+            },
+            {
+              "letra": "Nele estão a justiça e o direito,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "estão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "justiça",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "direito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "do seu amor está cheia a terra. (melisma)",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EXULTAI, JUSTOS, NO SENHOR, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EXULTAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A palavra do Senhor fez os céus,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "palavra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "céus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o alento da sua boca seus exércitos.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "alento",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "boca",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O Senhor anula os planos das nações,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "torna vãos os projetos dos povos;",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "vãos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "povos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Mas o projeto do Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "projeto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o projeto do Senhor",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "projeto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "subsiste para sempre. (melisma)",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "sempre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EXULTAI, JUSTOS, NO SENHOR, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EXULTAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

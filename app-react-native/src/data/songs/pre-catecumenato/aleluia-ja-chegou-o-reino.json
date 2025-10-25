@@ -1,0 +1,311 @@
+{
+  "titulo_principal": "ALELUIA! JÁ CHEGOU O REINO",
+  "subtitulo": null,
+  "referencia": "Apocalipse 19, 6-9",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JÁ CHEGOU O REINO DO SENHOR E SEU CRISTO.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JÁ CHEGOU O REINO DO SENHOR NOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEMOS-LHE GLÓRIA, JÁ CHEGARAM AS BODAS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEMOS-LHE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEMOS-LHE GLÓRIA, AS BODAS DO NOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEMOS-LHE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BEM-AVENTURADOS OS CONVIDADOS ÀS BODAS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "BEM-AVENTURADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CONVIDADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ÀS BODAS DO CORDEIRO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BEM-AVENTURADOS OS CONVIDADOS ÀS BODAS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "BEM-AVENTURADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CONVIDADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ÀS BODAS COM O SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

@@ -1,0 +1,637 @@
+{
+  "titulo_principal": "CANTA A IAHWEH, JERUSALÉM",
+  "subtitulo": null,
+  "referencia": "Salmo 147 (146-147)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVA TEU DEUS, SIÃO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "LOUVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE CURA O CORAÇÃO QUEBRANTADO",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "QUEBRANTADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SARA AS FERIDAS DE ISRAEL.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FERIDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É BOM BENDIZER A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O LOUVOR É SUAVE AO NOSSO DEUS;",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "LOUVOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SALMODIAI E CANTAI A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SALMODIAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OCAI O VIOLÃO PARA O SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "OCAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IAHWEH RECONSTRÓI JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONGREGA OS DEPORTADOS DE ISRAEL.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CONGREGA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH SUSTENTA OS HUMILDES,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ABATE ATÉ A TERRA OS ÍMPIOS.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ABATE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ÍMPIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE CONTA O NÚMERO DE ESTRELAS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESTRELAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E CHAMA CADA UMA PELO NOME.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CHAMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GRANDE É O SENHOR, GRANDE SUA FORÇA",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO TEM LIMITES SEU SABER.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SABER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO GOSTA DO VIGOR DO CAVALO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CAVALO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NEM SE COMPRAZ NO MÚSCULO DO HOMEM",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "NEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH SE COMPRAZ NOS QUE O TEMEM,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NAQUELES QUE CONFIAM NO SEU AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NAQUELES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IAHWEH REFORÇOU TUAS PORTAS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PORTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM TI ABENÇOOU TEUS FILHOS.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FILHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PÔS A PAZ EM TUAS FRONTEIRAS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PÔS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SACIA-TE COM A FLOR DO TRIGO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SACIA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TRIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ENVIA À TERRA SUA PALAVRA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ENVIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PALAVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RÁPIDA A SUA PALAVRA A PERCORRE.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RÁPIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PERCORRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DISTRIBUI A NEVE COMO LÃ",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DISTRIBUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESPALHA A GEADA COMO CINZA",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESPALHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CINZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "REVELA A JACOB SUA PALAVRA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "REVELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PALAVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEUS PRECEITOS E JUÍZOS A ISRAEL.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM NENHUM OUTRO POVO AGIU ASSIM",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NENHUM DELES CONHECEU SUA VONTADE",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NENHUM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VONTADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTA A IAHWEH, ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

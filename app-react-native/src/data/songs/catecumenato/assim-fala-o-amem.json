@@ -1,0 +1,333 @@
+{
+  "titulo_principal": "ASSIM FALA O AMÉM",
+  "subtitulo": null,
+  "referencia": "Apocalipse 3, 14-22",
+  "pagina": 214,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ASSIM FALA O AMÉM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ASSIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TESTEMUNHA FIEL E VERDADEIRA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TESTEMUNHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "VERDADEIRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O PRINCÍPIO",
+              "acordes": []
+            },
+            {
+              "letra": "DAS CRIATURAS DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CRIATURAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Conheço tua conduta:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Conheço",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "não és frio nem quente.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "frio",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Oxalá fosses frio ou quente",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "frio",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e não morno,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "morno",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "porque vou te vomitar de minha boca!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "vomitar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Tu dizes: ¨Eu sou rico, nada me falta¨.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E não percebes que és",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "percebes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "um miserável,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "miserável",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "digno de compaixão,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "compaixão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "pobre, cego e nu.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "cego",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ASSIM FALA O AMÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ASSIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aconselho-te que me compres",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Aconselho-te",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ouro acrisolado ao fogo",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ouro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "para que enriqueças,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "enriqueças",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e vestes brancas",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "vestes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "para cobrir a tua nudez.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "cobrir",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Olha que estou à porta e bato;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Olha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "se alguém ouve minha voz e me abre a porta,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ouve",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "porta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "entrarei em sua casa,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e cearei com ele, e ele comigo.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "cearei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ASSIM FALA O AMÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ASSIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

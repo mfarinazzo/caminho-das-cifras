@@ -1,0 +1,298 @@
+{
+  "titulo_principal": "HINO DA ASCENSÃO",
+  "subtitulo": "Hino das Laudes do tempo Pascal, da Ascensão até Pentecostes",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O BOM PASTOR SUBIU",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SUBIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "À DIREITA DO PAI.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "VELA O PEQUENO REBANHO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "REBANHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "COM MARIA NO CENÁCULO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CENÁCULO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DO ESPLENDOR ETERNO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ETERNO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESCENDE O CRISMA PROFÉTICO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CRISMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE CONSAGRA OS APÓSTOLOS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "APÓSTOLOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM ARAUTOS DO EVANGELHO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EVANGELHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O BOM PASTOR ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, Ó ESPÍRITO DIVINO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM TEUS SANTOS DONS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DONS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TRANSFORMA NOSSOS CORPOS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CORPOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO TEMPLO DE TUA SANTA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O BOM PASTOR ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "Ó LUZ DE SABEDORIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SABEDORIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REVELA-NOS O GRANDE MISTÉRIO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MISTÉRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO DEUS UNO E TRINO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TRINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FONTE DO ETERNO AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O BOM PASTOR ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol maior"
+}

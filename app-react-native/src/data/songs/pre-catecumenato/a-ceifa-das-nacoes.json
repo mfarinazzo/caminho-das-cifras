@@ -1,0 +1,526 @@
+{
+  "titulo_principal": "A CEIFA DAS NAÇÕES",
+  "subtitulo": null,
+  "referencia": "João 4, 31-38",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CHEGARAM OS DISCÍPULOS E LHE DISSERAM:",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CHEGARAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“RABI, COME; RABI, COME!”",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RABI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "COME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RABI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "COME",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS ELE RESPONDEU:",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“TENHO PARA COMER UM ALIMENTO",
+              "acordes": []
+            },
+            {
+              "letra": "QUE VÓS NÃO CONHECEIS:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MEU ALIMENTO É FAZER A VONTADE",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAQUELE QUE ME ENVIOU",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ENVIOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E COMPLETAR A SUA OBRA”.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "OBRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO DIZEIS VÓS:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DIZEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“AINDA QUATRO MESES E CHEGARÁ A CEIFA”?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CEIFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO DIZEIS VÓS:",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "DIZEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“AINDA QUATRO MESES E CHEGARÁ A CEIFA”?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CEIFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POIS BEM, EU VOS DIGO:",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "POIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LEVANTAI OS VOSSOS OLHOS E OLHAI OS CAMPOS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LEVANTAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "CAMPOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE JÁ BRANQUEIAM PARA A CEIFA,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CEIFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA A CEIFA.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CEIFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO DIZEIS VÓS ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JÁ SE REÚNEM OS CEIFADORES.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CEIFADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JÁ SE REÚNEM OS CEIFADORES.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CEIFADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E RECEBEM SALÁRIO E RECOLHEM FRUTO",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA A VIDA ETERNA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ETERNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PARA A VIDA ETERNA.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ETERNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO DIZEIS VÓS ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU VOS ENVIEI A CEIFAR",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O QUE VÓS NÃO TRABALHASTES.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TRABALHASTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OUTROS SE AFADIGARAM",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "OUTROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E VOS APROVEITAIS DE SUA FADIGA,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "FADIGA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE MODO QUE O SEMEADOR",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE ALEGRA, SE ALEGRA COM O CEIFADOR.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ALEGRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CEIFADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO DIZEIS VÓS ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

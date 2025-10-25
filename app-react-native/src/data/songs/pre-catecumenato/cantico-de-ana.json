@@ -1,0 +1,653 @@
+{
+  "titulo_principal": "CÂNTICO DE ANA",
+  "subtitulo": null,
+  "referencia": "1º Samuel 2, 1-9",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MEU CORAÇÃO EXULTA EM IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Meu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Iahweh",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "MEU LOUVOR SE ELEVA ATÉ MEU DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "meu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MINHA BOCA SE DILATA CONTRA MEUS INIMIGOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "boca",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "inimigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE ME ALEGRO EM TEU SOCORRO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "socorro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "NÃO HÁ SANTO COMO IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "NEM ROCHA COMO MEU DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ROCHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO MULTIPLIQUEIS PALAVRAS ORGULHOSAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MULTIPLIQUEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PALAVRAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ORGULHOSAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NÃO BROTE DE VOSSOS LÁBIOS A ARROGÂNCIA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "BROTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ARROGANCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEUS DE SABEDORIA É IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SABEDORIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEU É O JULGAMENTO DAS NAÇÕES.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JULGAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NACOES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO HÁ SANTO COMO IAHWEH ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O ARCO DOS FORTES É QUEBRADO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ARCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FORTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUEBRADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS QUE CAMBALEIAM SE CINGEM DE FORÇA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CAMBALEIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FORCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS SACIADOS EMPREGAM-SE POR PÃO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SACIADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "EMPREGAM-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS FAMINTOS DEIXAM SEU TRABALHO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FAMINTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TRABALHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A ESTÉRIL DÁ A LUZ SETE VEZES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESTERIL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VEZES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A MÃE DE MUITOS FILHOS SE EXAURE.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MAE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EXAURE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO HÁ SANTO COMO IAHWEH ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IAHWEH DÁ A MORTE E DÁ A VIDA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE FAZ DESCER AO XEOL E RETORNAR,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DESCER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RETORNAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH ENRIQUECE E DESPOJA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ENRIQUECE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESPOJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH ABATE E EXALTA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ABATE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EXALTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO HÁ SANTO COMO IAHWEH ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANTA DO PÓ O HUMILDE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LEVANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HUMILDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE RETIRA DO MONTURO O INDIGENTE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RETIRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INDIGENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA FAZÊ-LOS ASSENTAR-SE JUNTO AOS NOBRES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FAZE-LOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ASSENTAR-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOBRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DAR-LHES EM HERANÇA TRONOS DE GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DAR-LHES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TRONOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLORIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE GUARDA OS PASSOS DE SEUS FIÉIS,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GUARDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FIEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POIS NÃO TRIUNFA O HOMEM PELA FORÇA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TRIUNFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FORCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO HÁ SANTO COMO IAHWEH ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

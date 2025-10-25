@@ -1,0 +1,274 @@
+{
+  "titulo_principal": "Ó SENHOR, MEU CORAÇÃO NÃO É PRETENSIOSO",
+  "subtitulo": null,
+  "referencia": "Salmo 131 (130)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "Ó SENHOR, MEU CORAÇÃO NÃO É PRETENSIOSO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PRETENSIOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "NEM SE ELEVA COM SOBERBA O MEU OLHAR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOBERBA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "OLHAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "NEM VOU EM BUSCA DE COISAS GRANDES",
+              "acordes": []
+            },
+            {
+              "letra": "QUE SÃO SUPERIORES AS MINHAS FORÇAS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MINHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Mas aplaquei e acalmei a minha alma",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ACALMEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "como um menino no colo da sua mãe,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MENINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "como um menino recém mamado é o meu espírito,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "como um menino, dentro de mim!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DENTRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó SENHOR, MEU CORAÇÃO NÃO É PRETENSIOSO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PRETENSIOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Mas aplaquei e acalmei a minha alma ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ACALMEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Espera, Israel, no Senhor!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPERA, ISRAEL, NO SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Espera, Israel, agora e sempre!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

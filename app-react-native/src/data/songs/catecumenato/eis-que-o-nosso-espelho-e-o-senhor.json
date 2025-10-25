@@ -1,0 +1,249 @@
+{
+  "titulo_principal": "EIS QUE O NOSSO ESPELHO É O SENHOR",
+  "subtitulo": "Ode XIII de Salomão",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EIS QUE O NOSSO ESPELHO É O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Eis",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ABRI OS VOSSOS OLHOS E OLHAI-VOS NELE",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "abri",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E APRENDEI COMO É A VOSSA IMAGEM.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "imagem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAI GLÓRIA AO SEU ESPÍRITO,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DAI GLÓRIA AO SEU ESPÍRITO.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E LIMPAI A IMUNDÍCIE DO VOSSO ROSTO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AMAI SUA SANTIDADE E DELA REVESTI-VOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E SEREIS IMACULADOS SEMPRE DIANTE DELE.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAI GLÓRIA AO SEU ESPÍRITO,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DAI GLÓRIA AO SEU ESPÍRITO,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAI GLÓRIA AO SEU ESPÍRITO.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

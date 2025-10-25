@@ -1,0 +1,351 @@
+{
+  "titulo_principal": "A TI LEVANTO MEUS OLHOS",
+  "subtitulo": "Salmo 123 (122)",
+  "referencia": "Salmo 123 (122)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "A TI LEVANTO MEUS OLHOS",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI QUE HABITAS NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO OS OLHOS DOS SERVOS ESTÃO FITOS NAS MÃOS DE SEUS SENHORES.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO OS OLHOS DA ESCRAVA NAS MÃOS DE SUA SENHORA,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSIM ESTÃO NOSSOS OLHOS NO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "ASSIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESPERANDO QUE TENHA PIEDADE, ESPERANDO QUE TENHA PIEDADE.",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESPERANDO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "TENHA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Mulheres:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PIEDADE DE NÓS, SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Homens:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PIEDADE DE NÓS, SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Mulheres:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE JÁ DE NÓS, ZOMBARAM DEMAIS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DEMAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Homens:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE NOSSA ALMA ESTÁ SACIADA DE DESPREZOS!",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DESPREZOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Mulheres:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DO ESCÁRNIO DOS SATISFEITOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SATISFEITOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Homens:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DO DESPREZO DOS SOBERBOS!",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SOBERBOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Mulheres:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PIEDADE DE NÓS, SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Homens:",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PIEDADE DE NÓS, SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI LEVANTO MEUS OLHOS ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

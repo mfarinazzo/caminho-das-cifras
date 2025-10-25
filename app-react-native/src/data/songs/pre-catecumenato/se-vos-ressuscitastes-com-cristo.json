@@ -1,0 +1,529 @@
+{
+  "titulo_principal": "SE VÓS RESSUSCITASTES COM CRISTO",
+  "subtitulo": null,
+  "referencia": "Coríntios 3, 1-4",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "1ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE VÓS RESSUSCITASTES COM CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "BUSCAI AS COISAS DO ALTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ONDE ESTÁ CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ONDE ESTÁ CRISTO,",
+              "acordes": []
+            },
+            {
+              "letra": "SENTADO À DIREITA DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aspirai às coisas do Céu,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Aspirai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Céu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "e não às da terra.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ASPIRAI ÀS COISAS DO CÉU,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ASPIRAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "E NÃO ÀS DA TERRA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Porque morrestes,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "morrestes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "porque morrestes,",
+              "acordes": []
+            },
+            {
+              "letra": "e a vossa vida está oculta,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "oculta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "unida com Cristo em Deus.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "E quando",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "que é a vossa vida,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "então também vós",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "então",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "aparecereis gloriosos com Ele.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE VÓS RESSUSCITASTES COM CRISTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aspirai às coisas do Céu,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Aspirai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Céu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "e não às da terra.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ASPIRAI ÀS COISAS DO CÉU,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ASPIRAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "E NÃO ÀS DA TERRA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Porque morrestes,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "morrestes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "e a vossa vida está oculta,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "oculta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "unida com Cristo em Deus.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE MORRESTES,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MORRESTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "E A VOSSA VIDA ESTÁ OCULTA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OCULTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "UNIDA COM CRISTO EM DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E quando",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "que é a vossa vida,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "então também vós",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "então",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "aparecereis gloriosos com Ele.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE VÓS RESSUSCITASTES COM CRISTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "* Melisma",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

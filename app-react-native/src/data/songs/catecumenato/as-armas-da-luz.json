@@ -1,0 +1,423 @@
+{
+  "titulo_principal": "CATECUMENATO",
+  "subtitulo": "AS ARMAS DA LUZ",
+  "referencia": "Efésios 6, 11ss",
+  "pagina": 213,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "REVESTI-VOS DA ARMADURA DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "REVESTI-VOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-6",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EMPUNHANDO AS ARMAS DA LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "EMPUNHANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A nossa luta",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "não é contra a carne nem o sangue,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "sangue",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "mas contra os espíritos do mal",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "que vivem no mundo tenebroso.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "mundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CINGIDOS COM A VERDADE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CINGIDOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "VERDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REVESTIDOS DA",
+              "acordes": []
+            },
+            {
+              "letra": "JUSTIÇA DA CRUZ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CRUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Que não resiste ao mal,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "mal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "mas leva sobre si",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "os pecados dos outros.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "outros",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CALÇADOS COM O ZELO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CALÇADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR ANUNCIAR O EVANGELHO,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "EVANGELHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS SOBRETUDO",
+              "acordes": []
+            },
+            {
+              "letra": "COM O ESCUDO DA FÉ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Que Cristo te ama certamente,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "certamente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "que deu sua vida por ti",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "quando eras malvado e pecador.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "pecador",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COM A ESPADA DO ESPÍRITO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE É A PALAVRA DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E COROADOS",
+              "acordes": []
+            },
+            {
+              "letra": "COM O ELMO DA SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Que Cristo Jesus ressuscitou,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ressuscitou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "que ele é o Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "que voltará, que voltará",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "voltará",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e nos levará com ele.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELU, ALELU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELU, ALELU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

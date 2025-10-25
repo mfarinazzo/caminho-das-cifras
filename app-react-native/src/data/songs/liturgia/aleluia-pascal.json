@@ -1,0 +1,417 @@
+{
+  "titulo_principal": "ALELUIA PASCAL",
+  "subtitulo": "Para o tempo Pascal *",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRISTO JESUS RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A1.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A2.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A3.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRISTO JESUS RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A2.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A1.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A3.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRISTO JESUS É O SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A3.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A1.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A2.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

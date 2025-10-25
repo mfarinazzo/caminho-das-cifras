@@ -1,0 +1,447 @@
+{
+  "titulo_principal": "HINO À KENOSIS",
+  "subtitulo": null,
+  "referencia": "Filipenses 2, 1-11",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COM UM MESMO AMOR,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Com",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM UM MESMO ESPÍRITO,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM OS MESMOS SENTIMENTOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "sentimentos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NADA POR RIVALIDADE, NEM POR VANGLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "vanglória",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS TUDO POR HUMILDADE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "humildade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONSIDERANDO OS OUTROS COMO SUPERIORES A TI,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "considerando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO BUSCANDO TEU PRÓPRIO INTERESSE,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "interesse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TENDO OS MESMOS SENTIMENTOS DE JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "sentimentos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE, SENDO DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO RETEVE AVIDAMENTE SUA DIGNIDADE,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "dignidade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS SE FEZ HOMEM.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E FEITO HOMEM, HUMILHOU-SE A SI MESMO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSUMINDO A CONDIÇÃO DE ESCRAVO,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "escravo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OBEDECENDO ATÉ À MORTE.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E QUE MORTE: MORTE DE PECADOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "pecador",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MORTE DE MALFEITOR, MORTE DE CRUZ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "malfeitor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "cruz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ISSO DEUS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O RESSUSCITOU, O EXALTOU",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ressuscitou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E LHE DEU O NOME MAIS ALTO QUE EXISTE.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "existe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRISTO JESUS É O SENHOR, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO JESUS É O SENHOR, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO JESUS É O SENHOR, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRISTO JESUS É O MEU SENHOR, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO JESUS É O TEU SENHOR, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO JESUS É O SENHOR, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

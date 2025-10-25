@@ -1,0 +1,338 @@
+{
+  "titulo_principal": "MARIA, MÃE DO CAMINHO ARDENTE",
+  "subtitulo": "Hino à Virgem do Terceiro Milênio",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MÃE DO CAMINHO ARDENTE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ARDENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU NOS LIVRAS DO FOGO DAS PAIXÕES",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LIVRAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PAIXÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM O ORVALHO DE TUA INTERCESSÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ORVALHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INTERCESSÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU NOS LIVRAS DO FOGO DAS PAIXÕES",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LIVRAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PAIXÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM O ORVALHO DE TUA INTERCESSÃO.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ORVALHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INTERCESSÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HUMILDE MARIA, TODA IMACULADA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IMACULADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "IMACULADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ANJO DA GUARDA DO TERCEIRO MILÊNIO;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GUARDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MILÊNIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LUGAR DE TODAS AS GRAÇAS;",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IMAGEM DA VIRTUDE;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "IMAGEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VIRTUDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TUA BELEZA CANTA A JERUSALÉM CELESTE!",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "BELEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CELESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU NOS MOSTRASTE O CAMINHO!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MOSTRASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SOB A CRUZ NOS RECEBESTE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CRUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RECEBESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MÃE DO CAMINHO ARDENTE;",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ARDENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SOB A CRUZ NOS RECEBESTE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CRUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RECEBESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO DIZER NÃO A TEU FILHO SOFRENTE!",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DIZER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SOFRENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HUMILDE MARIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol maior"
+}

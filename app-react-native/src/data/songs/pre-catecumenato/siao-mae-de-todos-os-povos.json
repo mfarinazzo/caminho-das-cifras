@@ -1,0 +1,403 @@
+{
+  "titulo_principal": "SIÃO, MÃE DE TODOS OS POVOS",
+  "subtitulo": null,
+  "referencia": "Salmo 87(86)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A sua fundação está sobre os montes santos:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "sua",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "o Senhor ama as portas de Sião",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "mais que todas as moradas de Jacó.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Jacó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "De ti se dizem coisas estupendas,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "De",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "cidade de Deus:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Recordo Raab e Babilônia,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Recordo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Filistéia, Tiro e Etiópia:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Filistéia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "quando alguém nasce nelas e diz:",
+              "acordes": []
+            },
+            {
+              "letra": "\"tal homem nasceu ali.\"",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Mas de Sião se diz: \"Mãe!\"",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Mãe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "PORQUE TODOS NASCERAM NELA.    |  BIS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NASCERAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "O SENHOR, ELE MESMO A FUNDOU.  |  BIS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "MÃE, MÃE CIDADE DE DEUS!       |  BIS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Senhor escreve no livro dos povos:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "\"Este nasceu nela\",",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Este",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "nela",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e dançando cantarão:",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "dançando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "\"Estão em ti as minhas fontes todas\".",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "todas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "E DANÇANDO, DANÇANDO CANTARÃO.       |  BIS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DANÇANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DANÇANDO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTARÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "TODAS AS MINHAS FONTES ESTÃO EM TI.  |  BIS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FONTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "MÃE, MÃE CIDADE DE DEUS!             |  BIS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "(*)",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

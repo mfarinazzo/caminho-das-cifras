@@ -1,0 +1,499 @@
+{
+  "titulo_principal": "VEM, ESPÍRITO SANTO",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ENVIA UM RAIO DE TUA LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vem, pai dos pobres,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "pobres",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "vem, luz dos corações.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "corações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Vem, consolador perfeito,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "perfeito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "vem, hóspede da alma.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vem, doce refrigério,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "doce",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "refrigério",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "na fadiga, tu és o descanso;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "descanso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "no calor, tu és o nosso alívio;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "no",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "alívio",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "no pranto, tu és o consolo.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "consolo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó luz santíssima,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "luz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "santíssima",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "inunda de teu resplendor",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "resplendor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "o coração dos teus fiéis,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "o",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "fiéis",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "chega ao íntimo da alma.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Sem tua luz, nada há de puro no homem,",
+              "acordes": []
+            },
+            {
+              "letra": "nada há de inocente.",
+              "acordes": []
+            },
+            {
+              "letra": "Olha a força do pecado,",
+              "acordes": []
+            },
+            {
+              "letra": "quando tu não estás conosco.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Lava o que há de sujo,",
+              "acordes": []
+            },
+            {
+              "letra": "rega o que há de árido.",
+              "acordes": []
+            },
+            {
+              "letra": "Cura o que é doente,",
+              "acordes": []
+            },
+            {
+              "letra": "dobra o que é rígido.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aquece o que é frio,",
+              "acordes": []
+            },
+            {
+              "letra": "encaminha o que está perdido.",
+              "acordes": []
+            },
+            {
+              "letra": "Dá-nos teus sete dons,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos teu amor e tua alegria.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Dá-nos virtude e prêmio,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos a alegria da salvaçáo,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos uma morte santa,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos o gozo eterno.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Dá-nos sabedoria e entendimento,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos ciência e piedade,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos conselho e fortaleza,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos o temor de Deus.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Da-nos teus santos frutos:",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos paciência e bondade.",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos amor e alegria,",
+              "acordes": []
+            },
+            {
+              "letra": "dá-nos justiça e verdade.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, ESPÍRITO SANTO, ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

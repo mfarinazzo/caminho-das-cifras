@@ -1,0 +1,404 @@
+{
+  "titulo_principal": "À CEIA DO CORDEIRO",
+  "subtitulo": "Hino das Vésperas do tempo Pascal até a Ascenção",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "À CEIA DO CORDEIRO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "À",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VESTIDOS COM BRANCAS TÚNICAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TÚNICAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ATRAVESSADO O MAR VERMELHO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ATRAVESSADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTAMOS A CRISTO O SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O seu corpo, cheio de amor,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "sobre a mesa é Pão vivo;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o seu sangue sobre o altar,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "cálice do novo pacto.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Manso cordeiro imolado,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IMOLADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Cristo, nossa Páscoa;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PÁSCOA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o seu corpo adorável",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ADORÁVEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "é o verdadeiro pão ázimo.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "À CEIA DO CORDEIRO, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "À",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Nesta hora admirável",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NESTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ADMIRÁVEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "voltam os antigos prodígios;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRODÍGIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "seu braço potente nos salva",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SALVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "do anjo da morte.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Irradia sobre tua Igreja",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IGREJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "a alegria pascal, ó Senhor.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "une a tua grande vitória",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VITÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "os que renovaram o Batismo.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BATISMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "À CEIA DO CORDEIRO, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "À",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Seja dada honra, louvor e glória a Cristo,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "vencedor da morte,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ao Pai e ao Santo Espírito",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "agora e para sempre.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

@@ -1,0 +1,657 @@
+{
+  "titulo_principal": "Ó JESUS, MEU AMOR",
+  "subtitulo": "Hino",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó JESUS,* MEU AMOR",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUANTO ME AMASTE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "QUANTO ME AMASTE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó JESUS, MEU AMOR",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUANTO ME AMASTE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "QUANTO ME AMASTE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU RECEBESTE OS ESPINHOS DA SOBERBA DE MIM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A HUMILDADE DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TU RECEBESTE OS AÇOITES DA LUXÚRIA DE MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA O AMOR E A PUREZA DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TU FOSTE, PELA AVAREZA, DESPOJADO POR MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "foste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A RIQUEZA DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó JESUS, MEU AMOR ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU RECEBESTE O FEL E O VINAGRE DE MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A DOÇURA DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TU RECEBESTE O DESPREZO E OS INSULTOS DE MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A MANSIDÃO DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU RECEBESTE OS PREGOS E A LANÇADA DE MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A OBEDIÊNCIA DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó JESUS, MEU AMOR ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU FOSTE CRUCIFICADO POR MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "foste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A SALVAÇÃO DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TU RECEBESTE A MORTE DE MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A VIDA DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TU RECEBESTE A SEPULTURA DE MIM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA A RESSURREIÇÃO DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "receba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó JESUS, MEU AMOR ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DE MIM, SENHOR, TU RECEBESTE O MAL,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "recebeste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "A MORTE E O PECADO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "pecado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU RECEBA DE TI A TI MESMO;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "mesmo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A MIM, A MIM TU TE DOASTE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "doaste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó JESUS, MEU AMOR ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

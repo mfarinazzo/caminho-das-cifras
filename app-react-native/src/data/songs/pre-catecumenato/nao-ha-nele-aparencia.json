@@ -1,0 +1,390 @@
+{
+  "titulo_principal": "NÃO HÁ NELE APARÊNCIA",
+  "subtitulo": "Quarto canto do Servo de Iahweh",
+  "referencia": "Isaías 53, 2ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO HÁ NELE APARÊNCIA;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO HÁ FORMOSURA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FORMOSURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ATRAIA OS OLHARES;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHARES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO HÁ NELE BELEZA QUE AGRADE.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "BELEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DESPREZADO, ESCÓRIA DOS HOMENS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DESPREZADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOMEM DAS DORES,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONHECEDOR DE TODAS AS MISÉRIAS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MISÉRIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DELE SE VIRA O ROSTO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ROSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIANTE DELE SE VIRA O ROSTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ROSTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIANTE DELE SE VIRA O ROSTO.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROSTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MENOSPREZADO, ESTIMADO EM NADA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MENOSPREZADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESPREZADO, ESCÓRIA DOS HOMENS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DESPREZADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOMEM DAS DORES,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONHECEDOR DE TODAS AS MISÉRIAS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MISÉRIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DELE SE VIRA O ROSTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORÉM FOI ELE QUE CARREGOU NOSSOS PECADOS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PORÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PECADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORÉM FOI ELE QUE CARREGOU AS NOSSAS DORES!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PORÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TODOS NÓS ANDÁVAMOS ERRANTES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ERRANTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MALTRATADO, MAS ELE SE SUBMETEU,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MALTRATADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SUBMETEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ABRIU A BOCA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ABRIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO CORDEIRO",
+              "acordes": []
+            },
+            {
+              "letra": "LEVADO AO MATADOURO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MATADOURO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DELE SE VIRA O ROSTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MALTRATADO!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MALTRATADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MALTRATADO!",
+              "acordes": []
+            },
+            {
+              "letra": "MALTRATADO!",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

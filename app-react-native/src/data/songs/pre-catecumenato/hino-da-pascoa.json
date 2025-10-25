@@ -1,0 +1,205 @@
+{
+  "titulo_principal": "HINO DA PÁSCOA",
+  "subtitulo": "Hino",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A AURORA TINGE DE PÚRPURA O CÉU,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "RESSOA NO AR O ECO DOS LOUVORES;",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "louvores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "O MUNDO TRIUNFANTE SE ALEGRA,",
+              "acordes": []
+            },
+            {
+              "letra": "TEMEROSO O INFERNO TREME.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "treme",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "ENQUANTO O REI,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ENQUANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO, LIVRA TODOS DA PRISÃO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRISÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "TENEBROSA QUE É A MORTE",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E NOS CONDUZ À VIDA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UMA PEDRA FECHAVA O SEU SEPULCRO;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Uma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MUITOS GUARDAS O CUSTODIAVAM.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "custodiavam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "MAS CRISTO TRIUNFA GLORIOSO",
+              "acordes": []
+            },
+            {
+              "letra": "E DA MORTE SE LEVANTA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "levanta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "NÃO HÁ MAIS LUTO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "LUTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NEM PRANTO, NEM DORES:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RESSUSCITOU! RESSUSCITOU!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

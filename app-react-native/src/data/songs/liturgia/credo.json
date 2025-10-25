@@ -1,0 +1,291 @@
+{
+  "titulo_principal": "CREDO",
+  "subtitulo": "Símbolo Apostólico",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CREIO EM DEUS PAI TODO PODEROSO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CREIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRIADOR DO CÉU E DA TERRA.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CRIADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CREIO EM JESUS CRISTO, SEU ÚNICO FILHO, NOSSO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CREIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE FOI CONCEBIDO PELO PODER DO ESPÍRITO SANTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CONCEBIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NASCEU DA VIRGEM MARIA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NASCEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PADECEU SOB PÔNCIO PILATOS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PADECEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FOI CRUCIFICADO, MORTO E SEPULTADO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CRUCIFICADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESCEU À MANSÃO DOS MORTOS",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DESCEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E, AO TERCEIRO DIA, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TERCEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RESSUSCITOU DOS MORTOS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MORTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SUBIU AOS CÉUS, ESTÁ SENTADO À DIREITA DE DEUS PAI TODOPODEROSO,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "SUBIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TODOPODEROSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ONDE HÁ DE VIR A JULGAR, OS VIVOS E OS MORTOS.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VIVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CREIO NO ESPÍRITO SANTO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CREIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA SANTA IGREJA CATÓLICA,",
+              "acordes": []
+            },
+            {
+              "letra": "NA COMUNHÃO DOS SANTOS,",
+              "acordes": []
+            },
+            {
+              "letra": "NA REMISSÃO DOS PECADOS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "REMISSÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA RESSURREIÇÃO DA CARNE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RESSURREIÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CARNE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA VIDA ETERNA.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ETERNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Fa maior"
+}

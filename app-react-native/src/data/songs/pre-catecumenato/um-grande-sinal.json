@@ -1,0 +1,528 @@
+{
+  "titulo_principal": "UM GRANDE SINAL",
+  "subtitulo": null,
+  "referencia": "Apocalipse 12",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM GRANDE SINAL APARECEU NO CÉU:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "UMA MULHER, UMA MULHER VESTIDA COM O SOL,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MULHER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TENDO A LUA SOB OS PÉS,",
+              "acordes": []
+            },
+            {
+              "letra": "UMA COROA DE DOZE ESTRELAS;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESTRELAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ESTA GRÁVIDA E GRITA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COM TORMENTOS PARA DAR À LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Apareceu, então, outro sinal no céu:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Apareceu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "um grande Dragão cor de fogo,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "fogo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "com sete cabeças e dez chifres.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "sete",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "chifres",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "O Dragão colocou-se diante da Mulher,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "da Mulher que estava para dar à luz,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "luz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a fim de devorar-lhe o Filho tão logo nascesse.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Filho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "nascesse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Ela deu à luz um Filho varão,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ela",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "aquele que irá reger todas as nações da terra.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "nações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "seu Filho, porém, foi arrebatado",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "seu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para junto de Deus e de seu trono.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "trono",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM GRANDE SINAL ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Houve, então, uma batalha no céu: Miguel e seus Anjos",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Houve",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Anjos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "combateram contra o Dragão, o grande Dragão.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "combateram",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Dragão",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "O Dragão batalhou juntamente",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "com seus Anjos, mas foi derrotado,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "foi",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e não se encontrou mais um lugar para eles no céu.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "encontrou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "céu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Foi expulso o Dragão, o grande Dragão,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Foi",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a antiga Serpente, o chamado Diabo ou Satanás,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Diabo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o sedutor do mundo inteiro, foi expulso para a terra e",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "foi",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "seus Anjos foram expulsos com ele.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM GRANDE SINAL",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ao ver que fora expulso para a terra,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ver",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "o Dragão pôs-se a perseguir a Mulher",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Dragão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "que dera à luz o Filho varão.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "varão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Ela, porém, recebeu as duas asas da grande águia,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ela",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "águia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para voar ao deserto, onde deve ser alimentada",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "deve",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "um tempo, dois tempos e metade de um tempo.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "tempo",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Enfurecido por causa da Mulher,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Enfurecido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o grande Dragão foi então guerrear contra",
+              "acordes": []
+            },
+            {
+              "letra": "o resto dos seus filhos, os que guardam os",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "resto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "guardam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "mandamentos de Deus",
+              "acordes": []
+            },
+            {
+              "letra": "e mantêm o testemunho de Jesus.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LA LA LA LA LA LA LA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

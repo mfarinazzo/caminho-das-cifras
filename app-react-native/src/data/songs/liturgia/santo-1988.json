@@ -1,0 +1,464 @@
+{
+  "titulo_principal": "SANTO 1988",
+  "subtitulo": "Tempo Comum",
+  "referencia": null,
+  "pagina": 0,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS CÉUS E A TERRA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CÉUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROCLAMAM VOSSA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS CÉUS E A TERRA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CÉUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROCLAMAM VOSSA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HOSANA NO ALTO DO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOSANA NO ALTO DO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HOSANA NO ALTO DO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDITO O QUE VEM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BENDITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM NOME DO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDITO O QUE VEM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BENDITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM NOME DO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HOSANA NO ALTO DO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOSANA NO ALTO DO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HOSANA NO ALTO DO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

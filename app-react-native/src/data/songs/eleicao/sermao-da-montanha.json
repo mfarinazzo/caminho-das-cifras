@@ -1,0 +1,601 @@
+{
+  "titulo_principal": "SERMÃO DA MONTANHA",
+  "subtitulo": null,
+  "referencia": "Lucas 6,20-38",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Erguendo os olhos para",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Erguendo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "os seus discípulos, Jesus dizia:",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "dizia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  FELIZES VÓS, OS POBRES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "POBRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "POBRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE VOSSO É O REINO DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "VOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  FELIZES VÓS, QUE AGORA",
+              "acordes": []
+            },
+            {
+              "letra": "SolRe",
+              "acordes": []
+            },
+            {
+              "letra": "TENDES FOME,",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE SEREIS SACIADOS.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SACIADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  FELIZES VÓS, QUE AGORA CHORAIS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CHORAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CHORAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE HAVEIS DE RIR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "RIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Felizes sereis quando vos odiarem,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "odiarem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "e vos insultarem por causa do Filho do homem.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "insultarem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Alegrai-vos nesse dia,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Alegrai-vos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "a vossa recompensa",
+              "acordes": []
+            },
+            {
+              "letra": "será grande no céu.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "céu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Re            SolRe",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  AI DE VÓS, OS RICOS!",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE JÁ RECEBESTES",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A VOSSA CONSOLAÇÃO",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CONSOLAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "SolRe",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  AI DE VÓS, QUE RIDES AGORA!",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE TEREIS CHORO E AFLIÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AFLIÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  AMAI OS VOSSOS INIMIGOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "FAZEI O BEM AOS QUE VOS ODEIAM.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ODEIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  A QUEM TE FERIR NUMA FACE,",
+              "acordes": [
+                {
+                  "cifra": "LaMi",
+                  "palavra_alvo": "FACE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "OFERECE TAMBÉM A OUTRA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "OFERECE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "OUTRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  A QUEM TE LEVAR O MANTO,",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "MANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NÃO RECUSES A TÚNICA.",
+              "acordes": [
+                {
+                  "cifra": "Do#7",
+                  "palavra_alvo": "RECUSES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "TÚNICA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SiFa#",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  A QUEM LEVAR O QUE É TEU,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO O RECLAMES.",
+              "acordes": [
+                {
+                  "cifra": "Do#7",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "RECLAMES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  AMAI OS VOSSOS INIMIGOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "FAZEI O BEM AOS QUE VOS ODEIAM.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ODEIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  NÃO JULGUEIS.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "JULGUEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "JULGUEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  NÃO CONDENEIS.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "CONDENEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CONDENEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  PERDOAI,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "PERDOAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "PERDOAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  E SEREIS PERDOADOS.",
+              "acordes": [
+                {
+                  "cifra": "Do#7",
+                  "palavra_alvo": "SEREIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "PERDOADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

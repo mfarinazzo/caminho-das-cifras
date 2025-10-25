@@ -1,0 +1,672 @@
+{
+  "titulo_principal": "ESTE É O DIA QUE FEZ O SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 118 (117)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO MORREREI, HEI DE VIVER,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO MORREREI, HEI DE VIVER,",
+              "acordes": []
+            },
+            {
+              "letra": "PARA CANTAR, OS PRODÍGIOS DO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME CASTIGOU, ME CASTIGOU,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME CASTIGOU, ME CASTIGOU,",
+              "acordes": []
+            },
+            {
+              "letra": "PORÉM NÃO, ME DEIXOU NA MORTE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PORÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAI GRAÇAS AO SENHOR PORQUE ELE É BOM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE É ETERNA A SUA MISERICÓRDIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE O DIGA A CASA DE ISRAEL: É ETERNA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE O DIGA A CASA DE AARÃO: É ETERNA ...",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ETERNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE O DIGAM OS FIÉIS DO SENHOR: É ETERNA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MELHOR É CONFIAR NO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MELHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE FIAR-SE NOS HOMENS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MELHOR É APOIAR-SE NO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MELHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE CONFIAR NOS INTELIGENTES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INTELIGENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ME RODEAVAM, ME RODEAVAM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME RODEAVAM, ME RODEAVAM,",
+              "acordes": []
+            },
+            {
+              "letra": "NO NOME DO SENHOR, OS REJEITEI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "REJEITEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ME EMPURRAVAM, ME EMPURRAVAM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME EMPURRAVAM, ME EMPURRAVAM,",
+              "acordes": []
+            },
+            {
+              "letra": "MAS O SENHOR ME AJUDOU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AJUDOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTAI: HÁ CANTOS DE VITÓRIA",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESCUTAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NAS TENDAS DOS JUSTOS:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“A DESTRA DO SENHOR É PODEROSA",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É EXCELSA A DESTRA DO SENHOR.”",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO MORREREI ... ... NA MORTE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ABRI-ME AS PORTAS DO TRIUNFO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ABRI-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E ENTRAREI PARA DAR GRAÇAS AO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTA É A PORTA DO SENHOR:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS VENCEDORES ENTRARÃO POR ELA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A PEDRA QUE REJEITARAM OS ARQUITETOS",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É AGORA A PEDRA ANGULAR.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANGULAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É O SENHOR QUEM O FEZ,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FEZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FOI UM MILAGRE PATENTE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FOI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PATENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTE É O DIA QUE FEZ O SENHOR:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEJA NOSSA ALEGRIA E NOSSO GOZO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GOZO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO MORREREI ... ... NA MORTE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

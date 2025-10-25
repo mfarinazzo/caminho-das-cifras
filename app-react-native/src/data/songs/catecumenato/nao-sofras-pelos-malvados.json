@@ -1,0 +1,407 @@
+{
+  "titulo_principal": "NÃO SOFRAS PELOS MALVADOS",
+  "subtitulo": null,
+  "referencia": "Salmo 37 (36)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO SOFRAS PELOS MALVADOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO INVEJES OS QUE AGEM MAL,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SECAR-SE-ÃO COMO A ERVA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SECAR-SE-AO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ERVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO A RELVA MURCHARÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MURCHARAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Confia no Senhor e faze o bem,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Confia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "bem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "habita tua terra e sê leal,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "leal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "seja o Senhor a tua delícia",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "seja",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "delicia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e ele te dará o que pede teu coração.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "coracao",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Encomenda teu caminho ao Senhor",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Encomenda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e espera nele,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "espera nele, que agirá;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "agira",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "fará brilhar tua justiça,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "fara",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "justica",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "fará brilhar tua lealdade.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "fara",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "lealdade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO SOFRAS PELOS MALVADOS, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Coíbe a ira, reprime a cólera,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Coibe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "reprime",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "não te exasperes, não seja que faças o mal;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "mal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "porque os que fazem o mal são excluídos,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "excluidos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "os que esperam no Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "os",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "a terra possuirão.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "possuirao",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Aguarda um momento, desapareceu o malvado,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Aguarda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "malvado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "olha bem no seu lugar: não mais está;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "esta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "os mansos, porém, herdarão a terra,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "os",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "de paz, de paz desfrutarão.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "de",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "desfrutarao",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO SOFRAS PELOS MALVADOS, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

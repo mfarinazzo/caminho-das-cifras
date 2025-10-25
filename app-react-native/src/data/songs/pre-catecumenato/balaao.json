@@ -1,0 +1,693 @@
+{
+  "titulo_principal": "BALAÃO",
+  "subtitulo": null,
+  "referencia": "NÚMEROS 23, 7-24",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DE ARAM ME FEZ VIR, BALAC, O REI DE MOAB,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "De",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "vir",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Balac",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Moab",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "DAS MONTANHAS DO ORIENTE:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Oriente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "“VEM E AMALDIÇOA JACÓ;",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Jacó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "VEM E PROFETIZA CONTRA ISRAEL”.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Israel",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "COMO MALDIREI SE DEUS NÃO ME DEIXA?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "maldirei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "não",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "deixa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO PROFETIZAREI, SE DEUS NÃO O QUER?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "profetizarei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 9
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "quer",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DO ALTO DESTA ROCHA EU O VEJO, DO ALTO DESTA COLINA",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ROCHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VEJO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU O CONTEMPLO: ESTE É UM POVO DIVERSO",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "contemplo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "este",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DE TODAS AS NAÇÕES.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "nações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "COMO SÃO BELAS AS TUAS TENDAS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TENDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO SÃO BELAS, ISRAEL!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "COMO SÃO BELAS AS TUAS TENDAS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TENDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO SÃO BELAS, ISRAEL!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "LA, LA, LA, LA, LA, LA, LA, LA ...",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 5,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 8,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM CONTARÁ A TUA MULTIDÃO?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CONTARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MULTIDÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MULTIDÃO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "MULTIDÃO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JACÓ, JACÓ, JACÓ, JACÓ.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 4,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEJA A MINHA MORTE COMO A MORTE DO TEU JUSTO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "TEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "JUSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTEJA A MINHA VIDA ONDE ELE,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ESTEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTEJA A MINHA VIDA ONDE ELE.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO SÃO BELAS AS TUAS TENDAS, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TENDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“MAS O QUE ESTÁS FAZENDO? TU O ESTÁS BENDIZENDO!",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "FAZENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "BENDIZENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEM A OUTRO LUGAR,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TALVEZ DALI DEUS O QUERERÁ MALDIZER.”",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "QUERERÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“ESCUTA, FILHO DE SEFOR, PRESTA OUVIDO REI BALAC.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PRESTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "BALAC",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEUS NÃO É UM HOMEM",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA DIZER E SE ARREPENDER.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DIZER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ARREPENDER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UMA ESTRELA SURGE DE JACÓ,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ESTRELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OUÇO ACLAMAÇÕES POR UM REI.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ACLAMAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEUS É O SEU PAI.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AGACHA-SE COMO LEÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AGACHA-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LEÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEITA-SE COMO LEOA, NINGUÉM O FAZ LEVANTAR.”",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "LEOA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "FAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "LEVANTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO SÃO BELAS AS TUAS TENDAS, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TENDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol maior"
+}

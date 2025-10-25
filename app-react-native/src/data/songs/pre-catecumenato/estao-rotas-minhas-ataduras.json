@@ -1,0 +1,494 @@
+{
+  "titulo_principal": "ESTÃO ROTAS MINHAS ATADURAS",
+  "subtitulo": "Carmen 63 - Poema de Rabindranath Tagore",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTÃO ROTAS MINHAS ATADURAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ROTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ATADURAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PAGAS MINHAS DÍVIDAS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PAGAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MINHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MINHAS PORTAS DE PAR EM PAR:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MINHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOU A TODA PARTE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TODA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELES, ENCOLHIDOS EM SEU RINCÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ELES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RINCÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEGUEM TECENDO",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SEGUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A PÁLIDA TELA DAS SUAS HORAS",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HORAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OU VOLTAM A SENTAR-SE NO PÓ",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VOLTAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A CONTAR SUAS MOEDAS:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SUAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ME CHAMAM, E ME CHAMAM",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CHAMAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CHAMAM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE NÃO SIGA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS MINHA ESPADA JÁ ESTÁ FORJADA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JÁ VESTI A MINHA ARMADURA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ARMADURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JÁ MEU CAVALO SE IMPACIENTA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CAVALO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "IMPACIENTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E EU GANHAREI MEU REINO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GANHAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E EU GANHAREI MEU REINO!",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GANHAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GANHAREI MEU REINO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "GANHAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GANHAREI MEU REINO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "GANHAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOU A TODA PARTE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TODA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PARTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GANHAREI MEU REINO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "GANHAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GANHAREI MEU REINO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "GANHAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOU A TODA PARTE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TODA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PARTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTÃO ROTAS MINHAS ATADURAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ROTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ATADURAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PAGAS MINHAS DÍVIDAS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PAGAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DÍVIDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MINHAS PORTAS DE PAR EM PAR:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MINHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOU A TODA PARTE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TODA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GANHAREI MEU REINO, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "GANHAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

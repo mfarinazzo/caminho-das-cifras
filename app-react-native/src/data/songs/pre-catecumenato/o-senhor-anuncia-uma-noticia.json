@@ -1,0 +1,324 @@
+{
+  "titulo_principal": "O SENHOR ANUNCIA UMA NOTÍCIA",
+  "subtitulo": null,
+  "referencia": "Salmo 68 (67)",
+  "pagina": 0,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ANUNCIA UMA NOTÍCIA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NOTÍCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS MENSAGEIROS SÃO UM EXÉRCITO IMENSO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "IMENSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS REIS INIMIGOS FOGEM, FOGEM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FOGEM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A DONA DA CASA REPARTE OS DESPOJOS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "REPARTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DESPOJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E enquanto vós dormis",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "entre os muros do aprisco,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "entre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "cobrem-se de prata as asas da pomba,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "cobrem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "pomba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "as suas penas, com o brilho do ouro;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "as",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ouro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "por ela cai a neve",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "por",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "sobre o Monte, sobre o Monte Sombrio.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "sobre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "sobre",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Sombrio",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ANUNCIA UMA NOTÍCIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NOTÍCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Cantai a Deus, cantai,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Cantai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "salmodiai todos ao Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "salmodiai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ele cavalga os céus, os antigos céus:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "céus",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ele vem sobre as nuvens",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ele eleva a sua voz,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "a sua voz poderosa!",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "poderosa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ANUNCIA UMA NOTÍCIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NOTÍCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

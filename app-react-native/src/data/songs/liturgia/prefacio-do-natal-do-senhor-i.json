@@ -1,0 +1,388 @@
+{
+  "titulo_principal": "PREFÁCIO DO NATAL DO SENHOR I",
+  "subtitulo": "Cristo, luz do mundo",
+  "referencia": "Em todas as Missas do Natal e sua oitava, com exceção daquelas que tenham prefácio relativo aos mistérios e Pessoas divinas; também nos dias de semana do Tempo do Natal.",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ESTEJA CONVOSCO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE ESTÁ NO MEIO DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MEIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CORAÇÕES AO ALTO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CORAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEMOS GRAÇAS AO SENHOR NOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DEVER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É NOSSO DEVER ESALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DEVER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NA VERDADE, É JUSTO E NECESSÁRIO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VERDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NECESSÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEVER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAR-VOS GRAÇAS, SEMPRE E EM TODO LUGAR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUGAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR, PAI SANTO, DEUS ETERNO E TODO-PODEROSO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TODO-PODEROSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO MISTÉRIO DA ENCARNAÇÃO DE VOSSO FILHO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MISTÉRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NOVA LUZ DA VOSSA GLÓRIA BRILHOU PARA NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E, RECONHECENDO A JESUS COMO DEUS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RECONHECENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VISÍVEL A NOSSOS OLHOS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "APRENDEMOS A AMAR NELE A DIVINDADE QUE NÃO VEMOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ELE OS ANJOS CELEBRAM VOSSA GRANDEZA",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRANDEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E OS SANTOS PROCLAMAM VOSSA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONCEDEI-NOS TAMBÉM A NÓS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSOCIAR-NOS A SEUS LOUVORES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "LOUVORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTANDO A UMA SÓ VOZ:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTAR O SANTO DO TEMPO LITÚRGICO CORRESPONDENTE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

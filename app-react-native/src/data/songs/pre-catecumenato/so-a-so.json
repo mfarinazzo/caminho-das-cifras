@@ -1,0 +1,331 @@
+{
+  "titulo_principal": "SÓ A SÓ",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Só  a  só sob a cruz,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "5*",
+                  "palavra_alvo": "só",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "sob",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "cruz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Maria, quem te poderá separar?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "separar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Virgem só,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "só",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Mãe, torre transpassada.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "Mãe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "transpassada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "Coluna de amor,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "tu sustentas o céu",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "céu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "da nossa débil fé.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "fé",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SÓ A SÓ!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SÓ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SÓ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MÃE CHEIA DE DEUS!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ROGAI POR NÓS",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE SOMOS PECADORES.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "SOMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PECADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Só a só sob a cruz,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "só",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "sob",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "cruz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Maria, quem te poderá separar?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "separar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VIRGEM SÓ,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MÃE, TORRE TRANSPASSADA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TRANSPASSADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Coluna de amor,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "tu sustentas o céu",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "céu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "da nossa débil fé.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "fé",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SÓ A SÓ! ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SÓ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SÓ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "_________________________________________________________",
+              "acordes": []
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

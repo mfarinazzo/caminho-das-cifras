@@ -1,0 +1,430 @@
+{
+  "titulo_principal": "NOLI ME TANGERE",
+  "subtitulo": null,
+  "referencia": "João 20, 15-17",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MULHER, DIZE-ME, POR QUE CHORAS?",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "choras",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MULHER, DIZE-ME, POR QUE CHORAS?",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "choras",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A QUEM BUSCAS?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "buscas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A QUEM BUSCAS?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "buscas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A QUEM BUSCAS?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "buscas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, SE O TIVERES LEVADO TU,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR, SE O TIVERES LEVADO TU,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DIZE-ME ONDE O PUSESTE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PUSESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "E EU O BUSCAREI,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "BUSCAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "E EU O BUSCAREI.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "BUSCAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA!",
+              "acordes": [
+                {
+                  "cifra": "Fa-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RABBUNI!",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "RABBUNI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "RABBUNI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA!",
+              "acordes": [
+                {
+                  "cifra": "Fa-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RABBUNI!",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "RABBUNI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "RABBUNI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NOLI ME TANGERE! NÃO ME TOQUES,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "Noli",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "tangere",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "Não",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "toques",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "POIS AINDA NÃO SUBI AO PAI.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "pois",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "VAI E ANUNCIA A MEUS IRMÃOS",
+              "acordes": [
+                {
+                  "cifra": "Fa-",
+                  "palavra_alvo": "VAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SUBO AO MEU PAI",
+              "acordes": [
+                {
+                  "cifra": "Fa-",
+                  "palavra_alvo": "SUBO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E VOSSO PAI,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MEU DEUS E VOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SUBO AO MEU PAI",
+              "acordes": [
+                {
+                  "cifra": "Fa-",
+                  "palavra_alvo": "SUBO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E VOSSO PAI,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MEU DEUS E VOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "VOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE SUBO AO MEU PAI E VOSSO PAI,",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "SUBO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MEU DEUS E VOSSO DEUS. (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

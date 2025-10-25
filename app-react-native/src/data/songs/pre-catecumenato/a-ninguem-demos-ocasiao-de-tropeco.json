@@ -1,0 +1,525 @@
+{
+  "titulo_principal": "A NINGUÉM DEMOS OCASIÃO DE TROPEÇO",
+  "subtitulo": null,
+  "referencia": "2º Coríntios 6, 3ss",
+  "pagina": 0,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IRMÃOS, A NINGUÉM DEMOS OCASIÃO DE TROPEÇO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TROPEÇO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IRMÃOS, VIVAMOS ACEITANDO AS TRIBULAÇÕES",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TRIBULAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NECESSIDADES, ANGÚSTIAS E FADIGAS;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NECESSIDADES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANGÚSTIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VIVENDO EM PUREZA, PACIÊNCIA E BONDADE;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VIVENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PACIÊNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO ESPÍRITO SANTO E NO PODER DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM AS ARMAS DA JUSTIÇA:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ARMAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AS DA DIREITA E AS DA ESQUERDA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIREITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IRMÃOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A NINGUÉM DEMOS OCASIÃO DE TROPEÇO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NINGUÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "OCASIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TROPEÇO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IRMÃOS, VIVAMOS ACEITANDO AS TRIBULAÇÕES:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ACEITANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TRIBULAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NECESSIDADES, ANGÚSTIAS E FADIGAS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NECESSIDADES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FADIGAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NAS CALÚNIAS E NA BOA FAMA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CALÚNIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FAMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA GLÓRIA E IGNOMÍNIA;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "IGNOMÍNIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO POBRES, EMBORA ENRIQUECENDO A MUITOS;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ENRIQUECENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO QUEM NADA TEM, EMBORA POSSUAMOS TUDO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TUDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IRMÃOS, A NINGUÉM DEMOS ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IRMÃOS, VOS FALAMOS COM FRANQUEZA;",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FRANQUEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOS FALAMOS COM A VERDADE.",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO VOS UNAIS AO JUGO DESIGUAL DOS PAGÃOS!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "UNAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DESIGUAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE PARTICIPAÇÃO HÁ ENTRE O FIEL E O INFIEL?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE UNIÃO ENTRE O SANTUÁRIO DE DEUS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTUÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O SANTUÁRIO DOS ÍDOLOS?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTUÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE SOMOS O SANTUÁRIO DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTUÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IRMÃOS, A NINGUÉM DEMOS ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENHO PLENA CONFIANÇA EM VOS FALAR;",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TENHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE ESTOU ORGULHOSO DE VÓS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ORGULHOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO VOS UNAIS AO JUGO DESIGUAL DOS PAGÃOS!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "UNAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DESIGUAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE PARTICIPAÇÃO HÁ ENTRE O FIEL E O INFIEL?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE UNIÃO ENTRE O SANTUÁRIO DE DEUS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTUÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O SANTUÁRIO DOS ÍDOLOS?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTUÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IRMÃOS, A NINGUÉM DEMOS ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

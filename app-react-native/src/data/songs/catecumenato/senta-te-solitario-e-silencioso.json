@@ -1,0 +1,436 @@
+{
+  "titulo_principal": "SENTA-TE SOLITÁRIO E SILENCIOSO",
+  "subtitulo": null,
+  "referencia": "Lamentações 3",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEUS MEU, DEUS MEU,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "meu",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ME LEVASTE, ME LEVASTE",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "levaste",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "E ME FIZESTE CAMINHAR",
+              "acordes": []
+            },
+            {
+              "letra": "NAS TREVAS.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "trevas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "CONSTRUÍSTE PARA MIM UM JUGO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Construíste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "jugo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E ATASTE MINHA CABEÇA,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "CABEÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MINHA CABEÇA E O QUEIXO.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "cabeça",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "queixo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "RETESASTE TEU ARCO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Retesaste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "arco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E ME FIXASTE, ME FIXASTE",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "fixaste",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "COMO ALVO DE TUAS FLECHAS.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "flechas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AINDA QUE EU GRITE E GEMA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Ainda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "gema",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "TU SUFOCAS, SUFOCAS",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "sufocas",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "MINHA ORAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "oração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "CONTEMPLAR MINHA MISÉRIA",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Contemplar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E MINHA VIDA ERRANTE:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "errante",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "É PARA MIM FEL E AMARGURA!",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "amargura",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O QUE POSSO FAZER",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SE ATÉ ME FALTA A ESPERANÇA,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "esperança",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "A ESPERANÇA QUE VEM DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "esperança",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "QUE VEM DO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "SENTA-TE SOLITÁRIO E SILENCIOSO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SENTA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "SILENCIOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE DEUS TO IMPÔS;",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "IMPÔS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "HUMILHA TUA BOCA NO PÓ;",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "PÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TALVEZ HAJA ESPERANÇA;",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "HAJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ESPERANÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "PÕE TUA FACE A QUEM TE FERE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PÕE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FERE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE NÃO REJEITA",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA SEMPRE O SENHOR:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AINDA QUANDO AFLIGE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AINDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "USA DE MISERICÓRDIA,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "USA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEGUNDO O SEU GRANDE AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SEGUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

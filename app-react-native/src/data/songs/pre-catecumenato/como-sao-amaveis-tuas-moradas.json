@@ -1,0 +1,506 @@
+{
+  "titulo_principal": "COMO SÃO AMÁVEIS TUAS MORADAS",
+  "subtitulo": null,
+  "referencia": "Salmo 84(83)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Como são amáveis tuas moradas, Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "são",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Senhor dos exércitos!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "exércitos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Minha alma anseia e anela",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "anela",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "pelos átrios do Senhor.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Até o pássaro encontra uma casa,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Até",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "encontra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a andorinha o seu ninho,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ninho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "junto aos teus altares, Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "junto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "meu rei e meu Deus!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MEU REI E MEU DEUS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FELIZ QUEM HABITA EM TUA CASA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FELIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SEMPRE CANTA OS TEUS AMORES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AMORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "SEMPRE CANTA OS TEUS AMORES.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "FELIZ QUEM ENCONTRA EM TI A FORÇA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FELIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "FORÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E EM SEU CORAÇÃO DECIDE",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DECIDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "A SANTA VIAGEM.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VIAGEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PASSANDO PELO VALE DO PRANTO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PASSANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "ELE O MUDA EM FONTE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CRESCE NO CAMINHO O SEU VIGOR,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CRESCE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VIGOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ATÉ CHEGAR A SIÃO, ATÉ CHEGAR A SIÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vale mais um dia nos teus átrios",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "um",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "átrios",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "que mil dias fora deles,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "deles",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE MIL DIAS FORA DELES,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DELES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Por que estar na soleira da tua casa",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "na",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "vale mais do que habitar",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "habitar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NOS PALÁCIOS DOS POTENTES.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "POTENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PASSANDO PELO VALE DO PRANTO,...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PASSANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FELIZ QUEM HABITA EM TUA CASA...",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FELIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "... A SANTA VIAGEM.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VIAGEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

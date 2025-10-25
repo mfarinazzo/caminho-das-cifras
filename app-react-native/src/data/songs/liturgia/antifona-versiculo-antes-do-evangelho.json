@@ -1,0 +1,374 @@
+{
+  "titulo_principal": "ANTÍFONA - VERSÍCULO ANTES DO EVANGELHO",
+  "subtitulo": "Para o tempo da Quaresma",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA A VÓS, Ó CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REI DE ETERNA GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REI DE ETERNA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA A VÓS, Ó CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REI DE ETERNA GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REI DE ETERNA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"EU SOU A VIDEIRA, E VÓS OS RAMOS.\"",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VIDEIRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "RAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O QUE PERMANECER EM MIM E EU NELE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESSE DARÁ FRUTO ABUNDANTE.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FRUTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA A VÓS, Ó CRISTO, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA AO SENHOR, GLÓRIA AO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA AO SENHOR, GLÓRIA AO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA AO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA AO SENHOR, GLÓRIA AO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA AO SENHOR, GLÓRIA AO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA AO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NO ESPLENDOR DA NUVEM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESPLENDOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NUVEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OUVIU-SE A VOZ DO PAI:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"ESTE É MEU FILHO AMADO, ESCUTAI-O,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCUTAI-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTE É MEU FILHO AMADO, ESCUTAI-O.\"",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCUTAI-O",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GLÓRIA AO SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol maior"
+}

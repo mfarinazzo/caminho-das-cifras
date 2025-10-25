@@ -1,0 +1,474 @@
+{
+  "titulo_principal": "BENEDICTUS",
+  "subtitulo": null,
+  "referencia": "Lucas 1, 67-80",
+  "pagina": 0,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDITO SEJA O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEUS DE ISRAEL.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE VISITOU E REDIMIU SEU POVO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "REDIMIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SUSCITANDO UMA FORÇA DE SALVAÇÃO",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FORÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA CASA DE DAVI, SEU SERVO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DAVI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONFORME PROMETERA DESDE OS TEMPOS ANTIGOS",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PROMETERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PELA BOCA DE SEUS SANTOS PROFETAS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SANTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É A SALVAÇÃO QUE NOS LIBERTA",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DOS NOSSOS INIMIGOS",
+              "acordes": []
+            },
+            {
+              "letra": "E DA MÃO DE TODOS OS QUE NOS ODEIAM;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ODEIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REALIZANDO ASSIM A MISERICÓRDIA QUE TEVE",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM OS NOSSOS PAIS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LEMBRANDO-SE DE SUA SANTA ALIANÇA,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALIANÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO JURAMENTO QUE FEZ AO NOSSO PAI ABRAÃO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JURAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ABRAÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE NOS CONCEDER, QUE LIVRES DE TEMOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "LIVRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TEMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ARRANCADOS DAS MÃOS DOS NOSSOS INIMIGOS,",
+              "acordes": []
+            },
+            {
+              "letra": "NÓS O SIRVAMOS EM SANTIDADE E JUSTIÇA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SIRVAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM SUA PRESENÇA TODOS OS NOSSOS DIAS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PRESENÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDITO SEJA O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E TU, MENINO, SERÁS CHAMADO",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROFETA DO ALTÍSSIMO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALTÍSSIMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POIS IRÁS À FRENTE DO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "FRENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA PREPARAR OS SEUS CAMINHOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PREPARAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ANUNCIANDO A SEU POVO A SALVAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ANUNCIANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PELA REMISSÃO DOS PECADOS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "REMISSÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELA TERNURA E MISERICÓRDIA",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TERNURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE NOSSO DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NOS VISITARÁ A LUZ QUE VEM DO ALTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "VISITARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA ILUMINAR OS QUE JAZEM NAS TREVAS,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ILUMINAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NA SOMBRA DA MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SOMBRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA GUIAR NOSSOS PASSOS",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "GUIAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO CAMINHO DA PAZ.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDITO SEJA O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

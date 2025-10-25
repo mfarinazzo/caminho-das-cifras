@@ -1,0 +1,525 @@
+{
+  "titulo_principal": "VEM, FILHO DO HOMEM",
+  "subtitulo": null,
+  "referencia": "Apocalipse 21, 17ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Vem, VEM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Filho do homem,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FILHO DO HOMEM,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  vem, VEM, VEM, Senhor Jesus!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR JESUS!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Vem, VEM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "servo dos pobres,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "pobres",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SERVO DOS POBRES.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  vem, VEM, VEM, Senhor Jesus!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR JESUS!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Espírito diz: \"Vem!\"",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Aquele que ouve diga: \"Vem!\"",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ouve",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, VEM!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Vem, VEM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "amor meu,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "meu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMOR MEU.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Vem, VEM, VEM, Senhor Jesus!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR JESUS!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Acalma, ACALMA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Acalma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "tu este fogo,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "fogo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ESTE FOGO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Vem, VEM, VEM, Senhor Jesus!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR JESUS!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A esposa diz: \"Vem!\"",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "diz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Aquele que ouve diga: \"Vem!\"",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ouve",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, VEM!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ven, Hijo del hombre. Ven, Señor Jesús.",
+              "acordes": []
+            },
+            {
+              "letra": "Vieni, Figlio dell'uomo. Vieni, Signore Gesú.",
+              "acordes": []
+            },
+            {
+              "letra": "Viens, Fils de l'homme. Viens, Seigneur Jesus.",
+              "acordes": []
+            },
+            {
+              "letra": "Come, Son of the man. Come, Lord Jesus.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Vem, VEM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Filho do homem,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "do",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FILHO DO HOMEM,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A.  Vem, VEM, VEM, Senhor Jesus!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR JESUS!",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

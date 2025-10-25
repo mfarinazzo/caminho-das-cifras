@@ -1,0 +1,297 @@
+{
+  "titulo_principal": "ABBA, PAI",
+  "subtitulo": null,
+  "referencia": "Romanos 8, 15-17",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ABBA, PAI, PAI!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ABBA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO RECEBEMOS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O ESPÍRITO DE SERVOS",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SERVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA RECAIRMOS NO TEMOR,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TEMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA RECAIRMOS NO TEMOR.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TEMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTE MESMO ESPÍRITO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DÁ TESTEMUNHO AO NOSSO ESPÍRITO",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TESTEMUNHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE QUE SOMOS FILHOS DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SE FILHOS, TAMBÉM HERDEIROS,",
+              "acordes": [
+                {
+                  "cifra": "Sol 7",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "HERDEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COERDEIROS DE CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "COERDEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HERDEIROS DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HERDEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SE FILHOS, TAMBÉM HERDEIROS,",
+              "acordes": [
+                {
+                  "cifra": "Sol 7",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "HERDEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COERDEIROS DE CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "COERDEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HERDEIROS DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HERDEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ABBA, PAI, PAI!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ABBA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

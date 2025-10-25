@@ -1,0 +1,511 @@
+{
+  "titulo_principal": "DIZ O SENHOR AO MEU SENHOR",
+  "subtitulo": "Salmo 110 (109)",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIZ O SENHOR AO MEU SENHOR:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“SENTA-TE À MINHA DIREITA,",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "SENTA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ATÉ QUE EU PONHA TEUS INIMIGOS",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ATÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO ESCABELO DE TEUS PÉS;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEBAIXO DE TEUS PÉS,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEBAIXO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEBAIXO DE TEUS PÉS”.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEBAIXO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O cetro do teu poder,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "estende o Senhor, desde Sião:",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "ESTENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "domina em meio aos teus inimigos,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DOMINA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "domina em meio aos teus inimigos!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DOMINA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Desde o seio da aurora",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "DESDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "AURORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "como orvalho eu te gerei;",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "GEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "desde antes da aurora,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DESDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AURORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "como orvalho eu te gerei.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIZ O SENHOR AO MEU SENHOR: ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Senhor jurou e não se arrepende:",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ARREPENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“Tu és sacerdote para sempre,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "segundo a ordem de Melquisedec,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SEGUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MELQUISEDEC",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "à semelhança de Melquisedec”.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "À",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MELQUISEDEC",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Porque o Senhor está à tua direita,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "DIREITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "esmagará teus inimigos,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "ESMAGARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "tu julgarás os povos,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "POVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "sentenciarás as nações.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SENTENCIARÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "No caminho, bebe da torrente,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "TORRENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "por isso levanta a cabeça,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "POR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "CABEÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "levanta a cabeça,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "LEVANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CABEÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "levanta a cabeça.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "LEVANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CABEÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIZ O SENHOR AO MEU SENHOR: ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

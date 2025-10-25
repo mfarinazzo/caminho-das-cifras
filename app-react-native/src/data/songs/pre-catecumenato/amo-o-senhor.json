@@ -1,0 +1,373 @@
+{
+  "titulo_principal": "AMO O SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 116 (114-115)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMO O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE ESCUTA A MINHA VOZ SUPLICANTE;",
+              "acordes": [
+                {
+                  "cifra": "Mi- 6",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SUPLICANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "INCLINA PARA MIM O SEU OUVIDO",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "OUVIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO DIA EM QUE O INVOCO.",
+              "acordes": []
+            },
+            {
+              "letra": "ENVOLVIAM-ME REDES DE MORTE,",
+              "acordes": []
+            },
+            {
+              "letra": "ALCANÇARAM-ME OS LAÇOS DO INFERNO;",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "LAÇOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RODEAVAM-ME A TRISTEZA E A ANGÚSTIA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RODEAVAM-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi- 6",
+                  "palavra_alvo": "TRISTEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "INVOQUEI O NOME DO SENHOR:",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“ROGO-TE, SENHOR, SALVA-ME!”",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SALVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RETORNA, MINHA ALMA, AO TEU REPOUSO,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "RETORNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE O SENHOR FOI BOM PARA CONTIGO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CONTIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE ARRANCU-TE DA MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PRESERVOU OS TEUS PÉS DA QUEDA.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUEDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE ARRANCU-TE DA MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PRESERVOU OS TEUS PÉS DA QUEDA.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUEDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TINHA FÉ AINDA QUANDO EU DISSE:",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "DISSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“EU SOU UM MISERÁVEL!”,”",
+              "acordes": []
+            },
+            {
+              "letra": "E PENSAVA CHEIO DE ANGÚSTIA:",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ANGÚSTIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“TODO HOMEM É FALSO!”",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "FALSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO RETRIBUIREI AO SENHOR",
+              "acordes": []
+            },
+            {
+              "letra": "TODO O BEM QUE ME FEZ?",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALÇAREI O CÁLICE DA BÊNÇÃO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CÁLICE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi- 6",
+                  "palavra_alvo": "BÊNÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E INVOCAREI O NOME DO SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RETORNA, MINHA ALMA, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "RETORNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re maior"
+}

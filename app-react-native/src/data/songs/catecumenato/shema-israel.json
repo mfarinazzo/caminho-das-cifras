@@ -1,0 +1,531 @@
+{
+  "titulo_principal": "SHEMÁ ISRAEL",
+  "subtitulo": null,
+  "referencia": "Deuteronômio 6, 4-9",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHEMÁ ISRAEL, SHEMÁ ISRAEL,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SHEMÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SHEMÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ADONAI ELOHENU, ADONAI EHAD.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ADONAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EHAD",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHEMÁ ISRAEL, SHEMÁ ISRAEL",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SHEMÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SHEMÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ADONAI ELOHENU, ADONAI EHAD.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ADONAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EHAD",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESCUTA ISRAEL*, ESCUTA ISRAEL.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SENHOR É NOSSO DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "O SENHOR É UM.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "UM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMARÁS O SENHOR TEU DEUS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Amarás",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COM TODO TEU CORAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "todo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "coração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "COM TODA A TUA ALMA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "toda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COM TODAS AS TUAS FORÇAS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "todas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "forças",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "GRAVA ESTAS MINHAS PALAVRAS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Grava",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "palavras",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "COMO SINAL EM TUAS MÃOS;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "sinal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mãos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO MEMORIAL ENTRE OS TEUS OLHOS;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "olhos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NOS UMBRAIS DE TUA CASA E NAS PORTAS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "umbrais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "portas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHEMÁ ISRAEL, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SHEMÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESCUTA ISRAEL, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "INCULCA-AS A TEUS FILHOS, ISRAEL,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Inculca-as",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DELAS FALA EM CASA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "delas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ANDANDO PELO CAMINHO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "andando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "caminho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "AO TE DEITARES E AO TE LEVANTARES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "deitares",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "levantares",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "ESTE É O PRIMEIRO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Este",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MANDAMENTO DA VIDA;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "mandamento",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "O SEGUNDO É SEMELHANTE A ESTE:",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "segundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "este",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AMA O TEU PRÓXIMO COMO A TI MESMO",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E TERÁS, TERÁS A VIDA ETERNA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "terás",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Eterna",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHEMÁ ISRAEL, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SHEMÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESCUTA ISRAEL, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHEMÁ ISRAEL, (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Shemá",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHEMÁ ISRAEL,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SHEMÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ADONAI ELOHENU,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ADONAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ADONAI EHAD.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "EHAD",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

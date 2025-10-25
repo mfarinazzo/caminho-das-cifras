@@ -1,0 +1,378 @@
+{
+  "titulo_principal": "ACLAMAI O SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 100 (99)",
+  "pagina": 99,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "ACLAMAI O SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ACLAMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TODA A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TODA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SERVI AO SENHOR COM ALEGRIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SERVI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ENTRAI EM SUA PRESENÇA",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ENTRAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PRESENÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM CANTOS DE JÚBILO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CANTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ACLAMAI O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ACLAMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SABEI QUE O SENHOR É DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SABEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE NOS FEZ E A ELE PERTENCEMOS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FEZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PERTENCEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ACLAMAI O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ACLAMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÓS SOMOS O SEU POVO",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E OVELHAS DO SEU REBANHO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "OVELHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ACLAMAI O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ACLAMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ENTRAI POR SUAS PORTAS",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ENTRAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DANDO-LHE GRAÇAS.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAI-O E SEU NOME BENDIZEI.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "LOUVAI-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ACLAMAI O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ACLAMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O SENHOR É BOM,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ETERNO É SEU AMOR.",
+              "acordes": []
+            },
+            {
+              "letra": "SUA FIDELIDADE",
+              "acordes": []
+            },
+            {
+              "letra": "PERDURA PARA SEMPRE.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PERDURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ACLAMAI O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ACLAMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

@@ -1,0 +1,485 @@
+{
+  "titulo_principal": "COMO A CORÇA",
+  "subtitulo": null,
+  "referencia": "SALMO 42-43 (41-42)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO A CORÇA ANSEIA PELAS CORRENTES DE ÁGUA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "PELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSIM MINHA ALMA ANSEIA POR TI, MEU DEUS!",
+              "acordes": []
+            },
+            {
+              "letra": "MINHA ALMA TEM SEDE DO DEUS VIVO;",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "TEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO VEREI O ROSTO DE DEUS?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AS LÁGRIMAS SÃO MEU PÃO NOITE E DIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENQUANTO MEUS INIMIGOS ME DIZEM O DIA TODO:",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“ONDE ESTÁ TEU DEUS? ONDE ESTÁ TEU DEUS?",
+              "acordes": []
+            },
+            {
+              "letra": "ONDE ESTÁ TEU DEUS?”",
+              "acordes": []
+            },
+            {
+              "letra": "E QUANDO EU RELEMBRO, MINHA ALMA DESFALECE DE TRISTEZA,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "RELEMBRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO CAMINHAVA NO MEIO DUM POVO EM FESTA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR QUE TE ABATES, ALMA MINHA,",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ABATES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR QUE TE AGITAS DENTRO DE MIM?",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "AGITAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPERA EM DEUS, ESPERA EM DEUS:",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE TORNARÁS A LOUVÁ-LO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TORNARÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE ELE, ELE É TUA SALVAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do#7",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE É TEU DEUS, ELE É TEU DEUS!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "TEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "TEU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPERA EM DEUS, ESPERA EM DEUS,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESPERA EM DEUS ESPERA EM DEUS:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "/Sib/La",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE TORNARÁS A LOUVÁ-LO.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "TORNARÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUANTAS VEZES EU DISSE:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "QUANTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“MEU ROCHEDO, POR QUE ME ABANDONASTE?",
+              "acordes": []
+            },
+            {
+              "letra": "POR QUE CAMINHO TRISTE,",
+              "acordes": []
+            },
+            {
+              "letra": "OPRIMIDO POR MEUS INIMIGOS?”",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "OPRIMIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUEBRAM-SE-ME OS OSSOS",
+              "acordes": []
+            },
+            {
+              "letra": "DE TANTO OUVIR DIZER: “ONDE ESTÁ TEU DEUS?",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "OUVIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ONDE ESTÁ TEU DEUS?”",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR, ENVIA TUA LUZ E TUA VERDADE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ELAS ME GUIEM AO TEU MONTE SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E, ENTÃO, PODEREI CANTAR-TE",
+              "acordes": []
+            },
+            {
+              "letra": "UM CANTO DE ALEGRIA COM MEU VIOLÃO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE QUE TE ABATES, ALMA MINHA, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ABATES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPERA EM DEUS, ...",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do#7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE ELE, ELE É TUA SALVAÇÃO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPERA EM DEUS, ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

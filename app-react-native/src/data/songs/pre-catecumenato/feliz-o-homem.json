@@ -1,0 +1,452 @@
+{
+  "titulo_principal": "FELIZ O HOMEM",
+  "subtitulo": null,
+  "referencia": "Salmo 1",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FELIZ O HOMEM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NÃO SEGUE O CONSELHO DOS ÍMPIOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ÍMPIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NO CAMINHO DOS PECADORES NÃO PÁRA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NEM SE ASSENTA NA RODA DOS ZOMBADORES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ASSENTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ZOMBADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS SE COMPRAZ NA PALAVRA DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "COMPRAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PALAVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SEUS SALMOS SUSSUJURA DIA E NOITE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SERÁ COMO ÁRVORE PLANTADA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SERÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PLANTADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JUNTO D'ÁGUA CORRENTE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CORRENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SERÁ COMO ÁRVORE PLANTADA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PLANTADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ÁRVORE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JUNTO D'ÁGUA CORRENTE,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE DÁ FRUTO A SEU TEMPO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FRUTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TEMPO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NUNCA MURCHARÃO AS SUAS FOLHAS;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MURCHARÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FOLHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TUDO O QUE ELE FAZ LHE SAI BEM,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TUDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TUDO O QUE ELE FAZ LHE SAI BEM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TUDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ASSIM OS ÍMPIOS, NÃO ASSIM!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ASSIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SÃO COMO A PALHA QUE LEVA O VENTO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PALHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ASSIM OS ÍMPIOS, NÃO ASSIM!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ASSIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SÃO COMO A PALHA QUE LEVA O VENTO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PALHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO FICARÃO DE PÉ OS ÍMPIOS NO JULGAMENTO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JULGAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NEM OS PECADORES NA COMUNIDADE DOS SANTOS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "COMUNIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE O SENHOR CONHECE",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O CAMINHO DOS SEUS FIÉIS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FIÉIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS O CAMINHO DOS ÍMPIOS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ÍMPIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACABA MAL, ACABA MAL, ACABA MAL.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ACABA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FELIZ O HOMEM ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

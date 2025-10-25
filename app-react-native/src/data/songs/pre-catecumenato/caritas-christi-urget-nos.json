@@ -1,0 +1,465 @@
+{
+  "titulo_principal": "CARITAS CHRISTI URGET NOS",
+  "subtitulo": null,
+  "referencia": "2ª Coríntios 5, 14.15.17.21",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CARITAS CHRISTI URGET NOS!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CARITAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CHRISTI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "URGET",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CARITAS CHRISTI URGET NOS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CARITAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "URGET",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O amor de Cristo nos compele ao pensar,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "COMPELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O AMOR DE CRISTO NOS COMPELE AO PENSAR,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "PENSAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "que se um morreu por todos,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "todos portanto morreram.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "MORRERAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE SE CRISTO MORREU POR TODOS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TODOS MORRERAM.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E morreu por todos,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "para que os que vivem",
+              "acordes": []
+            },
+            {
+              "letra": "não viviam mais para si,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "SI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "senão para aquele que morreu",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SENÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e ressuscitou por eles. (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "ELES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CARITAS CHRISTI URGET NOS! ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CARITAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CHRISTI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "URGET",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O que está em Cristo é uma nova criação;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "CRIAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "passou o antigo, tudo é novo.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PASSOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Quem não conheceu pecado,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La- 9",
+                  "palavra_alvo": "PECADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Deus o fez pecado,",
+              "acordes": []
+            },
+            {
+              "letra": "para que fôssemos justiça de Deus nele.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "NELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ai de mim se não anunciasse o Evangelho!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EVANGELHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ai de mim! Ai de mim!",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "AI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AI DE MIM SE NÃO ANUNCIASSE O EVANGELHO!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EVANGELHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AI DE MIM! AI DE MIM!",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "AI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CARITAS CHRISTI URGET NOS! ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CARITAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CHRISTI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "URGET",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

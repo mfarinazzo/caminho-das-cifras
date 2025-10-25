@@ -1,0 +1,505 @@
+{
+  "titulo_principal": "DIANTE DOS ANJOS",
+  "subtitulo": null,
+  "referencia": "Salmo 138 (137)",
+  "pagina": 137,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DOS ANJOS PARA TI EU CANTAREI, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "CANTAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIANTE DOS ANJOS PARA TI SALMODIAREI.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALMODIAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAREI GRAÇAS AO TEU NOME,",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA TI SALMODIAREI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALMODIAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DOU-TE GRAÇAS, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DOU-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE TODO O CORAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TUAS PROMESSAS SUPERARAM A TUA FAMA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PROMESSAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FAMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO TE INVOQUEI, TU ME ESCUTASTE,",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "ESCUTASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESTE FORÇA E VIGOR A MINHA ALMA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FORÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DOS ANJOS ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAR-TE-ÃO GRAÇAS, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DAR-TE-ÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS REIS DA TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AO ESCUTAREM AS PALAVRAS DA TUA BOCA;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESCUTAREM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BOCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E CANTARÃO NO CAMINHO DO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIRÃO: \"QUE GRANDE É TEU AMOR!\"",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DOS ANJOS ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SUBLIME É O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SUBLIME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE OLHA PARA O HUMILDE,",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "HUMILDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONHECE O SOBERBO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SOBERBO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E OLHA-O DE LONGE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LONGE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS QUANDO EU CAMINHO NO MEIO DA ANGÚSTIA,",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "ANGÚSTIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTENDE SUA MÃO, SUA DIREITA ME SALVA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DOS ANJOS ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR COMPLETARÁ EM MIM O COMEÇADO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "COMEÇADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE ETERNO É O SEU AMOR!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ETERNO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ABANDONA A OBRA DE SUAS MÃOS;",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "MÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"SENHOR, NÃO NOS ABANDONES!\"",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ABANDONES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIANTE DOS ANJOS ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

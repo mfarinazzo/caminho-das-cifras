@@ -1,0 +1,581 @@
+{
+  "titulo_principal": "NINGUÉM PODE SERVIR A DOIS SENHORES",
+  "subtitulo": null,
+  "referencia": "Mateus 6, 24-33",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NINGUÉM* PODE SERVIR A DOIS SENHORES;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Ninguém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "pode",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "senhores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE AMANDO A UM DESPREZA AO OUTRO.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "um",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "despreza",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "NÃO PODEIS SERVIR A DEUS E AO DINHEIRO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "dinheiro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "POR ISSO VOS DIGO:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "digo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO VOS ANGUSTIEIS POR VOSSA VIDA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "não",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE COMEREIS, QUE BEBEREIS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COM QUE VOS VESTIREIS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ACASO A VIDA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Acaso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO VALE MAIS DO QUE O ALIMENTO?",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "alimento",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "OLHAI AS AVES DO CÉU:",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AVES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO SEMEIAM, NEM CEIFAM;",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "CEIFAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CEIFAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOSSO PAI CELESTE AS ALIMENTA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ALIMENTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E ALÉM DO MAIS, QUEM DE VÓS",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "quem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "POR MAIS QUE SE PREOCUPE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "mais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PODE ACRESCENTAR UMA HORA SÓ",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "pode",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "uma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "À MEDIDA DA SUA VIDA?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "à",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E DA VESTE, POR QUE VOS PREOCUPAIS?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "preocupais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "OLHAI OS LÍRIOS DO CAMPO:",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "LÍRIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO SE AFADIGAM, NEM FIAM,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "FIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "FIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SALOMÃO NÃO VESTIA COMO ELES.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SALOMÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BUSCAI PRIMEIRO O REINO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Buscai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E TUDO VOS SERÁ DADO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "TUDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "DADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "NÃO PODEIS SERVIR A DEUS E AO DINHEIRO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "dinheiro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BUSCAI O REINO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BUSCAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E TUDO VOS SERÁ DADO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "TUDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "DADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "NÃO PODEIS SERVIR A DOIS SENHORES.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SENHORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NINGUÉM PODE SERVIR A DOIS SENHORES ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Ninguém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "pode",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "senhores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OLHAI AS AVES DO CÉU: ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AVES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OLHAI OS LÍRIOS DO CAMPO: ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "LÍRIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BUSCAI O REINO DE DEUS, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BUSCAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

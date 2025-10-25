@@ -1,0 +1,433 @@
+{
+  "titulo_principal": "SENHOR, TU ME ESCRUTAS E CONHECES",
+  "subtitulo": null,
+  "referencia": "Salmo 139 (138)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, TU ME ESCRUTAS E CONHECES;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ESCRUTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU SABES QUANDO ME DEITO E ME LEVANTO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SABES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE LONGE CONHECES MEUS PENSAMENTOS;",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CONHECES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SÃO-TE FAMILIARES TODOS OS MEUS CAMINHOS.",
+              "acordes": [
+                {
+                  "cifra": "Sol- 6",
+                  "palavra_alvo": "SÃO-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NÃO CHEGOU AINDA A MINHA LÍNGUA A PALAVRA,",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "LÍNGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E JÁ TU, SENHOR, A CONHECES TODA;",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "JÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CONHECES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ME ACOSSAS POR DETRÁS,",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME ATACAS PELA FRENTE",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E AO MESMO TEMPO",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PUSESTE SOBRE MIM A TUA MÃO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PUSESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ISSO É CIÊNCIA MISTERIOSA PARA MIM,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CIÊNCIA QUE NÃO CHEGO A ENTENDER,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CIÊNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ENTENDER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CIÊNCIA TÃO ALTA, QUE EU NÃO COMPREENDO.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CIÊNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "COMPREENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AONDE IREI LONGE DO TEU ESPÍRITO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AONDE DO TEU ROSTO ESCAPAREI?",
+              "acordes": []
+            },
+            {
+              "letra": "SE SUBO ATÉ O CÉU, ALI ESTÁS TU,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE DESÇO ATÉ A MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALI TE ENCONTRO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ALI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ME ACOSSAS POR DETRÁS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME ATACAS PELA FRENTE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E AO MESMO TEMPO",
+              "acordes": []
+            },
+            {
+              "letra": "PUSESTE SOBRE MIM A TUA MÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "PUSESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ISTO É CIÊNCIA MISTERIOSA PARA MIM,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CIÊNCIA QUE NÃO CHEGO A ENTENDER,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "CIÊNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ENTENDER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CIÊNCIA TÃO ALTA,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "CIÊNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE EU NÃO COMPREENDO.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, TU ME ESCRUTAS E CONHECES,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ESCRUTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU SONDAS E PÕES A PROVA MEU CORAÇÃO;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SONDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU NÃO SIGA UM CAMINHO DE DOBREZ,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SIGA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU NÃO ME AFASTE NUNCA,",
+              "acordes": []
+            },
+            {
+              "letra": "DE TEU CAMINHO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

@@ -1,0 +1,257 @@
+{
+  "titulo_principal": "LOUVAI O SENHOR NOS CÉUS",
+  "subtitulo": null,
+  "referencia": "Salmo 148",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NOS CÉUS LOUVAI O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CÉUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O! NO ALTO FIRMAMENTO,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "FIRMAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O! TODOS OS SEUS ANJOS,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O! TODOS OS SEUS EXÉRCITOS!",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "EXÉRCITOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O! SOL E LUA,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O! ESTRELAS RELUZENTES.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "RELUZENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E VÓS, CÉUS DOS CÉUS, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "ÁGUAS ACIMA DOS CÉUS. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "LOUVEM O NOME DO SENHOR, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE ELE MANDOU E TUDO FOI CRIADO. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "ESTABELECEU TUDO PARA SEMPRE, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "DEU-LHES UMA LEI QUE NÃO PASSARÁ. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "NA TERRA, LOUVAI O SENHOR, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "GRANDES PEIXES E ABISMOS DO MAR. LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FOGO, GRANIZO, NEVE E NEBLINA, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "VENTOS FORTES QUE CUMPREM SUA PALAVRA. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "E VÓS, MONTANHAS E COLINAS, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "ÁRVORES FRUTÍFERAS E CEDROS. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "FERAS E ANIMAIS DOMÉSTICOS, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "RÉPTEIS E PÁSSAROS QUE VOAM. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "REIS DA TERRA E TODOS OS SEUS POVOS, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "JUÍZES E PRÍNCIPES DO MUNDO. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "JOVENS E TAMBÉM AS DONZELAS, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "ANCIÃOS E CRIANÇAS. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "LOUVEM TODOS O NOME DO SENHOR, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "SÓ O SEU NOME É EXCELSO. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "SUA GLÓRIA ULTRAPASSA A TERRA E O CÉU, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "ELE EXALTA O SEU POVO EM PODERIO. LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "ELE É O LOUVOR DE TODOS OS SEUS FIÉIS, LOUVAI-O!",
+              "acordes": []
+            },
+            {
+              "letra": "DE ISRAEL, O SEU POVO ELEITO. LOUVAI-O!",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

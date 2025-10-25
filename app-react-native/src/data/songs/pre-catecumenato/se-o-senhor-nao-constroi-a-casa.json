@@ -1,0 +1,311 @@
+{
+  "titulo_principal": "SE O SENHOR NÃO CONSTRÓI A CASA",
+  "subtitulo": null,
+  "referencia": "Salmo 127(126)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE O SENHOR NÃO CONSTRÓI A CASA,    |",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "EM VÃO TRABALHAM OS CONSTRUTORES.   |",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CONSTRUTORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Se o Senhor não guarda a cidade,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "cidade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "em vão vigiam as sentinelas,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "sentinelas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "se o Senhor não guarda a cidade.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "cidade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Em vão vos levantais antes da aurora,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "vão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "aurora",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "o repouso retardais, para conseguir o pão,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "pão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Deus o dá aos seus amigos enquanto dormem",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "dormem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEUS O DÁ AOS SEUS AMIGOS ENQUANTO DORMEM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "DORMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "SE O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Dom do Senhor são os filhos,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "do",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "filhos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "são como flechas nas mãos de um guerreiro,",
+              "acordes": []
+            },
+            {
+              "letra": "os filhos da juventude.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "juventude",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "Feliz o homem que tem cheia a sua aljava;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Feliz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "aljava",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "não temerá quando cheguem",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "temerá",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "à sua porta os inimigos.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "inimigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re maior"
+}

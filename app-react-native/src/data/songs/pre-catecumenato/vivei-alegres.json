@@ -1,0 +1,181 @@
+{
+  "titulo_principal": "VIVEI ALEGRES",
+  "subtitulo": null,
+  "referencia": "Filipenses 4, 4ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VIVEI ALEGRES, O SENHOR ESTÁ PERTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VIVEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "VIVEI ALEGRES, O SENHOR ESTÁ PERTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "VIVEI ALEGRES, O SENHOR JÁ VEM",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E NOS SALVARÁ, E NOS SALVARÁ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVARÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "E NOS SALVARÁ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Coragem, não temais,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Coragem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "temais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "que o Senhor já vem.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "vem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E nos salvará,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "salvará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "e nos salvará,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "salvará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "e nos salvará.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "salvará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VIVEI ALEGRES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VIVEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

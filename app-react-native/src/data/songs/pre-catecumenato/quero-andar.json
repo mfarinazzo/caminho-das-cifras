@@ -1,0 +1,271 @@
+{
+  "titulo_principal": "QUERO ANDAR",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Quero andar, mãe, a Jerusalém, Jerusalém.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Quero",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Jerusalém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Jerusalém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "La-             Re -Mi",
+              "acordes": []
+            },
+            {
+              "letra": "A comer as ervas e a saciar-me delas,",
+              "acordes": []
+            },
+            {
+              "letra": "saciar-me delas.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NA VEREDA ME ENCONTRO EU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VEREDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NA VEREDA CAMINHO EU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NO  SENHOR DE TODO MUNDO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DE TODO MUNDO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LALA, LA LA LA LA LA LA LALA ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Faze-me comer delas, que possa saciar as minhas ânsias,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Faze-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "possa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "possa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "que são ânsias de amizade,",
+              "acordes": []
+            },
+            {
+              "letra": "que são ânsias de humildade,",
+              "acordes": []
+            },
+            {
+              "letra": "que são ânsias, que são ânsias de obediência.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ânsias",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ânsias",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NA VEREDA ...",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VEREDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ADONAI ELOHENU,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ADONAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ADONAI ELOHENU,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ADONAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ELOHENU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ADONAI EHAD.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ADONAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "EHAD",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

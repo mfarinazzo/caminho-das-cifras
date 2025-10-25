@@ -1,0 +1,741 @@
+{
+  "titulo_principal": "OS MENINOS DE BELÉM",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS MENINOS DE BELÉM ESTÃO BRINCANDO NA PRAÇA",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESTAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E CHEGAM OS REIS MAGOS, QUE SÃO UM, DOIS E TRÊS",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE ONDE VINDES, DE ONDE VINDES,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VINDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VINDES",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM CAVALOS E CAMELOS?",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Magos",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAGOS SOMOS, MAGOS SOMOS.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "MAGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE VINDES FAZER AQUI?",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Melchior",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VENHO DO ORIENTE DISTANTE,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VENHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO PAÍS DO OURO E DA PRATA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS DE NOITE NÃO POSSO DORMIR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DORMIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE VI UMA ESTRELA, UMA ESTRELA NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS DE NOITE NÃO PODES DORMIR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DORMIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE VISTE UMA ESTRELA, UMA ESTRELA NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Gaspar",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VENHO DO ORIENTE DISTANTE,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VENHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO PAÍS DE FLORES E PERFUME,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS DE NOITE NÃO POSSO DORMIR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DORMIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE VI UMA ESTRELA, UMA ESTRELA NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS DE NOITE NÃO PODES DORMIR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DORMIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE VISTE UMA ESTRELA, UMA ESTRELA NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "Baltasar",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VENHO DO ORIENTE DISTANTE, DO PAÍS DE POBRES E ENFERMOS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VENHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "POBRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS DE NOITE NÃO POSSO DORMIR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DORMIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE VI UMA ESTRELA, UMA ESTRELA NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS DE NOITE NÃO PODES DORMIR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DORMIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE VISTE UMA ESTRELA, UMA ESTRELA NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS MENINOS DE BELÉM ESTÃO BRINCANDO NA PRAÇA",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESTAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E CHEGAM OS REIS MAGOS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SÃO UM, DOIS E TRÊS. DE ONDE VINDES,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "TRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE ONDE VINDES, COM CAVALOS E CAMELOS?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VINDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Magos",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAGOS SOMOS, MAGOS SOMOS.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "MAGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE VINDES FAZER AQUI?",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Magos",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VIEMOS DO ORIENTE DISTANTE, VIMOS UMA ESTRELA LUMINOSA",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VIEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESTRELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E VIEMOS ADORAR O REI, O REI DOS JUDEUS QUE NASCEU AQUI.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E VIESTES ADORAR O REI, O REI DOS JUDEUS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NASCEU AQUI.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS MENINOS DE BELÉM OLHAM TODOS PARA O CÉU",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E VIRAM A ESTRELA NA CASA DE JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESTRELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VAMOS TODOS ADORÁ-LO COM CAVALOS E",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "VAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ADORÁ-LO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CAVALOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CAMELOS, PORQUE OS MAGOS ENCONTRARAM",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CAMELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "MAGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O BERÇO DO SALVADOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BERCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SALVADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re maior"
+}

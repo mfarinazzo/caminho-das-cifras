@@ -1,0 +1,327 @@
+{
+  "titulo_principal": "BABILÔNIA CRIMINAL",
+  "subtitulo": "Salmo 137 (136)",
+  "referencia": "Salmo 137 (136)",
+  "pagina": 137,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JUNTO AOS CANAIS DE BABILÔNIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JUNTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CANAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BABILÔNIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RECORDANDO-NOS DE TI,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "RECORDANDO-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NOS SENTAMOS A CHORAR.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO CANTAR UM CÂNTICO DO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CÂNTICO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM TERRA ESTRANHA?",
+              "acordes": []
+            },
+            {
+              "letra": "SE DE TI EU ME ESQUECER,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ESQUECER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ME SEQUE A MÃO DIREITA!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ME COLE A LÍNGUA AO PALADAR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LÍNGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PALADAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE DE TI EU ME ESQUECER, JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ESQUECER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO AUGE DA MINHA ALEGRIA!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, PEDE CONTAS",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AOS NOSSOS INIMIGOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR, PEDE CONTAS",
+              "acordes": []
+            },
+            {
+              "letra": "AOS NOSSOS OPRESSORES,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "OPRESSORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO ELES GRITAVAM:",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "GRITAVAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“ARRASAI-A ATÉ O FUNDO!”.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ARRASAI-A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CAPITAL DE BABILÔNIA CRIMINAL,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CAPITAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CRIMINAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUEM PUDERA PAGAR-TE",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PUDERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O MAL QUE NOS FIZESTE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUEM PUDERA ESMAGAR",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ESMAGAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TEUS FILHOS CONTRA AS PEDRAS!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PEDRAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JUNTO AOS CANAIS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JUNTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CANAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

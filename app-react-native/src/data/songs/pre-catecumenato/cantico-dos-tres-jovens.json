@@ -1,0 +1,339 @@
+{
+  "titulo_principal": "CÂNTICO DOS TRÊS JOVENS",
+  "subtitulo": null,
+  "referencia": "Daniel 3, 57-88",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRIATURAS DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CRIATURAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDIZEI O SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LOUVAI-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM HINOS PELOS SÉCULOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SÉCULOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ANJOS DO SENHOR, BENDIZEI ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CÉUS, BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "ÁGUAS QUE ESTAIS SOBRE OS CÉUS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "SOL E LUA. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "ESTRELAS DO CÉU. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "CHUVAS E ORVALHOS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "VENTOS E BRISAS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "FOGO E CALOR. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "GEADA E FRIO. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "ORVALHOS E GAROAS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "GELOS E NEVES. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "NOITES E DIAS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "LUZ E TREVAS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "RAIOS E NUVENS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "TODA A TERRA. BENDIZEI ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LOUVAI-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM HINOS PELOS SÉCULOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SÉCULOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MONTES E COLINAS. BENDIZEI ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MONTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PLANTAS DA TERRA. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "FONTES E NASCENTES. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "MARES E RIOS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "BALEIAS E PEIXES. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "PÁSSAROS DO CÉU. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "FERAS E REBANHOS. BENDIZEI ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LOUVAI-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM HINOS PELOS SÉCULOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SÉCULOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FILHOS DOS HOMENS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "POVO DE ISRAEL. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "SACERDOTES DO SENHOR. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "SERVOS DO SENHOR. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "ESPÍRITOS E ALMAS DOS JUSTOS. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "SANTOS E HUMILDES DE CORAÇÃO. BENDIZEI ...",
+              "acordes": []
+            },
+            {
+              "letra": "ANANIAS, AZARIAS E MISAEL. BENDIZEI ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAI-O",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LOUVAI-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM HINOS PELOS SÉCULOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SÉCULOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AO PAI E AO FILHO E AO ESPÍRITO SANTO,",
+              "acordes": []
+            },
+            {
+              "letra": "LOUVEMOS E EXALTEMOS PELOS SÉCULOS SEM FIM!",
+              "acordes": []
+            },
+            {
+              "letra": "BENDITO SOIS, SENHOR, NO FIRMAMENTO DOS CÉUS!",
+              "acordes": []
+            },
+            {
+              "letra": "SOIS DIGNO DE LOUVOR E GLÓRIA ETERNAMENTÉ!",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

@@ -1,0 +1,430 @@
+{
+  "titulo_principal": "O NÉSCIO PENSA QUE DEUS NÃO EXISTE",
+  "subtitulo": "Salmo 14 (13)",
+  "referencia": "Salmo 14 (13)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NÉSCIO PENSA QUE DEUS NÃO EXISTE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "EXISTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "CORROMPERAM-SE,",
+              "acordes": []
+            },
+            {
+              "letra": "E FAZEM COISAS ABOMINÁVEIS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ABOMINÁVEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO HÁ QUEM FAÇA O BEM,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "HÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO HÁ QUEM FAÇA O BEM.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "HÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Senhor desde o céu,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "inclina-se para os homens,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "para ver se há algum que seja justo,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "JUSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "um homem que procure a Deus,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "um homem que procure a Deus.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Todos se desviaram, estão pervertidos.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PERVERTIDOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Não há quem faça o bem, nem um sequer.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SEQUER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NÉSCIO PENSA ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÉSCIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Não percebem nada os malvados",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PERCEBEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MALVADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "que devoram o meu povo como pão.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "DEVORAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Não invocam nunca ao Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "INVOCAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "mas tremerão de medo.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MEDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Porque Deus está com o justo:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JUSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o Senhor é o seu refúgio.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "REFÚGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "Porque Deus está com o justo:",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JUSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o Senhor é o seu refúgio.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "REFÚGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE DEUS ESTÁ COM O JUSTO:",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JUSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SENHOR É O SEU REFÚGIO.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "REFÚGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NÉSCIO PENSA ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÉSCIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

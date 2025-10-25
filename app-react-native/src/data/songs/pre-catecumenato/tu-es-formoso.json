@@ -1,0 +1,513 @@
+{
+  "titulo_principal": "TU ÉS FORMOSO",
+  "subtitulo": null,
+  "referencia": "Salmo 45(44)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS FORMOSO, O MAIS FORMOSO",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DOS FILHOS DE ADÃO,",
+              "acordes": []
+            },
+            {
+              "letra": "DOS FILHOS DE ADÃO.",
+              "acordes": []
+            },
+            {
+              "letra": "A GRAÇA ESTÁ EM TEUS LABIOS.",
+              "acordes": []
+            },
+            {
+              "letra": "TU ÉS BENDITO,",
+              "acordes": []
+            },
+            {
+              "letra": "O BENDITO PARA SEMPRE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Cinge, ó valente, a espada sobre teu flanco,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "Cinge",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "flanco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "cavalga cheio de glória e esplendor,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "cavalga",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "esplendor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "marcha pela verdade,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "marcha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a mansidão e a justiça.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "justiça",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Retesa teu arco,",
+              "acordes": []
+            },
+            {
+              "letra": "que faz temível a tua direita!",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "temível",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "direita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Agudas são tuas flechas,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "Agudas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "flechas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a ti foram dadas as nações.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "dadas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "nações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI FORAM DADAS AS NAÇÕES.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "FORAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS FORMOSO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Dos palácios de marfim,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "palácios",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "marfim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "as cítaras cantam para ti.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "as",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Filhas de reis são tuas favoritas;",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "Filhas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "favoritas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "à tua direita está a rainha, em ouro de ofir.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "direita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "rainha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ofir",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "À TUA DIREITA ESTÁ A RAINHA EM OURO DE OFIR.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "RAINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "OFIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS FORMOSO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Escuta, filha e olha, inclina teu ouvido,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "Escuta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "inclina",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "inclina",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ouvido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "esquece o teu povo e a casa do teu pai,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "esquece",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e o rei se encantará com a tua beleza.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "rei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "encantará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "beleza",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E O REI SE ENCANTARÁ COM A TUA BELEZA.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "BELEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Fa#-           SoI#    Fa#-     Sol#",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ele é o teu Senhor, entrega-te a ele!",
+              "acordes": []
+            },
+            {
+              "letra": "E, em lugar de pais, terás filhos,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "filhos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "que tu farás príncipes sobre a terra.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS FORMOSO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

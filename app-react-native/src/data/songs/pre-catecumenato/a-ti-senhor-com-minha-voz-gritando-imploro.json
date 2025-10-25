@@ -1,0 +1,411 @@
+{
+  "titulo_principal": "A TI, SENHOR, COM MINHA VOZ GRITANDO IMPLORO",
+  "subtitulo": null,
+  "referencia": "Salmo 142 (141)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI, SENHOR, COM MINHA VOZ GRITANDO IMPLORO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "GRITANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI, SENHOR, EM MEU CLAMOR SUPLICO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI DERRAMO O MEU LAMENTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DERRAMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "LAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI MINHA ANGÚSTIA EXPONHO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANGÚSTIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SINTO QUE O MEU ESPÍRITO DESFALECE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SINTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS TU CONHECES MINHA VEREDA.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "CONHECES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VÊ, SENHOR, QUE NO CAMINHO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VÊ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VÊ QUE ME ARMARAM UMA ARMADILHA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ARMADILHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VÊ, QUE À MINHA DIREITA NÃO HÁ NINGUÉM,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VÊ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "NINGUÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NINGUÉM QUE ME CONHEÇA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NINGUÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CONHEÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E FOGE DE MIM TODO CONSOLO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FOGE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NINGUÉM SE INTERESSA PELA MINHA ALMA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "INTERESSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI EU CLAMO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CLAMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI EU DIGO: SÓ TU ÉS O MEU REFÚGIO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "REFÚGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS A MINHA HERANÇA NESTA TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MINHA ÚNICA FELICIDADE!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FELICIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTA, SENHOR, MEU CLAMOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CLAMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ESTOU TÃO ABATIDO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ABATIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LIVRA-ME DESSES INIMIGOS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "LIVRA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SÃO MAIS FORTES DO QUE EU!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FORTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TIRA A MINHA ALMA DESTE CÁRCERE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TIRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DAREI GRAÇAS AO TEU NOME!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "À MINHA VOLTA OS JUSTOS SE ALEGRARÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOLTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ME FELICITARÃO PELO BEM QUE ME FIZESTE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FIZESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI, SENHOR COM MINHA VOZ ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI EU CLAMO SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CLAMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

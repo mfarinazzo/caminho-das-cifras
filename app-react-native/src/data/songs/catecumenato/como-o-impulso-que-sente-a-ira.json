@@ -1,0 +1,467 @@
+{
+  "titulo_principal": "COMO O IMPULSO QUE SENTE A IRA",
+  "subtitulo": null,
+  "referencia": "Ode VII de Salomão",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO O IMPULSO QUE SENTE A IRA",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONTRA O INIMIGO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CONTRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO O IMPULSO QUE SENTE O AMOR",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA O AMADO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSIM, SINTO EU UM IMPULSO PARA TI,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ASSIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU, O IMORTAL, A PLENITUDE DOS TEMPOS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TEMPOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS O CAMINHO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO É MARAVILHOSO!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MARAVILHOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CAMINHO, TU ÉS O AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CAMINHO, TU ÉS A VIDA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CAMINHO, TU ÉS A VERDADE.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VERDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CAMINHO, TU ÉS A VERDADE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VERDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS A VIDA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU TE ENTREGASTE A MIM",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEM RESERVA NENHUMA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "RESERVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEIO DE SUAVIDADE,",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "SUAVIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FIZESTE PEQUENA A TUA GRANDEZA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GRANDEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU TE FIZESTE PECADO POR MIM",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEIO DE MISERICÓRDIA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CHEIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE MEUS PECADOS",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ME AFASTASSEM DE TI.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS O CAMINHO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU TE FIZESTE COMO EU",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE TE RECEBESSE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO ASPECTO IGUAL A MIM,",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "ASPECTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE DE TI ME REVESTISSE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ASSIM, NÃO TIVESSE MEDO AO TE ENCONTRAR,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ENCONTRAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU, O IMORTAL,",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A PLENITUDE DOS TEMPOS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS O CAMINHO, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

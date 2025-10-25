@@ -1,0 +1,666 @@
+{
+  "titulo_principal": "EM TUA LUZ, SENHOR, VEMOS A LUZ",
+  "subtitulo": null,
+  "referencia": "Cf. Salmo 36",
+  "pagina": 113,
+  "bracadeira": {
+    "tem": true,
+    "casa": "1ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NO CORAÇÃO DO ÍMPIO FALA O PECADO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ÍMPIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIANTE DE SEUS OLHOS NÃO HÁ TEMOR DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "HÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE SE ILUDE A SI MESMO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ILUDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MESMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM BUSCAR A SUA CULPA E DETESTÁ-LA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BUSCAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MALDADE E MENTIRA SÃO SUAS PALAVRAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SUAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEIXOU DE SER SENSATO E FAZER O BEM.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENSATO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TRAMA INIQUIDADE EM SEU LEITO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TRAMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "INIQUIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OBSTINA-SE NO MAU CAMINHO",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MAU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NUNCA REPROVA O MAL.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REPROVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR, A TUA GRAÇA CHEGA ATÉ O CÉU,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRAÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TUA FIDELIDADE ATÉ AS NUVENS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FIDELIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NUVENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TUA JUSTIÇA É COMO OS MONTES MAIS ALTOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JUSTIÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MONTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O TEU JUÍZO COMO O GRANDE ABISMO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ABISMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOMENS E ANIMAIS TU SALVAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ANIMAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO É PRECIOSA A TUA GRAÇA, Ó DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PRECIOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRAÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS HOMENS SE REFUGIAM À SOMBRA DE TUAS ASAS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REFUGIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FICAM SACIADOS COM A ABUNDÂNCIA DA TUA CASA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ABUNDÂNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SACIA SUA SEDE NA TORRENTE DAS TUAS DELÍCIAS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TORRENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTÁ EM TI A FONTE DA VIDA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM TUA LUZ VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONCEDE A TUA GRAÇA A QUEM TE CONHECE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRAÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TUA JUSTIÇA PARA COM OS CORAÇÕES RETOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CORAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "RETOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE OS PÉS DOS SOBERBOS NÃO ME ALCANCEM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOBERBOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE A MÃO DOS ÍMPIOS NÃO ME FAÇA FUGIR.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EIS QUE CAÍRAM OS MALFEITORES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CAÍRAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ABATIDOS, NÃO PODEM MAIS SE LEVANTAR.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "EM TUA LUZ, SENHOR, VEMOS A LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

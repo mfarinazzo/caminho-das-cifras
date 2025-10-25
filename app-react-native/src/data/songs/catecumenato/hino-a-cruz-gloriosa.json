@@ -1,0 +1,412 @@
+{
+  "titulo_principal": "HINO À CRUZ GLORIOSA",
+  "subtitulo": "Da homilia “A Santa Páscoa” de um autor anônimo do século II",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A CRUZ GLORIOSA",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "GLORIOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO SENHOR RESSUSCITADO",
+              "acordes": [
+                {
+                  "cifra": "Do#",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É A ÁRVORE DA SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "SALVACAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DELA ME NUTRO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "NUTRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NELA ME DELEITO;",
+              "acordes": [
+                {
+                  "cifra": "Do#",
+                  "palavra_alvo": "NELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NAS SUAS RAÍZES CRESÇO,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "NAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NOS SEUS RAMOS ME DEITO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O seu orvalho me alegra,",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALEGRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "o seu espírito, como brisa, me fecunda;",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "FECUNDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "a sua sombra eu pus a minha tenda.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Na fome, é o alimento,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "na sede, é água viva,",
+              "acordes": []
+            },
+            {
+              "letra": "na nudez, é meu vestido.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "VESTIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Angusta vereda, minha porta estreita,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "ANGUSTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ESTREITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "escada de Jacó, leito de amor",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "ESCADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "onde nos desposou o Senhor.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A CRUZ GLORIOSA ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "GLORIOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "No temor é a defesa,",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DEFESA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "no tropeço é o apoio;",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "APOIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "na vitória é a coroa,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "na luta tu és o prêmio.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "PREMIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Árvore de vida eterna;",
+              "acordes": [
+                {
+                  "cifra": "Fa# -",
+                  "palavra_alvo": "ARVORE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "ETERNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "coluna do universo;",
+              "acordes": [
+                {
+                  "cifra": "Fa# -",
+                  "palavra_alvo": "COLUNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "UNIVERSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ossatura da terra.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "OSSATURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O teu cimo toca o céu",
+              "acordes": []
+            },
+            {
+              "letra": "e em teus braços abertos",
+              "acordes": []
+            },
+            {
+              "letra": "brilha o amor de Deus.",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A CRUZ GLORIOSA ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "GLORIOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol# maior"
+}

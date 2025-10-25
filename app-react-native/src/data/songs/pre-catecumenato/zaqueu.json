@@ -1,0 +1,535 @@
+{
+  "titulo_principal": "ZAQUEU",
+  "subtitulo": null,
+  "referencia": "Lucas 19,1-10",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDO ENTRADO JESUS EM JERICÓ",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ATRAVESSAVA A CIDADE.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "TENDO ENTRADO JESUS EM JERICÓ",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ENTRADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ATRAVESSAVA A CIDADE.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vivia ali um homem chamado Zaqueu,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Vivia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "era chefe de publicanos e muito rico,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "rico",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "tentava ver Jesus, mas não podia",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "tentava",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "porque era de pequena estatura.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "estatura",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Correu à frente",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Correu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e subiu num sicômoro,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "sicômoro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "pois Ele ia passar por ali,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "pois Ele ia passar por ali.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Quando Jesus chegou, levantou os olhos e o viu,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "viu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e disse-the: \"Zaqueu, desce logo;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "disse-the",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "porque convém que hoje eu entre na tua casa\".",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDO ENTRADO JESUS ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Zaqueu desceu depressa",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Zaqueu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "e o acolheu cheio de alegria.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "alegria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Quando o viram, todos murmuravam:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "viram",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "\"Ele entrou em casa de um pecador\".",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "pecador",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Zaqueu, de pé, disse ao Senhor:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Zaqueu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "\"Vou dar, Senhor, metade dos meus bens aos pobres.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "pobres",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e se defraudei aguém, o, quádruplo restituirei\".",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "defraudei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "restituirei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "E Jesus lhe disse:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"HOJE, A SALVAÇÃO CHEGOU A ESTA CASA\".",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HOJE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "\"HOJE, A SALVAÇÃO CHEGOU A ESTA CASA\".",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOJE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"Por que este também é filho de Abraão,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Abraão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "pois o Filho do homem veio procurar e",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "pois",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "salvar o que estava perdido\".",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "perdido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDO ENTRADO ... HOJE, A SALVAÇÃO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "ZAQUEU ÉS TU.     | BIS A.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ZAQUEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "DESCE LOGO.       | BIS A.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DESCE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Convém que hoje eu entre na tua casa.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Convém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONVÉM QUE HOJE EU ENTRE NA TUA CASA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CONVÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDO ENTRADO ... HOJE, A SALVAÇÃO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

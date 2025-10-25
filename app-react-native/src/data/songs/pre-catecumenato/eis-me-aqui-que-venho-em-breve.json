@@ -1,0 +1,272 @@
+{
+  "titulo_principal": "EIS-ME AQUI QUE VENHO EM BREVE",
+  "subtitulo": null,
+  "referencia": "Apocalipse 22, 12-16",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EIS-ME AQUI QUE VENHO EM BREVE,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "EIS-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VENHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E COMIGO A RECOMPENSA",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA DAR A CADA UM",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONFORME AS SUAS OBRAS.",
+              "acordes": []
+            },
+            {
+              "letra": "EU SOU O ALFA E O ÔMEGA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O PRIMEIRO E O ÚLTIMO,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PRIMEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O PRIMEIRO E O ÚLTIMO,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "PRIMEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O PRINCÍPIO E O FIM.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PRINCÍPIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BEM-AVENTURADOS OS QUE LAVAM AS SUAS VESTES",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BEM-AVENTURADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SUAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA TEREM DIREITO À ÁRVORE DA VIDA.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DIREITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ÁRVORE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BEM-AVENTURADOS OS QUE LAVAM AS SUAS VESTES",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BEM-AVENTURADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SUAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA TEREM DIREITO À ÁRVORE DA VIDA.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DIREITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ÁRVORE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU SOU A RAIZ DA ESTIRPE DE DAVI,",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ESTIRPE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A ESTRELA DA MADRUGADA.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ESTRELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MADRUGADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BEM AVENTURADOS ...",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AVENTURADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

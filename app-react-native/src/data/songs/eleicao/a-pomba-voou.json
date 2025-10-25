@@ -1,0 +1,301 @@
+{
+  "titulo_principal": "A POMBA VOOU",
+  "subtitulo": "Ode XXIV de Salomão",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A POMBA VOOU",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SOBRE A CABEÇA DO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SALMODIOU SOBRE ELE.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O SENHOR MOSTROU",
+              "acordes": [
+                {
+                  "cifra": "La- 6",
+                  "palavra_alvo": "MOSTROU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O DESENHO DE SEU AMOR,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESENHO DE ARTE INEFÁVEL",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "INEFÁVEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA CADA HOMEM.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E OS ABISMOS SE ABRIRAM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ABRIRAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E OUVIRAM-SE TERRÍVEIS GRITOS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OUVIRAM-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO DE MULHERES EM PARTO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PARTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O SENHOR DESTRUIU OS ABISMOS",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM A LUZ DA SUA VITÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VITÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A POMBA VOOU ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS OS DESENHOS SE PERDERAM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PERDERAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E OS ANJOS DO CÉU CHORAVAM;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CHORAVAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS DESENHOS DE TODOS AQUELES",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NÃO SEGUIRAM A SUA VONTADE.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VONTADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE O SENHOR MOSTROU O SEU CAMINHO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DEU ÀQUELES QUE O SEGUEM",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A GRAÇA DE SE REVESTIREM DA SUA SANTIDADE.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SANTIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A POMBA VOOU ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

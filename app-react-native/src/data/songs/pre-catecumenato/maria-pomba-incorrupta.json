@@ -1,0 +1,475 @@
+{
+  "titulo_principal": "MARIA, POMBA INCORRUPTA",
+  "subtitulo": "Hino inspirado nos Kontákia de São Romano, o Melodista",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AVE, MARIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RADIANTE COMO O SOL.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "RADIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU NOS MOSTRAS O CAMINHO;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MOSTRAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESPERANÇA DOS CONFINS DA TERRA;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESPERANÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS A ÚNICA POMBA INCORRUPTA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ÚNICA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "INCORRUPTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTÁ EM TI TODA A BELEZA DO ESPÍRITO;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA QUE NO MUNDO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FAZ BELA A CRIAÇÃO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AVE MARIA,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RADIANTE COMO O SOL.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POMBA INCORRUPTA;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POMBA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REFÚGIO DAS ALMAS DÉBEIS;",
+              "acordes": []
+            },
+            {
+              "letra": "ARCA DO ESPÍRITO SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ARCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AVE, MARIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RADIANTE COMO O SOL.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "RADIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU INTERCEDES POR TODOS OS HOMENS;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INTERCEDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ÉS O REFÚGIO DAS ALMAS DÉBEIS;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "DÉBEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FILACTÉRIO DA PERFEITA CASTIDADE;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FILACTÉRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CASTIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ARCA PERFUMADÍSSIMA DO ESPÍRITO SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ARCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AVE MARIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AVE, MARIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RADIANTE COMO O SOL.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "RADIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI SUPLICAM TODOS OS HOMENS;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SUPLICAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TI PEDIMOS PELA IGREJA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PEDIMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DÁ-LHE NOVO VIGOR DE GRAÇA E SANTIDADE.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SANTIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AVE MARIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Si menor"
+}

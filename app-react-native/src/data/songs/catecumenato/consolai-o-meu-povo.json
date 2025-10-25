@@ -1,0 +1,262 @@
+{
+  "titulo_principal": "CONSOLAI O MEU POVO",
+  "subtitulo": null,
+  "referencia": "Isaías 40, 1-11",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONSOLAI O MEU POVO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CONSOLAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E FALAI AO CORAÇÃO DE JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FALAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E GRITAI-LHE QUE ACABOU A SUA ESCRAVIDÃO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCRAVIDÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OEI! UMA VOZ NO DESERTO GRITA:",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DESERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“PREPARAI O CAMINHO, A SENDA AO SENHOR”.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PREPARAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SENDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O SENHOR VEM COM POTÊNCIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POTÊNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE TRAZ CONSIGO O PRÉMIO;",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PRÉMIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO PASTOR REÚNE O SEU REBANHO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PASTOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REBANHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LEVA O CORDEIRINHO NO COLO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CORDEIRINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "COLO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO O PASTOR LEVA COM CUIDADO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PASTOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CUIDADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AS OVELHAS QUE AMAMENTAM;",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "AMAMENTAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO O PASTOR LEVA SOBRE OS OMBROS (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PASTOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A OVELHA PERDIDA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "OVELHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PERDIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONSOLAI O MEU POVO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CONSOLAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

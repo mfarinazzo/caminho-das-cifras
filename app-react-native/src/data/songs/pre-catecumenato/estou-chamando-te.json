@@ -1,0 +1,459 @@
+{
+  "titulo_principal": "ESTOU CHAMANDO-TE",
+  "subtitulo": "Salmo 141 (140)",
+  "referencia": "Salmo 141 (140)",
+  "pagina": 141,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTOU CHAMANDO-TE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTOU CHAMANDO-TE, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEM CORRENDO,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CORRENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESCUTA A MINHA VOZ QUE A TI GRITO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEJA PARA TI MINHA ORAÇÃO COMO INCENSO,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "INCENSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ELEVEM-SE MINHAS MÃOS",
+              "acordes": []
+            },
+            {
+              "letra": "COMO SACRIFÍCIO DA TARDE.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TARDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PÕE, SENHOR, NA MINHA BOCA UMA SENTINELA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PÕE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "BOCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENTINELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UMA GUARDA À PORTA DE MEUS LÁBIOS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GUARDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "PORTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "LÁBIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NÃO SE INCLINE MEU CORAÇÃO PARA A MALDADE,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MALDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A COMETER AÇÕES CRIMINOSAS.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "AÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CRIMINOSAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE O JUSTO ME GOLPEIE POR AMOR, E ME CORRIJA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "GOLPEIE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA O UNGUENTO DO MALVADO",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "MALVADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO PERFUME MINHA CABEÇA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CABEÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE EU ME VICIARIA NA SUA MALDADE,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MALDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE EU ME VICIARIA NA SUA MALDADE.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MALDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTOU CHAMANDO-TE, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI, SENHOR, VOLTO MEUS OLHOS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM TI ME REFÚGIO NÃO DESAMPARES MINHA ALMA!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "REFÚGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GUARDA-ME TU DO LAÇO QUE ME PREPARAM,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "GUARDA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PREPARAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAS ARMADILHAS DE TANTOS INIMIGOS.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "DAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "INIMIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CAIAM ELES, CADA QUAL EM SUA REDE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CAIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "QUAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "REDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE EU UNIDO A TI PASSO ILESO,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "UNIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ILESO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE EU UNIDO A TI PASSO ILESO.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ILESO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTOU CHAMANDO-TE ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

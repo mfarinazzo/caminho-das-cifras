@@ -1,0 +1,786 @@
+{
+  "titulo_principal": "AO DESPERTAR",
+  "subtitulo": null,
+  "referencia": "Salmo 17 (16)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AO DESPERTAR",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DESPERTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME SACIAREI DO TEU ROSTO, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SACIAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AO DESPERTAR",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME SACIAREI DO TEU ROSTO, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SACIAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTA, SENHOR, MINHA ORAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ATENDE, SENHOR, AO MEU CLAMOR,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ATENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "CLAMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PRESTA OUVIDO A MINHA SÚPLICA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PRESTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SÚPLICA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE MEUS LÁBIOS NÃO TRAEM, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "LÁBIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EMANE DE TI A SENTENÇA, OS TEUS OLHOS VEJAM,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EMANE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SENTENÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEJAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS TEUS OLHOS VEJAM A RETIDÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "VEJAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AO DESPERTAR ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DESPERTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCRUTA, SENHOR, MEU CORAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCRUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESCRUTA-O DE NOITE, SENHOR;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCRUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROVA-ME AO CRISOL, PROVA-ME AO CRISOL",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PROVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CRISOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PROVA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CRISOL",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE TU SABES QUE NÃO HÁ MALÍCIA EM MIM;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SABES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MALÍCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A MINHA BOCA NÃO MENTE COMO FAZEM OS HOMENS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BOCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE GUARDEI A TUA PALAVRA, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "GUARDEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "PALAVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EVITEI O CAMINHO DO VIOLENTO, POR TEU CAMINHO GUIEI",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EVITEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "VIOLENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GUIEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS MEUS PASSOS, E NÃO VACILAREI, E NÃO VACILAREI.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "PASSOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VACILAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "VACILAREI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AO DESPERTAR ...",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI GRITO, SENHOR;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONCEDE-ME, SENHOR, UMA RESPOSTA;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CONCEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "RESPOSTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MOSTRA-ME OS PRODÍGIOS DO TEU AMOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MOSTRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "PRODÍGIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE TU SALVAS QUEM CONFIA EM TI,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SALVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CONFIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE TU AJUDAS QUEM SE APOIA NA TUA DESTRA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AJUDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "APOIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO PUPILA DOS TEUS OLHOS, GUARDA-ME,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "À SOMBRA DAS TUAS ASAS, ESCONDE-ME,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SOMBRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "ASAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OLHA, QUE QUEREM MATAR-ME.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MATAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AO DESPERTAR ...",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OLHA-OS, ESTÃO FECHADOS NO SEU ORGULHO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "OLHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "FECHADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FALAM COM ARROGÂNCIA AS SUAS BOCAS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FALAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ARROGÂNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AVANÇAM CONTRA MIM, AVANÇAM CONTRA MIM!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AVANÇAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AVANÇAM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AJUDA-ME TU, Ó SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AJUDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LIVRA-ME DOS HOMENS DESTE MUNDO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "LIVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DOS HOMENS CUJO PRÊMIO É ESTA VIDA!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "HOMENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "PRÊMIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CUMULA-OS DOS TEUS BENS, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CUMULA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BENS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENCHE-LHES O VENTRE",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ENCHE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E QUE SEUS FILHOS SE SACIEM!",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "FILHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE EU AO DESPERTAR, QUE EU AO DESPERTAR,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DESPERTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "DESPERTAR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME SACIAREI DO TEU ROSTO, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ROSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AO DESPERTAR ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Si menor"
+}

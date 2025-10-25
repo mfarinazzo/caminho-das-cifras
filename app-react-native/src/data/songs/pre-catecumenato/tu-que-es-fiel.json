@@ -1,0 +1,485 @@
+{
+  "titulo_principal": "TU QUE ÉS FIEL",
+  "subtitulo": null,
+  "referencia": "Salmo 143(142)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Senhor, escuta a minha oração,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "oração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "dá ouvidos à minha súplica.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ouvidos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "súplica",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "súplica",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU QUE ÉS FIEL,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "TU QUE ÉS FIEL RESPONDE-ME,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESPONDE-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "POR TUA JUSTIÇA RESPONDE-ME.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "JUSTIÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESPONDE-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Não chames a juízo o teu servo,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "chames",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "servo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "nenhum homem é inocente diante de ti.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o inimigo persegue-me,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "persegue-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "esmaga a minha vida contra o chão.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "esmaga",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "chão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU QUE ÉS FIEL, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Estendo as minhas mãos para ti,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "Estendo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "tenho sede de ti como terra ressequida.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ressequida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Escuta-me depressa, Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "que me falta o alento.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "alento",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU QUE ÉS FIEL, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Faz-me conhecer o caminho,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "Faz-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "caminho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "a via que hei de seguir.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "seguir",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Livra-me dos meus inimigos,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "inimigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Senhor, eu me refugio em ti.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU QUE ÉS FIEL, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ensina-me a cumprir a tua vontade,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "Ensina-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "vontade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "porque tu és o meu Deus;",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "teu Espírito me guie,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "guie",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "teu Espírito me guie por terra plana.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "teu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "plana",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU QUE ÉS FIEL, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "em um tom mais baixo.",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol menor"
+}

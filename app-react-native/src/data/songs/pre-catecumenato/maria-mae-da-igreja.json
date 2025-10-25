@@ -1,0 +1,402 @@
+{
+  "titulo_principal": "MARIA, MÃE DA IGREJA",
+  "subtitulo": null,
+  "referencia": "João 19, 26-34",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MULHER, EIS O TEU FILHO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MULHER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MULHER, EIS O TEU FILHO, EIS O TEU FILHO,",
+              "acordes": []
+            },
+            {
+              "letra": "EIS O TEU FILHO.",
+              "acordes": []
+            },
+            {
+              "letra": "EIS A TUA MÃE, EIS A TUA MÃE.”",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MINHA MÃE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MARIA, NOSSA MÃE.",
+              "acordes": [
+                {
+                  "cifra": "Sol7 *",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOSSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEM VIVER COMIGO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEM À MINHA CASA",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ENSINA-NOS A AMAR O TEU FILHO",
+              "acordes": [
+                {
+                  "cifra": "Mi7 *",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa7 aum",
+                  "palavra_alvo": "AMAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO O AMASTE TU.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ENSINA-NOS A AMAR O TEU FILHO",
+              "acordes": [
+                {
+                  "cifra": "Mi7 *",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa7 aum",
+                  "palavra_alvo": "AMAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO O AMASTE TU.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“TENHO SEDE, TENHO SEDE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TENHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TUDO ESTÁ CONSUMADO,",
+              "acordes": []
+            },
+            {
+              "letra": "TUDO ESTÁ CONSUMADO,",
+              "acordes": []
+            },
+            {
+              "letra": "TUDO ESTÁ CONSUMADO.”",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MINHA MÃE, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VIERAM ENTÃO OS SOLDADOS",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VIERAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E, VENDO QUE ESTAVA MORTO,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO LHE QUEBRARAM AS PERNAS,",
+              "acordes": []
+            },
+            {
+              "letra": "MAS UM DOS SOLDADOS",
+              "acordes": []
+            },
+            {
+              "letra": "TRANSPASSOU-LHE O LADO COM A LANÇA",
+              "acordes": []
+            },
+            {
+              "letra": "E LOGO SAIU SANGUE E ÁGUA,",
+              "acordes": [
+                {
+                  "cifra": "Fa7 aum",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANGUE E ÁGUA,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MINHA MÃE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MARIA, NOSSA MÃE.",
+              "acordes": [
+                {
+                  "cifra": "Sol 7*",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOSSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS A MÃE DA IGREJA",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "IGREJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NASCE DO LADO DE CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa7 aum",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A SUA ESPOSA, A NOVA EVA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NASCE DO LADO DE CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa7 aum",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A SUA ESPOSA, A NOVA EVA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

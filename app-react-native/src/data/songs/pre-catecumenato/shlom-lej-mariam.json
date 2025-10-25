@@ -1,0 +1,391 @@
+{
+  "titulo_principal": "SHLOM-LEJ MARIAM",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHLOM-LEJ MARIAM,    |",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SHLOM-LEJ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MARIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "MALIATH TAI BUTHA.   |",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "TAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BUTHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MARAN, MARAN AMEJ,   |",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MARAN",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "AMEJ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MARAN, MARAN AMEJ.   |",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MARAN",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "AMEJ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ave Maria, cheia de graça.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o Senhor, o Senhor é convosco.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "convosco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Bendita sois vós entre as mulheres,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Bendita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "mulheres",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "e bendito é o fruto de vosso ventre, Jesus.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "bendito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTA, SANTA MARIA,               |",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "MÃE, MÃE DE DEUS,                 |",
+              "acordes": []
+            },
+            {
+              "letra": "ROGAI, ROGAI POR NÓS              |",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE SOMOS, QUE SOMOS PECADORES.   |",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SOMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PECADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Maria, não choreis.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "choreis",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "Maria, Maria, Maria",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Aiaai, aiaai, aai!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "aai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "(melisma)",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTA, SANTA MARIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Maria ajudai-nos.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ajudai-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "Maria ajudai-nos.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ajudai-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Virgem Maria!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Virgem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Ai ai ai ai ai ai ai!",
+              "acordes": []
+            },
+            {
+              "letra": "(melisma)",
+              "acordes": []
+            },
+            {
+              "letra": "Ajudai-nos!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Ajudai-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTA, SANTA MARIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SHLOM-LEJ MARIAM, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SHLOM-LEJ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

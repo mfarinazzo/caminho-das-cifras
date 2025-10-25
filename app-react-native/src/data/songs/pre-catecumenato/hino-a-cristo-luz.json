@@ -1,0 +1,233 @@
+{
+  "titulo_principal": "HINO A CRISTO LUZ",
+  "subtitulo": "Hino",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÓS VOS BENDIZEMOS NESTA HORA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó CRISTO MEU, VERBO DE DEUS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LUZ DA LUZ SEM COMEÇO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÓS VOS BENDIZEMOS, VERBO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÓS VOS BENDIZEMOS, VERBO DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÓS VOS BENDIZEMOS. Ó TRÍPLICE LUZ DE UMA INDIVISA GLÓRIA!",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TRÍPLICE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "INDIVISA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DOMINASTES AS TREVAS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DOMINASTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TROUXESTES A LUZ RESSUSCITANDO DA NOITE.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "TROUXESTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VÓS SOIS A ETERNA LUZ, QUE ILUMINA NOSSAS VIDAS.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VIDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VÓS SOIS A ETERNA LUZ, QUE AMANHECE SOBRE O MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VÓS SOIS A ETERNA LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÓS VOS BENDIZEMOS, SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÓS VOS BENDIZEMOS NESTA HORA ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

@@ -1,0 +1,388 @@
+{
+  "titulo_principal": "MISERICÓRDIA MINHA, MISERICÓRDIA",
+  "subtitulo": null,
+  "referencia": "Salmo 51 (50) “Miserere”",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MISERICÓRDIA MINHA, MISERICÓRDIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MISERICÓRDIA MINHA, MISERICÓRDIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE, Ó MEU DEUS, MISERICÓRDIA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NA IMENSIDÃO DE VOSSO AMOR, PURIFICAI-ME!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LAVAI-ME TODO INTEIRO DO PECADO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "INTEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E APAGAI COMPLETAMENTE A MINHA CULPA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CULPA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MISERICÓRDIA MINHA, MISERICÓRDIA ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU RECONHEÇO TODA A MINHA INIQUIDADE,",
+              "acordes": []
+            },
+            {
+              "letra": "O MEU PECADO ESTÁ SEMPRE À MINHA FRENTE:",
+              "acordes": []
+            },
+            {
+              "letra": "FOI CONTRA VÓS, SÓ CONTRA VÓS, QUE EU PEQUEI,",
+              "acordes": []
+            },
+            {
+              "letra": "E PRATIQUEI O QUE É MAU AOS VOSSOS OLHOS.",
+              "acordes": []
+            },
+            {
+              "letra": "MOSTRAIS ASSIM QUANTO SOIS JUSTO NA SENTENÇA,",
+              "acordes": []
+            },
+            {
+              "letra": "E QUANTO É RETO O JULGAMENTO QUE FAZEIS.",
+              "acordes": []
+            },
+            {
+              "letra": "VEDE, SENHOR, QUE EU NASCI NA INIQUIDADE",
+              "acordes": []
+            },
+            {
+              "letra": "E PECADOR JÁ MINHA MÃE ME CONCEBEU.",
+              "acordes": []
+            },
+            {
+              "letra": "MAS VÓS AMAIS OS CORAÇÕES QUE SÃO SINCEROS,",
+              "acordes": []
+            },
+            {
+              "letra": "NA INTIMIDADE ME ENSINAIS SABEDORIA.",
+              "acordes": []
+            },
+            {
+              "letra": "ASPERGI-ME E SEREI PURO DO PECADO,",
+              "acordes": []
+            },
+            {
+              "letra": "E MAIS BRANCO DO QUE A NEVE FICAREI.",
+              "acordes": []
+            },
+            {
+              "letra": "FAZEI-ME OUVIR CANTOS DE FESTA E DE ALEGRIA,",
+              "acordes": []
+            },
+            {
+              "letra": "E EXULTARÃO ESTES MEUS OSSOS QUE ESMAGASTES.",
+              "acordes": []
+            },
+            {
+              "letra": "DESVIAI O VOSSO OLHAR DOS MEUS PECADOS,",
+              "acordes": []
+            },
+            {
+              "letra": "E APAGAI TODAS AS MINHAS TRANSGRESSÕES.",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRIAI EM MIM UM CORAÇÃO QUE SEJA PURO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CRIAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PURO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAI-ME DE NOVO UM ESPÍRITO DECIDIDO.",
+              "acordes": []
+            },
+            {
+              "letra": "Ó SENHOR, NÃO ME AFASTEIS DE VOSSA FACE,",
+              "acordes": []
+            },
+            {
+              "letra": "NEM RETIREIS DE MIM O VOSSO SANTO ESPÍRITO.",
+              "acordes": []
+            },
+            {
+              "letra": "DAI-ME DE NOVO A ALEGRIA DE SER SALVO,",
+              "acordes": []
+            },
+            {
+              "letra": "E CONFIRMAI-ME COM ESPÍRITO GENEROSO;",
+              "acordes": []
+            },
+            {
+              "letra": "ENSINAREI VOSSO CAMINHO AOS PECADORES,",
+              "acordes": []
+            },
+            {
+              "letra": "E PARA VÓS SE VOLTARÃO OS TRANSVIADOS.",
+              "acordes": []
+            },
+            {
+              "letra": "DA MORTE COM PENA, LIBERTAI-ME,",
+              "acordes": []
+            },
+            {
+              "letra": "E MINHA LÍNGUA EXALTARÁ VOSSA JUSTIÇA.",
+              "acordes": []
+            },
+            {
+              "letra": "ABRI MEUS LÁBIOS, Ó SENHOR, PARA CANTAR,",
+              "acordes": []
+            },
+            {
+              "letra": "E MINHA BOCA ANUNCIARÁ VOSSO LOUVOR.",
+              "acordes": []
+            },
+            {
+              "letra": "POIS NÃO SÃO DE VÓS AGRADO OS SACRIFÍCIOS:",
+              "acordes": []
+            },
+            {
+              "letra": "E, SE OFERTO UM HOLOCAUSTO, O REJEITAIS.",
+              "acordes": []
+            },
+            {
+              "letra": "MEU SACRIFÍCIO É MINHA ALMA PENITENTE,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO DESPREZEIS UM CORAÇÃO ARREPENDIDO.",
+              "acordes": []
+            },
+            {
+              "letra": "SEDE BENIGNO COM SIÃO, POR VOSSA GRAÇA,",
+              "acordes": []
+            },
+            {
+              "letra": "RECONSTRUÍ JERUSALÉM E OS SEUS MUROS:",
+              "acordes": []
+            },
+            {
+              "letra": "E ACEITAREIS O VERDADEIRO SACRIFÍCIO,",
+              "acordes": []
+            },
+            {
+              "letra": "OS HOLOCAUSTOS E OBLAÇÕES EM VOSSO ALTAR.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MISERICÓRDIA MINHA, MISERICÓRDIA ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

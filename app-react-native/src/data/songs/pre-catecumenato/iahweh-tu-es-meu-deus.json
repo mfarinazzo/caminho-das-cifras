@@ -1,0 +1,255 @@
+{
+  "titulo_principal": "IAHWEH, TU ÉS MEU DEUS",
+  "subtitulo": null,
+  "referencia": "Isaías 25",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "IAHWEH, TU ÉS MEU DEUS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EU TE LOUVAREI.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LOUVAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVAREI TEU NOME,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LOUVAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVAREI TEU NOME.",
+              "acordes": []
+            },
+            {
+              "letra": "LOUVAREI TEU NOME.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IAHWEH, TU ÉS MEU DEUS, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DESTRUIRÁS A MORTE PARA SEMPRE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESTRUIRÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ENXUGARÁS AS LÁGRIMAS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "LÁGRIMAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE CADA ROSTO, DE CADA ROSTO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ROSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ROSTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IAHWEH, TU ÉS MEU DEUS, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "APROXIMAM-SE OS PASSOS DOS POBRES,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "APROXIMAM-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS PÉS DOS HUMILDES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "HUMILDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS PÉS DOS HUMILDES, O RESTO DE JACÓ.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HUMILDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IAHWEH, TU ÉS MEU DEUS, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

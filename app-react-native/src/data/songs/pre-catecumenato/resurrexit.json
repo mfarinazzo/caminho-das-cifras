@@ -1,0 +1,549 @@
+{
+  "titulo_principal": "RESURREXIT",
+  "subtitulo": null,
+  "referencia": "Diálogo de Nosso Senhor Jesus Cristo com Maria - João 11, 25-27",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RESURREXIT, RESURREXIT,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "RESURREXIT, RESURREXIT.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA, GLÓRIA, GLÓRIA, GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 4,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Eu sou a Ressurreição.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "sou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Ressurreição",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 10
+                }
+              ]
+            },
+            {
+              "letra": "A Ressurreição, a Ressurreição;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Ressurreição",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU SOU A RESSURREIÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "RESSURREIÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 10
+                }
+              ]
+            },
+            {
+              "letra": "A RESSURREIÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A RESSURREIÇÃO;",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "RESSURREIÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Quem crê em mim, ainda que morra, viverá,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "crê",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "viverá",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "e todo o que vive e crê em mim,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "não morrerá jamais, não morrerá jamais,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "jamais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "não",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "jamais",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RESURREXIT, RESURREXIT,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA, GLÓRIA, GLÓRIA, GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 4,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Crês tu nisto? Crês tu nisto?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "nisto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "tu",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "nisto",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Sim, eu creio que Tu és o Cristo,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Sim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o Filho de Deus, que há de vir ao mundo.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "há",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "mundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RESURREXIT, RESURREXIT,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA, GLÓRIA, GLÓRIA, GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 4,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "LA, LA, LA, LA,  LA, LA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "LA, LA, LA, LA,  LA, LA, LA, LA.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 8,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "LA, LA, LA, LA,  LA, LA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "LA,     LA, LA, LA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 4,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "RESURREXIT, RESURREXIT,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "RESURREXIT",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "GLÓRIA, GLÓRIA, GLÓRIA, GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 4,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

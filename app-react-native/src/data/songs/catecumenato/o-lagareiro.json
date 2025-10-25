@@ -1,0 +1,373 @@
+{
+  "titulo_principal": "O LAGAREIRO",
+  "subtitulo": null,
+  "referencia": "Isaías 63, 1-6",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM É ESSE QUE VEM DO EDOM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUEM É ESSE TODO MANCHADO DE VERMELHO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VERMELHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESSE, DA VESTE ESPLENDOROSA",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ESSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DE ANDAR TÃO PODEROSO?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ANDAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SOU EU, SOU EU",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE FALO COM JUSTIÇA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FALO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SOU EU UM GRANDE LIBERTADOR.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LIBERTADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E POR QUE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR QUE ESTÁ VERMELHA A TUA VESTE?",
+              "acordes": []
+            },
+            {
+              "letra": "POR QUE PARECES UM LAGAREIRO?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LAGAREIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR QUÊ? POR QUÊ?",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NO LAGAR, NO LAGAR PISEI EU SÓ;",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO MEU POVO NÃO HOUVE NINGUÉM COMIGO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OLHEI, OLHEI, NÃO HAVIA AUXILIADOR;",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "OLHEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AUXILIADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ADMIREI-ME DE QUE NINGUÉM ME AJUDASSE.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ADMIREI-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AJUDASSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ISSO A MINHA FORÇA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ISSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MINHA FORÇA ME SUSTEVE.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FORCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O DIA DA VINGANÇA TINHA CHEGADO!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VINGANCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESPEZINHEI OS POVOS NA MINHA IRA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "IRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PISEI-OS, PISEI-OS COM FÚRIA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PISEI-OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "FURIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E FIZ CORRER",
+              "acordes": []
+            },
+            {
+              "letra": "PELA TERRA O SEU SANGUE",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TODAS AS MINHAS VESTES",
+              "acordes": []
+            },
+            {
+              "letra": "EU MANCHEI.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM É ESSE QUE VEM DO EDOM, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

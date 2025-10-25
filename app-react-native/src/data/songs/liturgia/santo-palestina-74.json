@@ -1,0 +1,364 @@
+{
+  "titulo_principal": "SANTO PALESTINA 74",
+  "subtitulo": "Tempo Pascal",
+  "referencia": null,
+  "pagina": 74,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO, SANTO, SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO É O SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH SABAOTH,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SABAOTH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH SABAOTH.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SABAOTH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS CÉUS E A TERRA",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CÉUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROCLAMAM,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PROCLAMAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROCLAMAM VOSSA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HOSANA, HOSANA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOSANA, HOSANA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOSANA, HOSANA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOSANA, HOSANA,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOSANA NO ALTO DO CÉU,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOSANA, HOSANA.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDITO O QUE VEM",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM NOME,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM NOME DO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HOSANA, HOSANA, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "HOSANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

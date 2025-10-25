@@ -1,0 +1,256 @@
+{
+  "titulo_principal": "VOS TOMAREI DENTRE AS NAÇÕES",
+  "subtitulo": null,
+  "referencia": "Cântico de Ezequiel - Ez 36, 24-28",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VOS TOMAREI DENTRE AS NAÇÕES,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TOMAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "VOS REUNIREI DE TODOS OS POVOS.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "POVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "VOS ASPERGIREI COM ÁGUA PURA",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ASPERGIREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E EU VOS PURIFICAREI.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PURIFICAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vos darei um coração novo,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "darei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "infundirei em vós um espírito novo,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "novo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "vos tirarei o coração de pedra,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "tirarei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "pedra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "vos darei um coração de carne.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "darei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "carne",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VOS TOMAREI DENTRE AS NAÇÕES, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TOMAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Porei o meu Espírito dentro de vós",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "Porei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "e farei que caminheis segundo a minha Palavra.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "farei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Palavra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Vós sereis o meu povo,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "Vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e eu serei o vosso Deus.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VOS TOMAREI DENTRE AS NAÇÕES, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TOMAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

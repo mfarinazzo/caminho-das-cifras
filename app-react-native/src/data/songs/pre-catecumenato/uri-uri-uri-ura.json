@@ -1,0 +1,396 @@
+{
+  "titulo_principal": "URI, URI, URI, URÁ",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Uri, uri, uri, urá, uri, uri, uri, urá.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "uri",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "uri",
+                  "ocorrencia_palavra": 4,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "urá",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "URI, URI, URI, URA, URI, URI, URI, URA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "URI",
+                  "ocorrencia_palavra": 4,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "URA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "URI, URI, URI, URA,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "URA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PAM PAM, PAM PAM, PAM PA RAM PAMPAM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PAMPAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "PAM PAM, PAM PAM, PAM PA RAM PAMPAM.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PAMPAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "LA LA LA LA LA LA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LA",
+                  "ocorrencia_palavra": 6,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Um nenezinho vai nascer,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "nenezinho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "nascer",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "um menino pequeno.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "pequeno",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM NENEZINHO VAI NASCER,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NASCER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "UM MENINO PEQUENO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PEQUENO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Como se chamará? Emanuel!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Emanuel",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO SE CHAMARÁ? EMANUEL!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EMANUEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "COMO SE CHAMARÁ? EMANUEL!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "EMANUEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "VEM NENEZINHO, VEM!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "URI, URI, URI, URA,...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "URI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "URA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Sua mãezinha está em Belém,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "mãezinha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Belém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "seu pai é carpinteiro.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "carpinteiro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SUA MÃEZINHA ESTÁ EM BELÉM,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "BELÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "SEU PAI É CARPINTEIRO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CARPINTEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Como se chamará? Emanuel!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Emanuel",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO SE CHAMARÁ? EMANUEL!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EMANUEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "COMO SE CHAMARÁ? EMANUEL!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "EMANUEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "VEM NENEZINHO, VEM!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "URI, URI, URI, URA,...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "URI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "URA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

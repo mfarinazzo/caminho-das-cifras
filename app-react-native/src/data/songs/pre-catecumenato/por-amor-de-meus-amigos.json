@@ -1,0 +1,453 @@
+{
+  "titulo_principal": "POR AMOR DE MEUS AMIGOS",
+  "subtitulo": null,
+  "referencia": "Salmo 122 (121)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Por amor de meus amigos,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "por amor de meus irmãos,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "irmãos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "deixa-me que hoje te diga:",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "diga",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A paz contigo!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "contigo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Que alegria quando me disseram:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "vamos para a Casa do Senhor!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "vamos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS NOSSOS PÉS JÁ ESTÃO PISANDO",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PISANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "AS TUAS PORTAS, JERUSALÉM!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM, JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "DE NOVO REEDIFICADA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REEDIFICADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM, JERUSALÉM,",
+              "acordes": []
+            },
+            {
+              "letra": "DE NOVO REEDIFICADA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NOVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REEDIFICADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM, JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DE NOVO REEDIFICADA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REEDIFICADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM, JERUSALÉM,",
+              "acordes": []
+            },
+            {
+              "letra": "DE NOVO REEDIFICADA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NOVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REEDIFICADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "P.  Por amor de meus amigos, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Por",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "...  A paz contigo!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "contigo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Para lá sobem as tribos,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "lá",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "as tribos do Senhor.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "tribos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONFORME O COSTUME DE ISRAEL",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "PARA CANTAR AO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM, JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Por amor de meus amigos, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "... A paz contigo!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "contigo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Pedi a paz, pedi a paz",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para Jerusalém:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "para",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Jerusalém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ESTEJA A PAZ, QUE ESTEJA A PAZ",
+              "acordes": []
+            },
+            {
+              "letra": "COM AQUELES QUE TE AMAM.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "AQUELES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AMAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM, JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

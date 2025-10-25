@@ -1,0 +1,537 @@
+{
+  "titulo_principal": "JERUSALÉM RECONSTRUÍDA",
+  "subtitulo": null,
+  "referencia": "Tobias 13, 11-17",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "5ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZE, MINHA ALMA, AO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BENDIZE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDIZE, MINHA ALMA, AO GRANDE REI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE SERÁ RECONSTRUÍDA JERUSALÉM, JERUSALÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RECONSTRUÍDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM, JERUSALÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM, JERUSALÉM.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM RECONSTRUÍDA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RECONSTRUÍDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM PARA SEMPRE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM SERÁ RECONSTRUÍDA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RECONSTRUÍDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM SAFIRAS E ESMERALDAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESMERALDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE PEDRAS PRECIOSAS SUAS MURALHAS;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MURALHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AS SUAS TORRES DE OURO PURO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PURO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SUAS PRAÇAS SÃO DE RUBI,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RUBI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SUAS TORRES DE OURO DE OFIR;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OFIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NAS SUAS PORTAS SE EXULTARÁ,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EXULTARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NAS SUAS CASAS SE CANTARÁ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CANTARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM, JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BRILHARÁ TUA LUZ ATÉ OS CONFINS DA TERRA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFINS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEGARÃO A TI POVOS NUMEROSOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NUMEROSOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CHEGARÃO A TI TODAS AS NAÇÕES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "À CASA DO TEU SANTO NOME.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AS GERAÇÕES TE CANTARÃO, TODOS OS POVOS EXULTARÃO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CANTARÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EXULTARÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NELA O NOME DE TEU UNGIDO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "UNGIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SERÁ PARA SEMPRE, SERÁ PARA SEMPRE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM, JERUSALÉM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MALDITOS SEJAM OS QUE TE DIZEM PALAVRAS CRUÉIS!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIZEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CRUÉIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MALDITOS OS QUE DESEJAM A TUA RUÍNA!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RUÍNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS QUE DERRUBAM AS TUAS MURALHAS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MURALHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS QUE DEITAM POR TERRA AS TUAS TORRES!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TORRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS BENDITOS SEJAM, BENDITOS PARA SEMPRE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BENDITOS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS QUE TE CONSTROEM, OS QUE TE EDIFICAM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EDIFICAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDITOS OS QUE TE AMAM, OS QUE CHORAM POR",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TEUS CASTIGOS! PORQUE EM TUAS PORTAS SE EXULTARÁ,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CASTIGOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EXULTARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM TUAS CASAS SE CANTARÁ:",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CANTARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JERUSALÉM, JERUSALÉM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

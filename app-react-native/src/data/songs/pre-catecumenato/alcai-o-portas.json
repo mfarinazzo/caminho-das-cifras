@@ -1,0 +1,505 @@
+{
+  "titulo_principal": "ALÇAI Ó PORTAS",
+  "subtitulo": null,
+  "referencia": "Salmo 24 (23)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DO SENHOR É A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO SENHOR É A TERRA,",
+              "acordes": []
+            },
+            {
+              "letra": "E TUDO AQUILO QUE CONTÉM,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CONTÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TUDO AQUILO QUE CONTÉM,",
+              "acordes": []
+            },
+            {
+              "letra": "O MUNDO E SEUS HABITANTES,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "HABITANTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SEUS HABITANTES.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALÇAI, Ó PORTAS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALÇAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS VOSSOS FRONTÕES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FRONTÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORTAS ETERNAS,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ETERNAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEVE ENTRAR O REI DA GLÓRIA, DA GLÓRIA!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM É ESSE REI DA GLÓRIA?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUEM É ESSE REI DA GLÓRIA?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É O SENHOR, O FORTE, O HERÓI,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É O SENHOR, O FORTE, O HERÓI,",
+              "acordes": []
+            },
+            {
+              "letra": "É O SENHOR PODEROSO NA BATALHA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "BATALHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PODEROSO NA BATALHA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "BATALHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É O SENHOR DOS EXÉRCITOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "EXÉRCITOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É O SENHOR DOS EXÉRCITOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "EXÉRCITOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É ELE O REI DA GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O REI DA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALÇAI, Ó PORTAS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALÇAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM SUBIRÁ AO MONTE DO SENHOR?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUEM SUBIRÁ AO MONTE DO SENHOR?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O DE MÃOS INOCENTES E DE PURO CORAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "MÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O DE MÃOS INOCENTES E DE PURO CORAÇÃO,",
+              "acordes": []
+            },
+            {
+              "letra": "O QUE NÃO CONDUZ A SUA VIDA NA VAIDADE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CONDUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VAIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA VAIDADE.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VAIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E NÓS SOMOS A TUA IGREJA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "IGREJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NÓS SOMOS A TUA IGREJA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "IGREJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE HOJE VEM À TUA PRESENÇA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "HOJE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "PRESENÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE HOJE VEM À TUA PRESENÇA;",
+              "acordes": []
+            },
+            {
+              "letra": "QUE BUSCA O TEU ROSTO, Ó DEUS DE JACÓ.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BUSCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó DEUS DE JACÓ.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALÇAI, Ó PORTAS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALÇAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

@@ -1,0 +1,451 @@
+{
+  "titulo_principal": "QUE ESTUPENDO, QUE ALEGRIA",
+  "subtitulo": null,
+  "referencia": "Salmo 133(132)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ESTUPENDO, QUE ALEGRIA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTUPENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTUPENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "OS IRMÃOS SEMPRE UNIDOS!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "IRMÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "UNIDOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É como óleo derramado sobre a fronte, que desce pela barba de Aarão,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "derramado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "sobre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "fronte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "desce",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Aarão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "É COMO ÓLEO DERRAMADO SOBRE A FRONTE, QUE DESCE PELA BARBA DE AARÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ÓLEO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DERRAMADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FRONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DESCE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AARÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ESTUPENDO, QUE ALEGRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTUPENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTUPENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É como orvalho que desce do Hermon sobre o Monte Sião,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "orvalho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "desce",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Hermon",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "sobre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Sião",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "É COMO ORVALHO QUE DESCE DO HERMON SOBRE O MONTE SIÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ORVALHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DESCE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "HERMON",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SOBRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ESTUPENDO, QUE ALEGRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTUPENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Abençoa-nos o Senhor do alto, a vida nos dá eternamente,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Abençoa-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Abençoa-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "do",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "eternamente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 9
+                }
+              ]
+            },
+            {
+              "letra": "ABENÇOA-NOS O SENHOR DO ALTO, A VIDA NOS DÁ ETERNAMENTE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ABENÇOA-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ABENÇOA-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ETERNAMENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ESTUPENDO, QUE ALEGRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTUPENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTUPENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

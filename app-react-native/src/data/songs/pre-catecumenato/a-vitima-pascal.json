@@ -1,0 +1,415 @@
+{
+  "titulo_principal": "À VITIMA PASCAL",
+  "subtitulo": "Sequência da Páscoa",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "5ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "À VÍTIMA PASCAL",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VÍTIMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PASCAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OFERECEMOS HOJE",
+              "acordes": []
+            },
+            {
+              "letra": "O SACRIFÍCIO DE LOUVOR.",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "LOUVOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O CORDEIRO REDIMIU O REBANHO,",
+              "acordes": [
+                {
+                  "cifra": "Fa7 aum",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "REBANHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O INOCENTE RECONCILIOU-NOS",
+              "acordes": [
+                {
+                  "cifra": "Fa7 aum",
+                  "palavra_alvo": "INOCENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RECONCILIOU-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PECÁDORES, COM O PAI.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PECÁDORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MORTE E VIDA SE ENFRENTARAM",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NUM PRODIGIOSO DUELO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NUM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O AUTOR DA VIDA ESTAVA MORTO,",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "AUTOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS AGORA ESTÁ VIVO E TRIUNFA.",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TRIUNFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIZE-NOS, MARIA:",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DIZE-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O QUE TENS VISTO NO CAMINHO?",
+              "acordes": []
+            },
+            {
+              "letra": "\"O TÚMULO DO SENHOR VAZIO,\"",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "TÚMULO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VAZIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A GLÓRIA DO SENHOR E CRISTO VIVO,",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VIVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS ANJOS, OS PANOS E O SUDÁRIO.\"",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SUDÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE CRISTO, MINHA ESPERANÇA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RESSUSCITOU!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NOS PRECEDE NA GALILEIA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NOS PRECEDE NA GALILEIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SIM ESTAMOS CERTOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CERTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO RESSUSCITOU!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SIM ESTAMOS CERTOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CERTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO RESSUSCITOU!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NOS PRECEDE NA GALILEIA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NOS PRECEDE NA GALILEIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU, REI VITORIOSO, DAI-NOS A SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

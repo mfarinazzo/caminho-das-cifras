@@ -1,0 +1,531 @@
+{
+  "titulo_principal": "BÊNÇÃO PENITENCIAL",
+  "subtitulo": "Oração para concluir a ação de graças para a Celebração Penitencial",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ESTEJA CONVOSCO!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE ESTÁ NO MEIO DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MEIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CORAÇÕES AO ALTO!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CORAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "DEMOS GRAÇAS AO SENHOR NOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó DEUS, TODO PODEROSO E CHEIO DE MISERICÓRDIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CHEIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRIASTES O HOMEM DE MODO ADMIRÁVEL",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CRIASTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ADMIRÁVEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E MAIS ADMIRAVELMENTE O RESTAURASTES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "restaurastes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "NÃO O ABANDONAIS EM SEU PECADO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Não",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "pecado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "MAS COM AMOR PATERNO O ACOMPANHAIS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "acompanhais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "ENVIASTES AO MUNDO VOSSO FILHO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "filho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE, DESTRUINDO COM SUA PAIXÃO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAIXÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O PECADO E A MORTE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NOS DEVOLVESSE, COM SUA RESSURREIÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "com",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A VIDA E A ALEGRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DERRAMASTES EM NOSSOS CORAÇÕES O ESPÍRITO SANTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE NOS TORNÁSSEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "VOSSOS FILHOS E HERDEIROS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "vossos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "CONTINUAMENTE NOS RENOVAIS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Continuamente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "renovais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "COM OS SACRAMENTOS DA SALVAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "salvação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "PARA QUE LIVRES",
+              "acordes": []
+            },
+            {
+              "letra": "DA ESCRAVIDÃO DO PECADO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SEJAMOS TRANSFORMADOS DIA A DIA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TRANSFORMADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA IMAGEM DO VOSSO FILHO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÓS VOS LOUVAMOS E",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOS BENDIZEMOS SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM COMUNHÃO COM TODA A IGREJA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IGREJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PELAS MARAVILHAS DE VOSSA MISERICÓRDIA",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MISERICÓRDIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTANDO, CANTANDO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CANTANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CANTANDO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O HINO DE VOSSA GLÓRIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTAR O SANTO DO TEMPO LITÚRGICO QUE CORRESPONDA.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

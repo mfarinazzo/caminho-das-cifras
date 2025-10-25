@@ -1,0 +1,294 @@
+{
+  "titulo_principal": "ALELUIA! BENDIZEI O SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 134 (133)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELU, ALELU, ALE E LU U IA,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ALELU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ALELU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELU, ALELU, ALE E LU U IA.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ALELU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "Crianças",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZEI O SENHOR, BENDIZEI O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SERVOS TODOS DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDIZEI O SENHOR, BENDIZEI O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VÓS QUE ESTAIS NA CASA DO SENHOR.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANTAI VOSSAS MÃOS, LEVANTAI VOSSAS MÃOS E BENDIZEI O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VÓS QUE ESTAIS NA CASA DO SENHOR DURANTE A NOITE!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, A A LE E LU U IA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, A A LE E LU U IA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELU, ALELU, ALE E LU U IA!",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ALELU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELU, ALELU, ALE E LU U IA!",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ALELU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "IA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZEI AO SENHOR, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ...",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AALELU, ALELUUU ... UUIA. (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "AALELU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "UUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

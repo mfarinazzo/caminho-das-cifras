@@ -1,0 +1,261 @@
+{
+  "titulo_principal": "CHEGUE À TUA PRESENÇA MEU CLAMOR",
+  "subtitulo": null,
+  "referencia": "Salmo 119 (118)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, SENHOR JESUS!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEGUE À TUA PRESENÇA MEU CLAMOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CHEGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BROTE DE MEUS LÁBIOS TUA CANÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "BROTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTE MINHA LÍNGUA TUAS PALAVRAS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ALMA MINHA, JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTEJA COMIGO TUA MÃO PARA AJUDAR-ME",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE TI ESPERO A SALVAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VIVA MINHA ALMA PARA LOUVAR-TE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VIVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OLHA-ME, ANDO ERRANTE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "OLHA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, EM BUSCA DO TEU SERVO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SERVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEM, SENHOR JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEM, QUE EU SEM TI ME PERCO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PERCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEM, SENHOR JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CHEGUE À TUA PRESENÇA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CHEGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, EM BUSCA DO TEU SERVO, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SERVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

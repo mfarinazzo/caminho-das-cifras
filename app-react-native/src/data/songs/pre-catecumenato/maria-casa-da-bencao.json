@@ -1,0 +1,341 @@
+{
+  "titulo_principal": "MARIA, CASA DA BÊNÇÃO",
+  "subtitulo": "As Bodas de Caná - João 2, 1-11",
+  "referencia": "João 2, 1-11",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, CASA DA BÊNÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BÊNÇAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SALVAÇÃO DO NOSSO SÉCULO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SÉCULO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SÉCULO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MORADA TERRESTRE DO HUMILDE.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "HUMILDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU, COMO EM CANÁ DA GALILÉIA,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "GALILÉIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VISTE QUE NOS FALTAVA O VINHO;",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "VISTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "VINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE A NOSSA FESTA NÃO ERA FESTA,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "FESTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE A NOSSA VIDA NÃO ERA VIDA",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE A MORTE REINAVA SOBRE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, CASA DA BÊNÇÃO, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CASA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BÊNÇAO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E TU NOS LEVASTE A TEU FILHO",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NOS ENSINASTE A OBEDECER-LHE",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ENSINASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E A FAZER TUDO O QUE ELE NOS DISSESSE,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DISSESSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA TRANSFORMAR A NOSSA ÁGUA EM VINHO NOVO.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ÁGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NOVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "VITÓRIA! VITÓRIA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VITÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VITÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VIDA ETERNA EM CRISTO RESSUSCITADO!",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "ETERNA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "RESSUSCITADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

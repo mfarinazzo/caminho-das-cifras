@@ -1,0 +1,353 @@
+{
+  "titulo_principal": "CORDEIRO DE DEUS",
+  "subtitulo": "Ladainha do Cordeiro de Deus",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AGNUS DEI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AGNUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUI TOLLIS PECCATA MUNDI.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TOLLIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MISERERE NOBIS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MISERERE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NOBIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AGNUS DEI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AGNUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUI TOLLIS PECCATA MUNDI.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TOLLIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MISERERE NOBIS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MISERERE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NOBIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AGNUS DEI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AGNUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUI TOLLIS PECCATA MUNDI.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TOLLIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DONA NOBIS PACEM, DONA NOBIS PACEM.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DONA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NOBIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PACEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PACEM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CORDEIRO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE TIRAIS O PECADO DO MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TIRAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TENDE PIEDADE DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CORDEIRO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE TIRAIS O PECADO DO MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TIRAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TENDE PIEDADE DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CORDEIRO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE TIRAIS O PECADO DO MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TIRAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAI-NOS A PAZ, DAI-NOS A PAZ.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DAI-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

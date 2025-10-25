@@ -1,0 +1,450 @@
+{
+  "titulo_principal": "AMÉM, AMÉM, AMÉM",
+  "subtitulo": null,
+  "referencia": "Apocalipse 7, 12-14",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMÉM, AMÉM, AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AMÉM, AMÉM, AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AMÉM, AMÉM, AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVOR E GLÓRIA, SABEDORIA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LOUVOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "SABEDORIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AÇÃO DE GRAÇAS DEMOS A DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMÉM, AMÉM, AMÉM ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HONRA E PODER E FORTALEZA;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "HONRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FORTALEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HONRA E PODER DEMOS A DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LOUVOR E GLÓRIA, SABEDORIA,",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "LOUVOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SABEDORIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AÇÃO DE GRAÇAS DEMOS A DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMÉM, AMÉM, AMÉM ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM SÃO E DE ONDE VÊM?",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VÊM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM SÃO E DE ONDE VÊM?",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VÊM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTES SÃO OS QUE VÊM",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "ESTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VÊM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DA GRANDE TRIBULAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TRIBULAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTES SÃO OS QUE VÊM",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "ESTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VÊM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DA GRANDE TRIBULAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TRIBULAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E LAVARAM SUAS TÚNICAS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "LAVARAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E AS ALVEJARAM",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALVEJARAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO SANGUE DO CORDEIRO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO SANGUE DO CORDEIRO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTES SÃO OS QUE VÊM ...",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "ESTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VÊM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMÉM, AMÉM, AMÉM ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

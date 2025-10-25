@@ -1,0 +1,415 @@
+{
+  "titulo_principal": "POR QUE CONFABULAM AS NAÇÕES?",
+  "subtitulo": null,
+  "referencia": "Salmo 2",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR QUE CONFABULAM AS NAÇÕES?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "POR QUE EM VÃO CONSPIRAM OS POVOS?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "INSURGEM-SE OS REIS DA TERRA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "OS PRÍNCIPES REUNIDOS CONSPIRAM",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CONSPIRAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "CONTRA O SENHOR",
+              "acordes": []
+            },
+            {
+              "letra": "E CONTRA O SEU MESSIAS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MESSIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"Quebremos os seus grilhões,",
+              "acordes": []
+            },
+            {
+              "letra": "sacudamos as suas cadeias!\"",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "cadeias",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Ri-se aquele que habita nos céus,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "céus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "mofa deles, do alto, o Senhor.",
+              "acordes": []
+            },
+            {
+              "letra": "Dirigindo-se a eles com ira,",
+              "acordes": []
+            },
+            {
+              "letra": "e os aterra em seu furor:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "furor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"EU O CONSTITUÍ MEU SOBERANO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SOBERANO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "EM SIÃO MEU SANTO MONTE,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM SIÃO MEU SANTO MONTE.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EU O CONSTITUÍ MEU SOBERANO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SOBERANO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "EM SIÃO MEU SANTO MONTE,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM SIÃO MEU SANTO MONTE.\"",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Anunciarei o decreto do Senhor;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Anunciarei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Ele me disse: \"Tu és meu filho,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "disse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "eu hoje te gerei.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "gerei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Pede-me, eu te darei por herança os povos,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "povos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e, em domínio, os confins da terra.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Tu os quebrarás com cetro de ferro,",
+              "acordes": []
+            },
+            {
+              "letra": "como vasos de barro os farás em pedaços.\"",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "pedaços",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU O CONSTITUÍ ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONSTITUÍ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E agora, ó reis, sede sensatos,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "sede",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "sensatos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "instruí-vos, juízes da terra.",
+              "acordes": []
+            },
+            {
+              "letra": "Servi a Deus com temor,",
+              "acordes": []
+            },
+            {
+              "letra": "e com tremor exultai.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "exultai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Para que não se enfureça e pereçais no caminho,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "caminho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "que de repente se inflama sua ira.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ira",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Feliz o que nele se refugia!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "refugia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU O CONSTITUÍ ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONSTITUÍ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

@@ -1,0 +1,362 @@
+{
+  "titulo_principal": "VAMOS JÁ, PASTORES",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VAMOS JÁ, PASTORES, VAMOS A BELÉM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "BELÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NASCEU UM MENINO, SE CHAMA EMANUEL.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EMANUEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "SE CHAMA EMANUEL, SE CHAMA EMANUEL,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "EMANUEL",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "VAMOS JÁ, PASTORES, VAMOS A BELÉM.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BELÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Os pobres já cantam,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "cantam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "os meninos já riem.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "meninos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "riem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Os pobres já cantam,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "cantam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "os meninos já riem.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "os",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "riem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALEGRIA, ALEGRIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "ALEGRIA, ALEGRIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "ALEGRIA, ALEGRIA:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "NASCEU O SALVADOR!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NASCEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SALVADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VAMOS JÁ, PASTORES, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Sua mae, Maria,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "mae",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "seu pai, José.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "José",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Nasceu um menino",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "menino",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "se chama Emanuel.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "chama",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Emanuel",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALEGRIA, ALEGRIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "ALEGRIA, ALEGRIA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ALEGRIA, ALEGRIA:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NASCEU O SALVADOR!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NASCEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SALVADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VAMOS JÁ, PASTORES,...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

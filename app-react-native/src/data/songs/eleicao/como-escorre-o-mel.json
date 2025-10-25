@@ -1,0 +1,485 @@
+{
+  "titulo_principal": "COMO ESCORRE O MEL",
+  "subtitulo": "Ode XL de Salomão",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO ESCORRE O MEL",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO FAVO DAS ABELHAS",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FAVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E FLUI O LEITE",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FLUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DA MULHER QUE AMA SEUS FILHOS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MULHER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO MANAM DA FONTE",
+              "acordes": []
+            },
+            {
+              "letra": "AS TRANQUILAS ÁGUAS",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TRANQUILAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSIM MEU CORAÇÃO",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DERRAMA SEU LOUVOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DERRAMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E de meus lábios brota",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "um canto novo para o Senhor;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e minha língua sente",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "a doçura de seu nome;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DOÇURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e meu corpo se deleita",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "com suas canções.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SUAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Porque sua luz serena",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "apazigua todos os meus males;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "porque seu simples olhar de amor",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "cura meu coração.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE A VIDA IMORTAL",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PÔS A SUA TENDA",
+              "acordes": []
+            },
+            {
+              "letra": "DENTRO DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DENTRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AALELUIA, AALELUIA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AAALELUU, ALELU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AAALELUU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AALELUIA, AALELUIA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AAALELUU, ALELU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AAALELUU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO ESCORRE O MEL ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E meu rosto ilumina-se com sua alegria,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "e meu espírito goza em seus amores;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "meu coração, cheio de sua luz,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "sente seu olhar amoroso.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "OLHAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Porque o temor nele se confia;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TEMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CONFIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "porque a salvação nele é segura.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SEGURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE A VIDA IMORTAL ...",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO ESCORRE O MEL ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

@@ -1,0 +1,471 @@
+{
+  "titulo_principal": "A CORDEIRA DE DEUS",
+  "subtitulo": null,
+  "referencia": "Mateus 1, 18ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ERA A VIRGEM MARIA PROMETIDA DE JOSÉ,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO ANTES DE VIVEREM JUNTOS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "QUANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENCONTROU-SE GRÁVIDA",
+              "acordes": []
+            },
+            {
+              "letra": "POR OBRA DO ESPÍRITO SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E JOSÉ, COMO ERA JUSTO",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JOSÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NÃO QUERIA REPUDIÁ-LA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DECIDIU ABANDONÁ-LA EM SEGREDO.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DECIDIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SEGREDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE AMARGA É A ÁGUA, MARIA!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CORDEIRA DE DEUS, HUMILDE CORDEIRA",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CORDEIRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE NÃO RESISTES AO MAL.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MÃE DE JESUS E MÃE NOSSA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ROGAI POR NÓS,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ROGAI POR NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E MARIA DEU À LUZ O SEU FILHO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENVOLVEU-O EM FAIXAS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENVOLVEU-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O DEITOU NA MANJEDOURA,",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE NÃO HAVIA LUGAR PARA ELES NO ALBERGUE.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ALBERGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE AMARGA É A ÁGUA, MARIA! ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NUMA NOITE, JOSÉ SE LEVANTOU,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NUMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TOMOU O MENINO E SUA MÃE",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TOMOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E FUGIU PARA O EGITO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "FUGIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE QUERIAM MATAR O MENINO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "QUERIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE AMARGA É A ÁGUA, MARIA! ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM GRITO SE OUVE EM RAMÁ, AI, AIAAI! (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "GRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UM PRANTO E UM GRANDE LAMENTO:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É RAQUEL QUE CHORA OS SEUS FILHOS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "RAQUEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NÃO QUER SER CONSOLADA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE JÁ NÃO EXISTEM.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "EXISTEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE AMARGA É A ÁGUA, MARIA! ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O ANJO DO SENHOR DISSE A JOSÉ NO EGITO:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ANJO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“LEVANTA-TE, TOMA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LEVANTA-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O MENINO E SUA MÃE,",
+              "acordes": []
+            },
+            {
+              "letra": "E VOLTA À TERRA DE ISRAEL;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VOLTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE DO EGITO CHAMEI MEU FILHO”.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "EGITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE AMARGA É A ÁGUA, MARIA! ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

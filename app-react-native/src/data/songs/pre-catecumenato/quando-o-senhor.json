@@ -1,0 +1,237 @@
+{
+  "titulo_principal": "QUANDO O SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 126(125)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Quando o Senhor fez voltar",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "voltar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "os cativos de Sião, parecia-nos sonhar;",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "cativos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Sião",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "sonhar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "a boca estava cheia de risos,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "boca",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "risos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Mi-          Re    [Re7]",
+              "acordes": []
+            },
+            {
+              "letra": "a língua de cantares.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE, AO IR, SE VAI CHORANDO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CHORANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CHORANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "Mi-          Re   [Re7]",
+              "acordes": []
+            },
+            {
+              "letra": "LEVANDO A SEMENTE;",
+              "acordes": []
+            },
+            {
+              "letra": "MAS AO VOLTAR, SE VEM CANTANDO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VOLTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CANTANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "TRAZENDO OS FEIXES.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TRAZENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "FEIXES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Grandes coisas tem feito, maravilhas",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Grandes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "maravilhas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "fez conosco o Senhor!",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Mi-               Re [Re7]",
+              "acordes": []
+            },
+            {
+              "letra": "Por isso estamos alegres!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE, AO IR, SE VAI CHORANDO, ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CHORANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CHORANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re maior"
+}

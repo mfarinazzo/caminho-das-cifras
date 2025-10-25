@@ -1,0 +1,483 @@
+{
+  "titulo_principal": "É PACIENTE",
+  "subtitulo": "Hino ao Espírito Santo - Kiko Arguello",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "O ESPÍRITO SANTO É O JUGO SUAVE",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SUAVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É O JUGO SUAVE E LEVE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JUGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEIO DE COMPREENSÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CHEIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "COMPREENSÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEIO DE MISERICÓRDIA COM AS NOSSAS FALTAS;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CHEIO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NOSSAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEIO DE TERNURA E COMPAIXÃO",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TERNURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DE AMOR SEM LIMITES.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEFENDE-NOS SEMPRE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEFENDE-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NOS ENSINA A SER PACIENTES",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ENSINA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM NOSSOS PECADOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NOSSOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIZ-NOS QUEM SOMOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DIZ-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DIZ-NOS ONDE ANDAMOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DIZ-NOS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ANDAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUAL É O CAMINHO E PORQUE SOFREMOS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CAMINHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SOFREMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É PACIENTE, É BENIGNO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PACIENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BENIGNO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É O SUMO BEM, É O DOM DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SUMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É A GARANTIA DA VIDA ETERNA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "GARANTIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É O \"PARÁCLITO\".",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PARÁCLITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HABITANDO NO HOMEM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HABITANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PERDOA-NOS SEMPRE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PERDOA-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HABITANDO NO HOMEM",
+              "acordes": []
+            },
+            {
+              "letra": "ESPERA SEMPRE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMPREENDE TUDO, DESCULPA TUDO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "COMPREENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DESCULPA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É PACIENTE, É BENIGNO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PACIENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIZ-NOS QUE EM NOSSA VIDA TUDO É SANTO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIZ-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE A NOSSA HISTÓRIA É SANTA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOSSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E CONDUZ-NOS AO ABANDONO TOTAL EM CRISTO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CONDUZ-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TOTAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NELE NADA SE PRETENDE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACEITA-SE TUDO, SUPORTA-SE TUDO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ACEITA-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TUDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE PARECER-NOS AO SENHOR, SOBRE A CRUZ,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PARECER-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É NOSSA GLÓRIA, É A VERDADE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOSSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É A SANTIDADE, É O NOSSO SER CRISTÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CRISTÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É PACIENTE, É BENIGNO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PACIENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

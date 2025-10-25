@@ -1,0 +1,283 @@
+{
+  "titulo_principal": "SALVE RAINHA",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Salve Rainha, Mãe de misericórdia,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Salve",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "de",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "misericórdia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 10
+                }
+              ]
+            },
+            {
+              "letra": "Vida, doçura e esperança nossa,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "nossa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Salve!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Salve",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A vós bradamos, os degredados filhos de Eva,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "bradamos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Eva",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a vós suspiramos, gemendo e chorando",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "suspiramos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "chorando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "neste vale de lágrimas, neste vale de lágrimas!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "neste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "lágrimas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "neste",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "lágrimas",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Eia, pois, Advogada nossa,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Eia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Advogada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "nossa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "esses olhos misericordiosos a nós volvei,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "esses",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "volvei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "e depois deste desterro, mostrai-nos Jesus,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "depois",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Bendito o fruto do vosso ventre!",
+              "acordes": []
+            },
+            {
+              "letra": "Ó clemente, ó piedosa,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "piedosa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ó doce sempre Virgem Maria.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Rogai por nós Santa Mãe de Deus.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Rogai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Para que sejamos dignos das promessas",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "promessas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "de Jesus, de Jesus Cristo.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Amém",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Amém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Amém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

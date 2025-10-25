@@ -1,0 +1,547 @@
+{
+  "titulo_principal": "PENTECOSTES",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE SENTES UM SOPRO DO CÉU,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "UM VENTO QUE MOVE AS PORTAS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PORTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESCUTA, É UMA VOZ QUE TE CHAMA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESCUTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CHAMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "É UM CONVITE A IR PARA LONGE.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CONVITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "LONGE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "É UM FOGO QUE NASCE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FOGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NASCE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM QUEM SABE ESPERAR,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESPERAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "EM QUEM SABE NUTRIR",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NUTRIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ESPERANÇAS DE AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESPERANÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Eram pobres homens",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "pobres",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "como tu, como eu,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "tinham lançado as redes no lago,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "tinham",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ou recebido as taxas",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "às portas da cidade.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "cidade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Que eu bem me lembre, entre eles",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "não havia nem sequer um doutor;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "doutor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "e aquele a quem chamavam Mestre",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "aquele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "estava morto e sepultado.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "estava",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "sepultado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE SENTES UM SOPRO DO CÉU, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Tinham um coração como tu, como eu,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Tinham",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "como",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "que uma mão de gelo apertava;",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "tinham os olhos cheios de lágrimas",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "tinham",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e um rosto triste de febre e medo.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "medo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Pensavam, sem dúvida, no amigo perdido;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Pensavam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "perdido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "na mulher deixada à porta da casa;",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "mulher",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "na cruz levantada no alto do monte.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "cruz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "alto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE SENTES UM SOPRO DO CÉU, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O vento bateu à porta da casa,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "vento",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "entrou, como um raio, em toda a sala;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "entrou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "e, tendo os olhos e vozes de chama,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "tendo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "saíram para as praças cantando a alegria.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "saíram",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "alegria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Homem que esperas escondido nas sombras,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a voz que fala é mesmo para ti;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "voz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "traz-te a alegria duma boa notícia:",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "traz-te",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"O REINO DE DEUS, JÁ CHEGOU!\"",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CHEGOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE SENTES UM SOPRO DO CÉU, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

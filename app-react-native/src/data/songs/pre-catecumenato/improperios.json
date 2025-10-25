@@ -1,0 +1,435 @@
+{
+  "titulo_principal": "IMPROPÉRIOS",
+  "subtitulo": "Da Liturgia da Adoração da Cruz da Sexta-feira Santa",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó POVO MEU, Ó POVO MEU!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE MAL EU TE FIZ?",
+              "acordes": []
+            },
+            {
+              "letra": "QUE MAL EU TE FIZ?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM QUE TE CONTRISTEI!?",
+              "acordes": []
+            },
+            {
+              "letra": "RESPONDE-ME.",
+              "acordes": []
+            },
+            {
+              "letra": "EM QUE TE CONTRISTEI!?",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CONTRISTEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU TE FIZ SAIR DO EGITO;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "[La- 6]",
+                  "palavra_alvo": "EGITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU TE ABRI O MAR EM DUAS PARTES;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "[La- 6]",
+                  "palavra_alvo": "PARTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU TE LIBERTEI DO FARAÓ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TU, E TU PREPARASTE A CRUZ PARA MIM.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CRUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó POVO MEU, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE EU TE CONDUZI QUARENTA ANOS PELO DESERTO;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "[La- 6]",
+                  "palavra_alvo": "DESERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TE SACIEI COM O MANÁ;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "[La- 6]",
+                  "palavra_alvo": "MANÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU TE INTRODUZI NA TERRA PROMETIDA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TU, E TU PREPARASTE A CRUZ PARA MIM.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CRUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó POVO MEU, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE MAIS DEVERIA TER FEITO POR TI",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NÃO FIZ?",
+              "acordes": [
+                {
+                  "cifra": "[La- 6]",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU TE CHAMEI: “MINHA VINHA AMADA”",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TU, E TU TORNASTE AMARGA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "AMARGA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HAGIOS O THÉOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HAGIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANCTUS DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HAGIOS ISCHYRÓS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HAGIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANCTUS FORTIS.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "FORTIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "HAGIOS ATHÁNATOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HAGIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELÉISON HIMÁS.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "HIMÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANCTUS ET INMORTALIS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANCTUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MISERERE NOBIS!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NOBIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó POVO MEU, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

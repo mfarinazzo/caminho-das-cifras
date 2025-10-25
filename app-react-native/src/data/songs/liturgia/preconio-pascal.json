@@ -1,0 +1,647 @@
+{
+  "titulo_principal": "PRECÔNIO PASCAL",
+  "subtitulo": "Precônio solene da Vigília Pascal",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EXULTEM OS COROS DOS ANJOS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EXULTEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "COROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ANJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EXULTE A ASSEMBLEIA CELESTIAL,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "exulte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "celestial",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "E UM HINO DE GLÓRIA",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "hino",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ACLAME O TRIUNFO DO SENHOR RESSUSCITADO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ressuscitado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "ALEGRE-SE A TERRA, INUNDADA DA NOVA LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Alegre-se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "inundada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "luz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "O ESPLENDOR DO REI",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "REI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DESTRUIU AS TREVAS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TREVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DESTRUIU AS TREVAS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TREVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AS TREVAS DO MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE SE ALEGRE NOSSA MÃE A IGREJA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IGREJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RESPLANDECENTE DA GLÓRIA DO SEU SENHOR;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "resplandecente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "glória",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E QUE NESTE LUGAR RESSOE UNÂNIME",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "neste",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A ACLAMAÇÃO DUM POVO EM FESTA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "festa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ESTEJA CONVOSCO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE ESTÁ NO MEIO DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CORAÇÕES AO ALTO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CORAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEMOS GRAÇAS AO SENHOR, NOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DEVER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "REALMENTE É JUSTO E NECESSÁRIO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "REALMENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NECESSÁRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EXALTAR COM O CANTO A ALEGRIA DO ESPÍRITO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "exaltar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "canto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E ELEVAR UM HINO AO PAI TODO-PODEROSO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "elevar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E AO SEU ÚNICO FILHO, JESUS CRISTO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ELE PAGOU POR TODOS, AO ETERNO PAI,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A DÍVIDA DE ADÃO, E COM O SEU SANGUE",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Adão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "sangue",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DERRAMADO, DERRAMADO POR AMOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "CANCELOU A CONDENAÇÃO DO PECADO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "cancelou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "pecado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ESTA É A PÁSCOA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Esta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Páscoa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM QUE É IMOLADO O CORDEIRO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Cordeiro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ESTA É A NOITE EM QUE FORAM LIBERTADOS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "noite",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "foram",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NOSSOS PAIS DO EGITO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Egito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESTA É A NOITE",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "noite",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE NOS SALVA DA ESCURIDÃO DO MAL.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "salva",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "mal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "ESTA É A NOITE EM QUE CRISTO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "VENCEU A MORTE",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E DOS INFERNOS RETORNA VITORIOSO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "INFERNOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "VITORIOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

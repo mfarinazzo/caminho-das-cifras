@@ -1,0 +1,387 @@
+{
+  "titulo_principal": "ABRAÃO",
+  "subtitulo": null,
+  "referencia": "Teofania de Mambré - Gênesis 18, 1-5",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FAZIA CALOR NAQUELE DIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FAZIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO ABRAÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "QUANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ABRAÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTAVA SENTADO À PORTA DA SUA TENDA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TENDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FAZIA CALOR NAQUELE DIA,",
+              "acordes": []
+            },
+            {
+              "letra": "QUANDO ABRAÃO",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "QUANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ABRAÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTAVA JUNTO AO CARVALHO DE MAMBRÉ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAMBRÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ERGUENDO OS OLHOS, OLHOU,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "OLHOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E EIS TRÊS HOMENS EM PÉ, ESTAVAM DIANTE DELE.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "APENAS OS VIU, INCLINOU-SE ATÉ A TERRA E DISSE:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DISSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó SENHOR MEU,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO PASSES TE ROGO, SEM TE DETERES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ROGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEM TE DETERES, NÃO PASSES TE ROGO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ROGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEM TE DETERES, SEM TE DETERES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VOU TRAZER UM POUCO DE ÁGUA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TRAZER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ÁGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LAVAR-VOS-EI OS PÉS",
+              "acordes": []
+            },
+            {
+              "letra": "E DESCANSAREIS À SOMBRA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOMBRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOU TRAZER UM POUCO DE COMIDA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "COMIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RECONFORTAR-VOS-EIS E DEPOIS CONTINUAREIS ALÉM.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO FOI POR ACASO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ACASO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE PASSASTES HOJE DIANTE DE MIM.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOJE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó SENHOR MEU, NÃO PASSES TE ROGO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ROGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEM TE DETERES, SEM TE DETERES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEM TE DETERES, NÃO PASSES TE ROGO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ROGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEM TE DETERES, SEM TE DETERES.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DETERES",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

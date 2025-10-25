@@ -1,0 +1,391 @@
+{
+  "titulo_principal": "VENI CREATOR",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM, Ó ESPÍRITO CRIADOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CRIADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "VISITA AS NOSSAS MENTES;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ENCHE DO TEU AMOR",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "OS CORAÇÕES QUE CRIASTE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CRIASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó doce consolador,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "consolador",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "dom do Pai altíssimo,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "altíssimo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "água viva, fogo, amor,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "santo crisma da alma.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEDO DA MÃO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "PROMESSA DO SALVADOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "DERRAMA TEUS SETE DONS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DONS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SUSCITA EM NÓS A PALAVRA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PALAVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Sê luz do intelecto,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "intelecto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "chama ardente no coração,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "coração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "sara as nossa feridas",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "feridas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "com o bálsamo do teu amor.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEFENDE-NOS DO INIMIGO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INIMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "CONCEDE O DOM DA PAZ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE TUA GUIA INVENCÍVEL",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INVENCÍVEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "NOS PRESERVE DO MAL.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Luz de eterna sabedoria,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "sabedoria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "desvela-nos o grande mistério",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mistério",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "de Deus Pai e do Filho,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Filho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "unidos num só amor.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEJA DADA GLÓRIA A DEUS PAI",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "E AO FILHO QUE RESSUSCITOU DA MORTE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E AO ESPÍRITO SANTO PARÁCLITO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PARÁCLITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "PELOS SÉCULOS DOS SÉCULOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SÉCULOS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

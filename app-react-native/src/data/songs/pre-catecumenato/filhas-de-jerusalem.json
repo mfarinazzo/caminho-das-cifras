@@ -1,0 +1,352 @@
+{
+  "titulo_principal": "FILHAS DE JERUSALÉM",
+  "subtitulo": null,
+  "referencia": "Lucas 23, 28-46",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "FILHAS DE JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO CHOREIS,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO CHOREIS POR MIM.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CHOREIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE SE ASSIM FAZEM COM O LENHO VERDE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VERDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM O SECO, O QUE ACONTECERÁ?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SECO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ACONTECERÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COM O SECO, O QUE ACONTECERÁ? AAAAI!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SECO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ACONTECERÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AAAAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FILHAS DE JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PAI, PERDOA-LHES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE NÃO SABEM O QUE FAZEM.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SABEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FAZEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PERDOA-LHES, PERDOA-LHES. AAAAI!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PERDOA-LHES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PERDOA-LHES",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AAAAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FILHAS DE JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU TE ASSEGURO:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ASSEGURO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HOJE ESTARÁS COMIGO NO PARAÍSO!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOJE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PARAÍSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FILHAS DE JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PAI, PAI, EM TUAS MÃOS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENTREGO O MEU ESPÍRITO!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENTREGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AH! AH! AAAH! AI! (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AH",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AAAAH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FILHAS DE JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

@@ -1,0 +1,474 @@
+{
+  "titulo_principal": "HINO DAS LAUDES DE PENTECOSTES",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIA DE IMENSA ALEGRIA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA CIDADE DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A CHAMA DO ESPÍRITO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RESPLANDEÇA NO CENÁCULO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CENÁCULO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RENOVA-SE O PRODÍGIO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RENOVA-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PRODÍGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DOS ANTIGOS PROFETAS:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PROFETAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UMA MÍSTICA INEBRÍANTE",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INEBRÍANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TOCA AS LÍNGUAS E OS CORAÇÕES.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CORAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIA DE IMENSA ALEGRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O TEMPO BENDITO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TEMPO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BENDITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DA IGREJA NASCENTE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NASCENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ACOLHE EM SEU SEIO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SEIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AS PRIMÍCIAS DOS POVOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIA DE IMENSA ALEGRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É ESTE O JUBILEU",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JUBILEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO ANO QUINQUAGÉSIMO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUINQUAGÉSIMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE RESGATA OS ESCRAVOS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESCRAVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E PROCLAMA O PERDÃO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PERDÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIA DE IMENSA ALEGRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ENVIAI SOBRE NÓS, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENVIAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O DOM DO VOSSO ESPÍRITO;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONCEDEI AO MUNDO INQUIETO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INQUIETO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A JUSTIÇA E A PAZ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIA DE IMENSA ALEGRIA ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó LUZ DE ETERNA SABEDORIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SABEDORIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REVELAI-NOS O MISTÉRIO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MISTÉRIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DO DEUS TRINO E UNO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "UNO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FONTE DE ETERNO AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

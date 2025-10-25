@@ -1,0 +1,177 @@
+{
+  "titulo_principal": "A TI, SENHOR, SE DEVE LOUVOR EM SIÃO",
+  "subtitulo": "Salmo 65 (64)",
+  "referencia": "Salmo 65 (64)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI, SENHOR, SE DEVE O LOUVOR EM SIÃO.",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "A", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "La7", "palavra_alvo": "SIÃO", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "A TI SE CUMPRE O VOTO EM JERUSALÉM.",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "TI", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI QUE ESCUTAS A ORAÇÃO,",
+              "acordes": [
+                { "cifra": "Sib7", "palavra_alvo": "A", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "La7", "palavra_alvo": "ORAÇÃO", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "VEM TODO MORTAL,",
+              "acordes": [
+                { "cifra": "Sib7", "palavra_alvo": "VEM", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "La7", "palavra_alvo": "MORTAL", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "VEM TODO MORTAL.",
+              "acordes": [
+                { "cifra": "La7", "palavra_alvo": "MORTAL", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PESAM SOBRE NÓS NOSSOS PECADOS,",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "PESAM", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "La7", "palavra_alvo": "PECADO", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "MAS TU PERDOAS NOSSAS CULPAS.",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "MAS", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "FELIZ QUEM TU ELES, QUEM TU CHAMAS,",
+              "acordes": [
+                { "cifra": "La7", "palavra_alvo": "CHAMAS", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "VIVERÁ NOS TEUS ÁTRIOS.",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "VIVERÁ", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI QUE ESCUTAS A ORAÇÃO ...",
+              "acordes": [
+                { "cifra": "Sib7", "palavra_alvo": "A", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "La7", "palavra_alvo": "ORAÇÃO", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NOS SACIAREMOS DOS BENS DE TUA CASA,",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "NOS", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "La7", "palavra_alvo": "CASA", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "DA SANTIDADE DE TEU TEMPLO!",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "DA", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "COM AS MARAVILHAS DE TEU AMOR, TU NOS FALAS,",
+              "acordes": [
+                { "cifra": "La7", "palavra_alvo": "FALAS", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            { "letra": "COM OS PRODÍGIOS DE TUA JUSTIÇA", "acordes": [] },
+            {
+              "letra": "NOS RESPONDES.",
+              "acordes": [
+                { "cifra": "Re-", "palavra_alvo": "NOS", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI QUE ESCUTAS A ORAÇÃO,",
+              "acordes": [
+                { "cifra": "Sol-", "palavra_alvo": "A", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "Re-", "palavra_alvo": "ORAÇÃO", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            },
+            {
+              "letra": "VEM TODO MORTAL, VEM TODO MORTAL.",
+              "acordes": [
+                { "cifra": "La7", "palavra_alvo": "MORTAL", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "Re-", "palavra_alvo": "MORTAL", "ocorrencia_palavra": 2, "posicao": null }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TI QUE ESCUTAS A ORAÇÃO ...",
+              "acordes": [
+                { "cifra": "Sib7", "palavra_alvo": "A", "ocorrencia_palavra": 1, "posicao": null },
+                { "cifra": "La7", "palavra_alvo": "ORAÇÃO", "ocorrencia_palavra": 1, "posicao": null }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

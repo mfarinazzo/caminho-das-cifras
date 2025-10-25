@@ -1,0 +1,585 @@
+{
+  "titulo_principal": "O SENHOR ME DEU",
+  "subtitulo": "Terceiro canto do Servo de Iahweh",
+  "referencia": "Isaías 50, 4-10",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ME DEU LÍNGUA DE DISCÍPULO,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DISCÍPULO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA LEVAR AO CANSADO",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CANSADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UMA PALAVRA DE CONFORTO.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "CONFORTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MANHÃ APÓS MANHÃ, DESPERTAS MEU OUVIDO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DESPERTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "OUVIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE EU POSSA ESCUTAR COMO UM DISCÍPULO.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESCUTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DISCÍPULO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR, O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SENHOR ABRIU-ME O OUVIDO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "OUVIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SENHOR, O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SENHOR ABRIU-ME O OUVIDO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "OUVIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ISSO, NÃO RESISTI, NÃO RESISTI.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "POR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "RESISTI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OFERECI MINHAS COSTAS AOS QUE ME BATIAM.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "OFERECI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "COSTAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "BATIAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E EU NÃO RESISTI, NÃO RESISTI.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "RESISTI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OFERECI MINHAS FACES",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "OFERECI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FACES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AOS QUE ME ARRANCAVAM A BARBA.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "BARBA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E EU NÃO RESISTI, NÃO RESISTI.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "RESISTI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MEU ROSTO NÃO DESVIEI DOS INSULTOS E DOS ESCARROS.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DESVIEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "ESCARROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE EU JÁ SABIA",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SABIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE TU HAVIAS DE AJUDAR-ME,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AJUDAR-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR ISSO PUS MEU ROSTO",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DURO COMO UMA PEDRA,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "PEDRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTAVA EU SEGURO",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SEGURO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE NÃO SER DESAPONTADO.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DESAPONTADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PERTO ESTÁS, PERTO ESTÁS TU,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE TU SALVAS: QUEM COMBATERÁ COMIGO?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SALVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE TU AJUDAS, SE TU ME AJUDAS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "AJUDAS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE TU SALVAS: QUEM ME CONDENARÁ?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SALVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CONDENARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VÓS QUE TEMEIS A DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESCUTAI A VOZ DO SEU SERVO:",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SERVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SE ALGUÉM SE ENCONTRA NAS TREVAS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TREVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TENHA CONFIANÇA NELE,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "NELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "APÓIE-SE EM SEU NOME.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "APÓIE-SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PERTO ESTÁS, PERTO ESTÁS TU, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol maior"
+}

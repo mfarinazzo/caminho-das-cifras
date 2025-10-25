@@ -1,0 +1,395 @@
+{
+  "titulo_principal": "FORMOSA ÉS, AMIGA MINHA",
+  "subtitulo": null,
+  "referencia": "Cânticos dos Cânticos 6 e 7 - Quinto Poema",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "FORMOSA ÉS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FORMOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AMIGA MINHA, COMO TERSA",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TERSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "BELÍSSIMA COMO JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BELÍSSIMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM, JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM, JERUSALÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE LINDOS SÃO TEUS PÉS NAS SANDÁLIAS,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FILHA DE PRÍNCIPE!",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FILHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AS CURVAS DOS TEUS QUADRIS,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OBRA DE MÃOS DE UM ARTISTA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "OBRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TEU UMBIGO É UMA ÂNFORA REDONDA.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "TEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ÂNFORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TEU PESCOÇO É UMA TORRE DE MARFIM.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "TEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "TORRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TEUS OLHOS, COMO AS PISCINAS DE HESEBON.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PISCINAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TUA CABEÇA É COMO O MONTE CARMELO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "TUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TEU CABELO É COMO A PÚRPURA,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "TEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "PÚRPURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UM REI ESTÁ NELE PRISIONEIRO.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "UM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FORMOSA ÉS, AMIGA MINHA, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FORMOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"QUEM É ESTA QUE SURGE COMO AURORA,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "AURORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BELA COMO A LUA,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "BELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "LUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FULGURANTE COMO O SOL?\"",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "FULGURANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO ÉS BELA Ó AMOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO ÉS BELA, Ó DELÍCIAS!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BELÍSSIMA COMO JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "BELÍSSIMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JERUSALÉM, JERUSALÉM.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FORMOSA ÉS, AMIGA MINHA, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FORMOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

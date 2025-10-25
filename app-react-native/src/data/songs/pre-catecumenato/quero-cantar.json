@@ -1,0 +1,391 @@
+{
+  "titulo_principal": "QUERO CANTAR",
+  "subtitulo": null,
+  "referencia": "Salmo 57 (56)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "QUERO CANTAR, A TI QUERO CANTAR.  |",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUERO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "QUERO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DESPERTA, HARPA E CÍTARA!         |",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DESPERTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CÍTARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Misericórdia, meu Deus, misericórdia,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Misericórdia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "misericórdia",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                }
+              ]
+            },
+            {
+              "letra": "a minha alma se refugia em ti;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "eu me refugio à sombra de tuas asas",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "sombra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "até que passe o perigo.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "até",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "perigo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUERO CANTAR,...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUERO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Invoco a Deus, ao Deus Altíssimo,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Invoco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "Altíssimo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "ao Deus que faz tudo por mim.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Do céu envia-me a salvação,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "envia-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "confunde aos que anseiam matar-me.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "confunde",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "matar-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUERO CANTAR,...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUERO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Misericórdia, meu Deus, misericórdia,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Misericórdia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "misericórdia",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                }
+              ]
+            },
+            {
+              "letra": "que estou deitado entre leões,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "leões",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "leões devoradores de homens;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "leões",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "seus dentes são lanças e flechas.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "dentes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "flechas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUERO CANTAR,...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "QUERO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Misericórdia, meu Deus, misericórdia,",
+              "acordes": []
+            },
+            {
+              "letra": "que armaram uma rede ante meus passos,",
+              "acordes": []
+            },
+            {
+              "letra": "cavaram uma fossa à minha frente,",
+              "acordes": []
+            },
+            {
+              "letra": "mas eles mesmos caíram nela!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUERO CANTAR,...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Meu coração está firme, meus Deus,",
+              "acordes": []
+            },
+            {
+              "letra": "para ti, ó Deus quero cantar,",
+              "acordes": []
+            },
+            {
+              "letra": "a aurora eu quero despertar,",
+              "acordes": []
+            },
+            {
+              "letra": "despertai, harpa e cítara!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUERO CANTAR,...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Dar-te-ei graças entre os povos, Senhor,",
+              "acordes": []
+            },
+            {
+              "letra": "cantarei, cantarei entre as nações;",
+              "acordes": []
+            },
+            {
+              "letra": "pois teu amor foi grande para comigo,",
+              "acordes": []
+            },
+            {
+              "letra": "tua bondade mais alta que os céus.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUERO CANTAR,...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

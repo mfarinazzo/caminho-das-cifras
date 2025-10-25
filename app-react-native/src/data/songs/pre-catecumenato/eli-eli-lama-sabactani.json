@@ -1,0 +1,574 @@
+{
+  "titulo_principal": "ELI, ELI, LAMÁ SABACTANI",
+  "subtitulo": null,
+  "referencia": "Salmo 22 (21)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELI, ELI, LAMÁ SABACTANI?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LAMÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SABACTANI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MEU DEUS, MEU DEUS,",
+              "acordes": []
+            },
+            {
+              "letra": "POR QUE ME ABANDONASTE?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ABANDONASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUÃO LONGE ESTÁS DO MEU RUGIDO!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "QUÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DE DIA, CLAMO E NÃO RESPONDES,",
+              "acordes": []
+            },
+            {
+              "letra": "DE NOITE NÃO HÁ REPOUSO PARA MIM!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELI, ELI, LAMÁ SABACTANI? ...",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ELI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS TU ÉS O SANTO,",
+              "acordes": []
+            },
+            {
+              "letra": "TU, QUE MORAS NOS LOUVORES DO TEU POVO!",
+              "acordes": []
+            },
+            {
+              "letra": "EM TI CONFIARAM NOSSOS PAIS",
+              "acordes": []
+            },
+            {
+              "letra": "E TU OS LIVRASTE, EM TI CONFIARAM,",
+              "acordes": []
+            },
+            {
+              "letra": "E NUNCA FICARAM CONFUNDIDOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CONFUNDIDOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E EU, ENTÃO? POR QUE NÃO ME AJUDAS?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACASO NÃO SOU HOMEM?",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É ISSO: EU SOU UM VERME,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESPREZO DA PLEBE, OPRÓBRIO DO POVO,",
+              "acordes": []
+            },
+            {
+              "letra": "TODOS OS QUE ME VÊEM ZOMBAM DE MIM,",
+              "acordes": []
+            },
+            {
+              "letra": "MENEIAM A CABEÇA, E ME DIZEM:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DIZEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"CONFIOU EM DEUS, QUE ELE O LIVRE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CONFIOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ELE O SALVE, SE É VERDADE QUE TANTO O AMA!\"",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SIM, TU ME AMAS, SIM, TU ME QUERES,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AMAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO SEIO DE MINHA MÃE ME FORMASTE;",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO ME DEU À LUZ ME OFERECEU A TI,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "QUANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESDE O VENTRE DE MINHA MÃE TU ERAS JÁ MEU DEUS.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELI, ELI, LAMÁ SABACTANI? ...",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ELI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JOGARAM-ME FORA COMO ÁGUA SUJA,",
+              "acordes": []
+            },
+            {
+              "letra": "DESCONJUNTARAM-SE MEUS OSSOS,",
+              "acordes": []
+            },
+            {
+              "letra": "MEU CORAÇÃO COMO CERA",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DERRETENDO-SE DENTRO DE MIM.",
+              "acordes": []
+            },
+            {
+              "letra": "COMO BARRO SECO O MEU PALADAR,",
+              "acordes": []
+            },
+            {
+              "letra": "GRUDADA NA GARGANTA ESTÁ A MINHA LÍNGUA!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LÍNGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELI, ELI, LAMÁ SABACTANI? ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CÃES NUMEROSOS ME RODEIAM,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CÃES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UM BANDO DE MALFEITORES ME ENVOLVE,",
+              "acordes": []
+            },
+            {
+              "letra": "TRANSPASSARAM MINHAS MÃOS E MEUS PÉS.",
+              "acordes": []
+            },
+            {
+              "letra": "POSSO CONTAR TODOS OS MEUS OSSOS;",
+              "acordes": []
+            },
+            {
+              "letra": "ELES ME OLHAM E ME OBSERVAM,",
+              "acordes": []
+            },
+            {
+              "letra": "REPARTEM ENTRE SI AS MINHAS VESTES,",
+              "acordes": []
+            },
+            {
+              "letra": "LANÇAM SORTE SOBRE A MINHA TÚNICA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TÚNICA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS TU, SENHOR, NÃO FIQUES LONGE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FORÇA MINHA, FORÇA MINHA, VEM DEPRESSA,",
+              "acordes": []
+            },
+            {
+              "letra": "LIVRA DA ESPADA MINHA VIDA,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "LIVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SALVA-ME DAS GARRAS DO LEÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LEÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E MEU POBRE SER DOS CHIFRES DO BÚFALO!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BÚFALO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ANUNCIAREI O TEU NOME AOS MEUS IRMÃOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ANUNCIAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO MEIO DA ASSEMBLÉIA TE LOUVAREI",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DIREI: \"VÓS QUE TEMEIS A DEUS, LOUVAI-O",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROLE DE JACÓ, GLORIFICAI-O,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TEMEI-O, PROLE DE ISRAEL\".",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TEMEI-O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE NÃO TEVE NOJO DESTE POBRE,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO DESPREZOU NEM REJEITOU A AFLIÇÃO DESTE MISERÁVEL;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AFLIÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO OCULTOU O SEU ROSTO QUANDO SUPLICAVA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AGORA EU SEI: OS POBRES VIVERÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "AGORA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS POBRES COMERÃO E FICARÃO SACIADOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMERÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LOUVARÃO O SENHOR OS QUE O PROCURAM.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PROCURAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEU CORAÇÃO, SEU CORAÇÃO, VIVERÁ PARA SEMPRE!",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELI, ELI, LAMÁ SABACTANI? ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

@@ -1,0 +1,173 @@
+{
+  "titulo_principal": "PAI NOSSO",
+  "subtitulo": "Tempo da Eleição",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ABBA, ABBA PAI.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ABBA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PAI NOSSO QUE ESTAIS NOS CÉUS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CÉUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTIFICADO SEJA O VOSSO NOME;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VENHA A NÓS O VOSSO REINO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEJA FEITA A VOSSA VONTADE,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "VONTADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSIM NA TERRA COMO NO CÉU.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O PÃO NOSSO DE CADA DIA",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NOS DAI HOJE;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HOJE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PERDOAI-NOS AS NOSSAS OFENSAS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OFENSAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSIM COMO NÓS PERDOAMOS",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PERDOAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A QUEM NOS TEM OFENDIDO;",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "OFENDIDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NÃO NOS DEIXEIS CAIR EM TENTAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "TENTAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS LIVRAI-NOS DO MAL.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

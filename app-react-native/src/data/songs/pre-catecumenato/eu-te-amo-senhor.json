@@ -1,0 +1,363 @@
+{
+  "titulo_principal": "EU TE AMO, SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 18 (17)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU TE AMO, SENHOR, TU ÉS MINHA ROCHA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "AMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS MEU LIBERTADOR, TU ÉS MEU DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU TE AMO, EU TE AMO, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "AMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AS ONDAS DA MORTE ME ENVOLVIAM,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESPANTAVAM-ME AS TROMBAS DE BELIAL,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "BELIAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "RODEAVAM-ME OS LAÇOS DO XEOL,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "XEOL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "HAVIA CAÍDO NOS CEPOS DA MORTE.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CAÍDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CLAMEI AO SENHOR EM MINHA ANGÚSTIA,",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CLAMEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A MEU DEUS, A MEU DEUS INVOQUEI;",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ESCUTOU MINHA VOZ DE SEU TEMPLO,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHEGOU MEU CHAMADO A SEUS OUVIDOS.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CHAMADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "E.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E A TERRA FOI SACUDIDA E VACILOU,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SACUDIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTREMECERAM-SE AS BASES DOS MONTES.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MONTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE INCLINOU OS CÉUS E DESCEU",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CÉUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E O FUNDO DO MAR FICOU À VISTA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS ALICERCES DO ORBE APARECERAM.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ALICERCES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTENDEU SUA MÃO PARA PEGAR-ME,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TIROU-ME DO PROFUNDO DAS ÁGUAS.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "PROFUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU TE AMO, SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AS ONDAS DA MORTE ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re maior"
+}

@@ -1,0 +1,406 @@
+{
+  "titulo_principal": "EM MEIO A MULTIDÃO",
+  "subtitulo": null,
+  "referencia": "LUCAS 8, 42B-48",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EM MEIO A MULTIDÃO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM MEIO A TODA AQUELA GENTE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UMA MULHER, UMA MULHER O TOCOU.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "UMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MULHER",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TOCOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“QUEM É QUE ME TOCOU?”",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "tocou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "QUEM É QUE ME TOCOU?”",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "tocou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "DISSE CRISTO, DISSE CRISTO E PAROU.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Disse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "parou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "UMA MULHER TODA TRÊMULA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "trêmula",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "UMA MULHER TODA TRÊMULA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "trêmula",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "DISSE A CRISTO: “FUI EU!”",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "disse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "eu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "“QUE SOU UMA MULHER IMPURA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE SOU UMA MULHER IMPURA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE SOFRO FLUXO DE SANGUE.”",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SOFRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS AO TOCAR A TUA VESTE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS AO TOCAR A TUA VESTE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O FLUXO DE SANGUE PAROU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PAROU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "“FILHA! A TUA FÉ, A TUA FÉ TE SALVOU.”",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FÉ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EM MEIO A MULTIDÃO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE QUERES TOCAR A CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE QUERES TOCAR A CRISTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PODES TOCÁ-LO COM A FÉ.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TOCÁ-LO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ELE É O FILHO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ELE É O FILHO DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE VEIO PARA CURAR-TE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CURAR-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA SALVAR-TE.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVAR-TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "EM MEIO A MULTIDÃO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

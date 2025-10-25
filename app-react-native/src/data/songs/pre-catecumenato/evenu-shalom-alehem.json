@@ -1,0 +1,313 @@
+{
+  "titulo_principal": "EVENU SHALOM ALEHEM",
+  "subtitulo": "Canto Popular Hebraico",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EVENU SHALOM ALEHEM.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "EVENU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EVENU SHALOM ALEHEM.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SHALOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EVENU SHALOM ALEHEM.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SHALOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALEHEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EVENU SHALOM, SHALOM,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SHALOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SHALOM ALEHEM.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SHALOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A PAZ ESTEJA CONOSCO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A PAZ ESTEJA CONOSCO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ESTEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A PAZ ESTEJA CONOSCO,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESTEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CONOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EVENU SHALOM, SHALOM,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SHALOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SHALOM ALEHEM.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SHALOM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EVENU SHALOM ALEHEM, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "EVENU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ET LA PAIX SOIT AVEC NOUS ...",
+              "acordes": []
+            },
+            {
+              "letra": "QUE SEA LA PAZ CON NOSOTROS ...",
+              "acordes": []
+            },
+            {
+              "letra": "E SIA LA PACE CON NOI ...",
+              "acordes": []
+            },
+            {
+              "letra": "AND MAY PEACE BE WITH US ...",
+              "acordes": []
+            },
+            {
+              "letra": "UND SEI DER FRIEDE MIT UNS ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EVENU SHALOM ALEHEM, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "EVENU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIGAMOS: PAZ AO MUNDO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DIGAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTEMOS: PAZ AO MUNDO,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A NOSSA VIDA SEJA GLORIOSA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "GLORIOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É MEU DESEJO:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A PAZ, ESTEJA A PAZ CONTIGO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EVENU SHALOM ALEHEM, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "EVENU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

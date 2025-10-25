@@ -1,0 +1,694 @@
+{
+  "titulo_principal": "JESUS PERCORRIA TODAS AS CIDADES",
+  "subtitulo": null,
+  "referencia": "Mateus 9, 35ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JESUS PERCORRIA TODAS AS CIDADES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "percorria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "cidades",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "JESUS DE ALDEIA EM ALDEIA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "aldeia",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ANUNCIAVA O REINO. E VENDO A MULTIDÃO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Reino",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "vendo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE O SEGUIA, SE COMOVEU.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "seguia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "comoveu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "ESTAVAM CANSADOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESTAVAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESTAVAM ABATIDOS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ESTAVAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO OVELHAS SEM PASTOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PASTOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ENTÃO JESUS DISSE AOS SEUS DISCÍPULOS:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENTÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DISSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DISCÍPULOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“A MESSE É GRANDE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MESSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É VERDADEIRAMENTE GRANDE",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E OS OPERÁRIOS SÃO POUCOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "POUCOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ROGAI, IRMÃOS, AO DONO DA MESSE",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MESSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ENVIE OPERÁRIOS A SUA MESSE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OLHAI QUE EU VOS ENVIO",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "OLHAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ENVIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO OVELHAS ENTRE LOBOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "LOBOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEDE PRUDENTES COMO SERPENTES,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SERPENTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SIMPLES COMO AS POMBAS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "POMBAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "COMO AS POMBAS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POMBAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO LEVEIS NEM BOLSA, NEM DINHEIRO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DINHEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NEM ALFORGE, NEM CALÇADO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CALÇADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E ANUNCIAI QUE O REINO ESTÁ PERTO.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ANUNCIAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRISTO RESSUSCITOU E ELE VEM CONOSCO!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CONOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE VEM CONOSCO!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O QUE AMA SEU PAI OU SUA MÃE MAIS QUE A MIM,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO É DIGNO DE MIM, NÃO É DIGNO DE MIM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O QUE AMA SEU FILHO OU SUA FILHA MAIS QUE A MIM,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO É DIGNO DE MIM, NÃO É DIGNO DE MIM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O QUE NÃO TOMA A SUA CRUZ E ME SEGUE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO É DIGNO DE MIM, NÃO É DIGNO DE MIM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O QUE BUSCA NESTE MUNDO A SUA VIDA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A PERDERÁ, A PERDERÁ.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PERDERÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PERDERÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E QUEM PERDE A SUA VIDA POR AMOR MEU,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A ENCONTRARÁ, A ENCONTRARÁ.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ENCONTRARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENCONTRARÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM VOS ESCUTA, ESCUTA A MIM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S. A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM VOS ACOLHE, ACOLHE A MIM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM ACOLHE A MIM,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACOLHE A DEUS, ACOLHE A DEUS”.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ACOLHE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

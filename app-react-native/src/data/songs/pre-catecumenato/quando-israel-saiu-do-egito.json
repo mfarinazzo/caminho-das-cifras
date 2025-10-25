@@ -1,0 +1,277 @@
+{
+  "titulo_principal": "QUANDO ISRAEL SAIU DO EGITO",
+  "subtitulo": null,
+  "referencia": "Salmo 114(113)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Quando Israel saiu do Egito,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "saiu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Egito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "e a casa de Jacó de um povo bárbaro,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Jacó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "bárbaro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Judá foi seu santuário, e Israel o seu domínio.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "santuário",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "domínio",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "JUDÁ FOI SEU SANTUARIO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FOI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTUARIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "ISRAEL O SEU DOMÍNIO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DOMÍNIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O mar diante disso fugiu,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "e o Jordão voltou para trás,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Jordão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "os montes saltaram como carneiros,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "os",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "as colinas como cordeiros.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "cordeiros",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR QUE, Ó MAR, TU FOGES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E TU, JORDÃO, POR QUE RECUAS?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JORDÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E VÓS, MONTES, SALTAIS COMO CARNEIROS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MONTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E VÓS, COLINAS, COMO CORDEIROS?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CORDEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "TREME TERRA, TREME,              |",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "TREME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DIANTE DE DEUS QUE PASSA,        |",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "PASSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DIANTE DO DEUS DE JACÓ,          |",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "JACÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "QUE FAZ BROTAR DA ROCHA A ÁGUA!  |",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BROTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "ÁGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

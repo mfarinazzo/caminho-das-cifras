@@ -1,0 +1,400 @@
+{
+  "titulo_principal": "O SENHOR É MINHA LUZ E SALVAÇÃO",
+  "subtitulo": null,
+  "referencia": "Salmo 27(26)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Senhor é minha luz e salvação,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "salvação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "o que poderei temer?",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "poderei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "temer",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "O Senhor é o defensor de minha vida,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "defensor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "quem me fará tremer?",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "quem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "fará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "tremer",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTOU BEM CERTO, VEREI",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "A TUA BONDADE, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "BONDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ESPERA NO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SÊ FORTE, ESPERA NO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "SÊ FORTE, ESPERA NO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "SÊ FORTE, ESPERA NO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Uma só coisa peço ao meu Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "só",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ao",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "uma somente busco:",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "uma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "somente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "busco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "habitar na casa do Senhor",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "por toda minha vida.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "por",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "minha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTOU BEM CERTO, VEREI ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O Senhor me esconde em sua tenda",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "esconde",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "tenda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "no dia do combate.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "no",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "do",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "combate",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "O Senhor me estende sua mão,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "estende",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "mão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "caminharei seguro.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "caminharei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "caminharei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "seguro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTOU BEM CERTO, VEREI ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

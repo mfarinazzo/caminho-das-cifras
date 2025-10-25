@@ -1,0 +1,266 @@
+{
+  "titulo_principal": "PORQUE O MEU JUGO É SUAVE",
+  "subtitulo": null,
+  "referencia": "Mateus 11, 28-30",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vinde a mim todos vós",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Vinde",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "que estais cansados e oprimidos,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "oprimidos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "e eu vos aliviarei, e eu vos aliviarei.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "eu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "aliviarei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "eu",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "aliviarei",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "Tomai sobre vós o meu jugo,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Tomai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e aprendei de mim,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "que sou manso e humilde de coração;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "coração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "e encontrareis descanso para vós,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e encontrareis repouso para vosso espírito.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "repouso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O MEU JUGO É SUAVE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE O MEU JUGO É SUAVE",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SUAVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "E O MEU FARDO É LEVE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE O MEU JUGO É SUAVE",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SUAVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "E O MEU FARDO É LEVE.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vinde a mim ...... descanso para vós,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Vinde",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "e encontrareis repouso para vossas almas.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "repouso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "almas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O MEU JUGO É SUAVE, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

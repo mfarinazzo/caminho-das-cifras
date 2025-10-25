@@ -1,0 +1,439 @@
+{
+  "titulo_principal": "ESPEREI, ESPEREI NO SENHOR",
+  "subtitulo": null,
+  "referencia": "SALMO 40 (39)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPEREI, ESPEREI NO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "E ELE PARA MIM SE INCLINOU,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "INCLINOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "OUVIU MEU GRITO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "OUVIU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "GRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "TIROU-ME DA FOSSA DA MORTE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "TIROU-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TIROU-ME DE UM CHARCO DE LODO;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TIROU-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "LODO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ASSENTOU MEUS PÉS SOBRE A ROCHA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ASSENTOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ROCHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FIRMOU MEUS PASSOS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FIRMOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "PASSOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NUM CAMINHO, NUM CAMINHO DE SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NUM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPEREI, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE PÔS NA MINHA BOCA UM CANTO NOVO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "NOVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "UM HINO DE LOUVOR AO NOSSO DEUS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "UM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MUITOS VERÃO E TEMERÃO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MUITOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "TEMERÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E PORÃO SUA CONFIANÇA NO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPEREI, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "FELIZ O HOMEM QUE ESPERA NO SENHOR",
+              "acordes": []
+            },
+            {
+              "letra": "E NÃO SE VOLTA PARA OS SOBERBOS,",
+              "acordes": []
+            },
+            {
+              "letra": "QUE NÃO SEGUE O CAMINHO DA MENTIRA,",
+              "acordes": []
+            },
+            {
+              "letra": "FELIZ O HOMEM QUE ESPERA NO SENHOR.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPEREI, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, QUANTAS MARAVILHAS,",
+              "acordes": []
+            },
+            {
+              "letra": "QUANTOS PRODÍGIOS FIZESTE PARA CONOSCO!",
+              "acordes": []
+            },
+            {
+              "letra": "EU QUISERA ANUNCIÁ-LOS E PROCLAMÁ-LOS,",
+              "acordes": []
+            },
+            {
+              "letra": "MAS SÃO DEMAIS PARA QUE OS POSSA ENUMERAR.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPEREI, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO QUISISTE SACRIFÍCIO NEM OBLAÇÃO,",
+              "acordes": []
+            },
+            {
+              "letra": "POR ISSO ABRISTE MEU OUVIDO.",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO EXIGISTE VÍTIMAS PELAS CULPAS,",
+              "acordes": []
+            },
+            {
+              "letra": "ENTÃO EU DISSE: “EIS-ME AQUI QUE VENHO,",
+              "acordes": []
+            },
+            {
+              "letra": "PARA FAZER TUA VONTADE!”.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO QUISISTE ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NO LIVRO ESTÁ ESCRITO DE MIM:",
+              "acordes": []
+            },
+            {
+              "letra": "QUE EU FAÇA, SENHOR, A TUA VONTADE.",
+              "acordes": []
+            },
+            {
+              "letra": "MEU DEUS, ISTO EU DESEJO:",
+              "acordes": []
+            },
+            {
+              "letra": "TUA PALAVRA NAS MINHAS ENTRANHAS!",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPEREI, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPEREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

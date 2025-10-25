@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Caminho das Cifras",
+    "slug": "caminho-das-cifras",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "updates": {
+      "checkAutomatically": "ON_ERROR_RECOVERY",
+      "fallbackToCacheTimeout": 0
+    },
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.caminhodascifras.app"
+    },
+    "android": {
+      "package": "com.caminhodascifras.app"
+    }
+  }
+}

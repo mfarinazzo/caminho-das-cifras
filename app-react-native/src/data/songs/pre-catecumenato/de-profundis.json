@@ -1,0 +1,372 @@
+{
+  "titulo_principal": "DE PROFUNDIS",
+  "subtitulo": "Salmo 130 (129)",
+  "referencia": "Salmo 130 (129)",
+  "pagina": 130,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "DO PROFUNDO A TI GRITO, SENHOR:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "GRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR ESCUTA MINHA VOZ!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESTEJAM TEUS OUVIDOS ATENTOS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTEJAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "OUVIDOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ATENTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ATENTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "AO CLAMOR DA MINHA SÚPLICA!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CLAMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SÚPLICA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE TENS EM CONTA NOSSOS PECADOS, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "QUEM SE SALVARÁ? QUEM SE SALVARÁ?",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "salvará",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "salvará",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "MAS PERTO DE TI ESTÁ O PERDÃO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "PERDÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "SÓ EM TI SE ENCONTRA O AMOR.",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU ESPERO NO SENHOR, A MINHA ALMA ESPERA NA SUA PALAVRA;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Eu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "palavra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "A MINHA ALMA ESPERA PELO SENHOR MAIS QUE A SENTINELA PELA AURORA;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "mais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "aurora",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ISRAEL ESPERA PELO SENHOR MAIS QUE A SENTINELA ESPERA PELA AURORA.",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "sentinela",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "aurora",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "PORQUE PERTO DO SENHOR ESTÁ O AMOR,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "PERTO DELE SE ENCONTRA O PERDÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa7",
+                  "palavra_alvo": "DELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PERDÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE REDIME ISRAEL,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MI",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "ELE REDIME ISRAEL DE TODOS OS SEUS PECADOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PECADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AI! (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

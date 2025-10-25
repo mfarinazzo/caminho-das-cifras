@@ -1,0 +1,498 @@
+{
+  "titulo_principal": "O POVO QUE CAMINHAVA NAS TREVAS",
+  "subtitulo": null,
+  "referencia": "Isaías 9, 1-5",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O POVO QUE CAMINHAVA NAS TREVAS",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TREVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VIU UMA GRANDE LUZ.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "UMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SOBRE AQUELES QUE HABITAVAM",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "HABITAVAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM TERRAS TENEBROSAS,",
+              "acordes": []
+            },
+            {
+              "letra": "UMA GRANDE LUZ BRILHOU.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BRILHOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MULTIPLICASTE O SEU JÚBILO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JÚBILO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AUMENTASTE A SUA ALEGRIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AUMENTASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALEGRARAM-SE NA TUA PRESENÇA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRESENÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO SE ALEGRAM DURANTE A CEIFA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALEGRAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CEIFA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO SE REJUBILAM AO REPARTIREM OS DESPOJOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESPOJOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O DOMÍNIO ESTARÁ",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DOMÍNIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SOBRE OS SEUS OMBROS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OMBROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O SEU NOME SERÁ,",
+              "acordes": [
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O SEU NOME SERÁ:",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"CONSELHEIRO MARAVILHOSO\",",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CONSELHEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARAVILHOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"DEUS FORTE\", \"PAI ETERNO\",",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ETERNO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"PRÍNCIPE DA PAZ\",",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PRÍNCIPE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"PRÍNCIPE DA PAZ!\"",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PRÍNCIPE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PAZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O JUGO QUE PESAVA SOBRE O POVO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PESAVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POVO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O JUGO POSTO EM SEUS OMBROS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "POSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OMBROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O BASTÃO DO TIRANO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "BASTÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TIRANO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU O QUEBRASTE COMO EM MADIÃ.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "QUEBRASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MADIÃ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ASSIM, TODO PÉ QUE FORTE ESMAGA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESMAGA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TODA VESTE SUJA DE SANGUE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANGUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SERÁ PASTO DO FOGO DEVORADOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FOGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEVORADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE NASCEU-NOS UM MENINO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "UM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MENINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE UM FILHO FOI-NOS DADO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O DOMÍNIO ESTARÁ ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DOMÍNIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

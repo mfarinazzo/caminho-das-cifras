@@ -1,0 +1,311 @@
+{
+  "titulo_principal": "GRITAI JUBILOSOS",
+  "subtitulo": null,
+  "referencia": "Isaías 12",
+  "pagina": 12,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "GRITAI JUBILOSOS:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRITAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "“QUE GRANDE É NO MEIO DE TI",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRANDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SANTO DE ISRAEL”.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ISRAEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR É MEU DEUS, MEU SALVADOR:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONFIAREI E NÃO TEMEREI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFIAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE MINHA FORÇA E MEU CANTO É O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FORÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE É MEU SALVADOR.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GRITAI JUBILOSOS: ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRITAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TIRAREIS ÁGUA COM ALEGRIA",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TIRAREIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAS FONTES DA SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FONTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAI GRAÇAS AO SENHOR, INVOCAI SEU NOME,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NARRAI SEUS PRODÍGIOS ÀS NAÇÕES.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PRODÍGIOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GRITAI JUBILOSOS: ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRITAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTAI AO SENHOR QUE FEZ MARAVILHAS,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARAVILHAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PUBLICAI-AS EM TODA A TERRA;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PUBLICAI-AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "GRITAI JUBILOSOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRITAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EXULTAI, HABITANTES DE SIÃO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "HABITANTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GRITAI JUBILOSOS: ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GRITAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

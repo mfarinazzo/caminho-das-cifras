@@ -1,0 +1,525 @@
+{
+  "titulo_principal": "ESTE É O MEU MANDAMENTO",
+  "subtitulo": null,
+  "referencia": "João 15, 12ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTE É O MEU MANDAMENTO: QUE VOS AMEIS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MANDAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESTE É O MEU MANDAMENTO: QUE VOS AMEIS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MANDAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMEIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "UNS AOS OUTROS, COMO EU VOS AMEI,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "UNS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "OUTROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "COMO EU VOS AMEI, COMO EU VOS AMEI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMEI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NINGUÉM TEM MAIOR AMOR DO QUE",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "Ninguém",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AQUELE QUE DÁ A SUA VIDA PELOS SEUS AMIGOS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "VÓS SOIS MEUS AMIGOS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "VÓS SOIS MEUS AMIGOS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "VÓS SOIS MEUS AMIGOS,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "VÓS SOIS MEUS AMIGOS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO FOSTES VÓS QUE ME ESCOLHESTES,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESCOLHESTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "NÃO FOSTES VÓS QUE ME ESCOLHESTES,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESCOLHESTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS FUI EU QUE VOS ESCOLHI A VÓS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MAS FUI EU QUE VOS ESCOLHI A VÓS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“SE O MUNDO VOS ODEIA, SABEI QUE PRIMEIRO",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "Se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ME ODIOU A MIM; SE O MUNDO VOS ODEIA.”",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "odeia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "PAI, COMO TU ESTÁS EM MIM E EU ESTOU EM TI,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "Pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE ELES SEJAM UM EM NÓS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "UM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ELES SEJAM UM EM NÓS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "UM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PARA QUE O MUNDO CREIA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE TU ME ENVIASTE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ENVIASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PARA QUE O MUNDO CREIA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE TU ME ENVIASTE.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ENVIASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTE É O MEU MANDAMENTO:",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MANDAMENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "QUE VOS AMEIS COMO EU VOS AMEI,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "QUE VOS AMEIS COMO EU VOS AMEI.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

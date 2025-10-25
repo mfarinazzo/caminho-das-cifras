@@ -1,0 +1,242 @@
+{
+  "titulo_principal": "HINO DO ADVENTO",
+  "subtitulo": "Hino",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UMA VOZ FORTE DISSIPA COM SEUS ECOS A ESCURIDÃO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "UMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LONGE DOS SONHOS, JESUS BRILHA JÁ;",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BRILHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "LEVANTE-SE A ALMA ENTORPECIDA",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DEIXE DE ARRASTAR-SE PELO CHÃO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "CHÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AMANHECE UMA NOVA ESTRELA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VEDE QUE NOS É ENVIADO UM CORDEIRO",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "VEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA SATISFAZER GRATUITAMENTE NOSSAS DÍVIDAS;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOSSAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VAMOS A ELE COM LÁGRIMAS, PEGAMOS-LHE TODOS PERDÃO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE QUANDO APAREÇA GLORIOSO EM SUA SEGUNDA VINDA,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SEGUNDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SE ENCHA O MUNDO DE ESPANTO, ELE NOS PROTEJA PIEDOSO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PROTEJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ISSO, EU LHE CANTO ESTA BALADA",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "POR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AO PAI, AO FILHO E AO ESPÍRITO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ELES VIVAM, AMÉM!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VIVAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ISSO, EU LHE CANTO ESTA BALADA",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "POR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AO PAI, AO FILHO E AO ESPÍRITO.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE ELES VIVAM, AMÉM!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VIVAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

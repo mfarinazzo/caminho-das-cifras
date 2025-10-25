@@ -1,0 +1,579 @@
+{
+  "titulo_principal": "LADAINHA DE TODOS OS SANTOS",
+  "subtitulo": "Da Liturgia Batismal da Vigília Pascal",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "KYRIE, ELEISON!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "KYRIE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELEISON",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHRISTE, ELEISON!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CHRISTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELEISON",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "KYRIE, ELEISON!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "KYRIE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELEISON",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTA MARIA, MÃE DE DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re Mi-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SÃO MIGUEL,",
+              "acordes": []
+            },
+            {
+              "letra": "SANTOS ANJOS DE DEUS,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SÃO JOÃO BATISTA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re Mi-",
+                  "palavra_alvo": "BATISTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SÃO JOSÉ,",
+              "acordes": []
+            },
+            {
+              "letra": "SÃO PEDRO E SÃO PAULO,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO ANDRÉ,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re Mi-",
+                  "palavra_alvo": "ANDRÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SÃO MATEUS,",
+              "acordes": []
+            },
+            {
+              "letra": "SÃO JOÃO E SÃO TIAGO,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SÃO TOMÉ,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re Mi-",
+                  "palavra_alvo": "TOMÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SÃO JUDAS TADEU,",
+              "acordes": []
+            },
+            {
+              "letra": "SÃO FELIPE E SÃO BARTOLOMEU,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SÃO SIMÃO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re Mi-",
+                  "palavra_alvo": "SIMÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SÃO MATIAS,",
+              "acordes": []
+            },
+            {
+              "letra": "SANTO ESTEVÃO E SÃO LOURENÇO,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTA MARIA MADALENA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re Mi-",
+                  "palavra_alvo": "MADALENA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTA INÊS,",
+              "acordes": []
+            },
+            {
+              "letra": "SANTA CECÍLIA,",
+              "acordes": []
+            },
+            {
+              "letra": "SANTAS PERPÉTUA E FELICIDADE,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO INÁCIO DE ANTIOQUIA,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re Mi-",
+                  "palavra_alvo": "ANTIOQUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO AGOSTINHO,",
+              "acordes": []
+            },
+            {
+              "letra": "SÃO BENTO,",
+              "acordes": []
+            },
+            {
+              "letra": "SÃO FRANCISCO E SÃO DOMINGOS,",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "KYRIE, ELEISON!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "KYRIE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELEISON",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CHRISTE, ELEISON!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CHRISTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELEISON",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "KYRIE, ELEISON!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "KYRIE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ELEISON",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ROGAI POR NÓS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ROGAI POR NÓS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ROGAI POR NÓS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ROGAI POR NÓS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ROGAI POR NÓS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ROGAI POR NÓS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ROGAI POR NÓS!",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ROGAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            },
+            {
+              "letra": "“",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol maior"
+}

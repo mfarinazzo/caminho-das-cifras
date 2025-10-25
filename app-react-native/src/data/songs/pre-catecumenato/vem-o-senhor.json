@@ -1,0 +1,298 @@
+{
+  "titulo_principal": "VEM O SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 93(92) - Apocalipse 1, 5-6",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM O SENHOR VESTIDO DE MAJESTADE,  |",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAJESTADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "VESTIDO E CINGIDO DE PODER.         |",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Como está firme o mundo e não vacila,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "vacila",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "a santidade é o adorno de tua casa;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "teu trono está firme desde sempre,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "sempre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "desde sempre tu és o Senhor.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aquele, aquele que nos amou",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "e nos livrou de todos os pecados.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "pecados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Aquele, aquele que nos amou",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "e fez de nós sacerdotes do seu reino.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "reino",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A ELE A GLÓRIA E O PODER      |",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "PELOS SÉCULOS DOS SÉCULOS.    |",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SÉCULOS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vem sobre as nuvens, todo homem o verá,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "verá",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "até mesmo os que o transpassaram;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "transpassaram",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "os povos todos e todas as nações",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "nações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "diante dele se lamentarão.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "lamentarão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A ELE A GLÓRIA E O PODER ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEM O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

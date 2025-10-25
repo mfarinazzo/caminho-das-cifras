@@ -1,0 +1,725 @@
+{
+  "titulo_principal": "NÃO ESTÁ AQUI, RESSUSCITOU",
+  "subtitulo": null,
+  "referencia": "Mateus 28, 1-8",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PASSADO O SÁBADO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PASSADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SÁBADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AO RAIAR DO PRIMEIRO DIA DA SEMANA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PRIMEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MARIA MADALENA E A OUTRA MARIA",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "OUTRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FORAM AO SEPULCRO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SEPULCRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E EIS QUE DE REPENTE HOUVE UM GRANDE TERREMOTO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "REPENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TERREMOTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O ANJO DO SENHOR DESCEU DO CÉU,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DESCEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "REMOVEU A PEDRA.",
+              "acordes": []
+            },
+            {
+              "letra": "E DISSE ÀS MULHERES:",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DISSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MULHERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "\"NÃO TEMAIS, SEI QUE PROCURAIS JESUS,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "TEMAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "PROCURAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O CRUCIFICADO;",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "CRUCIFICADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CRUCIFICADO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU.\"",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IDE SEM DEMORA E DIZEI AOS SEUS DISCÍPULOS:",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "SEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "DIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"RESSUSCITOU DENTRE OS MORTOS\".",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "MORTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IDE SEM DEMORA E DIZEI AOS SEUS DISCÍPULOS:",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "SEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "\"RESSUSCITOU DENTRE OS MORTOS",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "MORTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E VOS PRECEDE NA GALILEIA\".",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "PRECEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E VOS PRECEDE NA GALILEIA,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "PRECEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E VOS PRECEDE NA GALILEIA.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "PRECEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALI O VEREIS,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "ALI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "VEREIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALI O VEREIS.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "ALI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "VEREIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO ESTÁ AQUI, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "AQUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E VOS PRECEDE NA GALILEIA,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "PRECEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E VOS PRECEDE NA GALILEIA.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "PRECEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "GALILEIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALI O VEREIS,",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "ALI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "VEREIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALI O VEREIS.",
+              "acordes": [
+                {
+                  "cifra": "Do-",
+                  "palavra_alvo": "ALI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "VEREIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol menor"
+}

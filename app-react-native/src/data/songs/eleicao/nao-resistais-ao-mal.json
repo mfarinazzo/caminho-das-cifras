@@ -1,0 +1,481 @@
+{
+  "titulo_principal": "NÃO RESISTAIS AO MAL",
+  "subtitulo": null,
+  "referencia": "Mateus 5, 38ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDES OUVIDO QUE FOI DITO:",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TENDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“OLHO POR OLHO E DENTE POR DENTE”.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "OLHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS EU VOS DIGO, MAS EU VOS DIGO:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "VOS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO RESISTAIS AO MAL,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO RESISTAIS AO MAL,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO RESISTAIS AO MAL,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO RESISTAIS AO MAL.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E SE ALGUÉM TE FERE NA FACE DIREITA,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DIREITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OFERECE-LHE TAMBÉM A OUTRA;",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "OFERECE-LHE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "OUTRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SE ALGUÉM TE LEVA A JUÍZO",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA TIRAR-TE A TÚNICA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DEIXA-LHE TAMBÉM O MANTO;",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DEIXA-LHE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "MANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE ALGUÉM TE OBRIGA A ANDAR UMA MILHA,",
+              "acordes": []
+            },
+            {
+              "letra": "VAI COM ELES DUAS.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "VAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE ALGUÉM TE TIRA O QUE É TEU,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO O RECLAMES.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO RESISTAIS AO MAL, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDES OUVIDO QUE FOI DITO:",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TENDES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "“AMARÁS O TEU PRÓXIMO E ODIARÁS O TEU INIMIGO”.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "AMARÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS EU VOS DIGO, MAS EU VOS DIGO:",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "VOS",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AMAI OS VOSSOS INIMIGOS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AMAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FAZEI O BEM AOS QUE VOS ODEIAM,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "FAZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ORAI POR QUEM VOS PERSEGUE,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ORAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDIZEI OS QUE VOS CALUNIAM.",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "BENDIZEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E SEREIS FILHOS DO VOSSO PAI CELESTE,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "CELESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE FAZ SURGIR O SOL SOBRE BONS E MAUS",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "BONS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E MANDA A CHUVA TAMBÉM SOBRE OS PECADORES.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "PECADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO RESISTAIS AO MAL, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEDE PERFEITOS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SEDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO O VOSSO PAI CELESTE É PERFEITO,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE ELE É BOM COM OS PECADORES,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PECADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE ELE É BOM COM OS MALVADOS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "MALVADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO RESISTAIS AO MAL, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re maior"
+}

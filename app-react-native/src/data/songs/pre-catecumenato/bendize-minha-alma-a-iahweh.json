@@ -1,0 +1,191 @@
+{
+  "titulo_principal": "BENDIZE, MINHA ALMA, A IAHWEH",
+  "subtitulo": null,
+  "referencia": "Salmo 103 (102)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZE, MINHA ALMA, A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BENDIZE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TODO O MEU SER O SEU NOME.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BENDIZE, MINHA ALMA, A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ESQUEÇAS OS SEUS AMORES.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE, QUE AS TUAS CULPAS PERDOA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE AS TUAS DOENÇAS CURA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DOENÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SALVA TUA VIDA DA MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TE ENCHE DE GRAÇA E AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE, QUE TE FAZ JUSTIÇA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE DEFENDE OS MAIS POBRES,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POBRES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A MOISÉS REVELOU SEUS CAMINHOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CAMINHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A ISRAEL SUAS OBRAS MOSTROU.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MOSTROU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIZE, MINHA ALMA, A IAHWEH, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BENDIZE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

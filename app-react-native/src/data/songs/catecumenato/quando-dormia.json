@@ -1,0 +1,424 @@
+{
+  "titulo_principal": "QUANDO DORMIA",
+  "subtitulo": null,
+  "referencia": "Cântico dos Cânticos 5, 2ss",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUANDO DORMIA E MEU CORAÇÃO VELAVA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "velava",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "A VOZ DO MEU AMADO OUVI:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ouvi",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "“ABRE-ME, MINHA IRMÃ, ABRE-ME, MINHA POMBA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Abre-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "irmã",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "abre-me",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "pomba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE MINHA CABEÇA ESTÁ COBERTA DE ORVALHO",
+              "acordes": []
+            },
+            {
+              "letra": "E OS MEUS CABELOS DO RELENTO DA NOITE”.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "noite",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "METEU A MÃO",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Meteu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PELO BURACO DA FECHADURA;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "fechadura",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "E TODA INTEIRA ESTREMECI!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "estremecí",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "LEVANTEI-ME CORRENDO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Levantei-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "correndo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "E MINHAS MÃOS DESTILARAM MIRRA,",
+              "acordes": []
+            },
+            {
+              "letra": "MIRRA FLUÍDA MEUS DEDOS,",
+              "acordes": []
+            },
+            {
+              "letra": "PELO TRINCO DA PORTA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "porta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "EU VOS CONJURO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "FILHAS DE JERUSALÉM,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "SE ENCONTRARDES MEU AMADO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIZEI-LHE QUE MORRO DE AMOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIZEI-LHE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ABRI, ABRI AO MEU AMADO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ABRI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS JÁ NÃO ESTAVA, JÁ SE TINHA IDO.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ESTAVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E MINHA ALMA DESFALECEU PELA SUA IDA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "IDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROCUREI-O E NÃO O ENCONTREI,",
+              "acordes": []
+            },
+            {
+              "letra": "CHAMEI-O, CHAMEI-O,",
+              "acordes": []
+            },
+            {
+              "letra": "E NÃO ME RESPONDEU.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESPONDEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENCONTRARAM-ME OS GUARDAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENCONTRARAM-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE FAZEM A RONDA, ESPANCARAM-ME,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RONDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ESPANCARAM-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DESNUDARAM-ME",
+              "acordes": []
+            },
+            {
+              "letra": "OS GUARDAS DAS MURALHAS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GUARDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU VOS CONJURO, FILHAS DE JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AH, SE TU FOSSES MEU IRMÃO!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IRMÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PODERIA BEIJAR-TE,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PODERIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AO TE ENCONTRAR NA PORTA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ENCONTRAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU VOS CONJURO, FILHAS DE JERUSALÉM, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JERUSALÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

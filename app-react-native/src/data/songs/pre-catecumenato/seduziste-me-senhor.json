@@ -1,0 +1,440 @@
+{
+  "titulo_principal": "SEDUZISTE-ME SENHOR",
+  "subtitulo": null,
+  "referencia": "Jeremias 20, 7-18",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEDUZISTE-ME, SENHOR,      |",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEDUZISTE-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "E ME DEIXEI SEDUZIR;       |",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEDUZIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "LUTASTE COMIGO             |",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E ME VENCESTE.             |",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VENCESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "FOSTE MAIS FORTE QUE EU,   |",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FOSTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E DOMINASTE.               |",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DOMINASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Quando falo devo gritar:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "gritar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "\"Violência, opressão!\".",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "opressão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Assim tua Palavra é para mim escárnio e opróbrio.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Palavra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "opróbrio",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Dizia-me: \"Não pensarei mais n'ele,",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Dizia-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "não falarei mais em seu Nome\".",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Nome",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Mas em meu coração",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "havia um fogo ardente,",
+              "acordes": []
+            },
+            {
+              "letra": "que corria por meus ossos.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "corria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ossos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS EM MEU CORAÇÃO",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "HAVIA UM FOGO ARDENTE,",
+              "acordes": []
+            },
+            {
+              "letra": "QUE CORRIA POR MEUS OSSOS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CORRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "OSSOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEDUZISTE-ME, SENHOR, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEDUZISTE-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Maldito o dia em que nasci!",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Maldito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Maldito o homem",
+              "acordes": []
+            },
+            {
+              "letra": "que deu a notícia a meu pai:",
+              "acordes": []
+            },
+            {
+              "letra": "\"Nasceu-te um filho!\"",
+              "acordes": []
+            },
+            {
+              "letra": "Por que saí do ventre de minha mãe,",
+              "acordes": []
+            },
+            {
+              "letra": "se somente devo ver penas e aflição?",
+              "acordes": []
+            },
+            {
+              "letra": "(melisma)",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS O SENHOR ESTÁ COMIGO,      |",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "COMO HERÓI VALOROSO.           |",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VALOROSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Cantai hinos ao Senhor, louvai seu Nome,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Cantai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "louvai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Nome",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "que salvou a vida deste pobre.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "salvou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "pobre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS O SENHOR ESTÁ COMIGO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "COMO HERÓI VALOROSO.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VALOROSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SEDUZISTE-ME, SENHOR,...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEDUZISTE-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

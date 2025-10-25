@@ -1,0 +1,452 @@
+{
+  "titulo_principal": "MOSTRAR-ME-ÁS O CAMINHO DA VIDA",
+  "subtitulo": null,
+  "referencia": "Salmo 16 (15)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MOSTRAR-ME-ÁS O CAMINHO DA VIDA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MOSTRAR-ME-ÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MOSTRAR-ME-ÁS O CAMINHO DA VIDA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MOSTRAR-ME-ÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SACIAR-ME-ÁS DE GOZO EM TUA PRESENÇA,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SACIAR-ME-ÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "DE ALEGRIA PERPÉTUA À TUA DIREITA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALEGRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DIREITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PROTEGE-ME, DEUS MEU, EM TI ME REFUGIO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PROTEGE-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "REFUGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU DIGO A DEUS: \"TU ÉS MEU SENHOR.\"",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEM TI NÃO TENHO NADA\".",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MOSTRAR-ME-ÁS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MOSTRAR-ME-ÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR É MINHA HERANÇA E MINHA TAÇA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "TAÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MINHA VIDA ESTÁ EM SUAS MÃOS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COUBE-ME POR SORTE UM LUGAR FORMOSO,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "LUGAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENCANTA-ME MINHA HERANÇA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENCANTA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "HERANÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIGO AO SENHOR QUE ME ACONSELHA;",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "BENDIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ACONSELHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ATÉ DE NOITE INSTRUI MEU CORAÇÃO;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TENHO SEMPRE DIANTE DE MIM O SENHOR;",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "DIANTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTÁ A MINHA DIREITA, NÃO VACILAREI.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VACILAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MOSTRAR-ME-ÁS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MOSTRAR-ME-ÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "POR ISSO SE ALEGRA MEU CORAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALEGRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EXULTA MINHA ALMA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EXULTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E MINHA CARNE DESCANSA SERENA;",
+              "acordes": []
+            },
+            {
+              "letra": "PORQUE NÃO ABANDONARÁS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ABANDONARÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MINHA VIDA NO SEPULCRO,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "SEPULCRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NEM DEIXARÁS QUE TEU SANTO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EXPERIMENTE A CORRUPÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CORRUPÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A CORRUPÇÃO. (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CORRUPÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MOSTRAR-ME-ÁS ...",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "MOSTRAR-ME-ÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

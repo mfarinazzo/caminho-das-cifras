@@ -1,0 +1,325 @@
+{
+  "titulo_principal": "AKEDÁ",
+  "subtitulo": "Tirado do Targum Neofiti sobre o sacrifício de Isaac",
+  "referencia": "(Gn 22,1-19)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ERA AINDA NOITE QUANDO ABRAÃO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Era",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "Abraão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SE DISPUNHA A SACRIFICAR O SEU FILHO;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "filho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "OS DOIS SE FITAVAM MUTUAMENTE",
+              "acordes": [
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "mutuamente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO LHE DISSE SEU FILHO ISAAC:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Isaac",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "AKEDÁ, AKEDÁ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "AKEDÁ, AKEDÁ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“ATA-ME, ATA-ME FORTE, MEU PAI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ata-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "Pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ACONTEÇA QUE PELO MEDO EU RESISTA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "resista",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E NÃO SEJA VÁLIDO O TEU SACRIFÍCIO",
+              "acordes": [
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "sacrificío",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "E OS DOIS SEJAMOS REJEITADOS.”",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "rejeitados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AKEDÁ, AKEDÁ ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "“ATA-ME, ATA-ME FORTE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ATA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "FORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MEU PAI,",
+              "acordes": []
+            },
+            {
+              "letra": "QUE EU NÃO RESISTA.”",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESISTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VINDE E OLHAI A FÉ SOBRE A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VINDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VINDE E OLHAI A FÉ SOBRE A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VINDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O PAI QUE SACRIFICA O SEU FILHO,",
+              "acordes": [
+                {
+                  "cifra": "Re- 9",
+                  "palavra_alvo": "SACRIFICA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E O FILHO QUERIDO",
+              "acordes": []
+            },
+            {
+              "letra": "QUE OFERECE SEU PESCOÇO.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "PESCOÇO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AKEDÁ, AKEDÁ ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "AKEDÁ",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

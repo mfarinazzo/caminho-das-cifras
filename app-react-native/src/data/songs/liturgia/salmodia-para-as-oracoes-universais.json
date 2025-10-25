@@ -1,0 +1,411 @@
+{
+  "titulo_principal": "SALMODIA PARA AS ORAÇÕES UNIVERSAIS",
+  "subtitulo": "Melodia para utilizar na Oração universal",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OREMOS, IRMÃOS*",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Oremos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PELO SANTO PADRE,",
+              "acordes": []
+            },
+            {
+              "letra": "PELOS BISPOS, POR TODO O CLERO",
+              "acordes": []
+            },
+            {
+              "letra": "E POR TODO O POVO CONFIADO A SEUS CUIDADOS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "cuidados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE SEJAM SEMPRE A IGREJA SANTA,",
+              "acordes": []
+            },
+            {
+              "letra": "SINAL E INSTRUMENTO DA PRESENÇA DO CRISTO NO MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "mundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "mundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "mundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTAI-NOS, Ó SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCUTAI-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OREMOS IRMÃOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Oremos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE DEUS TODO-PODEROSO",
+              "acordes": []
+            },
+            {
+              "letra": "CONSIDERE COM BONDADE AS AUTORIDADES",
+              "acordes": []
+            },
+            {
+              "letra": "QUE NOS GOVERNAM,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "governam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "A FIM DE QUE, POR SUA GRAÇA,",
+              "acordes": []
+            },
+            {
+              "letra": "REINEM A PROSPERIDADE DOS POVOS,",
+              "acordes": []
+            },
+            {
+              "letra": "A TRANQUILIDADE DA PAZ",
+              "acordes": []
+            },
+            {
+              "letra": "E A LIBERDADE DA IGREJA POR TODA A TERRA.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTAI-NOS, Ó SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCUTAI-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OREMOS IRMÃOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Oremos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE DEUS ONIPOTENTE E MISERICORDIOSO",
+              "acordes": []
+            },
+            {
+              "letra": "DÊ AOS OPRIMIDOS PELAS DORES,",
+              "acordes": []
+            },
+            {
+              "letra": "ENFERMIDADES E OUTROS MALES,",
+              "acordes": []
+            },
+            {
+              "letra": "SENTIREM-SE UNIDOS AO CRISTO",
+              "acordes": []
+            },
+            {
+              "letra": "QUE SOFREU PELA SALVAÇÃO DO MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "mundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E AOS QUE SOFREM PERSEGUIÇÃO PELA SUA FÉ,",
+              "acordes": []
+            },
+            {
+              "letra": "CONCEDA-LHES ESPÍRITO DE PACIÊNCIA E CARIDADE,",
+              "acordes": []
+            },
+            {
+              "letra": "E PARA QUE SEJAM AUTÊNTICAS TESTEMUNHAS",
+              "acordes": []
+            },
+            {
+              "letra": "DOS BENS CELESTES.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "celestes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "celestes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "celestes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTAI-NOS, Ó SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCUTAI-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OREMOS IRMÃOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Oremos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "POR ESTA SANTA ASSEMBLEIA,",
+              "acordes": []
+            },
+            {
+              "letra": "REUNIDA EM NOME DE CRISTO RESSUSCITADO DA MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE PERSEVERE NA FÉ, NA SANTIDADE DOS COSTUMES,",
+              "acordes": []
+            },
+            {
+              "letra": "NA CARIDADE FRATERNA E NO SERVIÇO FIEL A CRISTO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTAI-NOS, Ó SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ESCUTAI-NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

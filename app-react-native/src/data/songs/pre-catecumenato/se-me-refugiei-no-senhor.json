@@ -1,0 +1,365 @@
+{
+  "titulo_principal": "SE ME REFUGIEI NO SENHOR",
+  "subtitulo": null,
+  "referencia": "Salmo 11(10)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE ME REFUGIEI NO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO PODEIS DIZER-ME,",
+              "acordes": []
+            },
+            {
+              "letra": "COMO PODEIS DIZER-ME:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "DIZER-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "QUE FUJA COMO PÁSSARO AO MONTE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "FUJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE FUJA COMO PÁSSARO AO MONTE?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "FUJA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Eu sei que os malvados retesam o arco,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "sei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "arco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "que ajustam as flechas à corda,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ajustam",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "corda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para ferir na sombra o inocente.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ferir",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "inocente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Mas quando falham os alicerces,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "alicerces",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "que pode fazer o justo?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "justo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Que pode fazer o justo?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "pode",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "justo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Mas o Senhor, o Senhor",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "está no seu templo santo,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "santo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "tem o seu trono no céu;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "tem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "céu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "seus olhos observam o mundo,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "olhos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "mundo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Do                   Sì7",
+              "acordes": []
+            },
+            {
+              "letra": "suas pupilas as ações dos homens.",
+              "acordes": []
+            },
+            {
+              "letra": "O Senhor escruta os justos,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "justos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "mas também escruta os malvados;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "malvados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "e o Senhor não ama a violência,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "violência",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "o Senhor não ama a violência.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "violência",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE ME REFUGIEI...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "REFUGIEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

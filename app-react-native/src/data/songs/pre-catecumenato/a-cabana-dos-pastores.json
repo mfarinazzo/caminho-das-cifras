@@ -1,0 +1,211 @@
+{
+  "titulo_principal": "A CABANA DOS PASTORES",
+  "subtitulo": null,
+  "referencia": "Cântico dos Cânticos 1, 2-8",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ME BEIJES COM BEIJOS DE SUA BOCA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MELHORES QUE O VINHO SÃO TEUS AMORES;",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "Melhores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "amores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "O TEU NOME É PERFUME DERRAMADO,",
+              "acordes": []
+            },
+            {
+              "letra": "POR ISSO TE AMAM AS DONZELAS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "donzelas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "LEVA-ME ATRÁS DE TI: SAIAMOS!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "LEVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "LEVA-ME ATRÁS DE TI: CORRAMOS!",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "LEVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CORRAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "CELEBRAREMOS OS TEUS AMORES MAIS QUE O VINHO;",
+              "acordes": []
+            },
+            {
+              "letra": "COM QUANTA RAZÃO TU ÉS AMADO!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AMADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "FAZ-ME SABER, AMADO DA MINHA ALMA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FAZ-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ONDE APASCENTAS O REBANHO,",
+              "acordes": []
+            },
+            {
+              "letra": "PARA QUE EU NÃO ANDE VAGUEANDO",
+              "acordes": []
+            },
+            {
+              "letra": "ATRÁS DE OUTROS COMPANHEIROS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "COMPANHEIROS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE NÃO SABES, Ó MAIS BELA DAS MULHERES!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "MAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "MULHERES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEGUE O CAMINHO DAS MINHAS OVELHAS,",
+              "acordes": []
+            },
+            {
+              "letra": "E LEVA POR AÍ OS TEUS CABRITOS,",
+              "acordes": []
+            },
+            {
+              "letra": "ATÉ A CABANA DOS PASTORES.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PASTORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVA-ME ATRÁS DE TI: SAIAMOS! ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "LEVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

@@ -1,0 +1,281 @@
+{
+  "titulo_principal": "VÓS SOIS A LUZ DO MUNDO",
+  "subtitulo": null,
+  "referencia": "Mateus 5,14-16",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "VÓS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            },
+            {
+              "letra": "A LUZ DO MUNDO.                |",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Não se pode esconder uma cidade sobre um monte;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "uma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "monte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "não se pode esconder uma cidade sobre um monte.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "esconder",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "monte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Nem se acende uma lâmpada,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "lâmpada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e se coloca debaixo do alqueire,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "alqueire",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "mas se põe sobre o candelabro,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "candelabro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "para que dê luz a todos aqueles que estão na casa.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "para",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "casa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Resplandeça assim a vossa luz",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Resplandeça",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "assim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "luz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "diante dos homens,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "diante",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "homens",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para que vejam as vossas obras",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "para",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "obras",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e glorifiquem o vosso Pai que está nos céus.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "céus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VÓS SOIS A LUZ DO MUNDO,...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "________________________________________________________",
+              "acordes": []
+            },
+            {
+              "letra": "*",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

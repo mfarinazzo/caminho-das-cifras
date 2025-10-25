@@ -1,0 +1,379 @@
+{
+  "titulo_principal": "QUEM É ESTA QUE SOBE DO DESERTO",
+  "subtitulo": null,
+  "referencia": "Cântico dos Cânticos 8, 5-7",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3ª Traste"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM É ESTA QUE SOBE DO DESERTO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "QUEM É ESTA QUE SOBE DO DESERTO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SOBE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "APOIADA EM SEU AMADO, EM SEU AMADO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "APOIADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMADO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "APOIADA EM SEU AMADO?",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "APOIADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Debaixo da maciera te despertei,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Debaixo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "te",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "despertei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "ali onde te concebeu tua mãe,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "concebeu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mãe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ali onde tua mãe te deu à luz,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "luz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ali onde tua mãe te deu à luz.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "luz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM É ESTA QUE SOBE DO DESERTO, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Leva-me, como um selo no teu coração,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Leva-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "no",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "coração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "como tatuagem em teu braço.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "como",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "tatuagem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "braço",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Porque forte é o amor como a morte.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "forte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E as águas não o podem apagar,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "águas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "apagar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "nem os rios o podem alagar.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "rios",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "alagar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Que se tu desses os bens de tua casa pelo amor,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "desses",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "somente encontrarias o desprezo.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "somente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "desprezo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM É ESTA QUE SOBE DO DESERTO, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESERTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

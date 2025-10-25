@@ -1,0 +1,197 @@
+{
+  "titulo_principal": "MARIA DE JASNA GÖRA",
+  "subtitulo": "Hino à Virgem de Jasna Góra, Chestokowa, Polônia",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, DE JASNA GÖRA*",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MARIA, SANCTA MARIA",
+              "acordes": []
+            },
+            {
+              "letra": "MATER ABSCONDITA",
+              "acordes": []
+            },
+            {
+              "letra": "AT SEMPER SOLLICITA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU, REDEMPTORIS MATER,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ORA PRO NOBIS.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "NOBIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SURGE COMO DÉBORA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Surge",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SALVA-NOS COMO JUDITE,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "salva-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CANTA POR NÓS COMO ANA, (MELISMA)",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MELISMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "INTERCEDE COMO ESTER.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "Ester",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MÃE DO CÉU:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Mãe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ENSINA-NOS A SEGUIR",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ensina-nos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AS PEGADAS DE CRISTO,",
+              "acordes": []
+            },
+            {
+              "letra": "DO HUMILDE FILHO,",
+              "acordes": []
+            },
+            {
+              "letra": "DA HUMILDE MÃE,",
+              "acordes": []
+            },
+            {
+              "letra": "DA SEMPRE VIRGEM MARIA.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

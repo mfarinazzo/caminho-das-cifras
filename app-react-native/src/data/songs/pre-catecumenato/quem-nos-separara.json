@@ -1,0 +1,333 @@
+{
+  "titulo_principal": "QUEM NOS SEPARARÁ",
+  "subtitulo": null,
+  "referencia": "Romanos 8, 33-39",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "QUEM NOS SEPARARÁ,   |",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DO AMOR DE DEUS?     |",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Acaso Cristo Jesus, o que morreu;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Acaso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "o",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "mais ainda o que ressuscitou,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ressuscitou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "o que à direita de Deus",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "intercede por nós?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "nós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM NOS SEPARARÁ, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A tribulação, a angústia,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "tribulação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a perseguição, a fome,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "perseguição",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "ou a nudez?",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "nudez",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Se em tudo vencemos",
+              "acordes": []
+            },
+            {
+              "letra": "por aquele que nos amou.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM NOS SEPARARÁ, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Se seguros estamos",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "seguros",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "estamos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "que nem a morte, nem a vida,",
+              "acordes": []
+            },
+            {
+              "letra": "nem o presente, nem o futuro,",
+              "acordes": []
+            },
+            {
+              "letra": "nem a altura, nem a profundidade,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "profundidade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "nem outra criatura alguma",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "alguma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "nos poderá separar de Deus.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NOS PODERÁ SEPARAR,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SEPARAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "NOS PODERÁ SEPARAR",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SEPARAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "DO AMOR DE DEUS",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MANIFESTADO EM CRISTO JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM NOS SEPARARÁ, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

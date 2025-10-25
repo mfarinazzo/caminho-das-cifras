@@ -1,0 +1,520 @@
+{
+  "titulo_principal": "ORAÇÃO EUCARÍSTICA II",
+  "subtitulo": "Modelo I",
+  "referencia": null,
+  "pagina": 190,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR ESTEJA CONVOSCO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE ESTÁ NO MEIO DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CORAÇÕES AO ALTO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CORAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEMOS GRAÇAS AO SENHOR, NOSSO DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É NOSSO DEVER E NOSSA SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NA VERDADE, É DIGNO E JUSTO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VERDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JUSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "salvação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "DAR-VOS GRAÇAS, SEMPRE E EM TODO LUGAR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "graças",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "lugar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "SENHOR, PAI SANTO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "POR VOSSO AMADO FILHO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "JESUS CRISTO.",
+              "acordes": []
+            },
+            {
+              "letra": "ELE É A VOSSA PALAVRA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PALAVRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PELA QUAL TUDO CRIASTES.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "criastes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ELE É O NOSSO SALVADOR E REDENTOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Redentor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "QUE SE ENCARNOU PELO ESPÍRITO SANTO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E NASCEU DA VIRGEM MARIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE, PARA CUMPRIR A VOSSA VONTADE",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Ele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "vontade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "E ADQUIRIR PARA VÓS UM POVO SANTO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ADQUIRIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTENDEU OS BRAÇOS NA HORA DA SUA PAIXÃO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "estendeu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "paixão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "A FIM DE VENCER A MORTE E MANIFESTAR A RESSURREIÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ressurreição",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "MORRENDO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MORRENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESTRUIU NOSSA MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "RESSUSCITANDO,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RESSUSCITANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "RESTAUROU NOSSA VIDA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ISSO, COM OS ANJOS E TODOS OS SANTOS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SANTOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PROCLAMAMOS VOSSA GLÓRIA.",
+              "acordes": []
+            },
+            {
+              "letra": "CANTANDO A UMA SÓ VOZ:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTAR O SANTO DO TEMPO LITÚRGICO CORRESPONDENTE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTO, SANTO, SANTO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NA VERDADE, Ó PAI, VÓS SOIS SANTO, FONTE DE TODA SANTIDADE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SANTIFICAI, POIS, ESTES DONS, DERRAMANDO SOBRE ELES O",
+              "acordes": []
+            },
+            {
+              "letra": "VOSSO ESPÍRITO, A FIM DE QUE SE TORNEM PARA NÓS O CORPO",
+              "acordes": []
+            },
+            {
+              "letra": "E O SANGUE DE NOSSO SENHOR JESUS CRISTO.",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

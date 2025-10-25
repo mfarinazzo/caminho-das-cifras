@@ -1,0 +1,677 @@
+{
+  "titulo_principal": "ANÁFORA DO SAL",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ELE ESTÁ NO MEIO DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "P.  Corações ao alto.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Corações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "alto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O NOSSO CORAÇÃO ESTÁ EM DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NOSSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "P.  Demos graças ao Senhor nosso Deus.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "É NOSSO DEVER E SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DEVER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "P.  Realmente é justo e necessário,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Realmente",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "justo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "necessário",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "é nosso dever e salvação",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "salvação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "dar-vos graças sempre e em todo lugar.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "sempre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "lugar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "A vós, Pai Santo, Deus eterno e todo poderoso,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "poderoso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "que com vosso poder, por meio dos sinais sacramentais,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "meio",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "sacramentais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "realizais maravilhas. Vós criastes o sal para que significasse",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "realizais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "maravilhas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Vós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "a realidade da nossa participação",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "participação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "no mistério da morte e ressurreição do vosso Filho.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "no",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Filho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Ó Deus, que na vossa sabedoria ordenastes a vosso povo",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "sabedoria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "povo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "que vos apresentasse toda oblação com o sal da aliança,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "oblação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "sal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "FAZEI COM QUE NÓS,       |",
+              "acordes": []
+            },
+            {
+              "letra": "PURIFICADOS POR VÓS,     |",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SEJAMOS TRANSFORMADOS    |",
+              "acordes": []
+            },
+            {
+              "letra": "EM OFERENDA AGRADÁVEL.   |",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AGRADÁVEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "P.  Ó Deus, que enviando à terra vosso amor",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "dais o verdadeiro sabor a toda realidade criada.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "dais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "criada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Ó Deus, que dispusestes que vossos eleitos",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "eleitos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "fossem salgados por meio do fogo,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "fossem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "fogo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para que habitando neles vosso mesmo amor",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "para",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "fossem transformados no sal da terra.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "fossem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Olha o rosto da vossa Igreja e concede",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Olha",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Igreja",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "a estes vossos filhos de saborear, o que",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "filhos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "em vossa sabedoria quisestes significar no sal.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "sabedoria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "sal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Fazei com que este sal receba a graça do Espírito,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "para que aqueles que o saborearem, purificados pelo fogo,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "saborearem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "fogo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "LEVEM EM SEUS CORPOS            |",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LEVEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "O MORRER DE JESUS, PARA QUE A   |",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "RESSURREIÇÃO DO VOSSO FILHO     |",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SE MANIFESTE EM SUAS VIDAS.     |",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VIDAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "P.  Derrama, Pai Santo,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Derrama",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "sobre este sal o poder do vosso Espírito,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "sal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "Espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "para que nos preserve da corrupção do pecado.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "pecado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Nós vos pedimos por nosso Senhor Jesus Cristo",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "que convosco vive e reina pelos séculos dos séculos.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "séculos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "séculos",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AMÉM, AMÉM, AMÉM.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

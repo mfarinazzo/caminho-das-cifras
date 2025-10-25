@@ -1,0 +1,456 @@
+{
+  "titulo_principal": "SENHOR, AJUDA-ME A NÃO DUVIDAR DE TI",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Senhor, ajuda-me, Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ajuda-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "a não duvidar de ti!",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, AJUDA-ME, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AJUDA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "A NÃO DUVIDAR DE TI!",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "A",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Senhor, ajuda-me, Senhor,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ajuda-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "a não duvidar nunca do teu Amor!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "não",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "Amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, AJUDA-ME, SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AJUDA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "A NÃO DUVIDAR NUNCA DO TEU AMOR!",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "NÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Tua graça derramando",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "graça",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "derramando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "deixou meu coração já florescido",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "deixou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "coração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "florescido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "de mil ânsias de amor,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "mil",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "de mil ânsias de amor.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "mil",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Que mais não posso que sofrer,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "mais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "posso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "sofrer",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "que viver em um gemido.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "viver",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "gemido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E nesta chama de teu amor obscura,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "obscura",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "nesta teia que envolve minha alma",
+              "acordes": []
+            },
+            {
+              "letra": "e a sufoca,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "sufoca",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "sinto meu coração que se desloca,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "sinto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "desloca",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "que se abre e se derrama",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "abre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "derrama",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "como água que inunda teu jardim.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "água",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "jardim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, AJUDA-ME, SENHOR, ...",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AJUDA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E NESTA CHAMA DE TEU AMOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NESTA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "... COMO ÁGUA QUE INUNDA TEU JARDIM.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ÁGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "JARDIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Si menor"
+}

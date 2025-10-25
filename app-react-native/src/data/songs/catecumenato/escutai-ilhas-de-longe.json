@@ -1,0 +1,480 @@
+{
+  "titulo_principal": "ESCUTAI ILHAS DE LONGE",
+  "subtitulo": "Segundo canto do Servo de Iahweh",
+  "referencia": "Isaías 49, 1-16",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESCUTAI, ILHAS DE LONGE,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "Escutai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PRESTAI ATENÇÃO, NAÇÕES!",
+              "acordes": []
+            },
+            {
+              "letra": "ASSIM FALA O SENHOR, O SANTO DE ISRAEL:",
+              "acordes": []
+            },
+            {
+              "letra": "AQUELE CUJA VIDA É DESPREZADA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Aquele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E É O ABOMINADO DAS GENTES,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "gentes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AO ESCRAVO DOS DOMINADORES:",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "dominadores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "VER-TE-ÃO OS REIS,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VER-TE-ÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "POR-SE-ÃO EM PÉ.",
+              "acordes": []
+            },
+            {
+              "letra": "OS PRÍNCIPES DA TERRA",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "PRÍNCIPES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SE INCLINARÃO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INCLINARÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "EU TE ESCOLHI,",
+              "acordes": []
+            },
+            {
+              "letra": "EU TE ESCOLHI.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NO DIA FAVORÁVEL TE AJUDAREI,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "NO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "AJUDAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO DIA DA MORTE TE ASSISTIREI.",
+              "acordes": []
+            },
+            {
+              "letra": "EU TE ESCOLHI",
+              "acordes": []
+            },
+            {
+              "letra": "COMO ALIANÇA COM OS POVOS.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VER-TE-ÃO OS REIS, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VER-TE-ÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIRÁS AOS PRISIONEIROS: “SAÍ”,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "DIRÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIRÁS AOS CEGOS: “OLHAI”,",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "DIRÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONDUZIRÁS OS POVOS",
+              "acordes": []
+            },
+            {
+              "letra": "PELO CAMINHO DA VIDA.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "PELO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VER-TE-ÃO OS REIS, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VER-TE-ÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS SIÃO DIZ: “IAHWEH ME ABANDONOU,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ABANDONOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH ME ESQUECEU”.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ESQUECEU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACASO UMA MÃE SE ESQUECE O FILHO DO SEU PEITO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ACASO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ACASO UMA MÃE SE ESQUECE O FILHO DO SEU SEIO?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ACASO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AINDA QUE UMA MÃE",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "AINDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SE ESQUEÇA DO SEU FILHO,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU JAMAIS TE ESQUECEREI.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OLHA-ME, NAS PALMAS DE MINHAS MÃOS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "MÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TE LEVO TATUADA.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OLHA-ME, NAS PALMAS DE MINHAS MÃOS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "OLHA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "MÃOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TE LEVO TATUADA.",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "TE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VER-TE-ÃO OS REIS, ...",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "VER-TE-ÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re maior"
+}

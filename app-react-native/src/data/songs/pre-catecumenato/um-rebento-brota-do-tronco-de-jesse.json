@@ -1,0 +1,670 @@
+{
+  "titulo_principal": "UM REBENTO BROTA DO TRONCO DE JESSÉ",
+  "subtitulo": null,
+  "referencia": "Isaías 11, 1-11",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM REBENTO BROTA DO TRONCO DE JESSÉ,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "REBENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "JESSÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "UM RAMO DE SUAS RAÍZES.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RAÍZES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "SOBRE ELE POUSA O ESPÍRITO DO SENHOR:",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ESPÍRITO DE SABEDORIA E DE INTELIGÊNCIA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "INTELIGÊNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "ESPÍRITO DE CONSELHO E FORTALEZA,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FORTALEZA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "ESPÍRITO DE CIÊNCIA E DE PIEDADE,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "ESPÍRITO DO TEMOR DO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Não julgará por ouvir dizer,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "julgará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "dizer",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "mas ajudará os oprimidos.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "mas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "oprimidos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Sua palavra será uma vara contra o violento",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "palavra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "violento",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "e, com o sopro dos seus lábios, matará o malvado.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "sopro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "malvado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "o lobo morará com o cordeiro,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "lobo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "cordeiro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "a pantera se deitará com o cabrito,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "pantera",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "cabrito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "o leão e o novilho pastarão juntos,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "leão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "juntos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e um menino os guiará, e um menino os guiará.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "menino",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "guiará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "menino",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "guiará",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM REBENTO BROTA ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "REBENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A vaca e o urso andarão juntos,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "vaca",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "juntos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "o leão comerá palha como o boi.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "o",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "boi",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o menino de peito brincará",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "menino",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "na cova da áspide,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "áspide",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o recém-nascido porá a mão",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "recém-nascido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "na cova da serpente venenosa.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "venenosa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Porque ninguém fará o mal.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "mal",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE NINGUÉM FARÁ O MAL.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Porque do conhecimento do Senhor, ficará cheia a terra.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE DO CONHECIMENTO DO SENHOR, FICARÁ CHEIA A TERRA.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Porque naquele dia",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "raiz de Jessé se levantará",
+              "acordes": []
+            },
+            {
+              "letra": "como estandarte dos povos,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "povos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "as nações o seguirâo com ânsia.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "nações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ânsia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Naquele dia o Senhor estenderá a sua mão",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "dia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "mão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "porque um caminho se abrirá,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "caminho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "abrirá",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE UM CAMINHO SE ABRIRÁ;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ABRIRÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "uma via para todas as nações,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "para",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "nações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UMA VIA PARA TODAS AS NAÇÕES,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PARA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "que a Virgem apontará.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Virgem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "apontará",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UM REBENTO BROTA ...",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "REBENTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Sol maior"
+}

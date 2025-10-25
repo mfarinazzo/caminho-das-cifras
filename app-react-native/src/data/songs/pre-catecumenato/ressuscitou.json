@@ -1,0 +1,407 @@
+{
+  "titulo_principal": "RESSUSCITOU",
+  "subtitulo": null,
+  "referencia": "1 Coríntios 15",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RESSUSCITOU, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 9
+                }
+              ]
+            },
+            {
+              "letra": "RESSUSCITOU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A morte:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "onde está a morte?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Onde a minha morte?",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "morte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "Onde a sua vitória?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "vitória",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RESSUSCITOU, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Graças sejam dadas ao Pai,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Graças",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "Pai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "que nos passou ao seu reino",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "reino",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "onde se vive de amor!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RESSUSCITOU ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Alegria, alegria irmãos,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Alegria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "irmãos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "que se hoje nos amamos",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "amamos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "é porque ressuscitou.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ressuscitou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RESSUSCITOU ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Se com ele morremos",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "morremos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "com ele vivemos,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "vivemos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "com ele cantamos:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "cantamos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Aleluia!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Aleluia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, RESSUSCITOU.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "RESSUSCITOU, RESSUSCITOU,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 7
+                }
+              ]
+            },
+            {
+              "letra": "RESSUSCITOU, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "RESSUSCITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

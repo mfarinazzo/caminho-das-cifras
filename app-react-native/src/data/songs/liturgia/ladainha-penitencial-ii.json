@@ -1,0 +1,512 @@
+{
+  "titulo_principal": "LADAINHA PENITENCIAL II",
+  "subtitulo": "Ladainha para Celebração Penitencial",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENDURECENDO O NOSSO CORAÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ENDURECENDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TENDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SOU PECADOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PECADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR TENDE PIEDADE.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR TENDE PIEDADE",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS POR IGNORÂNCIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IGNORÂNCIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "POR MEIO DA SEXUALIDADE,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "TANTO EM PÚBLICO COMO EM PRIVADO,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "ENGANANDO OS NOSSOS SEMELHANTES,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "USANDO DA VIOLÊNCIA,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "INSULTANDO COM AS NOSSAS PALAVRAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "INSULTANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "DESPREZANDO OS NOSSOS PAIS E MESTRES,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "DEIXANDO-NOS DOMINAR",
+              "acordes": []
+            },
+            {
+              "letra": "PELAS NOSSAS BAIXAS PAIXÕES,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, TENDE PIEDADE.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, TENDE PIEDADE.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "PIEDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "POR MEIO DA MENTIRA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MENTIRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "POR MEIO DO SUBORNO,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "POR MEIO DA CALÚNIA,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PELOS PECADOS QUE COMETEMOS",
+              "acordes": []
+            },
+            {
+              "letra": "NAS NOSSAS RELAÇÕES COMERCIAIS,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TENDE PIEDADE DE MIM, ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

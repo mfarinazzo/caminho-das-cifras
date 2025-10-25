@@ -1,0 +1,399 @@
+{
+  "titulo_principal": "CANTO DE MOISÉS",
+  "subtitulo": null,
+  "referencia": "Êxodo 15, 1-18",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTEMOS AO SENHOR, CANTEMOS AO SENHOR",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "CANTEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUE SE COBRIU DE GLÓRIA, DE GLÓRIA, DE GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "GLÓRIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PRECIPITOU NO MAR CAVALO E CAVALEIRO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MINHA FORÇA E MEU CANTO",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "CANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É O SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE É MEU SALVADOR,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "SALVADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É MEU DEUS, EU O CELEBRAREI.",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "CELEBRAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU NO MAR",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "PRECIPITOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CAVALO E CAVALEIRO,",
+              "acordes": []
+            },
+            {
+              "letra": "CAVALO E CAVALEIRO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O SENHOR É UM HERÓI, IAHWEH É O SEU NOME!",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "HERÓI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS CARROS DO FARAÓ É O EXÉRCITO INIMIGO",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "INIMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PRECIPITOU NO MAR.",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "MAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU... MINHA FORÇA... PRECIPITOU...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A TUA DIREITA, Ó SENHOR, É GLORIOSA E POTENTE.",
+              "acordes": []
+            },
+            {
+              "letra": "A TUA DIREITA, Ó SENHOR, DESTRÓI O INIMIGO,",
+              "acordes": []
+            },
+            {
+              "letra": "DESTRÓI O INIMIGO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU... MINHA FORÇA... PRECIPITOU...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIZIA O INIMIGO: “PERSEGUIREI, ALCANÇAREI,",
+              "acordes": []
+            },
+            {
+              "letra": "DESEMBAINHAREI A ESPADA,",
+              "acordes": []
+            },
+            {
+              "letra": "MINHA MÃO OS DESTRUIRÁ,",
+              "acordes": []
+            },
+            {
+              "letra": "MINHA MÃO OS DESTRUIRÁ”.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU... MINHA FORÇA... PRECIPITOU...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AO SOPRO DO SEU HÁLITO, O MAR OS SEPULTOU.",
+              "acordes": []
+            },
+            {
+              "letra": "AFUNDARAM-SE COMO CHUMBO",
+              "acordes": []
+            },
+            {
+              "letra": "NAS ÁGUAS PROFUNDAS, NAS ÁGUAS DA MORTE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU... MINHA FORÇA... PRECIPITOU...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUEM É COMO TU, ENTRE OS DEUSES?",
+              "acordes": []
+            },
+            {
+              "letra": "QUEM É COMO TU, Ó SENHOR?",
+              "acordes": []
+            },
+            {
+              "letra": "GLORIOSO EM SANTIDADE,",
+              "acordes": []
+            },
+            {
+              "letra": "TEMÍVEL POR TUAS OBRAS,",
+              "acordes": []
+            },
+            {
+              "letra": "QUE OPERAS PRODÍGIOS?",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU... MINHA FORÇA... PRECIPITOU...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "GUIASTE ESTE POVO, QUE RESGATASTE,",
+              "acordes": []
+            },
+            {
+              "letra": "COM FORÇA O CONDUZISTE,",
+              "acordes": []
+            },
+            {
+              "letra": "COM FORÇA E COM AMOR ATÉ TUA MORADA.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU... MINHA FORÇA... PRECIPITOU...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU O LEVAS E O PLANTAS",
+              "acordes": []
+            },
+            {
+              "letra": "NO MONTE DA PROMESSA",
+              "acordes": []
+            },
+            {
+              "letra": "ONDE TU, SENHOR, REINAS PARA SEMPRE,",
+              "acordes": []
+            },
+            {
+              "letra": "REINAS ETERNAMENTE",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PRECIPITOU... MINHA FORÇA... PRECIPITOU...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

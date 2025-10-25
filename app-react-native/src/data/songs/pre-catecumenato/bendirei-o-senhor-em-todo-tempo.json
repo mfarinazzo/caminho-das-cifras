@@ -1,0 +1,385 @@
+{
+  "titulo_principal": "BENDIREI O SENHOR EM TODO TEMPO",
+  "subtitulo": null,
+  "referencia": "Salmo 34 (33)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIREI O SENHOR EM TODO TEMPO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDIREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NA MINHA BOCA SEMPRE O SEU LOUVOR;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "LOUVOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "EU ME GLORIO NO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "OUÇAM OS HUMILDES E SE ALEGREM.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "OUÇAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ALEGREM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTAI COMIGO AO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Cantai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CANTEMOS JUNTOS O SEU NOME.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "cantemos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "Nome",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE PROCUREI O SENHOR E ME ATENDEU;",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "Porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "atendeu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "E DE TODO TEMOR ME LIVROU.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "todo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "livrou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIREI O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDIREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O ANJO DO SENHOR ACAMPA",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM TORNO DAQUELES QUE O TEMEM E OS SALVA.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "em",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "salva",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESTE POBRE GRITA E O SENHOR O ESCUTA",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "grita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "escuta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E O LIVRA DE TODAS AS SUAS ANGÚSTIAS.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "livra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "angústias",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "PROVAI E VEDE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PROVAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO É BOM O SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FELIZ O HOMEM",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "FELIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE SE REFUGIA NELE.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MUITAS SÃO AS PROVAS QUE ESPERAM O JUSTO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MUITAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS DE TODAS O LIVRA O SENHOR;",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTE POBRE GRITA E O SENHOR O ESCUTA",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "grita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "escuta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E O LIVRA DE TODAS AS SUAS ANGÚSTIAS.",
+              "acordes": [
+                {
+                  "cifra": "Sib",
+                  "palavra_alvo": "livra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "angústias",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "BENDIREI O SENHOR ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "BENDIREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

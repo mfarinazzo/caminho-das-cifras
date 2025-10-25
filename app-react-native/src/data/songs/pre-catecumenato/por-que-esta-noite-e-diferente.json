@@ -1,0 +1,665 @@
+{
+  "titulo_principal": "POR QUE ESTA NOITE É DIFERENTE",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DE TODAS AS OUTRAS NOITES?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "C.  Que todas as outras noites",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "vamos para cama cedo",
+              "acordes": []
+            },
+            {
+              "letra": "e não ficamos levantados.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "não",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "levantados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E NÃO FICAMOS LEVANTADOS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FICAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LEVANTADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "C.  Mas esta noite, esta noite,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "esta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "esta",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "estamos levantados.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "estamos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "levantados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS ESTA NOITE, ESTA NOITE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESTAMOS LEVANTADOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESTAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LEVANTADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "C.  Porque esta noite é diferente",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Porque",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "de todas as outras noites?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "todas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "noites",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DE TODAS AS OUTRAS NOITES?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "C.  Que todas as outras noites",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "vamos para a cama cedo",
+              "acordes": []
+            },
+            {
+              "letra": "depois de ter jantado.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "depois",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "jantado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DEPOIS DE TER JANTADO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JANTADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "C.  Mas esta noite, esta noite",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "esta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "esta",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "temos jejuado.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "temos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "jejuado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS ESTA NOITE, ESTA NOITE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TEMOS JEJUADO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "JEJUADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "C.  Por que esta noite é diferente",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Por",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "de todas as outras noites?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "todas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "noites",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DE TODAS AS OUTRAS NOITES?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "C.  Que todas as outras noites",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Que",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "vamos para cama cedo",
+              "acordes": []
+            },
+            {
+              "letra": "e não esperamos nada.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "não",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "nada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E NÃO ESPERAMOS NADA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESPERAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "C.  Mas esta noite, esta noite",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "esta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "esta",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "estamos esperando.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "estamos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "esperando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS ESTA NOITE, ESTA NOITE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ESTAMOS ESPERANDO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESTAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPERANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR QUE ESTA NOITE É DIFERENTE",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DE TODAS AS OUTRAS NOITES?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DE TODAS AS OUTRAS NOITES?",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TODAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "C.  Para estar levantados,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Para",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para ter jejuado,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ter",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "para estar todos esperando.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "estar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "esperando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PARA ESTAR LEVANTADOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ESTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA TER JEJUADO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA ESTAR TODOS ESPERANDO.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESTAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPERANDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

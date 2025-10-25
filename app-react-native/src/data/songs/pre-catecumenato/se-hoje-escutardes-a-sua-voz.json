@@ -1,0 +1,508 @@
+{
+  "titulo_principal": "SE HOJE ESCUTARDES A SUA VOZ",
+  "subtitulo": null,
+  "referencia": "Salmo 95(94)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE HOJE ESCUTARDES A SUA VOZ    |",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "HOJE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ENDUREÇAIS O CORAÇÃO.       |",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "ENDUREÇAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vinde, exultemos no Senhor,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Vinde",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "aclamemos o rochedo que nos salva;",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "aclamemos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "salva",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "vamos ao seu encontro com ação de graças,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "encontro",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "graças",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "aclamando-o com cantos e salmos.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "salmos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "salmos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE HOJE ESCUTARDES A SUA VOZ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Um grande Deus é o Senhor,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "grande",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "maior que os deuses todos;",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "maior",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "todos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "seu é o mar, sua é a terra,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "são dele os cumes dos montes.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "montes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "montes",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE HOJE ESCUTARDES A SUA VOZ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Vinde, prostremo-nos por terra,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Vinde",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "adoremos o Senhor nosso criador.",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "adoremos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "criador",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "Porque ele é o nosso Deus,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e nós somos seu povo,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "povo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "o rebanho que ele conduz.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "conduz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "conduz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE HOJE ESCUTARDES A SUA VOZ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Oxalá, oxalá ouvísseis hoje a sua voz:",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Oxalá",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ouvísseis",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "\"Não endureçais o coração,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "coração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "como em Meriba, como no dia de Massa no deserto,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Meriba",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "dia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "deserto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "onde vossos pais me puseram à prova,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "pais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "prova",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "apesar de terem visto as minhas obras,",
+              "acordes": []
+            },
+            {
+              "letra": "me obrigaram a fazer sua vontade\".",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "vontade",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "\"Durante quarenta anos",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Durante",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "desgostou-me aquela geração,",
+              "acordes": [
+                {
+                  "cifra": "Sol7",
+                  "palavra_alvo": "desgostou-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "geração",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "e eu disse: é um povo de coração transviado",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "disse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "transviado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "que não conhece meus caminhos.",
+              "acordes": []
+            },
+            {
+              "letra": "Por isso não entrarão no meu descanso!\"",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "descanso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "descanso",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SE HOJE ESCUTARDES A SUA VOZ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "VOZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

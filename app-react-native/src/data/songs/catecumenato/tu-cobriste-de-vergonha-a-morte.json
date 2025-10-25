@@ -1,0 +1,484 @@
+{
+  "titulo_principal": "TU COBRISTE DE VERGONHA A MORTE",
+  "subtitulo": "Homilia de Melitão de Sardes sobre a Páscoa - Ofício das leituras da quarta feira Santa",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU COBRISTE DE VERGONHA A MORTE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TU ENCHESTE DE LUTO O INFERNO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "INFERNO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "GOLPEASTE A INIQUIDADE,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "INIQÜIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "ARRANCASTE À INJUSTIÇA OS SEUS FILHOS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FILHOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO MOISÉS AO FARAÓ,",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "MOISÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FARAÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "COMO MOISÉS AO FARAÓ.",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "MOISÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "FARAÓ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU NOS PASSASTE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DA ESCRAVIDÃO À LIBERDADE,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "LIBERDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DAS TREVAS À LUZ,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TREVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DA MORTE À VIDA,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DA TIRANIA AO REINO ETERNO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "REINO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS A PÁSCOA DA NOSSA SALVAÇÃO;",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CORDEIRO NASCIDO DE MARIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, CORDEIRA SEM MANCHA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MANCHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MARIA, A INOCENTE CORDEIRA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "INOCENTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU FOSTE ASSASSINADO EM ABEL,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "ABEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU FOSTE ATADO EM ISAAC,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ATADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VENDIDO EM JOSÉ,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "JOSÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "ABANDONADO SOBRE AS ÁGUAS EM MOISÉS,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MOISÉS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PERSEGUIDO EM DAVI,",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "DAVI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DESPREZADO EM TODOS OS PROFETAS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PROFETAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CORDEIRO QUE NÃO ABRE A BOCA;",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BOCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CORDEIRO NASCIDO DE MARIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, CORDEIRA SEM MANCHA, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MANCHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU FOSTE TIRADO DO REBANHO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TIRADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONDUZIDO AO SACRIFÍCIO, IMOLADO À TARDE,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TARDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SEPULTADO À NOITE; SOBRE A CRUZ",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO TE QUEBRARAM NENHUM OSSO,",
+              "acordes": []
+            },
+            {
+              "letra": "NEM O TEU CORPO EXPERIMENTOU A CORRUPÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CORRUPÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU DA MORTE RESSUSCITASTE",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "RESSUSCITASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E FIZESTE RESSUSCITAR A HUMANIDADE",
+              "acordes": []
+            },
+            {
+              "letra": "DO PROFUNDO DO SEPULCRO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SEPULCRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CORDEIRO QUE NÃO ABRE A BOCA;",
+              "acordes": [
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BOCA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O CORDEIRO NASCIDO DE MARIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CORDEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, CORDEIRA SEM MANCHA, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "MANCHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

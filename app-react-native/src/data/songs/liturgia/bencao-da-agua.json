@@ -1,0 +1,509 @@
+{
+  "titulo_principal": "BÊNÇÃO DA ÁGUA",
+  "subtitulo": "Da Liturgia Batismal da Vigília Pascal",
+  "referencia": null,
+  "pagina": 178,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó DEUS*, QUE POR MEIO (DEDILHADO)",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MEIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DOS SINAIS SACRAMENTAIS,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "sacramentais",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "ATUAIS COM INVISÍVEL POTÊNCIA",
+              "acordes": []
+            },
+            {
+              "letra": "AS MARAVILHAS DA SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "salvação",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DE MUITOS MODOS* E ATRAVÉS DOS TEMPOS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PREPARASTES A ÁGUA, VOSSA CRIATURA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "PREPARASTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE FOSSE SINAL DO BATISMO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Batismo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DESDE A ORIGEM, O VOSSO ESPÍRITO*",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PAIRAVA SOBRE AS ÁGUAS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "pairava",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "águas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE CONCEBESSEM",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "concebessem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "A FORÇA DE SANTIFICAR.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "santificar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E, TAMBÉM NO DILÚVIO,*",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PREFIGURASTES O BATISMO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PREFIGURASTES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "BATISMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE HOJE, COMO ONTEM,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ontem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A ÁGUA FOSSE SINAL DO FIM DO PECADO (BATIDA)",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ÁGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E INÍCIO DA VIDA NOVA.",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "NOVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VÓS LIBERTASTES DA ESCRAVIDÃO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "OS FILHOS DE ABRAÃO",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Abraão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FAZENDO-OS ATRAVESSAR ILESOS O MAR VERMELHO,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Vermelho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "PARA QUE FOSSEM IMAGEM",
+              "acordes": []
+            },
+            {
+              "letra": "DO FUTURO POVO DOS BATIZADOS.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "povo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "batizados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E NO FIM, NA PLENITUDE DOS TEMPOS,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "tempos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "VOSSO FILHO, BATIZADO NAS ÁGUAS DO JORDÃO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "JORDÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FOI UNGIDO PELO ESPÍRITO SANTO.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ungido",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Santo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "LEVANTADO SOBRE A CRUZ,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "LEVANTADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CRUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ELE DERRAMOU DO SEU LADO",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "LADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANGUE E ÁGUA.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "ÁGUA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E APÓS A SUA RESSURREIÇÃO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "RESSURREIÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ORDENOU AOS SEUS DISCÍPULOS:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "discípulos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "\"IDE E ANUNCIAI O EVANGELHO",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Evangelho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "A TODOS OS POVOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "POVOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "P.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "BATIZAI-OS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "BATIZAI-OS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM NOME DO PAI",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DO FILHO E DO ESPÍRITO SANTO\".",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "FILHO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

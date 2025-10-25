@@ -1,0 +1,352 @@
+{
+  "titulo_principal": "O MESMO DEUS",
+  "subtitulo": null,
+  "referencia": "2ª Coríntios 4, 6-12",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "O MESMO DEUS QUE DISSE:",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "disse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "“DO SEIO DAS TREVAS BRILHE A LUZ”,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "trevas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "FEZ BRILHAR A LUZ EM NOSSOS CORAÇÕES,",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "fez",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PARA IRRADIAR O CONHECIMENTO DE SUA GLÓRIA,",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "irradiar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "QUE ESTÁ NO ROSTO DE CRISTO.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ESTÁ NO ROSTO DE CRISTO.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "MAS LEVAMOS ESTE TESOURO",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM VASOS DE BARRO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PARA QUE SE MANIFESTE",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE O SUBLIME DESTE AMOR",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "PROVÉM DE DEUS, PROVÉM DE DEUS",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "provém",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E QUE NÃO VEM DE NÓS.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "nós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANDO SEMPRE",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM NOSSO CORPO",
+              "acordes": []
+            },
+            {
+              "letra": "O MORRER DE JESUS,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PARA QUE SE MANIFESTE",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "EM NOSSO CORPO",
+              "acordes": []
+            },
+            {
+              "letra": "QUE ESTÁ RESSUSCITADO.",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "RESSUSCITADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ATRIBULADOS, MAS NÃO DESESPERADOS;",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "Atribulados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PERSEGUIDOS, MAS NÃO ABANDONADOS;",
+              "acordes": []
+            },
+            {
+              "letra": "ABATIDOS, MAS NÃO ANIQUILADOS.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANDO SEMPRE ...",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "ENQUANTO NÓS MORREMOS",
+              "acordes": [
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "ENQUANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "O MUNDO RECEBE A VIDA.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVANDO SEMPRE ...",
+              "acordes": [
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "SEMPRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Si menor"
+}

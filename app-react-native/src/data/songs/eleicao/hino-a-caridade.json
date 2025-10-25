@@ -1,0 +1,375 @@
+{
+  "titulo_principal": "HINO À CARIDADE",
+  "subtitulo": null,
+  "referencia": "1ª Coríntios 13, 1-13",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "3º"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "AINDA QUE EU FALASSE A LÍNGUA DOS ANJOS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Ainda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "SE NÃO TENHO AMOR, NADA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "nada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AINDA QUE TIVESSE O DOM DA PROFECIA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Ainda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E CONHECESSE TODOS OS MISTÉRIOS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mistérios",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "AINDA QUE TIVESSE A PLENITUDE DA FÉ",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ainda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E PUDESSE TRANSPORTAR MONTANHAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "montanhas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "SE NÃO TENHO AMOR, NADA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "nada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "AINDA QUE REPARTISSE",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Ainda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "TODOS OS MEUS BENS AOS POBRES",
+              "acordes": []
+            },
+            {
+              "letra": "E ENTREGASSE MEU CORPO ÀS CHAMAS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "chamas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "SE NÃO TENHO AMOR, NADA.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "amor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "nada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O AMOR, O AMOR, O AMOR",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "É PACIENTE, É SERVIÇAL,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO É INVEJOSO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "INVEJOSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NÃO SE UFANA, NÃO SE OSTENTA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "UFANA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "É DECOROSO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DECOROSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÃO BUSCA O SEU INTERESSE, NÃO SE IRRITA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "INTERESSE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IRRITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "NÃO LEVA EM CONTA O MAL,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO LEVA EM CONTA O MAL,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NÃO SE ALEGRA DA INJUSTIÇA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "INJUSTIÇA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "ALEGRA-SE COM A VERDADE.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "VERDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "TUDO ACREDITA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ACREDITA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "TUDO DESCULPA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DESCULPA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "TUDO ESPERA,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESPERA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SUPORTA TUDO, SUPORTA TUDO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": null,
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "PORQUE O AMOR, O AMOR,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE O AMOR",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "PORQUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "É DEUS, É DEUS, É DEUS.",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Do maior"
+}

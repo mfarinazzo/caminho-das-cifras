@@ -1,0 +1,364 @@
+{
+  "titulo_principal": "STABAT MATER DOLOROSA",
+  "subtitulo": null,
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "STABAT MATER DOLOROSA      |",
+              "acordes": [
+                {
+                  "cifra": "Re-5",
+                  "palavra_alvo": "STABAT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "DUM PENDEBAT FILIUS.       |",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "FILIUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Era su'alma um gemido,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "su'alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "era uma dor, era um grito,",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "dor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "grito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "quando uma espada a transpassou.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "transpassou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "Ó que triste e aflita",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "estava a bendita Mãe do Unigênito!",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "estava",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                },
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "Mãe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "Unigênito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "STABAT MATER DOLOROSA ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "STABAT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Qual é o homem que não chora,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "é",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ao ver a Mãe de Cristo",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "ver",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "em tanto suplício!",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "suplício",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "Pelos pecados de sua gente",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Pelos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ela vê a Jesus em tormentos,",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "vê",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "tormentos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "submetido aos açoites.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "açoites",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "STABAT MATER DOLOROSA ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "STABAT",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ela vê seu Filho amado",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "vê",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "morrendo, desolado,",
+              "acordes": [
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "morrendo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "desolado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "e que entrega o seu Espírito.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "Espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "Ó Cristo, quando eu morrer,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Do7",
+                  "palavra_alvo": "morrer",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "(melisma)",
+              "acordes": []
+            },
+            {
+              "letra": "por tua bendita Mãe",
+              "acordes": []
+            },
+            {
+              "letra": "faze-me conseguir",
+              "acordes": [
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "conseguir",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "a palma da vitória.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "vitória",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "AMÉM, AMÉM, AMÉM.    |  BIS",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sib7",
+                  "palavra_alvo": "AMÉM",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La7",
+                  "palavra_alvo": "BIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

@@ -1,0 +1,409 @@
+{
+  "titulo_principal": "EM UMA NOITE ESCURA",
+  "subtitulo": "Subida ao Monte Carmelo - São João da Cruz",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EM UMA NOITE ESCURA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COM ÂNSIAS, EM AMORES INFLAMADA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "COM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INFLAMADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "Ó DITOSA VENTURA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VENTURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SAÍ SEM SER NOTADA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NOTADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESTANDO JÁ MINHA CASA SOSSEGADA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SOSSEGADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ÀS ESCURAS E SEGURA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ÀS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "PELA SECRETA ESCADA, DISFARÇADA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SECRETA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DISFARÇADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó DITOSA VENTURA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VENTURA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "EM TREVAS E EM CELADA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TREVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTANDO JÁ MINHA CASA SOSSEGADA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SOSSEGADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NESSA NOITE DITOSA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "NESSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DITOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM SEGREDO, PORQUE NINGUÉM ME VIA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "SEGREDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "NINGUÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NEM VIA EU QUALQUER COISA,",
+              "acordes": []
+            },
+            {
+              "letra": "SEM OUTRA LUZ NEM GUIA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "OUTRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EXCETO A QUE NO CORAÇÃO ARDIA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CORAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAS ESTA ME GUIAVA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "GUIAVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MAIS CERTEIRA QUE A LUZ DO MEIO-DIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MAIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AONDE ME ESPERAVA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ESPERAVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "QUEM EU P'RA MIM SABIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EM PARTE ONDE NINGUÉM MORAR PAR'CIA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PARTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó NOITE QUE GUIASTE!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "GUIASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó NOITE AMÁVEL MAIS DO QUE A ALVORADA!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALVORADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó NOITE QUE JUNTASTE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JUNTASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AMADO COM AMADA,",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "AMADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AMADA NO AMADO TRANSFORMADA!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AMADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TRANSFORMADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó NOITE QUE GUIASTE! ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOITE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-9",
+                  "palavra_alvo": "GUIASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EM UMA NOITE ESCURA, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi menor"
+}

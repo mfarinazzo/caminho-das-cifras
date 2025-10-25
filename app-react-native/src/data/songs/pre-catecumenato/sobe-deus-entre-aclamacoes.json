@@ -1,0 +1,256 @@
+{
+  "titulo_principal": "SOBE DEUS ENTRE ACLAMAÇÕES",
+  "subtitulo": null,
+  "referencia": "Salmo 47(46)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Sobe Deus entre aclamações,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "aclamações",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "ao clangor da trombeta.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "trombeta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SOBE DEUS ENTRE ACLAMAÇÕES,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ACLAMAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            },
+            {
+              "letra": "AO CLANGOR DA TROMBETA.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "TROMBETA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Povos todos, batei palmas,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Povos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "palmas",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POVOS TODOS, BATEI PALMAS;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PALMAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "POVOS TODOS, BATEI PALMAS;",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "PALMAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "POVOS TODOS, BATEI PALMAS.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PALMAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SOBE DEUS ENTRE ACLAMAÇÕES,...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ACLAMAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Cantai a Deus, cantai,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Cantai",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "cantai",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTAI A DEUS, CANTAI;",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CANTAI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "CANTAI A DEUS, CANTAI;",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "CANTAI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "CANTAI A DEUS, CANTAI.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "CANTAI",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SOBE DEUS ENTRE ACLAMAÇÕES, ...",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "ACLAMAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Re menor"
+}

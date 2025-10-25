@@ -1,0 +1,334 @@
+{
+  "titulo_principal": "TE DEUM",
+  "subtitulo": "Hino",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NÓS VOS LOUVAMOS, DEUS,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "VOS PROCLAMAMOS, SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PROCLAMAMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó ETERNO PAI,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ETERNO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TODA A TERRA VOS ADORA.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TODA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A VÓS CANTAM OS ANJOS",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "VÓS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TODAS AS POTÊNCIAS DOS CÉUS.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "E",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO, SANTO, SANTO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SANTO, SANTO, SANTO",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SENHOR DEUS DO UNIVERSO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "UNIVERSO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS CÉUS E A TERRA",
+              "acordes": []
+            },
+            {
+              "letra": "PROCLAMAM A VOSSA IMENSA GLÓRIA,",
+              "acordes": []
+            },
+            {
+              "letra": "ACLAMA-VOS O CORO DOS APÓSTOLOS",
+              "acordes": []
+            },
+            {
+              "letra": "E A LUMINOSA MULTIDÃO DOS MÁRTIRES.",
+              "acordes": []
+            },
+            {
+              "letra": "AS VOZES DOS PROFETAS",
+              "acordes": []
+            },
+            {
+              "letra": "UNEM-SE NO VOSSO LOUVOR.",
+              "acordes": []
+            },
+            {
+              "letra": "A SANTA IGREJA PROCLAMA A VOSSA GLÓRIA,",
+              "acordes": []
+            },
+            {
+              "letra": "ADORA O VOSSO ÚNICO FILHO",
+              "acordes": []
+            },
+            {
+              "letra": "E O ESPÍRITO SANTO PARÁCLITO.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A VÓS CANTAM OS ANJOS ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó CRISTO, REI DA GLÓRIA,",
+              "acordes": []
+            },
+            {
+              "letra": "ETERNO FILHO DO PAI,",
+              "acordes": []
+            },
+            {
+              "letra": "VÓS NASCESTES DA VIRGEM MÃE",
+              "acordes": []
+            },
+            {
+              "letra": "PARA A SALVAÇÃO DO HOMEM.",
+              "acordes": []
+            },
+            {
+              "letra": "VENCEDOR DA MORTE,",
+              "acordes": []
+            },
+            {
+              "letra": "ABRISTES AOS QUE TÊM FÉ O REINO DOS CÉUS.",
+              "acordes": []
+            },
+            {
+              "letra": "VÓS SENTAIS À DIREITA DE DEUS,",
+              "acordes": []
+            },
+            {
+              "letra": "NA GLÓRIA DO PAI",
+              "acordes": []
+            },
+            {
+              "letra": "VIREIS JULGAR O MUNDO NO FIM DOS TEMPOS.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A VÓS CANTAM OS ANJOS ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SOCORREI OS VOSSOS FILHOS, SENHOR,",
+              "acordes": []
+            },
+            {
+              "letra": "QUE REMISTES COM VOSSO SANGUE PRECIOSO,",
+              "acordes": []
+            },
+            {
+              "letra": "ACOLHEI-NOS EM VOSSA GLÓRIA,",
+              "acordes": []
+            },
+            {
+              "letra": "NA ASSEMBLEIA DOS SANTOS.",
+              "acordes": []
+            },
+            {
+              "letra": "SALVAI VOSSO POVO, SENHOR,",
+              "acordes": []
+            },
+            {
+              "letra": "GUIAI E PROTEGEI VOSSOS FILHOS,",
+              "acordes": []
+            },
+            {
+              "letra": "A CADA DIA VOS BENDIZEMOS,",
+              "acordes": []
+            },
+            {
+              "letra": "LOUVAMOS VOSSO NOME PARA SEMPRE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A VÓS CANTAM OS ANJOS ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DIGNAI-VOS HOJE, SENHOR,",
+              "acordes": []
+            },
+            {
+              "letra": "DE GUARDAR-NOS DO PECADO;",
+              "acordes": []
+            },
+            {
+              "letra": "ESTEJA SEMPRE CONOSCO A VOSSA MISERICÓRDIA,",
+              "acordes": []
+            },
+            {
+              "letra": "EM VÓS CONFIAMOS.",
+              "acordes": []
+            },
+            {
+              "letra": "PIEDADE DE NÓS, SENHOR,",
+              "acordes": []
+            },
+            {
+              "letra": "PIEDADE DE NÓS.",
+              "acordes": []
+            },
+            {
+              "letra": "VÓS SOIS A NOSSA ESPERANÇA,",
+              "acordes": []
+            },
+            {
+              "letra": "NÃO SEREMOS CONFUNDIDOS ETERNAMENTE.",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "A VÓS CANTAM OS ANJOS ...",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

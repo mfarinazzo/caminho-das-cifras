@@ -1,0 +1,210 @@
+{
+  "titulo_principal": "FOGE, Ó MEU AMADO",
+  "subtitulo": null,
+  "referencia": "Cântico dos Cânticos 8, 10-14",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU, QUE HABITAS NOS JARDINS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Tu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "jardins",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ONDE TEUS COMPANHEIROS ESTÃO TE ESCUTANDO:",
+              "acordes": [
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "escutando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            },
+            {
+              "letra": "FAZE-ME OUVIR TUA VOZ, FAZE-ME OUVIR TUA VOZ!",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "faze-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "voz",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "FOGE, Ó MEU AMADO,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "FOGE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "COMO UMA GAZELA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GAZELA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "COMO UM CERVOZINHO,*",
+              "acordes": [
+                {
+                  "cifra": "Fa#-",
+                  "palavra_alvo": "COMO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PELOS MONTES PERFUMADOS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PELOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "PERFUMADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU SOU PARA O MEU AMADO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Eu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "amado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "COMO AQUELA QUE ENCONTROU A PAZ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "paz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A MINHA VINHA ESTÁ AQUI, DIANTE DE MIM,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "aqui",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "A MINHA VINHA ESTÁ AQUI, DIANTE DE MIM.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "aqui",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "mim",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FOGE, Ó MEU AMADO, ...",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "FOGE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La maior"
+}

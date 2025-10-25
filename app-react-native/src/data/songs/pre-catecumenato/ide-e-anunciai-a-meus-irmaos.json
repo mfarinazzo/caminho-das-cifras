@@ -1,0 +1,417 @@
+{
+  "titulo_principal": "IDE A ANUNCIAI A MEUS IRMÃOS",
+  "subtitulo": null,
+  "referencia": "Mateus 28, 7.10-16-20",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "IDE E ANUNCIAI A MEUS IRMÃOS,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE SE DIRIJAM À GALILÉIA;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "GALILÉIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ALI ME VERÃO,",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE ALI ME VERÃO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VERÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OS DISCÍPULOS FORAM À GALILÉIA,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "DISCÍPULOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GALILÉIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "AO MONTE QUE JESUS LHES HAVIA INDICADO.",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "MONTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "INDICADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO O VIRAM O ADORARAM.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "VIRAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ADORARAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“FOI-ME DADO TODO PODER",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "FOI-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PODER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO CÉU E NA TERRA”.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IDE POIS, E FAZEI DISCÍPULOS",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "IDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DISCÍPULOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "A TODAS AS NAÇÕES",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "NAÇÕES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "BATIZANDO-AS EM NOME DO PAI, E DO FILHO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "NOME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "PAI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E DO ESPÍRITO SANTO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "E ENSINANDO-LHES A PÔR EM PRÁTICA",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ENSINANDO-LHES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TUDO O QUE EU VOS ORDENOU.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TUDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ORDENOU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IDE E ANUNCIAI A MEUS IRMÃOS, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EIS QUE EU ESTOU CONVOSCO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EIS QUE EU ESTOU CONVOSCO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TODOS OS DIAS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EIS QUE EU ESTOU CONVOSCO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EIS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EIS QUE EU ESTOU CONVOSCO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TODOS OS DIAS,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "DIAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ATÉ O FIM DO MUNDO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ATÉ O FIM DO MUNDO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MUNDO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "IDE E ANUNCIAI A MEUS IRMÃOS, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

@@ -1,0 +1,473 @@
+{
+  "titulo_principal": "O COMBATE ESCATOLÓGICO",
+  "subtitulo": null,
+  "referencia": "Apocalipse 19, 11-20",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEJO O CÉU ABERTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Vejo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E UM CAVALO BRANCO:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "branco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUEM O MONTA LEVA UM MANTO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "monta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "manto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CHEIO DE SANGUE, CHEIO DE SANGUE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "sangue",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "sangue",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "OS SEUS OLHOS, CHAMAS DE FOGO;",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "fogo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "NA SUA BOCA UMA ESPADA",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "na",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "espada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "PARA FERIR, PARA FERIR.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ferir",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUAL É O SEU NOME?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Qual",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUAL É O SEU NOME?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Qual",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "O SEU NOME É,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SEU NOME É",
+              "acordes": []
+            },
+            {
+              "letra": "PALAVRA DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEJO UMA BESTA",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Vejo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E SEU PROFETA QUE SE REÚNEM",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "profeta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "reúnem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "PARA UM COMBATE, PARA UM COMBATE",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "combate",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "combate",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "CONTRA AQUELE QUE MONTA",
+              "acordes": []
+            },
+            {
+              "letra": "SOBRE O CAVALO E LEVA O MANTO",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "cavalo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "manto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CHEIO DE SANGUE, CHEIO DE SANGUE.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "sangue",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "sangue",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "ELE PISA SOZINHO NO LAGAR",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ELE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DA FURIOSA CÓLERA DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "FURIOSA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "VEJO A BESTA QUE É CAPTURADA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Vejo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "capturada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "E, COM ELA, O SEU PROFETA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "profeta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "POR AQUELE QUE MONTA SOBRE O CAVALO",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "cavalo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "E LEVA O MANTO CHEIO DE SANGUE.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "sangue",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUAL É O SEU NOME?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Qual",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUAL É O SEU NOME?",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Qual",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": "bis",
+          "linhas": [
+            {
+              "letra": "O SEU NOME É,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "O SEU NOME É",
+              "acordes": []
+            },
+            {
+              "letra": "PALAVRA DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

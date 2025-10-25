@@ -1,0 +1,349 @@
+{
+  "titulo_principal": "LEVA-ME AO CÉU",
+  "subtitulo": null,
+  "referencia": "Filipenses 1, 23",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVA-ME AO CÉU,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "LEVA-ME AO CÉU, Ó SENHOR!",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "PORQUE MORRER, PORQUE MORRER",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MORRER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "É CERTAMENTE O MELHOR,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MELHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "É CERTAMENTE O MELHOR.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "É",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "MELHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESTAR CONTIGO, ESTAR CONTIGO.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CONTIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CONTIGO",
+                  "ocorrencia_palavra": 2,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UMA COISA TE ROGO, ESTA SOMENTE TE PEÇO:",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "UMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO DUVIDAR NUNCA DO TEU AMOR;",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "DUVIDAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO DUVIDAR NUNCA DE TI.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "DUVIDAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTAR CONTIGO,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "CONTIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ESTAR CONTIGO",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CONTIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESTAR CONTIGO",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVA-ME AO CÉU ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "Ó QUE BOM, Ó QUE DOCE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FOI PARA MIM O TEU AMOR,",
+              "acordes": [
+                {
+                  "cifra": "Do#-",
+                  "palavra_alvo": "FOI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol#",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "FOI PARA MIM O TEU AMOR.",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "FOI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "Ó QUE BOM,",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Ó QUE DOCE.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Ó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVA-ME AO CÉU ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "UMA COISA TE ROGO, ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "UMA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "LEVA-ME AO CÉU ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "LEVA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "Mi maior"
+}

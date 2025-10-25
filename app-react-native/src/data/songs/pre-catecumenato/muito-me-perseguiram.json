@@ -1,0 +1,333 @@
+{
+  "titulo_principal": "MUITO ME PERSEGUIRAM",
+  "subtitulo": null,
+  "referencia": "Salmo 129 (128)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MUITO ME PERSEGUIRAM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Muito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DESDE A JUVENTUDE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JUVENTUDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "MUITO ME PERSEGUIRAM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Muito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "QUE O DIGA ISRAEL.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Israel",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MUITO ME PERSEGUIRAM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Muito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "DESDE A JUVENTUDE,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JUVENTUDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
+            },
+            {
+              "letra": "MUITO ME PERSEGUIRAM.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Muito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "MAS NÃO PUDERAM COMIGO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "COMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "SOBRE AS MINHAS COSTAS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOBRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ARARAM ARADORES,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ARADORES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 2
+                }
+              ]
+            },
+            {
+              "letra": "SOBRE AS MINHAS COSTAS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SOBRE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ALONGARAM SEUS SULCOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SULCOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "MAS O SENHOR, QUE É JUSTO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JUSTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "CORTOU AS RÉDEAS",
+              "acordes": []
+            },
+            {
+              "letra": "DOS MALVADOS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MALVADOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": "bis a",
+          "linhas": [
+            {
+              "letra": "RETROCEDAM OS QUE ODEIAM SIÃO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RETROCEDAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "RETROCEDAM OS QUE ODEIAM SIÃO!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RETROCEDAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE SEJAM COMO A ERVA QUE",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CRESCE NO TELHADO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CRESCE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO A ERVA QUE SECA",
+              "acordes": []
+            },
+            {
+              "letra": "ANTES DE ARRANCÁ-LA!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ARRANCÁ-LA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DELA NÃO ENCHE A MÃO O CEIFEIRO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CEIFEIRO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DELA O QUE ENFEIXA NÃO ENCHE O SEU REGAÇO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "REGAÇO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "RETROCEDAM OS QUE ODEIAM SIÃO, ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "RETROCEDAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SIÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

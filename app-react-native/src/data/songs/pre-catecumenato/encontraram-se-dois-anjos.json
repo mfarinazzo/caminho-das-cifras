@@ -1,0 +1,201 @@
+{
+  "titulo_principal": "ENCONTRARAM-SE DOIS ANJOS",
+  "subtitulo": "Canto das Crianças",
+  "referencia": null,
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ENCONTRARAM-SE DOIS ANJOS;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Encontraram-se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "E UM PERGUNTOU AO OUTRO:",
+              "acordes": []
+            },
+            {
+              "letra": "“ONDE, ONDE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESTÁ A GLÓRIA DE DEUS?”",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "“ONDE, ONDE",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 1
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 1
+                }
+              ]
+            },
+            {
+              "letra": "ESTÁ A GLÓRIA DE DEUS?”",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NO LOUVOR E NA BÊNÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BÊNÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NO LOUVOR E NA BÊNÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BÊNÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NO LOUVOR E NA BÊNÇÃO;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BÊNÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "O OUTRO LHE RESPONDEU.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "respondeu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "NO LOUVOR E NA BÊNÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BÊNÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NO LOUVOR E NA BÊNÇÃO,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BÊNÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "NO LOUVOR E NA BÊNÇÃO",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "BÊNÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                }
+              ]
+            },
+            {
+              "letra": "ESTÁ A GLÓRIA DE DEUS.*",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

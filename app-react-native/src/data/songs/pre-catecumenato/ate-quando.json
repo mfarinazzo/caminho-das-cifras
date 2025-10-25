@@ -1,0 +1,304 @@
+{
+  "titulo_principal": "ATÉ QUANDO?",
+  "subtitulo": null,
+  "referencia": "Salmo 13 (12)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": true,
+    "casa": "2ª"
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ATÉ QUANDO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ATÉ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH, CONTINUARÁS A ME ESQUECER?",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CONTINUARÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ATÉ QUANDO,",
+              "acordes": []
+            },
+            {
+              "letra": "O TEU ROSTO OCULTARÁS?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OCULTARÁS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTAREI A IAHWEH,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CANTAREI AO QUE É MEU REDENTOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "REDENTOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "OLHA-ME, RESPONDE-ME,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "OLHA-ME",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "IAHWEH, MEU SALVADOR!",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SALVADOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ILUMINA MEUS OLHOS,",
+              "acordes": []
+            },
+            {
+              "letra": "QUE NÃO DURMA EU NA MORTE!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MORTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTAREI A IAHWEH ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE NÃO POSSA",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "QUE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIZER MEU INIMIGO: “EU O VENCI!”,\"",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "INIMIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "MEUS INIMIGOS",
+              "acordes": []
+            },
+            {
+              "letra": "SE ALEGRARÃO SE EU CAIR!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CAIR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTAREI A IAHWEH ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "EU, PORÉM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CONFIO EM TEU AMOR;",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AMOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NA TUA SALVAÇÃO",
+              "acordes": []
+            },
+            {
+              "letra": "MEU CORAÇÃO EXULTARÁ.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "EXULTARÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CANTAREI A IAHWEH ...",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "CANTAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "IAHWEH",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

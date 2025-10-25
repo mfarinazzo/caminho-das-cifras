@@ -1,0 +1,569 @@
+{
+  "titulo_principal": "CONFESSEI A TI O MEU PECADO",
+  "subtitulo": null,
+  "referencia": "Salmo 32 (31)",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONFESSEI A TI O MEU PECADO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFESSEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E MINHA INIQUIDADE NÃO TE ESCONDI;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "INIQUIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESCONDI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU DISSE:",
+              "acordes": []
+            },
+            {
+              "letra": "\"CONFESSAREI AO SENHOR A MINHA CULPA\".",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFESSAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MINHA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TU ABSOLVESTE A MALÍCIA DO MEU PECADO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ABSOLVESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "FELIZ O HOMEM",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "FELIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "HOMEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CUJA OFENSA É ABSOLVIDA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ABSOLVIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "CUJO PECADO É PERDOADO!",
+              "acordes": []
+            },
+            {
+              "letra": "FELIZ O HOMEM A QUEM DEUS",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FELIZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO ATRIBUI MAL ALGUM,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ATRIBUI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MAL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E EM CUJO ESPÍRITO NÃO HÁ FRAUDE!",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPÍRITO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FRAUDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONFESSEI A TI O MEU PECADO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFESSEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CALAVA E SE CONSUMIAM MEUS OSSOS",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CALAVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "OSSOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ENQUANTO GEMIA O DIA TODO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GEMIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TODO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "DIA E NOITE PESAVA SOBRE MIM A TUA MÃO;",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "COMO PELA ARIDEZ DO VERÃO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ARIDEZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VERÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "SECAVA O MEU VIGOR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SECAVA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MAS CONFESSEI A TI O MEU PECADO",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFESSEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E MINHA INIQUIDADE NÃO TE ESCONDI;",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "INIQUIDADE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ESCONDI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "EU DISSE:",
+              "acordes": []
+            },
+            {
+              "letra": "\"CONFESSAREI AO SENHOR A MINHA CULPA\",",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFESSAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CULPA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "E TU ABSOLVESTE A MALÍCIA DO MEU PECADO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "ABSOLVESTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONFESSEI A TI O MEU PECADO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFESSEI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "POR ISSO TE SUPLICA TODO FIEL",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SUPLICA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "FIEL",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NO TEMPO DA ANGÚSTIA,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TEMPO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "QUANDO IRROMPEREM AS GRANDES ÁGUAS,",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "IRROMPEREM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ÁGUAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "NÃO PODERÃO ALCANÇÁ-LO.",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PODERÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALCANÇÁ-LO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ÉS O MEU REFÚGIO,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "REFÚGIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TU ME PRESERVAS DO PERIGO,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PRESERVAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PERIGO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "ME ENVOLVES COM CANTOS DE SALVAÇÃO.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "SALVAÇÃO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TU ME DIZES: \"EU TE FAREI SÁBIO,\"",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "TU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            },
+            {
+              "letra": "TE INDICAREI O CAMINHO DA VIDA\".",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "INDICAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "VIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CONFESSAREI A TI O MEU PECADO ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "CONFESSAREI",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "PECADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}
