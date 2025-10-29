@@ -1,11 +1,12 @@
 import React, { useMemo, useState } from 'react';
-import { View, FlatList } from 'react-native';
+import { View, FlatList, TouchableOpacity } from 'react-native';
 import { Screen, Text, Card } from '../../components';
 import type { HomeStackScreenProps } from '../../navigation/types';
 import { CATEGORY_INDEXES, type SongListItem } from '../../../data/indexes';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
-import { Searchbar, Chip } from 'react-native-paper';
+import { Searchbar, Chip, useTheme as usePaperTheme } from 'react-native-paper';
 import { CATEGORIES } from '../../../shared/constants/categories';
+import { useFavoritesStore } from '../../../store';
 
 import { useNavigation } from '@react-navigation/native';
 import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
@@ -13,28 +14,55 @@ import type { HomeStackParamList } from '../../navigation/types';
 
 const ItemRow = ({ item }: { item: SongListItem }) => {
   const navigation = useNavigation<NativeStackNavigationProp<HomeStackParamList>>();
+  const { isFavorite, toggleFavorite } = useFavoritesStore();
+  const isItemFavorite = isFavorite(item.file);
+  const paperTheme = usePaperTheme();
+  const isDark = (paperTheme as any).dark ?? false;
+
+  const handleFavoritePress = (e: any) => {
+    e.stopPropagation();
+    toggleFavorite(item.file);
+  };
+
   return (
-  <Card className="mb-3" onPress={() => navigation.navigate('SongDetail', { file: item.file, title: item.title, category: item.category as any })}>
-    <View className="flex-row items-center justify-between">
-      <View className="flex-1 pr-3">
-        <Text variant="h3">{item.title}</Text>
-        <Text variant="caption" className="mt-1 text-gray-400">
-          {(item.reference && String(item.reference).trim()) || ((item as any).subtitle && String((item as any).subtitle).trim()) || ''}
-        </Text>
+    <Card
+      className="mb-3"
+      onPress={() =>
+        navigation.navigate('SongDetail', {
+          file: item.file,
+          title: item.title,
+          category: item.category as any,
+        })
+      }
+    >
+      <View className="flex-row items-center justify-between">
+        <View className="flex-1 pr-3">
+          <Text variant="h3">{item.title}</Text>
+          <Text variant="caption" className="mt-1 text-text-secondary">
+            {(item.reference && String(item.reference).trim()) ||
+              ((item as any).subtitle && String((item as any).subtitle).trim()) ||
+              ''}
+          </Text>
+        </View>
+        <View className="flex-row items-center">
+          <TouchableOpacity onPress={handleFavoritePress} style={{ padding: 4 }}>
+            <MaterialCommunityIcons
+              name={isItemFavorite ? 'heart' : 'heart-outline'}
+              size={16}
+              color={isItemFavorite ? '#E91E63' : (isDark ? '#B3B3B3' : '#6B7280')}
+            />
+          </TouchableOpacity>
+        </View>
       </View>
-      <MaterialCommunityIcons name="chevron-right" size={24} color="#666666" />
-    </View>
-  </Card>
-);
-}
+    </Card>
+  );
+};
 
 export default function CategoryListScreen({ route }: HomeStackScreenProps<'SongList'>) {
   const { categoryId, categoryName } = route.params;
   const data = CATEGORY_INDEXES[categoryId] as SongListItem[];
   const [query, setQuery] = useState('');
-  const [onlyChords, setOnlyChords] = useState(false);
-  const [onlyCapo, setOnlyCapo] = useState(false);
-  const [onlyWithRef, setOnlyWithRef] = useState(false);
+  const [mode, setMode] = useState<'title' | 'reference' | 'lyrics'>('title');
   const meta = CATEGORIES.find((c) => c.id === categoryId);
   const accent = meta?.color ?? '#90CAF9';
   const withAlpha = (hex: string, alpha: number) => {
@@ -51,26 +79,29 @@ export default function CategoryListScreen({ route }: HomeStackScreenProps<'Song
       .replace(/\p{Diacritic}/gu, '') // remove acentos
       .replace(/[^a-z0-9\s\-_.]/g, '');
 
-  const filtered = useMemo(() => {
-    const q = normalize(query);
-    let base = data;
-    if (onlyChords) {
-      base = base.filter((it) => !!it.hasChords);
-    }
-    if (onlyCapo) {
-      base = base.filter((it) => !!it.hasCapo);
-    }
-    if (onlyWithRef) {
-      base = base.filter((it) => (it.reference ?? '').toString().trim().length > 0);
-    }
+  const scheme = require('react-native').useColorScheme?.();
+  const { useAppStore } = require('../../../store');
+  const modeTheme = useAppStore.getState().themeMode;
+  const isDark = modeTheme === 'system' ? scheme === 'dark' : modeTheme === 'dark';
 
-    if (!q) return base;
-    return base.filter((it) => {
-      const t = normalize(it.title);
-      const sl = normalize(it.slug);
-      return t.includes(q) || sl.includes(q);
+  const filtered = useMemo(() => {
+    const q = normalize(query).trim();
+    if (!q) return data;
+    return data.filter((it) => {
+      if (mode === 'title') {
+        const t = normalize(it.title);
+        return t.includes(q);
+      }
+      if (mode === 'reference') {
+        const ref = normalize((it.reference ?? '') as string);
+        return ref.includes(q);
+      }
+      const lyr = (it as any).lyrics as string | undefined;
+      if (!lyr) return false;
+      // indexes already store normalized lyrics
+      return lyr.includes(q);
     });
-  }, [data, query, onlyChords, onlyCapo, onlyWithRef]);
+  }, [data, query, mode]);
 
   return (
     <Screen>
@@ -85,34 +116,36 @@ export default function CategoryListScreen({ route }: HomeStackScreenProps<'Song
           placeholder="Pesquisar cantos..."
           value={query}
           onChangeText={setQuery}
-          style={{ marginBottom: 16, backgroundColor: withAlpha(accent, 0.08) }}
-          inputStyle={{ color: '#fff' }}
+          style={{ marginBottom: 12, backgroundColor: isDark ? withAlpha(accent, 0.08) : '#F3F4F6' }}
+          inputStyle={{ color: isDark ? '#FFFFFF' : '#111827' }}
           iconColor={accent}
+          placeholderTextColor={isDark ? '#9CA3AF' : '#6B7280'}
         />
+        {/* Mode chips similar to Search screen */}
         <View className="flex-row flex-wrap gap-2 mb-2">
           <Chip
-            selected={onlyChords}
-            onPress={() => setOnlyChords((v) => !v)}
-            selectedColor={accent}
-            style={onlyChords ? { backgroundColor: withAlpha(accent, 0.12) } : undefined}
+            selected={mode === 'title'}
+            onPress={() => setMode('title')}
+            style={{ backgroundColor: mode === 'title' ? (isDark ? '#374151' : '#E5F2FD') : (isDark ? '#2A2A2A' : '#F3F4F6') }}
+            textStyle={{ color: mode === 'title' ? (isDark ? '#FFFFFF' : '#1F2937') : (isDark ? '#B3B3B3' : '#6B7280') }}
           >
-            Com cifras
+            Título
           </Chip>
           <Chip
-            selected={onlyCapo}
-            onPress={() => setOnlyCapo((v) => !v)}
-            selectedColor={accent}
-            style={onlyCapo ? { backgroundColor: withAlpha(accent, 0.12) } : undefined}
+            selected={mode === 'reference'}
+            onPress={() => setMode('reference')}
+            style={{ backgroundColor: mode === 'reference' ? (isDark ? '#374151' : '#E5F2FD') : (isDark ? '#2A2A2A' : '#F3F4F6') }}
+            textStyle={{ color: mode === 'reference' ? (isDark ? '#FFFFFF' : '#1F2937') : (isDark ? '#B3B3B3' : '#6B7280') }}
           >
-            Com braçadeira
+            Referência
           </Chip>
           <Chip
-            selected={onlyWithRef}
-            onPress={() => setOnlyWithRef((v) => !v)}
-            selectedColor={accent}
-            style={onlyWithRef ? { backgroundColor: withAlpha(accent, 0.12) } : undefined}
+            selected={mode === 'lyrics'}
+            onPress={() => setMode('lyrics')}
+            style={{ backgroundColor: mode === 'lyrics' ? (isDark ? '#374151' : '#E5F2FD') : (isDark ? '#2A2A2A' : '#F3F4F6') }}
+            textStyle={{ color: mode === 'lyrics' ? (isDark ? '#FFFFFF' : '#1F2937') : (isDark ? '#B3B3B3' : '#6B7280') }}
           >
-            Com referência
+            Letra
           </Chip>
         </View>
       </View>

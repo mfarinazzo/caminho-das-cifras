@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from 'react';
-import { View, TextInput, FlatList } from 'react-native';
+import { View, TextInput, FlatList, TouchableOpacity } from 'react-native';
 import { Screen, Text, Card } from '../../components';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { ALL_SONGS, type SongListItem } from '../../../data/indexes';
@@ -8,9 +8,11 @@ import { Chip } from 'react-native-paper';
 import { useNavigation } from '@react-navigation/native';
 import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import type { HomeStackParamList } from '../../navigation/types';
+import { useFavoritesStore } from '../../../store';
 
 const SearchScreen = () => {
   const [searchQuery, setSearchQuery] = useState('');
+  const { isFavorite, toggleFavorite } = useFavoritesStore();
 
   const normalize = (s: string) =>
     (s || '')
@@ -20,6 +22,19 @@ const SearchScreen = () => {
 
   const [mode, setMode] = useState<'title' | 'reference' | 'lyrics'>('title');
   const navigation = useNavigation<NativeStackNavigationProp<HomeStackParamList>>();
+
+  const isDark = (() => {
+    const scheme = require('react-native').useColorScheme?.();
+    const { useAppStore } = require('../../../store');
+    const mode = useAppStore.getState().themeMode;
+    return mode === 'system' ? scheme === 'dark' : mode === 'dark';
+  })();
+
+  const neutralIcon = isDark ? '#9CA3AF' : '#6B7280';
+  const chipBg = isDark ? '#2A2A2A' : '#F3F4F6';
+  const chipSelectedBg = isDark ? '#374151' : '#E5F2FD';
+  const chipSelectedText = isDark ? '#FFFFFF' : '#1F2937';
+  const chipTextInactive = isDark ? '#B3B3B3' : '#6B7280';
 
   const categoryColorMap = useMemo(() => {
     const map: Record<string, string> = {};
@@ -57,25 +72,26 @@ const SearchScreen = () => {
           Buscar Cantos
         </Text>
 
-        <View className="flex-row items-center bg-background-card rounded-lg px-4 py-3 mb-3">
+        <View className="flex-row items-center bg-background-card rounded-lg px-4 py-3 mb-3" style={{ backgroundColor: isDark ? '#1E1E1E' : '#F3F4F6' }}>
           <MaterialCommunityIcons
             name="magnify"
             size={24}
-            color="#666666"
+            color={neutralIcon}
             style={{ marginRight: 12 }}
           />
           <TextInput
             placeholder="Digite o título ou referência..."
-            placeholderTextColor="#666666"
+            placeholderTextColor={neutralIcon}
             value={searchQuery}
             onChangeText={setSearchQuery}
-            className="flex-1 text-text-primary text-base"
+            className="flex-1 text-base"
+            style={{ color: isDark ? '#FFFFFF' : '#111827' }}
           />
           {searchQuery.length > 0 && (
             <MaterialCommunityIcons
               name="close-circle"
               size={20}
-              color="#666666"
+              color={neutralIcon}
               onPress={() => setSearchQuery('')}
             />
           )}
@@ -85,18 +101,24 @@ const SearchScreen = () => {
           <Chip
             selected={mode === 'title'}
             onPress={() => setMode('title')}
+            style={{ backgroundColor: mode === 'title' ? chipSelectedBg : chipBg }}
+            textStyle={{ color: mode === 'title' ? chipSelectedText : chipTextInactive }}
           >
             Título
           </Chip>
           <Chip
             selected={mode === 'reference'}
             onPress={() => setMode('reference')}
+            style={{ backgroundColor: mode === 'reference' ? chipSelectedBg : chipBg }}
+            textStyle={{ color: mode === 'reference' ? chipSelectedText : chipTextInactive }}
           >
             Referência
           </Chip>
           <Chip
             selected={mode === 'lyrics'}
             onPress={() => setMode('lyrics')}
+            style={{ backgroundColor: mode === 'lyrics' ? chipSelectedBg : chipBg }}
+            textStyle={{ color: mode === 'lyrics' ? chipSelectedText : chipTextInactive }}
           >
             Letra
           </Chip>
@@ -104,7 +126,7 @@ const SearchScreen = () => {
 
         {results.length === 0 ? (
           <View className="items-center justify-center mt-20">
-            <MaterialCommunityIcons name="music-note-off-outline" size={80} color="#3A3A3A" />
+            <MaterialCommunityIcons name="music-note-off-outline" size={80} color={isDark ? '#3A3A3A' : '#9CA3AF'} />
             <Text variant="body" className="mt-4 text-center text-text-secondary">Nenhum resultado encontrado</Text>
           </View>
         ) : (
@@ -114,17 +136,53 @@ const SearchScreen = () => {
             contentContainerStyle={{ paddingBottom: 24 }}
             renderItem={({ item }) => {
               const accent = categoryColorMap[item.category] || '#90CAF9';
+              const isItemFavorite = isFavorite(item.file);
+
+              const handleFavoritePress = (e: any) => {
+                e.stopPropagation();
+                toggleFavorite(item.file);
+              };
+
               return (
-                <Card className="mb-3" onPress={() => navigation.navigate('SongDetail', { file: item.file, title: item.title, category: item.category as any })}>
+                <Card
+                  className="mb-3"
+                  onPress={() =>
+                    navigation.navigate('SongDetail', {
+                      file: item.file,
+                      title: item.title,
+                      category: item.category as any,
+                    })
+                  }
+                >
                   <View className="flex-row items-center justify-between">
-                    <View style={{ width: 6, alignSelf: 'stretch', backgroundColor: accent, borderRadius: 3, marginRight: 12 }} />
+                    <View
+                      style={{
+                        width: 6,
+                        alignSelf: 'stretch',
+                        backgroundColor: accent,
+                        borderRadius: 3,
+                        marginRight: 12,
+                      }}
+                    />
                     <View className="flex-1 pr-3">
-                      <Text variant="h3" style={{ color: accent }}>{item.title}</Text>
-                      <Text variant="caption" className="mt-1 text-gray-400">
-                        {(item.reference && String(item.reference).trim()) || ((item as any).subtitle && String((item as any).subtitle).trim()) || ''}
+                      <Text variant="h3" style={{ color: accent }}>
+                        {item.title}
+                      </Text>
+                      <Text variant="caption" className="mt-1 text-text-secondary">
+                        {(item.reference && String(item.reference).trim()) ||
+                          ((item as any).subtitle && String((item as any).subtitle).trim()) ||
+                          ''}
                       </Text>
                     </View>
-                    <MaterialCommunityIcons name="chevron-right" size={24} color="#666666" />
+                    <View className="flex-row items-center">
+                      <TouchableOpacity onPress={handleFavoritePress} style={{ padding: 4 }}>
+                        <MaterialCommunityIcons
+                          name={isItemFavorite ? 'heart' : 'heart-outline'}
+                          size={16}
+                          color={isItemFavorite ? '#E91E63' : (isDark ? '#B3B3B3' : '#6B7280')}
+                        />
+                      </TouchableOpacity>
+                    </View>
                   </View>
                 </Card>
               );

@@ -1,10 +1,16 @@
 import React, { useMemo, useState } from 'react';
-import { View, ScrollView, Modal, Pressable } from 'react-native';
+import { View, ScrollView, Modal, Pressable, TouchableOpacity } from 'react-native';
 import { Screen, Text } from '../../components';
 import type { HomeStackScreenProps } from '../../navigation/types';
 import { getSongByFile } from '@data/songs/registry';
-import { Chip, Divider } from 'react-native-paper';
+import { Chip, Divider, IconButton, useTheme as usePaperTheme } from 'react-native-paper';
 import { CATEGORIES } from '../../../shared/constants/categories';
+import { MaterialCommunityIcons } from '@expo/vector-icons';
+import { useFavoritesStore, useAppStore } from '../../../store';
+import { ChordDiagram } from '../../components';
+import { findChordShapes } from '../../components/music/chordShapes';
+import type { InstrumentType } from '../../../store';
+import Slider from '@react-native-community/slider';
 
 // Notas e transposição (Português)
 const PT_NOTES = ['Do','Do#','Re','Re#','Mi','Fa','Fa#','Sol','Sol#','La','La#','Si'] as const;
@@ -78,12 +84,52 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
   const song: SongJson | undefined = getSongByFile(file);
   const [transpose, setTranspose] = useState(0);
   const [tonePickerVisible, setTonePickerVisible] = useState(false);
+  const [selectedChord, setSelectedChord] = useState<string | null>(null);
   const CHORD_BAND = 10; // altura reservada por linha para exibir acordes sem invadir a linha acima
+
+  // Favoritos
+  const { isFavorite, toggleFavorite } = useFavoritesStore();
+  const isCurrentFavorite = isFavorite(file);
+  const paperTheme = usePaperTheme();
+  const isDark = (paperTheme as any).dark ?? false;
 
   const capoHouse = song?.bracadeira?.tem ? song?.bracadeira?.casa : null;
   const currentKey = song?.tom as string | undefined;
   const categoryMeta = CATEGORIES.find((c) => c.id === (route.params.category as any));
   const accent = categoryMeta?.color ?? '#90CAF9';
+
+  const { instrument } = useAppStore();
+
+  const scrollRef = React.useRef<ScrollView | null>(null);
+  const [autoScroll, setAutoScroll] = useState(false);
+  const [speed, setSpeed] = useState(30); // pixels per second
+  const [controlsVisible, setControlsVisible] = useState(false);
+
+  React.useEffect(() => {
+    let raf: number | null = null;
+    let last = Date.now();
+    const tick = () => {
+      if (!autoScroll || !scrollRef.current) return;
+      const now = Date.now();
+      const dt = Math.max(0, now - last) / 1000;
+      last = now;
+      const nextY = ((scrollRef as any)._y || 0) + speed * dt;
+      scrollRef.current.scrollTo({ y: nextY, animated: false });
+      (scrollRef as any)._y = nextY;
+      raf = requestAnimationFrame(tick as any);
+    };
+    if (autoScroll) {
+      last = Date.now();
+      raf = requestAnimationFrame(tick as any);
+    }
+    return () => {
+      if (raf) cancelAnimationFrame(raf as any);
+    };
+  }, [autoScroll, speed]);
+
+  const onScroll = React.useCallback((e: any) => {
+    (scrollRef as any)._y = e.nativeEvent.contentOffset.y;
+  }, []);
 
   const handleSelectTone = (rootIndex: number, mode: 'maior' | 'menor') => {
     // calcula offset com base no tom original, se existir
@@ -110,6 +156,38 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
     return lead + rest.charAt(0).toUpperCase() + rest.slice(1);
   };
 
+  function parseChordParts(ch: string): { root: string; acc: string; rest: string } | null {
+    const m = ch.trim().match(/^\s*((?:Do|Re|Mi|Fa|Sol|La|Si|[A-G]))([#b]?)(.*)$/i);
+    if (!m) return null;
+    return { root: m[1], acc: m[2] || '', rest: (m[3] || '').trim() };
+  }
+
+  const uniqueChords: string[] = useMemo(() => {
+    if (!song) return [];
+    const set = new Map<string, string>();
+    (song.colunas || []).forEach((col: any) => {
+      (col.estrofes || []).forEach((est: any) => {
+        (est.linhas || []).forEach((ln: any) => {
+          (ln.acordes || []).forEach((c: any) => {
+            const label = transposeChord(c.cifra || '', transpose).trim();
+            const parts = parseChordParts(label);
+            if (!parts) return;
+            const display = `${parts.root}${parts.acc}${parts.rest ? ' ' + parts.rest : ''}`.trim();
+            const key = `${parts.root}${parts.acc}${(parts.rest || '').replace(/\s+/g, '')}`;
+            if (!set.has(key)) set.set(key, display);
+          });
+        });
+      });
+    });
+    return Array.from(set.values());
+  }, [song, transpose]);
+
+  // crude mapper to a simple shape just for demo; can be extended later
+  const mapToShape = (label: string) => ({
+    name: label,
+    strings: [ -1, 3, 2, 0, 1, 0 ], // default C major-ish placeholder
+  });
+
   // Componente para renderizar uma palavra com acordes posicionados sobre um caractere específico
   const WordToken: React.FC<{
     text: string;
@@ -124,6 +202,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
           <Text
             key={`ch-${k}`}
             variant="small"
+            // onPress removed as requested (non-clickable)
             style={{
               color: '#FF5252',
               position: 'absolute',
@@ -131,6 +210,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
               left: xs[t.charIndex] ?? 0,
               fontSize: 12,
               lineHeight: 14,
+              textDecorationLine: 'none',
             }}
           >
             {t.label}
@@ -246,15 +326,15 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
   };
 
   const toneGrid = (
-    <View className="bg-background-card p-4 rounded-xl">
+    <View className="p-4 rounded-xl" style={{ backgroundColor: paperTheme.colors.surface }}>
       <Text variant="h3" className="mb-3">Selecionar tom</Text>
-      <Divider style={{ marginBottom: 8, backgroundColor: '#333' }} />
+      <Divider style={{ marginBottom: 8, backgroundColor: isDark ? '#333333' : '#E5E7EB' }} />
       <View className="flex-row flex-wrap">
         {PT_NOTES.map((n, idx) => (
           <Pressable
             key={n}
             onPress={() => handleSelectTone(idx, 'maior')}
-            style={{ paddingVertical: 8, paddingHorizontal: 12, marginRight: 8, marginBottom: 8, borderRadius: 8, backgroundColor: '#1e1e1e' }}
+            style={{ paddingVertical: 8, paddingHorizontal: 12, marginRight: 8, marginBottom: 8, borderRadius: 8, backgroundColor: isDark ? '#1E1E1E' : '#F3F4F6' }}
           >
             <Text variant="body">{n}</Text>
           </Pressable>
@@ -263,65 +343,140 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
       <Text variant="caption" className="mt-2 text-text-secondary">Toque no tom desejado (modo maior). Suporte a menor pode ser adicionado se precisar.</Text>
     </View>
   );
-
   return (
-    <Screen scrollable>
-      <View className="px-4 pt-4 pb-2">
-        <Text variant="h1" className="mb-1">{title}</Text>
-        {song?.referencia ? (
-          <Text variant="caption" className="mb-3 text-text-secondary">{song.referencia}</Text>
-        ) : null}
-        <View className="flex-row items-center mb-4">
-          <Chip
-            onPress={() => setTonePickerVisible(true)}
-            style={{ backgroundColor: '#D32F2F' }}
-            textStyle={{ color: '#FFFFFF' }}
-          >
-            {currentKey ? `Tom: ${currentKey}` : 'Tom: —'}{transpose ? `  (Transp. ${transpose>0?'+':''}${transpose})` : ''}
-          </Chip>
-          {song?.bracadeira?.tem ? (
-            <Chip style={{ marginLeft: 8 }}>
-              Braçadeira: {song.bracadeira.casa}
-            </Chip>
-          ) : null}
-        </View>
-      </View>
-
-      {!song ? (
-        <View className="px-4 pb-4"><Text variant="body">Canto não encontrado.</Text></View>
-      ) : (
-        <View className="px-4 pb-6">
-          {(song.colunas || []).map((col: any, ci: number) => (
-            <View key={ci} className="mb-4">
-              {(col.estrofes || []).map((est: any, ei: number) => {
-                const ind = (est.indicador || '').toString().trim().toUpperCase();
-                const mode: 'S' | 'A' | 'N' = ind.startsWith('S') ? 'S' : ind.startsWith('A') ? 'A' : 'N';
-                const hasBis = !!(est.repeticao && String(est.repeticao).toLowerCase().includes('bis'));
-                const capState = { done: false };
-                return (
-                  <View key={ei} className="mb-3 flex-row">
-                    {hasBis ? (
-                      <View style={{ width: 4, borderRadius: 2, backgroundColor: accent, marginRight: 10 }} />
-                    ) : null}
-                    <View style={{ flex: 1 }}>
-                      {est.indicador ? (
-                        <Text variant="small" className="mb-2 text-text-secondary">{est.indicador}{est.repeticao ? ` • ${est.repeticao}` : ''}</Text>
-                      ) : null}
-                      {(est.linhas || []).map((ln: any, li: number) => renderLine(ln, li, mode, capState))}
-                    </View>
-                  </View>
-                );
-              })}
+    <View style={{ flex: 1 }}>
+      <ScrollView ref={scrollRef} onScroll={onScroll} scrollEventThrottle={16}>
+        <Screen scrollable={false}>
+          <View className="px-4 pt-4 pb-2">
+            <View className="flex-row items-center justify-between mb-1">
+              <Text variant="h1" className="flex-1">{title}</Text>
+              <TouchableOpacity
+                onPress={() => toggleFavorite(file)}
+                style={{ padding: 4 }}
+              >
+                <MaterialCommunityIcons
+                  name={isCurrentFavorite ? "heart" : "heart-outline"}
+                  size={20}
+                  color={isCurrentFavorite ? "#E91E63" : (isDark ? "#FFFFFF" : "#111827")}
+                />
+              </TouchableOpacity>
             </View>
-          ))}
-        </View>
-      )}
+            {song?.referencia ? (
+              <Text variant="caption" className="mb-3 text-text-secondary">{song.referencia}</Text>
+            ) : null}
+            <View className="flex-row items-center mb-2">
+              <Chip
+                onPress={() => setTonePickerVisible(true)}
+                style={{ backgroundColor: '#D32F2F' }}
+                textStyle={{ color: '#FFFFFF' }}
+              >
+                {currentKey ? `Tom: ${currentKey}` : 'Tom: —'}{transpose ? `  (Transp. ${transpose>0?'+':''}${transpose})` : ''}
+              </Chip>
+              {song?.bracadeira?.tem ? (
+                <Chip style={{ marginLeft: 8 }}>
+                  Braçadeira: {song.bracadeira.casa}
+                </Chip>
+              ) : null}
+            </View>
+            {/* Chord diagrams strip below tone/capo, expanded and not clickable */}
+            {uniqueChords.length ? (
+              <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingVertical: 8 }}>
+                {uniqueChords.map((c) => {
+                  const shapes = findChordShapes(c, instrument as InstrumentType);
+                  return (
+                    <View key={c} style={{ alignItems: 'center', marginRight: 12 }}>
+                      {shapes.length ? (
+                        <ChordDiagram chord={shapes[0]} />
+                      ) : (
+                        <View style={{ width: 96, height: Math.round(96*1.2), alignItems: 'center', justifyContent: 'center' }}>
+                          <Text variant="small" className="text-text-secondary">sem diagrama</Text>
+                        </View>
+                      )}
+                      <Text variant="small" className="mt-1">{c}</Text>
+                    </View>
+                  );
+                })}
+              </ScrollView>
+            ) : null}
+          </View>
 
-      <Modal visible={tonePickerVisible} transparent animationType="fade" onRequestClose={() => setTonePickerVisible(false)}>
-        <Pressable style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.6)', padding: 16, justifyContent: 'center' }} onPress={() => setTonePickerVisible(false)}>
-          {toneGrid}
-        </Pressable>
-      </Modal>
-    </Screen>
+          {!song ? (
+            <View className="px-4 pb-4"><Text variant="body">Canto não encontrado.</Text></View>
+          ) : (
+            <View className="px-4 pb-6">
+              {(song.colunas || []).map((col: any, ci: number) => (
+                <View key={ci} className="mb-4">
+                  {(col.estrofes || []).map((est: any, ei: number) => {
+                    const ind = (est.indicador || '').toString().trim().toUpperCase();
+                    const mode: 'S' | 'A' | 'N' = ind.startsWith('S') ? 'S' : ind.startsWith('A') ? 'A' : 'N';
+                    const hasBis = !!(est.repeticao && String(est.repeticao).toLowerCase().includes('bis'));
+                    const capState = { done: false };
+                    return (
+                      <View key={ei} className="mb-3 flex-row">
+                        {hasBis ? (
+                          <View style={{ width: 4, borderRadius: 2, backgroundColor: accent, marginRight: 10 }} />
+                        ) : null}
+                        <View style={{ flex: 1 }}>
+                          {est.indicador ? (
+                            <Text variant="small" className="mb-2 text-text-secondary">{est.indicador}{est.repeticao ? ` • ${est.repeticao}` : ''}</Text>
+                          ) : null}
+                          {(est.linhas || []).map((ln: any, li: number) => renderLine(ln, li, mode, capState))}
+                        </View>
+                      </View>
+                    );
+                  })}
+                </View>
+              ))}
+            </View>
+          )}
+
+          <Modal visible={tonePickerVisible} transparent animationType="fade" onRequestClose={() => setTonePickerVisible(false)}>
+            <Pressable style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.6)', padding: 16, justifyContent: 'center' }} onPress={() => setTonePickerVisible(false)}>
+              {toneGrid}
+            </Pressable>
+          </Modal>
+
+          <Modal visible={!!selectedChord} transparent animationType="fade" onRequestClose={() => setSelectedChord(null)}>
+            {/* Removed modal content since diagrams are inline and non-clickable */}
+            <Pressable style={{ flex: 1 }} onPress={() => setSelectedChord(null)} />
+          </Modal>
+        </Screen>
+      </ScrollView>
+
+      {/* Floating toggle button (turtle) */}
+      <TouchableOpacity
+        onPress={() => setControlsVisible((v) => !v)}
+        style={{ position: 'absolute', right: 16, bottom: controlsVisible ? 92 : 16, width: 48, height: 48, borderRadius: 24, alignItems: 'center', justifyContent: 'center', backgroundColor: '#FF5252', elevation: 2 }}
+      >
+        <MaterialCommunityIcons name="tortoise" size={26} color="#FFFFFF" />
+      </TouchableOpacity>
+
+      {/* Auto-scroll controls panel (shown on demand) */}
+      {controlsVisible ? (
+        <View style={{ position: 'absolute', left: 8, right: 8, bottom: 8, padding: 12, borderRadius: 12, backgroundColor: 'rgba(17,17,23,0.9)' }}>
+          <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+            <MaterialCommunityIcons name="tortoise" size={22} color="#FFFFFF" />
+            <View style={{ flex: 1, marginHorizontal: 12 }}>
+              <Slider
+                minimumValue={5}
+                maximumValue={120}
+                step={1}
+                value={speed}
+                onValueChange={setSpeed}
+                minimumTrackTintColor="#FF5252"
+                maximumTrackTintColor="#888888"
+                thumbTintColor="#FFFFFF"
+              />
+            </View>
+            <TouchableOpacity onPress={() => setAutoScroll((v) => !v)} style={{ paddingHorizontal: 8 }}>
+              <MaterialCommunityIcons name={autoScroll ? 'pause-circle' : 'play-circle'} size={26} color="#FFFFFF" />
+            </TouchableOpacity>
+            <TouchableOpacity onPress={() => setControlsVisible(false)} style={{ paddingHorizontal: 4, marginLeft: 4 }}>
+              <MaterialCommunityIcons name="chevron-down" size={24} color="#FFFFFF" />
+            </TouchableOpacity>
+          </View>
+        </View>
+      ) : null}
+    </View>
   );
 }

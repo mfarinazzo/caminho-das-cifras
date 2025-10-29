@@ -3,26 +3,31 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { RootTabParamList } from './types';
 import { HomeStackNavigator } from './HomeStackNavigator';
+import { useTheme as usePaperTheme } from 'react-native-paper';
 
 // Placeholder screens
 import SearchScreen from '../screens/search/SearchScreen';
 import FavoritesScreen from '../screens/favorites/FavoritesScreen';
-import SettingsScreen from '../screens/settings/SettingsScreen';
+import SettingsStackNavigator from '@presentation/navigation/SettingsStackNavigator';
+import TunerScreen from '@presentation/screens/tuner/TunerScreen';
 
 const Tab = createBottomTabNavigator<RootTabParamList>();
 
 export const BottomTabNavigator = () => {
+  const theme = usePaperTheme();
+  const isDark = (theme as any).dark ?? false;
+
   return (
     <Tab.Navigator
       screenOptions={{
         headerShown: false,
         tabBarStyle: {
-          backgroundColor: '#1E1E1E',
-          borderTopColor: '#3A3A3A',
+          backgroundColor: theme.colors.surface,
+          borderTopColor: isDark ? '#333333' : '#E5E7EB',
           borderTopWidth: 1,
         },
-        tabBarActiveTintColor: '#90CAF9',
-        tabBarInactiveTintColor: '#666666',
+        tabBarActiveTintColor: '#FF5252',
+        tabBarInactiveTintColor: isDark ? '#9CA3AF' : '#6B7280',
       }}
     >
       <Tab.Screen
@@ -56,8 +61,18 @@ export const BottomTabNavigator = () => {
         }}
       />
       <Tab.Screen
+        name="Tuner"
+        component={TunerScreen}
+        options={{
+          tabBarLabel: 'Afinador',
+          tabBarIcon: ({ color, size }) => (
+            <MaterialCommunityIcons name={"guitar-pick" as any} size={size} color={color} />
+          ),
+        }}
+      />
+      <Tab.Screen
         name="Settings"
-        component={SettingsScreen}
+        component={SettingsStackNavigator}
         options={{
           tabBarLabel: 'Config',
           tabBarIcon: ({ color, size }) => (

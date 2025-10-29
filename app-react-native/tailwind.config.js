@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: [
     "./App.{js,jsx,ts,tsx}",
     "./src/**/*.{js,jsx,ts,tsx}"
@@ -12,10 +13,12 @@ module.exports = {
           DEFAULT: '#121212',
           elevated: '#1E1E1E',
           card: '#2A2A2A',
+          light: '#FFFFFF',
         },
         surface: {
           DEFAULT: '#1E1E1E',
           elevated: '#2A2A2A',
+          light: '#FFFFFF',
         },
         primary: {
           DEFAULT: '#90CAF9',

@@ -7,12 +7,14 @@ export type RootTabParamList = {
   Search: undefined;
   Favorites: undefined;
   Settings: undefined;
+  Tuner: undefined;
 };
 
 export type HomeStackParamList = {
   Categories: undefined;
   SongList: { categoryId: CategoryId; categoryName: string };
   SongDetail: { file: string; title: string; category: CategoryId };
+  TextSize: undefined;
 };
 
 export type RootTabScreenProps<T extends keyof RootTabParamList> =

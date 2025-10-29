@@ -1,6 +1,9 @@
 import React from 'react';
 import { View, ScrollView, StatusBar } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useAppStore } from '../../../store';
+import { useColorScheme } from 'react-native';
+import { useTheme as usePaperTheme } from 'react-native-paper';
 
 interface ScreenProps {
   children: React.ReactNode;
@@ -13,10 +16,15 @@ export const Screen: React.FC<ScreenProps> = ({
   scrollable = false,
   className = '',
 }) => {
+  const scheme = useColorScheme();
+  const themeMode = useAppStore((s) => s.themeMode);
+  const isDark = themeMode === 'system' ? scheme === 'dark' : themeMode === 'dark';
+  const paperTheme = usePaperTheme();
+
   const content = scrollable ? (
     <ScrollView
       className={`flex-1 ${className}`}
-      contentContainerClassName="pb-4"
+      contentContainerStyle={{ paddingBottom: 16 }}
       showsVerticalScrollIndicator={false}
     >
       {children}
@@ -26,8 +34,8 @@ export const Screen: React.FC<ScreenProps> = ({
   );
 
   return (
-    <SafeAreaView className="flex-1 bg-background">
-      <StatusBar barStyle="light-content" backgroundColor="#121212" />
+    <SafeAreaView style={{ flex: 1, backgroundColor: paperTheme.colors.background }}>
+      <StatusBar barStyle={isDark ? 'light-content' : 'dark-content'} backgroundColor={paperTheme.colors.background} />
       {content}
     </SafeAreaView>
   );
