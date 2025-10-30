@@ -82,8 +82,13 @@ type SongJson = any;
 export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDetail'>) {
   const { file, title } = route.params;
   const song: SongJson | undefined = getSongByFile(file);
-  const [transpose, setTranspose] = useState(0);
+  const { instrument, capoBySong, setCapoForSong, clearCapoForSong, transposeBySong, setTransposeForSong, clearTransposeForSong } = useAppStore();
+  const savedCapo = capoBySong[file] ?? 0;
+  const savedTranspose = transposeBySong[file] ?? 0;
+
+  const [transpose, setTranspose] = useState(savedTranspose);
   const [tonePickerVisible, setTonePickerVisible] = useState(false);
+  const [capoPickerVisible, setCapoPickerVisible] = useState(false);
   const [selectedChord, setSelectedChord] = useState<string | null>(null);
   const CHORD_BAND = 10; // altura reservada por linha para exibir acordes sem invadir a linha acima
 
@@ -92,18 +97,26 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
   const isCurrentFavorite = isFavorite(file);
   const paperTheme = usePaperTheme();
   const isDark = (paperTheme as any).dark ?? false;
+  const strapColor = isDark ? '#4B5563' : '#111827';
+  const strapText = '#FFFFFF';
 
   const capoHouse = song?.bracadeira?.tem ? song?.bracadeira?.casa : null;
   const currentKey = song?.tom as string | undefined;
   const categoryMeta = CATEGORIES.find((c) => c.id === (route.params.category as any));
   const accent = categoryMeta?.color ?? '#90CAF9';
 
-  const { instrument } = useAppStore();
-
   const scrollRef = React.useRef<ScrollView | null>(null);
   const [autoScroll, setAutoScroll] = useState(false);
   const [speed, setSpeed] = useState(30); // pixels per second
   const [controlsVisible, setControlsVisible] = useState(false);
+
+  // compute currently active root for highlight in tone menu
+  let origIdx = -1;
+  if (currentKey) {
+    const m = currentKey.match(/^(Do|Do#|Re|Re#|Mi|Fa|Fa#|Sol|Sol#|La|La#|Si)\s+(maior|menor)$/);
+    if (m) origIdx = PT_NOTES.indexOf(m[1] as any);
+  }
+  const activeRootIdx = origIdx >= 0 ? ((origIdx + transpose) % 12) : -1;
 
   React.useEffect(() => {
     let raf: number | null = null;
@@ -144,6 +157,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
       }
     }
     setTranspose(offset);
+    setTransposeForSong(file, offset);
     setTonePickerVisible(false);
   };
 
@@ -330,19 +344,71 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
       <Text variant="h3" className="mb-3">Selecionar tom</Text>
       <Divider style={{ marginBottom: 8, backgroundColor: isDark ? '#333333' : '#E5E7EB' }} />
       <View className="flex-row flex-wrap">
-        {PT_NOTES.map((n, idx) => (
-          <Pressable
-            key={n}
-            onPress={() => handleSelectTone(idx, 'maior')}
-            style={{ paddingVertical: 8, paddingHorizontal: 12, marginRight: 8, marginBottom: 8, borderRadius: 8, backgroundColor: isDark ? '#1E1E1E' : '#F3F4F6' }}
-          >
-            <Text variant="body">{n}</Text>
-          </Pressable>
-        ))}
+        {PT_NOTES.map((n, idx) => {
+          const selected = idx === activeRootIdx;
+          return (
+            <Pressable
+              key={n}
+              onPress={() => handleSelectTone(idx, 'maior')}
+              style={{
+                paddingVertical: 10,
+                paddingHorizontal: 14,
+                marginRight: 8,
+                marginBottom: 8,
+                borderRadius: 8,
+                backgroundColor: selected ? strapColor : (isDark ? '#111827' : '#F3F4F6'),
+                borderWidth: 1,
+                borderColor: isDark ? '#374151' : '#E5E7EB',
+              }}
+            >
+              <Text variant="body" style={{ color: selected ? strapText : undefined }}>{n}</Text>
+            </Pressable>
+          );
+        })}
       </View>
-      <Text variant="caption" className="mt-2 text-text-secondary">Toque no tom desejado (modo maior). Suporte a menor pode ser adicionado se precisar.</Text>
+      <Pressable onPress={() => { setTranspose(0); clearTransposeForSong(file); setTonePickerVisible(false); }}
+        style={{ marginTop: 12, alignSelf: 'stretch', paddingVertical: 12, borderRadius: 10, backgroundColor: strapColor, alignItems: 'center' }}>
+        <Text variant="body" style={{ color: strapText }}>Restaurar padrão</Text>
+      </Pressable>
+      <Text variant="caption" className="mt-2 text-text-secondary">Toque no tom desejado (modo maior).</Text>
     </View>
   );
+
+  const capoGrid = (
+    <View className="p-4 rounded-xl" style={{ backgroundColor: paperTheme.colors.surface }}>
+      <Text variant="h3" className="mb-3">Braçadeira (Capo)</Text>
+      <Divider style={{ marginBottom: 8, backgroundColor: isDark ? '#333333' : '#E5E7EB' }} />
+      <View className="flex-row flex-wrap items-center mb-2">
+        {[0,1,2,3,4,5,6,7].map((f) => {
+          const selected = savedCapo === f;
+          return (
+            <Pressable
+              key={f}
+              onPress={() => { setCapoForSong(file, f); setCapoPickerVisible(false); }}
+              style={{
+                paddingVertical: 10,
+                paddingHorizontal: 14,
+                marginRight: 8,
+                marginBottom: 8,
+                borderRadius: 8,
+                backgroundColor: selected ? strapColor : (isDark ? '#111827' : '#F3F4F6'),
+                borderWidth: 1,
+                borderColor: isDark ? '#374151' : '#E5E7EB',
+              }}
+            >
+              <Text variant="body" style={{ color: selected ? strapText : undefined }}>{f === 0 ? 'Sem' : `${f}ª`}</Text>
+            </Pressable>
+          );
+        })}
+      </View>
+      <Pressable onPress={() => { clearCapoForSong(file); setCapoPickerVisible(false); }}
+        style={{ marginTop: 4, alignSelf: 'stretch', paddingVertical: 12, borderRadius: 10, backgroundColor: strapColor, alignItems: 'center' }}>
+        <Text variant="body" style={{ color: strapText }}>Restaurar padrão</Text>
+      </Pressable>
+      <Text variant="caption" className="mt-2 text-text-secondary">Defina a casa do capo e visualize no diagrama.</Text>
+    </View>
+  );
+
   return (
     <View style={{ flex: 1 }}>
       <ScrollView ref={scrollRef} onScroll={onScroll} scrollEventThrottle={16}>
@@ -372,21 +438,20 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
               >
                 {currentKey ? `Tom: ${currentKey}` : 'Tom: —'}{transpose ? `  (Transp. ${transpose>0?'+':''}${transpose})` : ''}
               </Chip>
-              {song?.bracadeira?.tem ? (
-                <Chip style={{ marginLeft: 8 }}>
-                  Braçadeira: {song.bracadeira.casa}
-                </Chip>
-              ) : null}
+              <Chip style={{ marginLeft: 8 }} onPress={() => setCapoPickerVisible(true)}>
+                Braçadeira: {savedCapo ? `${savedCapo}ª` : (song?.bracadeira?.tem ? `${song.bracadeira.casa}ª` : '—')}
+              </Chip>
             </View>
             {/* Chord diagrams strip below tone/capo, expanded and not clickable */}
             {uniqueChords.length ? (
               <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingVertical: 8 }}>
                 {uniqueChords.map((c) => {
                   const shapes = findChordShapes(c, instrument as InstrumentType);
+                  const shape = shapes.length ? { ...shapes[0], name: c } : null;
                   return (
                     <View key={c} style={{ alignItems: 'center', marginRight: 12 }}>
-                      {shapes.length ? (
-                        <ChordDiagram chord={shapes[0]} />
+                      {shape ? (
+                        <ChordDiagram chord={shape} capoFret={savedCapo || (song?.bracadeira?.tem ? song.bracadeira.casa : 0)} />
                       ) : (
                         <View style={{ width: 96, height: Math.round(96*1.2), alignItems: 'center', justifyContent: 'center' }}>
                           <Text variant="small" className="text-text-secondary">sem diagrama</Text>
@@ -433,6 +498,12 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
           <Modal visible={tonePickerVisible} transparent animationType="fade" onRequestClose={() => setTonePickerVisible(false)}>
             <Pressable style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.6)', padding: 16, justifyContent: 'center' }} onPress={() => setTonePickerVisible(false)}>
               {toneGrid}
+            </Pressable>
+          </Modal>
+
+          <Modal visible={capoPickerVisible} transparent animationType="fade" onRequestClose={() => setCapoPickerVisible(false)}>
+            <Pressable style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.6)', padding: 16, justifyContent: 'center' }} onPress={() => setCapoPickerVisible(false)}>
+              {capoGrid}
             </Pressable>
           </Modal>
 
