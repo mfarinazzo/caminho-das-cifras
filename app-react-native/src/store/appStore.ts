@@ -20,6 +20,10 @@ interface AppState {
   transposeBySong: Record<string, number>;
   setTransposeForSong: (file: string, semitones: number) => void;
   clearTransposeForSong: (file: string) => void;
+  // per-song annotations
+  notesBySong: Record<string, string>;
+  setNoteForSong: (file: string, note: string) => void;
+  clearNoteForSong: (file: string) => void;
 }
 
 export const useAppStore = create<AppState>()(
@@ -61,6 +65,18 @@ export const useAppStore = create<AppState>()(
           delete next[file];
           return { transposeBySong: next } as Partial<AppState> as any;
         }),
+      // annotations
+      notesBySong: {},
+      setNoteForSong: (file, note) =>
+        set((state) => ({
+          notesBySong: { ...state.notesBySong, [file]: (note || '').slice(0, 150) },
+        })),
+      clearNoteForSong: (file) =>
+        set((state) => {
+          const next = { ...state.notesBySong };
+          delete next[file];
+          return { notesBySong: next } as Partial<AppState> as any;
+        }),
     }),
     {
       name: 'app-settings',
@@ -71,6 +87,7 @@ export const useAppStore = create<AppState>()(
         instrument: state.instrument,
         capoBySong: state.capoBySong,
         transposeBySong: state.transposeBySong,
+        notesBySong: state.notesBySong,
       }),
     }
   )

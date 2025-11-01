@@ -39,6 +39,12 @@ export const ChordDiagram: React.FC<{ chord: ChordShape; size?: number; capoFret
   const rowH = gridH / fretCount; // consistent row height per fret space
   const DOT_FRACTION = 0.5; // 0=center
 
+  // Compute absolute fret analysis for left-side large fret indicator (when above 5th)
+  const absFrets = (chord.strings || []).filter((f) => f > 0);
+  const maxAbsFret = absFrets.length ? Math.max(...absFrets) : 0;
+  const showLeftFret = maxAbsFret > 5;
+  const leftTagW = showLeftFret ? 16 : 0;
+
   const relFret = (abs: number) => {
     if (abs <= 0) return 0;
     return baseFret > 1 ? abs - baseFret + 1 : abs;
@@ -46,10 +52,18 @@ export const ChordDiagram: React.FC<{ chord: ChordShape; size?: number; capoFret
 
   return (
     <View style={{ width, height }}>
-      {/* Header: fixed CAPO strap when active (square style) */}
-      <View style={{ marginHorizontal: padding, height: headerH }}>
+      {/* Left compact fret indicator when shape goes beyond 5th */}
+      {showLeftFret ? (
+        <View style={{ position: 'absolute', left: 0, top: padding + headerH, bottom: padding + headH, width: leftTagW, alignItems: 'center', justifyContent: 'center' }}>
+          <View style={{ paddingHorizontal: 2, paddingVertical: 2, borderRadius: 3, backgroundColor: strapColor }}>
+            <Text variant="small" numberOfLines={1} style={{ color: strapText }}>{`${baseFret}ª`}</Text>
+          </View>
+        </View>
+      ) : null}
+      {/* Header: CAPO strap strictly above diagram area */}
+      <View style={{ marginLeft: padding + leftTagW + (showLeftFret ? 6 : 0), marginRight: padding, height: headerH }}>
         {capoFret > 0 ? (
-          <View style={{ height: strapH, borderRadius: 4, backgroundColor: strapColor, flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
+          <View style={{ width: innerW, height: strapH, borderRadius: 4, backgroundColor: strapColor, flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
             <Text variant="small" style={{ color: strapText, marginRight: 8 }}>{`${capoFret}ª`}</Text>
             {['C','A','P','O'].map((ch, i) => (
               <Text key={i} variant="small" style={{ color: strapText, marginHorizontal: 2 }}>{ch}</Text>
@@ -58,16 +72,20 @@ export const ChordDiagram: React.FC<{ chord: ChordShape; size?: number; capoFret
         ) : null}
       </View>
 
-      <View style={{ marginHorizontal: padding }}>
+      <View style={{ marginLeft: padding + leftTagW + (showLeftFret ? 6 : 0), marginRight: padding }}>
         {/* Nut or top line */}
         <View style={{ height: baseFret === 1 ? 4 : 2, backgroundColor: grid, borderRadius: 2 }} />
         {/* Grid */}
         <View style={{ width: innerW, height: gridH, borderColor: grid, borderWidth: 1, borderTopWidth: 0 }}>
           {/* Strings */}
           <View style={{ position: 'absolute', top: 0, bottom: 0, left: 0, right: 0 }}>
-            {Array.from({ length: stringCount }).map((_, i) => (
-              <View key={i} style={{ position: 'absolute', left: i * step, width: 1, top: 0, bottom: 0, backgroundColor: grid }} />
-            ))}
+            {Array.from({ length: stringCount }).map((_, i) => {
+              // Clamp inside the grid: keep leftmost at >=1 and rightmost at <= innerW-1
+              const x = Math.min(Math.max(Math.round(i * step), -1), innerW - 1);
+              return (
+                <View key={i} style={{ position: 'absolute', left: x, width: 1, top: 0, bottom: 0, backgroundColor: grid }} />
+              );
+            })}
           </View>
           {/* Frets */}
           <View style={{ position: 'absolute', top: 0, left: 0, right: 0, height: gridH }}>
@@ -115,7 +133,7 @@ export const ChordDiagram: React.FC<{ chord: ChordShape; size?: number; capoFret
             );
           })}
         </View>
-        {baseFret > 1 ? (
+        {baseFret > 1 && !showLeftFret ? (
           <Text variant="small" className="mt-1">{baseFret}fr</Text>
         ) : null}
       </View>

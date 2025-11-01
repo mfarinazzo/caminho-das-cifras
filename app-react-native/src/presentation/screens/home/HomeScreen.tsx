@@ -20,7 +20,7 @@ const HomeScreen = () => {
     <Card
       onPress={() => {
         navigation.navigate('SongList', {
-          categoryId: item.id,
+          categoryId: item.id as any,
           categoryName: item.name,
         });
       }}

@@ -3,7 +3,7 @@ import { View, ScrollView, Modal, Pressable, TouchableOpacity } from 'react-nati
 import { Screen, Text } from '../../components';
 import type { HomeStackScreenProps } from '../../navigation/types';
 import { getSongByFile } from '@data/songs/registry';
-import { Chip, Divider, IconButton, useTheme as usePaperTheme } from 'react-native-paper';
+import { Chip, Divider, IconButton, useTheme as usePaperTheme, TextInput, Button } from 'react-native-paper';
 import { CATEGORIES } from '../../../shared/constants/categories';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { useFavoritesStore, useAppStore } from '../../../store';
@@ -35,7 +35,8 @@ const SEMITONE_TO_PT = PT_NOTES as unknown as string[];
 
 function parseChord(ch: string): { root: number; rest: string } | null {
   if (!ch) return null;
-  const m = ch.trim().match(/^\s*((?:Do|Re|Mi|Fa|Sol|La|Si|[A-G]))([#b]?)(.*)$/i);
+  // allow optional space between root and accidental (e.g., "Do #", "Re b")
+  const m = ch.trim().match(/^\s*((?:Do|Re|Mi|Fa|Sol|La|Si|[A-G]))\s*([#b]?)(.*)$/i);
   if (!m) return null;
   const note = (m[1] || '').toLowerCase();
   const acc = (m[2] || '').toLowerCase();
@@ -82,7 +83,7 @@ type SongJson = any;
 export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDetail'>) {
   const { file, title } = route.params;
   const song: SongJson | undefined = getSongByFile(file);
-  const { instrument, capoBySong, setCapoForSong, clearCapoForSong, transposeBySong, setTransposeForSong, clearTransposeForSong } = useAppStore();
+  const { instrument, capoBySong, setCapoForSong, clearCapoForSong, transposeBySong, setTransposeForSong, clearTransposeForSong, notesBySong, setNoteForSong, clearNoteForSong } = useAppStore();
   const savedCapo = capoBySong[file] ?? 0;
   const savedTranspose = transposeBySong[file] ?? 0;
 
@@ -109,12 +110,20 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
   const [autoScroll, setAutoScroll] = useState(false);
   const [speed, setSpeed] = useState(30); // pixels per second
   const [controlsVisible, setControlsVisible] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
+  const savedNote = notesBySong[file] || '';
+  const [noteModal, setNoteModal] = useState(false);
+  const [noteText, setNoteText] = useState(savedNote);
 
   // compute currently active root for highlight in tone menu
   let origIdx = -1;
+  let origMode: 'maior' | 'menor' | null = null;
   if (currentKey) {
     const m = currentKey.match(/^(Do|Do#|Re|Re#|Mi|Fa|Fa#|Sol|Sol#|La|La#|Si)\s+(maior|menor)$/);
-    if (m) origIdx = PT_NOTES.indexOf(m[1] as any);
+    if (m) {
+      origIdx = PT_NOTES.indexOf(m[1] as any);
+      origMode = (m[2] as 'maior' | 'menor');
+    }
   }
   const activeRootIdx = origIdx >= 0 ? ((origIdx + transpose) % 12) : -1;
 
@@ -144,7 +153,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
     (scrollRef as any)._y = e.nativeEvent.contentOffset.y;
   }, []);
 
-  const handleSelectTone = (rootIndex: number, mode: 'maior' | 'menor') => {
+  const handleSelectTone = (rootIndex: number) => {
     // calcula offset com base no tom original, se existir
     let offset = 0;
     if (currentKey) {
@@ -171,9 +180,35 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
   };
 
   function parseChordParts(ch: string): { root: string; acc: string; rest: string } | null {
-    const m = ch.trim().match(/^\s*((?:Do|Re|Mi|Fa|Sol|La|Si|[A-G]))([#b]?)(.*)$/i);
+    // keep in sync with parseChord: allow optional space before accidental
+    const m = ch.trim().match(/^\s*((?:Do|Re|Mi|Fa|Sol|La|Si|[A-G]))\s*([#b]?)(.*)$/i);
     if (!m) return null;
     return { root: m[1], acc: m[2] || '', rest: (m[3] || '').trim() };
+  }
+
+  // Convert Portuguese chord label to an English-style label suitable for chord shape lookup
+  function toEnglishShapeLabel(label: string): string {
+    const p = parseChordParts(label);
+    if (!p) return label;
+    const rootLc = p.root.toLowerCase();
+    const map: Record<string, string> = {
+      'do': 'C', 're': 'D', 'mi': 'E', 'fa': 'F', 'sol': 'G', 'la': 'A', 'si': 'B',
+      'c': 'C', 'd': 'D', 'e': 'E', 'f': 'F', 'g': 'G', 'a': 'A', 'b': 'B',
+    };
+    const enRoot = map[rootLc] || p.root.toUpperCase();
+
+    // normalize minor markers: '-' or 'menor' -> 'm' (keep other qualifiers like 7, sus, add)
+    const rest = (p.rest || '').trim();
+    let restNorm = rest;
+    if (/^[-\u2212]/.test(restNorm)) { // '-' or unicode minus
+      restNorm = restNorm.replace(/^[-\u2212]\s*/, 'm');
+    } else if (/^menor\b/i.test(restNorm)) {
+      restNorm = restNorm.replace(/^menor\b/i, 'm');
+    }
+    // normalize spacing so shapes key becomes like 'C#m', 'Fm7'
+    const acc = p.acc || '';
+    const spaced = `${enRoot}${acc}${restNorm ? ' ' + restNorm : ''}`;
+    return spaced;
   }
 
   const uniqueChords: string[] = useMemo(() => {
@@ -343,20 +378,21 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
     <View className="p-4 rounded-xl" style={{ backgroundColor: paperTheme.colors.surface }}>
       <Text variant="h3" className="mb-3">Selecionar tom</Text>
       <Divider style={{ marginBottom: 8, backgroundColor: isDark ? '#333333' : '#E5E7EB' }} />
+      {/* Modo segue o da música; sem seletor de maior/menor */}
       <View className="flex-row flex-wrap">
         {PT_NOTES.map((n, idx) => {
           const selected = idx === activeRootIdx;
           return (
             <Pressable
               key={n}
-              onPress={() => handleSelectTone(idx, 'maior')}
+              onPress={() => handleSelectTone(idx)}
               style={{
                 paddingVertical: 10,
                 paddingHorizontal: 14,
                 marginRight: 8,
                 marginBottom: 8,
                 borderRadius: 8,
-                backgroundColor: selected ? strapColor : (isDark ? '#111827' : '#F3F4F6'),
+                backgroundColor: selected ? strapColor : (isDark ? '#FFFFFF' : '#111827'),
                 borderWidth: 1,
                 borderColor: isDark ? '#374151' : '#E5E7EB',
               }}
@@ -370,7 +406,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
         style={{ marginTop: 12, alignSelf: 'stretch', paddingVertical: 12, borderRadius: 10, backgroundColor: strapColor, alignItems: 'center' }}>
         <Text variant="body" style={{ color: strapText }}>Restaurar padrão</Text>
       </Pressable>
-      <Text variant="caption" className="mt-2 text-text-secondary">Toque no tom desejado (modo maior).</Text>
+      <Text variant="caption" className="mt-2 text-text-secondary">Toque no tom desejado.</Text>
     </View>
   );
 
@@ -391,7 +427,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
                 marginRight: 8,
                 marginBottom: 8,
                 borderRadius: 8,
-                backgroundColor: selected ? strapColor : (isDark ? '#111827' : '#F3F4F6'),
+                backgroundColor: selected ? strapColor : (isDark ? '#FFFFFF' : '#111827'),
                 borderWidth: 1,
                 borderColor: isDark ? '#374151' : '#E5E7EB',
               }}
@@ -406,6 +442,30 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
         <Text variant="body" style={{ color: strapText }}>Restaurar padrão</Text>
       </Pressable>
       <Text variant="caption" className="mt-2 text-text-secondary">Defina a casa do capo e visualize no diagrama.</Text>
+    </View>
+  );
+
+  const noteGrid = (
+    <View className="p-4 rounded-xl" style={{ backgroundColor: paperTheme.colors.surface }}>
+      <Text variant="h3" className="mb-3">Anotação</Text>
+      <Divider style={{ marginBottom: 8, backgroundColor: isDark ? '#333333' : '#E5E7EB' }} />
+      <TextInput
+        mode="outlined"
+        placeholder="Escreva até 150 caracteres"
+        value={noteText}
+        onChangeText={(t) => setNoteText((t || '').slice(0,150))}
+        multiline
+        numberOfLines={3}
+      />
+      <View style={{ flexDirection: 'row', justifyContent: 'flex-end', marginTop: 12 }}>
+        {savedNote ? (
+          <Button onPress={() => { clearNoteForSong(file); setNoteText(''); setNoteModal(false); }} textColor="#FF5252">Excluir</Button>
+        ) : null}
+        <Button onPress={() => { setNoteForSong(file, (noteText || '').slice(0,150)); setNoteModal(false); }}>
+          Salvar
+        </Button>
+      </View>
+      <Text variant="caption" className="mt-2 text-text-secondary">Sua anotação fica visível acima do texto do canto.</Text>
     </View>
   );
 
@@ -436,7 +496,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
                 style={{ backgroundColor: '#D32F2F' }}
                 textStyle={{ color: '#FFFFFF' }}
               >
-                {currentKey ? `Tom: ${currentKey}` : 'Tom: —'}{transpose ? `  (Transp. ${transpose>0?'+':''}${transpose})` : ''}
+                {activeRootIdx >= 0 ? `Tom: ${PT_NOTES[activeRootIdx]}${origMode ? ' ' + origMode : ''}` : (currentKey ? `Tom: ${currentKey}` : 'Tom: —')}{transpose ? `  (Transp. ${transpose>0?'+':''}${transpose})` : ''}
               </Chip>
               <Chip style={{ marginLeft: 8 }} onPress={() => setCapoPickerVisible(true)}>
                 Braçadeira: {savedCapo ? `${savedCapo}ª` : (song?.bracadeira?.tem ? `${song.bracadeira.casa}ª` : '—')}
@@ -444,12 +504,13 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
             </View>
             {/* Chord diagrams strip below tone/capo, expanded and not clickable */}
             {uniqueChords.length ? (
-              <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingVertical: 8 }}>
+              <ScrollView horizontal nestedScrollEnabled showsHorizontalScrollIndicator={false} contentContainerStyle={{ paddingVertical: 8, paddingRight: 32 }}>
                 {uniqueChords.map((c) => {
-                  const shapes = findChordShapes(c, instrument as InstrumentType);
+                  const searchLabel = toEnglishShapeLabel(c);
+                  const shapes = findChordShapes(searchLabel, instrument as InstrumentType);
                   const shape = shapes.length ? { ...shapes[0], name: c } : null;
                   return (
-                    <View key={c} style={{ alignItems: 'center', marginRight: 12 }}>
+                    <View key={c} style={{ alignItems: 'center', marginRight: 20 }}>
                       {shape ? (
                         <ChordDiagram chord={shape} capoFret={savedCapo || (song?.bracadeira?.tem ? song.bracadeira.casa : 0)} />
                       ) : (
@@ -462,6 +523,13 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
                   );
                 })}
               </ScrollView>
+            ) : null}
+
+            {/* Song note (if any) */}
+            {savedNote ? (
+              <View className="mb-2">
+                <Text variant="small" style={{ color: isDark ? '#9CA3AF' : '#6B7280' }}>{`"${savedNote}"`}</Text>
+              </View>
             ) : null}
           </View>
 
@@ -507,6 +575,12 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
             </Pressable>
           </Modal>
 
+          <Modal visible={noteModal} transparent animationType="fade" onRequestClose={() => setNoteModal(false)}>
+            <Pressable style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.6)', padding: 16, justifyContent: 'center' }} onPress={() => setNoteModal(false)}>
+              {noteGrid}
+            </Pressable>
+          </Modal>
+
           <Modal visible={!!selectedChord} transparent animationType="fade" onRequestClose={() => setSelectedChord(null)}>
             {/* Removed modal content since diagrams are inline and non-clickable */}
             <Pressable style={{ flex: 1 }} onPress={() => setSelectedChord(null)} />
@@ -514,13 +588,33 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
         </Screen>
       </ScrollView>
 
-      {/* Floating toggle button (turtle) */}
-      <TouchableOpacity
-        onPress={() => setControlsVisible((v) => !v)}
-        style={{ position: 'absolute', right: 16, bottom: controlsVisible ? 92 : 16, width: 48, height: 48, borderRadius: 24, alignItems: 'center', justifyContent: 'center', backgroundColor: '#FF5252', elevation: 2 }}
-      >
-        <MaterialCommunityIcons name="tortoise" size={26} color="#FFFFFF" />
-      </TouchableOpacity>
+      {/* Floating menu and sub-buttons */}
+      {!controlsVisible ? (
+        <>
+          <TouchableOpacity
+            onPress={() => setMenuOpen((v) => !v)}
+            style={{ position: 'absolute', right: 16, bottom: 16, width: 48, height: 48, borderRadius: 24, alignItems: 'center', justifyContent: 'center', backgroundColor: '#FF5252', elevation: 2 }}
+          >
+            <MaterialCommunityIcons name={menuOpen ? 'close' : 'menu'} size={26} color="#FFFFFF" />
+          </TouchableOpacity>
+          {menuOpen ? (
+            <>
+              <TouchableOpacity
+                onPress={() => { setMenuOpen(false); setControlsVisible(true); }}
+                style={{ position: 'absolute', right: 16, bottom: 16 + 56, width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center', backgroundColor: '#FF5252', elevation: 2 }}
+              >
+                <MaterialCommunityIcons name="tortoise" size={22} color="#FFFFFF" />
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={() => { setMenuOpen(false); setNoteText(notesBySong[file] || ''); setNoteModal(true); }}
+                style={{ position: 'absolute', right: 16, bottom: 16 + 56 + 48, width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center', backgroundColor: '#FF5252', elevation: 2 }}
+              >
+                <MaterialCommunityIcons name="note-edit-outline" size={20} color="#FFFFFF" />
+              </TouchableOpacity>
+            </>
+          ) : null}
+        </>
+      ) : null}
 
       {/* Auto-scroll controls panel (shown on demand) */}
       {controlsVisible ? (

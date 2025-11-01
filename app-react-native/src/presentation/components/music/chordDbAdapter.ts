@@ -192,6 +192,18 @@ export function getChordShapesFromDb(label: string, instrument: InstrumentType =
   const alt = enharmonic(parsed.rootEn);
   if (alt) tryRoots.push(alt);
 
+  // heuristic to sort shapes by ease: prefer low frets (<=5), small baseFret, small span, more open strings
+  const scoreShape = (s: ChordShape): number => {
+    const abs = (s.strings || []).filter((v) => v > 0);
+    const maxF = abs.length ? Math.max(...abs) : 0;
+    const minF = abs.length ? Math.min(...abs) : 0;
+    const span = maxF - minF;
+    const openCount = (s.strings || []).filter((v) => v === 0).length;
+    const base = s.baseFret ?? 1;
+    const over5Penalty = maxF > 5 ? (maxF - 5) * 10 : 0;
+    return over5Penalty + base + span - openCount * 0.5;
+  };
+
   for (const root of tryRoots) {
     const list = rootDb.chords[root];
     if (!Array.isArray(list)) continue;
@@ -199,9 +211,10 @@ export function getChordShapesFromDb(label: string, instrument: InstrumentType =
     for (const suf of suffixes) {
       const match = list.find((c: any) => (c?.suffix || '').toLowerCase() === String(suf).toLowerCase());
       if (match && Array.isArray(match.positions) && match.positions.length) {
-        const shapes = toChordShapesFromPositions(match.positions);
+        let shapes = toChordShapesFromPositions(match.positions);
         const dispSuf = displaySuffixFromDb(match.suffix, isMinor);
         shapes.forEach((s) => (s.name = `${parsed.displayRoot}${dispSuf}`));
+        shapes = shapes.sort((a, b) => scoreShape(a) - scoreShape(b));
         return shapes;
       }
     }
