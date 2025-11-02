@@ -10,7 +10,7 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 // @ts-ignore
 const ExpoAudio: any = (() => { try { return require('expo-audio').Audio; } catch { try { return require('expo-av').Audio; } catch { return null; } } })();
 import Constants from 'expo-constants';
-import { useAppStore } from '../../../store';
+import { useAppStore, type InstrumentType } from '../../../store';
 
 // Helper to map frequency to nearest note (A4=440)
 const NOTE_NAMES = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'];
@@ -39,9 +39,17 @@ function parseNoteToken(tok: string): { note: string; octave: number } | null {
   return { note: m[1].toUpperCase(), octave: parseInt(m[2], 10) };
 }
 
-const TUNINGS: Record<'guitar' | 'ukulele', string[]> = {
+const TUNINGS: Record<InstrumentType, string[]> = {
   guitar: ['E2','A2','D3','G3','B3','E4'],
   ukulele: ['G4','C4','E4','A4'],
+  // Charango standard "afinación temple diablo" with reentrant first course (extra E)
+  charango: ['G4','C5','E5','A4','E5'],
+};
+
+const INSTRUMENT_LABEL: Record<InstrumentType, string> = {
+  guitar: 'Violão',
+  ukulele: 'Ukulele',
+  charango: 'Charango',
 };
 
 const TunerScreen = () => {
@@ -202,7 +210,7 @@ const TunerScreen = () => {
 
             {/* Tuning selector */}
             <View className="mt-4 w-full">
-              <Text variant="caption" className="mb-2 text-text-secondary">Cordas padrão ({instrument === 'ukulele' ? 'Ukulele' : 'Violão'})</Text>
+              <Text variant="caption" className="mb-2 text-text-secondary">Cordas padrão ({INSTRUMENT_LABEL[instrument]})</Text>
               <ScrollView horizontal showsHorizontalScrollIndicator={false}>
                 <View style={{ flexDirection: 'row' }}>
                   {tuningChips.map((s) => (

@@ -42,10 +42,10 @@ import el_nao_resistais_ao_mal from './eleicao/nao-resistais-ao-mal.json';
 import el_noli_me_tangere from './eleicao/noli-me-tangere.json';
 import el_o_espirito_do_senhor_esta_sobre_mim from './eleicao/o-espirito-do-senhor-esta-sobre-mim.json';
 import el_o_messias_leao_para_vencer from './eleicao/o-messias-leao-para-vencer.json';
-import el_roubaste_o_meu_coracao from './eleicao/roubaste-o-meu-coracao.json';
+import el_roubaste_o_meu_coracao from './eleicao/roubaste-meu-coracao.json';
 import el_sermao_da_montanha from './eleicao/sermao-da-montanha.json';
 import el_tu_es_a_minha_esperanca_senhor from './eleicao/tu-es-a-minha-esperanca-senhor.json';
-import li_aleluia_interlecional from './liturgia/aleluia-interlecional.json';
+import li_aleluia_interlecional from './liturgia/aleluia-interleccional.json';
 import li_aleluia_pascal from './liturgia/aleluia-pascal.json';
 import li_aleluia_pascal_ii from './liturgia/aleluia-pascal-ii.json';
 import li_anafora_do_sal from './liturgia/anafora-do-sal.json';
@@ -79,6 +79,7 @@ import li_te_deum from './liturgia/te-deum.json';
 import pre_a_cabana_dos_pastores from './pre-catecumenato/a-cabana-dos-pastores.json';
 import pre_a_ceifa_das_nacoes from './pre-catecumenato/a-ceifa-das-nacoes.json';
 import pre_a_marcha_e_dura from './pre-catecumenato/a-marcha-e-dura.json';
+import pre_a_espada from './pre-catecumenato/a-espada.json';
 import pre_a_ninguem_demos_ocasiao_de_tropeco from './pre-catecumenato/a-ninguem-demos-ocasiao-de-tropeco.json';
 import pre_a_ti_levanto_meus_olhos from './pre-catecumenato/a-ti-levanto-meus-olhos.json';
 import pre_a_ti_senhor_com_minha_voz_gritando_imploro from './pre-catecumenato/a-ti-senhor-com-minha-voz-gritando-imploro.json';
@@ -110,7 +111,7 @@ import pre_cantico_de_ana from './pre-catecumenato/cantico-de-ana.json';
 import pre_cantico_dos_tres_jovens from './pre-catecumenato/cantico-dos-tres-jovens.json';
 import pre_canto_de_moises from './pre-catecumenato/canto-de-moises.json';
 import pre_caritas_christi_urget_nos from './pre-catecumenato/caritas-christi-urget-nos.json';
-import pre_chegue_a_tua_presenca_meu_clamor from './pre-catecumenato/chegue-a-tua-presenca-meu-clamor.json';
+import pre_chegue_a_tua_presenca_meu_clamor from './pre-catecumenato/chegue-a-tua-presenca-o-meu-clamor.json';
 import pre_como_a_corca from './pre-catecumenato/como-a-corca.json';
 import pre_como_e_maravilhoso from './pre-catecumenato/como-e-maravilhoso.json';
 import pre_como_sao_amaveis_tuas_moradas from './pre-catecumenato/como-sao-amaveis-tuas-moradas.json';
@@ -123,7 +124,7 @@ import pre_diz_o_senhor_ao_meu_senhor from './pre-catecumenato/diz-o-senhor-ao-m
 import pre_dizei_aos_de_coracao_cansado from './pre-catecumenato/dizei-aos-de-coracao-cansado.json';
 import pre_e_paciente from './pre-catecumenato/e-paciente.json';
 import pre_eis_me_aqui_que_venho_em_breve from './pre-catecumenato/eis-me-aqui-que-venho-em-breve.json';
-import pre_eli_eli_lama_sabactani from './pre-catecumenato/eli-eli-lama-sabactani.json';
+import pre_eli_eli_lama_sabactani from './pre-catecumenato/eli-eli-lama-sabatani.json';
 import pre_em_meio_a_multidao from './pre-catecumenato/em-meio-a-multidao.json';
 import pre_em_tua_luz_senhor_vemos_a_luz from './pre-catecumenato/em-tua-luz-senhor-vemos-a-luz.json';
 import pre_em_uma_noite_escura from './pre-catecumenato/em-uma-noite-escura.json';
@@ -155,7 +156,7 @@ import pre_improperios from './pre-catecumenato/improperios.json';
 import pre_ja_vem_o_meu_deus from './pre-catecumenato/ja-vem-o-meu-deus.json';
 import pre_jerusalem_reconstruida from './pre-catecumenato/jerusalem-reconstruida.json';
 import pre_leva_me_ao_ceu from './pre-catecumenato/leva-me-ao-ceu.json';
-import pre_levanto_os_meus_olhos_para_os_montes from './pre-catecumenato/levanto-os-meus-olhos-para-os-montes.json';
+import pre_levanto_os_meus_olhos_para_os_montes from './pre-catecumenato/levanto-meus-olhos-para-os-montes.json';
 import pre_louvai_o_senhor from './pre-catecumenato/louvai-o-senhor.json';
 import pre_louvai_o_senhor_nos_ceus from './pre-catecumenato/louvai-o-senhor-nos-ceus.json';
 import pre_magnificat from './pre-catecumenato/magnificat.json';
@@ -174,7 +175,7 @@ import pre_o_ceus_chovei_do_alto from './pre-catecumenato/o-ceus-chovei-do-alto.
 import pre_o_deus_pelo_teu_nome_salva_me from './pre-catecumenato/o-deus-pelo-teu-nome-salva-me.json';
 import pre_o_deus_tu_es_meu_deus from './pre-catecumenato/o-deus-tu-es-meu-deus.json';
 import pre_o_jesus_meu_amor from './pre-catecumenato/o-jesus-meu-amor.json';
-import pre_o_morte_onde_esta_a_tua_vitoria from './pre-catecumenato/o-morte-onde-esta-a-tua-vitoria.json';
+import pre_o_morte_onde_esta_a_tua_vitoria from './pre-catecumenato/o-morte-onde-esta-tua-vitoria.json';
 import pre_o_nescio_pensa_que_deus_nao_existe from './pre-catecumenato/o-nescio-pensa-que-deus-nao-existe.json';
 import pre_o_povo_que_caminhava_nas_trevas from './pre-catecumenato/o-povo-que-caminhava-nas-trevas.json';
 import pre_o_senhor_anuncia_uma_noticia from './pre-catecumenato/o-senhor-anuncia-uma-noticia.json';
@@ -206,7 +207,7 @@ import pre_se_o_senhor_nao_constroi_a_casa from './pre-catecumenato/se-o-senhor-
 import pre_se_vos_ressuscitastes_com_cristo from './pre-catecumenato/se-vos-ressuscitastes-com-cristo.json';
 import pre_seduziste_me_senhor from './pre-catecumenato/seduziste-me-senhor.json';
 import pre_senhor_ajuda_me_a_nao_duvidar_de_ti from './pre-catecumenato/senhor-ajuda-me-a-nao-duvidar-de-ti.json';
-import pre_senhor_nao_me_corrijas_na_tua_colera from './pre-catecumenato/senhor-nao-me-corrijas-na-tua-colera.json';
+import pre_senhor_nao_me_corrijas_na_tua_colera from './pre-catecumenato/senhor-nao-me-corrijas-na-sua-colera.json';
 import pre_shlom_lej_mariam from './pre-catecumenato/shlom-lej-mariam.json';
 import pre_siao_mae_de_todos_os_povos from './pre-catecumenato/siao-mae-de-todos-os-povos.json';
 import pre_so_a_so from './pre-catecumenato/so-a-so.json';
@@ -272,10 +273,10 @@ const registry: Record<string, any> = {
   'eleicao/noli-me-tangere.json': el_noli_me_tangere,
   'eleicao/o-espirito-do-senhor-esta-sobre-mim.json': el_o_espirito_do_senhor_esta_sobre_mim,
   'eleicao/o-messias-leao-para-vencer.json': el_o_messias_leao_para_vencer,
-  'eleicao/roubaste-o-meu-coracao.json': el_roubaste_o_meu_coracao,
+  'eleicao/roubaste-meu-coracao.json': el_roubaste_o_meu_coracao,
   'eleicao/sermao-da-montanha.json': el_sermao_da_montanha,
   'eleicao/tu-es-a-minha-esperanca-senhor.json': el_tu_es_a_minha_esperanca_senhor,
-  'liturgia/aleluia-interlecional.json': li_aleluia_interlecional,
+  'liturgia/aleluia-interleccional.json': li_aleluia_interlecional,
   'liturgia/aleluia-pascal.json': li_aleluia_pascal,
   'liturgia/aleluia-pascal-ii.json': li_aleluia_pascal_ii,
   'liturgia/anafora-do-sal.json': li_anafora_do_sal,
@@ -308,6 +309,7 @@ const registry: Record<string, any> = {
   'liturgia/te-deum.json': li_te_deum,
   'pre-catecumenato/a-cabana-dos-pastores.json': pre_a_cabana_dos_pastores,
   'pre-catecumenato/a-ceifa-das-nacoes.json': pre_a_ceifa_das_nacoes,
+  'pre-catecumenato/a-espada.json': pre_a_espada,
   'pre-catecumenato/a-marcha-e-dura.json': pre_a_marcha_e_dura,
   'pre-catecumenato/a-ninguem-demos-ocasiao-de-tropeco.json': pre_a_ninguem_demos_ocasiao_de_tropeco,
   'pre-catecumenato/a-ti-levanto-meus-olhos.json': pre_a_ti_levanto_meus_olhos,
@@ -340,7 +342,7 @@ const registry: Record<string, any> = {
   'pre-catecumenato/cantico-dos-tres-jovens.json': pre_cantico_dos_tres_jovens,
   'pre-catecumenato/canto-de-moises.json': pre_canto_de_moises,
   'pre-catecumenato/caritas-christi-urget-nos.json': pre_caritas_christi_urget_nos,
-  'pre-catecumenato/chegue-a-tua-presenca-meu-clamor.json': pre_chegue_a_tua_presenca_meu_clamor,
+  'pre-catecumenato/chegue-a-tua-presenca-o-meu-clamor.json': pre_chegue_a_tua_presenca_meu_clamor,
   'pre-catecumenato/como-a-corca.json': pre_como_a_corca,
   'pre-catecumenato/como-e-maravilhoso.json': pre_como_e_maravilhoso,
   'pre-catecumenato/como-sao-amaveis-tuas-moradas.json': pre_como_sao_amaveis_tuas_moradas,
@@ -353,7 +355,7 @@ const registry: Record<string, any> = {
   'pre-catecumenato/dizei-aos-de-coracao-cansado.json': pre_dizei_aos_de_coracao_cansado,
   'pre-catecumenato/e-paciente.json': pre_e_paciente,
   'pre-catecumenato/eis-me-aqui-que-venho-em-breve.json': pre_eis_me_aqui_que_venho_em_breve,
-  'pre-catecumenato/eli-eli-lama-sabactani.json': pre_eli_eli_lama_sabactani,
+  'pre-catecumenato/eli-eli-lama-sabatani.json': pre_eli_eli_lama_sabactani,
   'pre-catecumenato/em-meio-a-multidao.json': pre_em_meio_a_multidao,
   'pre-catecumenato/em-tua-luz-senhor-vemos-a-luz.json': pre_em_tua_luz_senhor_vemos_a_luz,
   'pre-catecumenato/em-uma-noite-escura.json': pre_em_uma_noite_escura,
@@ -385,7 +387,7 @@ const registry: Record<string, any> = {
   'pre-catecumenato/ja-vem-o-meu-deus.json': pre_ja_vem_o_meu_deus,
   'pre-catecumenato/jerusalem-reconstruida.json': pre_jerusalem_reconstruida,
   'pre-catecumenato/leva-me-ao-ceu.json': pre_leva_me_ao_ceu,
-  'pre-catecumenato/levanto-os-meus-olhos-para-os-montes.json': pre_levanto_os_meus_olhos_para_os_montes,
+  'pre-catecumenato/levanto-meus-olhos-para-os-montes.json': pre_levanto_os_meus_olhos_para_os_montes,
   'pre-catecumenato/louvai-o-senhor.json': pre_louvai_o_senhor,
   'pre-catecumenato/louvai-o-senhor-nos-ceus.json': pre_louvai_o_senhor_nos_ceus,
   'pre-catecumenato/magnificat.json': pre_magnificat,
@@ -404,7 +406,7 @@ const registry: Record<string, any> = {
   'pre-catecumenato/o-deus-pelo-teu-nome-salva-me.json': pre_o_deus_pelo_teu_nome_salva_me,
   'pre-catecumenato/o-deus-tu-es-meu-deus.json': pre_o_deus_tu_es_meu_deus,
   'pre-catecumenato/o-jesus-meu-amor.json': pre_o_jesus_meu_amor,
-  'pre-catecumenato/o-morte-onde-esta-a-tua-vitoria.json': pre_o_morte_onde_esta_a_tua_vitoria,
+  'pre-catecumenato/o-morte-onde-esta-tua-vitoria.json': pre_o_morte_onde_esta_a_tua_vitoria,
   'pre-catecumenato/o-nescio-pensa-que-deus-nao-existe.json': pre_o_nescio_pensa_que_deus_nao_existe,
   'pre-catecumenato/o-povo-que-caminhava-nas-trevas.json': pre_o_povo_que_caminhava_nas_trevas,
   'pre-catecumenato/o-senhor-anuncia-uma-noticia.json': pre_o_senhor_anuncia_uma_noticia,
@@ -436,7 +438,7 @@ const registry: Record<string, any> = {
   'pre-catecumenato/se-vos-ressuscitastes-com-cristo.json': pre_se_vos_ressuscitastes_com_cristo,
   'pre-catecumenato/seduziste-me-senhor.json': pre_seduziste_me_senhor,
   'pre-catecumenato/senhor-ajuda-me-a-nao-duvidar-de-ti.json': pre_senhor_ajuda_me_a_nao_duvidar_de_ti,
-  'pre-catecumenato/senhor-nao-me-corrijas-na-tua-colera.json': pre_senhor_nao_me_corrijas_na_tua_colera,
+  'pre-catecumenato/senhor-nao-me-corrijas-na-sua-colera.json': pre_senhor_nao_me_corrijas_na_tua_colera,
   'pre-catecumenato/shlom-lej-mariam.json': pre_shlom_lej_mariam,
   'pre-catecumenato/siao-mae-de-todos-os-povos.json': pre_siao_mae_de_todos_os_povos,
   'pre-catecumenato/so-a-so.json': pre_so_a_so,

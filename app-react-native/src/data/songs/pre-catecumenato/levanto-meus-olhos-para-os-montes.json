@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "LEVANTO OS MEUS OLHOS PARA OS MONTES",
-  "subtitulo": "Salmo 121 (120)",
-  "referencia": null,
+  "titulo_principal": "LEVANTO MEUS OLHOS PARA OS MONTES",
+  "subtitulo": "",
+  "referencia": "100",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -11,6 +11,16 @@
     {
       "id": 1,
       "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Salmo 121(120)",
+              "acordes": []
+            }
+          ]
+        },
         {
           "indicador": "A.",
           "repeticao": null,
@@ -22,116 +32,13 @@
                   "cifra": "Mi",
                   "palavra_alvo": "LEVANTO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol#-",
                   "palavra_alvo": "MONTES",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "DE ONDE ME VIRÁ O AUXÍLIO?",
-              "acordes": [
-                {
-                  "cifra": "La",
-                  "palavra_alvo": "ONDE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Si",
-                  "palavra_alvo": "O",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "AUXÍLIO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "O AUXÍLIO ME VEM DO SENHOR,",
-              "acordes": [
-                {
-                  "cifra": "La",
-                  "palavra_alvo": "AUXÍLIO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "SENHOR",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "QUE FEZ O CÉU E A TERRA,",
-              "acordes": [
-                {
-                  "cifra": "Si",
-                  "palavra_alvo": "CÉU",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La",
-                  "palavra_alvo": "TERRA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "TERRA",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "O AUXÍLIO ME VEM DO SENHOR,",
-              "acordes": [
-                {
-                  "cifra": "La",
-                  "palavra_alvo": "AUXÍLIO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Si7",
-                  "palavra_alvo": "SENHOR",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "QUE FEZ O CÉU E A TERRA,",
-              "acordes": [
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "QUE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La",
-                  "palavra_alvo": "TERRA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "TERRA",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 31
                 }
               ]
             }
@@ -142,19 +49,122 @@
           "repeticao": null,
           "linhas": [
             {
+              "letra": "DE ONDE ME VIRÁ O AUXÍLIO?",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ONDE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "VIRÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "AUXÍLIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 20
+                }
+              ]
+            },
+            {
+              "letra": "O AUXÍLIO ME VEM DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AUXÍLIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "QUE FEZ O CÉU E A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "FEZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "CÉU",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 19
+                }
+              ]
+            },
+            {
+              "letra": "O AUXILIO ME VEM DO SENHOR,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "AUXILIO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "QUE FEZ O CEU E A TERRA,",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "FEZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "TERRA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 19
+                }
+              ]
+            },
+            {
               "letra": "Não permitirá que vacile o teu pé!",
               "acordes": [
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "NÃO",
+                  "palavra_alvo": "Não",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol#-",
-                  "palavra_alvo": "PÉ",
+                  "palavra_alvo": "pé",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 31
                 }
               ]
             },
@@ -163,21 +173,21 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "TEU",
+                  "palavra_alvo": "Teu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "GUARDIÃO",
+                  "palavra_alvo": "guardião",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 9
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "DORME",
+                  "palavra_alvo": "dorme",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 }
               ]
             },
@@ -186,15 +196,15 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "NÃO",
+                  "palavra_alvo": "dorme",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "REPOUSA",
+                  "palavra_alvo": "repousa",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 }
               ]
             },
@@ -203,21 +213,21 @@
               "acordes": [
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "GUARDIÃO",
+                  "palavra_alvo": "guardião",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 8
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "ISRAEL",
+                  "palavra_alvo": "de",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 11
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "ISRAEL",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "palavra_alvo": "Israel",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
                 }
               ]
             }
@@ -234,7 +244,7 @@
                   "cifra": "Mi",
                   "palavra_alvo": "LEVANTO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -249,15 +259,15 @@
               "acordes": [
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "SENHOR",
+                  "palavra_alvo": "O",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol#-",
-                  "palavra_alvo": "SOMBRA",
+                  "palavra_alvo": "sombra",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 26
                 }
               ]
             },
@@ -266,21 +276,21 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "ELE",
+                  "palavra_alvo": "ele",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "TUA",
+                  "palavra_alvo": "está",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 6
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "DIREITA",
+                  "palavra_alvo": "direita",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             },
@@ -289,15 +299,15 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "DIA",
+                  "palavra_alvo": "dia",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 3
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "SOL",
+                  "palavra_alvo": "sol",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 26
                 }
               ]
             },
@@ -306,21 +316,21 @@
               "acordes": [
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "LUA",
+                  "palavra_alvo": "a",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "NOITE",
+                  "palavra_alvo": "lua",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 8
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "NOITE",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "palavra_alvo": "noite",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
                 }
               ]
             }
@@ -337,17 +347,12 @@
                   "cifra": "Mi",
                   "palavra_alvo": "LEVANTO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
+        },
         {
           "indicador": "S.",
           "repeticao": null,
@@ -357,15 +362,15 @@
               "acordes": [
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "SENHOR",
+                  "palavra_alvo": "O",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol#-",
-                  "palavra_alvo": "MAL",
+                  "palavra_alvo": "mal",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 30
                 }
               ]
             },
@@ -374,21 +379,21 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "ELE",
+                  "palavra_alvo": "ele",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "TUA",
+                  "palavra_alvo": "protege",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 7
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "VIDA",
+                  "palavra_alvo": "vida",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 17
                 }
               ]
             },
@@ -397,38 +402,38 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "ELE",
+                  "palavra_alvo": "guarda",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "SAÍDAS",
+                  "palavra_alvo": "saídas",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 29
                 }
               ]
             },
             {
-              "letra": "agora e para sempre.",
+              "letra": "agora e para sempre",
               "acordes": [
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "AGORA",
+                  "palavra_alvo": "agora",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 2
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "SEMPRE",
+                  "palavra_alvo": "para",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 9
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "SEMPRE",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "palavra_alvo": "sempre",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
                 }
               ]
             }
@@ -445,7 +450,7 @@
                   "cifra": "Mi",
                   "palavra_alvo": "LEVANTO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }

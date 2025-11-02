@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "SENHOR, NÃO ME CORRIJAS NA TUA CÓLERA",
-  "subtitulo": null,
-  "referencia": "Salmo 6",
+  "titulo_principal": "SENHOR, NÃO ME CORRIJAS NA SUA CÓLERA",
+  "subtitulo": "",
+  "referencia": "151",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -13,34 +13,46 @@
       "estrofes": [
         {
           "indicador": "S.",
-          "repeticao": "bis a",
+          "repeticao": null,
           "linhas": [
             {
-              "letra": "SENHOR, NÃO ME CORRIJAS NA TUA CÓLERA,",
+              "letra": "Salmo 6",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "SENHOR, NÃO ME CORRIJAS NA TUA CÓLERA,  |",
               "acordes": [
                 {
-                  "cifra": "Fa# 5/9dim",
+                  "cifra": "Fa#",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "dim",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
                 },
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "NÃO",
+                  "palavra_alvo": "CORRIJAS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "CÓLERA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 32
                 }
               ]
-            },
-            {
-              "letra": "NO TEU FUROR NÃO ME CASTIGUES.",
-              "acordes": []
             }
           ]
         },
@@ -49,19 +61,48 @@
           "repeticao": null,
           "linhas": [
             {
+              "letra": "NO TEU FUROR NÃO ME CASTIGUES.          |",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "FUROR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 9
+                },
+                {
+                  "cifra": "Fa#",
+                  "palavra_alvo": "CASTIGUES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                },
+                {
+                  "cifra": "BIS",
+                  "palavra_alvo": "CASTIGUES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 43
+                },
+                {
+                  "cifra": "A.",
+                  "palavra_alvo": "CASTIGUES",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 47
+                }
+              ]
+            },
+            {
               "letra": "Tem piedade de mim, tem piedade Senhor,",
               "acordes": [
                 {
                   "cifra": "Si-",
                   "palavra_alvo": "Tem",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La",
                   "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 36
                 }
               ]
             },
@@ -72,7 +113,7 @@
                   "cifra": "Fa#",
                   "palavra_alvo": "forças",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 15
                 }
               ]
             },
@@ -83,13 +124,13 @@
                   "cifra": "Si-",
                   "palavra_alvo": "cura-me",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La",
                   "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 15
                 }
               ]
             },
@@ -100,7 +141,7 @@
                   "cifra": "Fa#",
                   "palavra_alvo": "ossos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 23
                 }
               ]
             },
@@ -111,13 +152,13 @@
                   "cifra": "Sol",
                   "palavra_alvo": "porque",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "alma",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
                 }
               ]
             },
@@ -126,15 +167,15 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "e",
+                  "palavra_alvo": "tu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 2
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "quando",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             }
@@ -149,38 +190,38 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "E",
+                  "palavra_alvo": "TU",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 2
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "QUANDO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "SENHOR, NÃO ME CORRIJAS ...",
               "acordes": [
                 {
-                  "cifra": "Fa# 5/9dim",
+                  "cifra": "Fa#",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "dim",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
                 },
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "NÃO",
+                  "palavra_alvo": "CORRIJAS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             }
@@ -197,19 +238,19 @@
                   "cifra": "Si-",
                   "palavra_alvo": "Volta-te",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "recobra",
+                  "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 14
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "alma",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
                 }
               ]
             },
@@ -220,13 +261,36 @@
                   "cifra": "Si-",
                   "palavra_alvo": "cura-me",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                },
+                {
+                  "cifra": "Fa#",
                   "palavra_alvo": "misericórdia",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "QUE NINGUÉM ENTRE OS MORTOS     |",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "NINGUÉM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
                 }
               ]
             }
@@ -234,37 +298,33 @@
         },
         {
           "indicador": "S.",
-          "repeticao": "bis a",
+          "repeticao": null,
           "linhas": [
             {
-              "letra": "QUE NINGUÉM ENTRE OS MORTOS",
-              "acordes": []
-            },
-            {
-              "letra": "TE RECORDA, NEM NOS INFERNOS",
+              "letra": "TE RECORDA, NEM NOS INFERNOS    |  BIS A.",
               "acordes": [
                 {
                   "cifra": "Fa#",
-                  "palavra_alvo": "TE",
+                  "palavra_alvo": "RECORDA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 6
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "NEM",
+                  "palavra_alvo": "INFERNOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
                 }
               ]
             },
             {
-              "letra": "SE CANTA O TEU LOUVOR.",
+              "letra": "SE CANTA O TEU LOUVOR.          |",
               "acordes": [
                 {
                   "cifra": "Fa#",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "LOUVOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             }
@@ -278,26 +338,27 @@
               "letra": "SENHOR, NÃO ME CORRIJAS ...",
               "acordes": [
                 {
-                  "cifra": "Fa# 5/9dim",
+                  "cifra": "Fa#",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "dim",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
                 },
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "NÃO",
+                  "palavra_alvo": "CORRIJAS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
+        },
         {
           "indicador": "S.",
           "repeticao": null,
@@ -309,7 +370,7 @@
                   "cifra": "Si-",
                   "palavra_alvo": "Estou",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
@@ -320,13 +381,13 @@
                   "cifra": "La",
                   "palavra_alvo": "inundo",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Si-",
                   "palavra_alvo": "cama",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 25
                 }
               ]
             },
@@ -337,7 +398,7 @@
                   "cifra": "La",
                   "palavra_alvo": "angústia",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 29
                 }
               ]
             },
@@ -348,7 +409,7 @@
                   "cifra": "Fa#",
                   "palavra_alvo": "inimigos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
@@ -359,13 +420,13 @@
                   "cifra": "La",
                   "palavra_alvo": "Afastai-vos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "malvados",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
                 }
               ]
             },
@@ -374,15 +435,15 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "que",
+                  "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 10
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "soluços",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 27
                 }
               ]
             },
@@ -391,15 +452,15 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "que",
+                  "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 10
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "oração",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 31
                 }
               ]
             }
@@ -413,16 +474,22 @@
               "letra": "SENHOR, NÃO ME CORRIJAS ...",
               "acordes": [
                 {
-                  "cifra": "Fa# 5/9dim",
+                  "cifra": "Fa#",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "dim",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
                 },
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "NÃO",
+                  "palavra_alvo": "CORRIJAS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             }
@@ -437,15 +504,15 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "E",
+                  "palavra_alvo": "tu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 2
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "quando",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             }
@@ -460,15 +527,15 @@
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "E",
+                  "palavra_alvo": "TU",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 2
                 },
                 {
                   "cifra": "Fa#",
                   "palavra_alvo": "QUANDO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             }
@@ -477,5 +544,5 @@
       ]
     }
   ],
-  "tom": "Si menor"
+  "tom": "Fa# maior"
 }

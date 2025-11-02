@@ -1,6 +1,6 @@
 {
-  "titulo_principal": "ROUBASTE O MEU CORAÇÃO",
-  "subtitulo": null,
+  "titulo_principal": "ROUBASTE MEU CORAÇÃO",
+  "subtitulo": "",
   "referencia": "Cântico dos Cânticos 4, 9-16.5, 1",
   "pagina": null,
   "bracadeira": {
@@ -13,287 +13,279 @@
       "estrofes": [
         {
           "indicador": "S.",
-          "repeticao": "bis a",
+          "repeticao": null,
           "linhas": [
             {
-              "letra": "ROUBASTE O MEU CORAÇÃO,",
+              "letra": "O ESPOSO",
+              "acordes": []
+            },
+            {
+              "letra": "ROUBASTE O MEU CORAÇÃO,     |",
               "acordes": [
                 {
                   "cifra": "Re-",
                   "palavra_alvo": "ROUBASTE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol-",
                   "palavra_alvo": "CORAÇÃO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
             {
-              "letra": "ROUBASTE O MEU CORAÇÃO,",
+              "letra": "ROUBASTE O MEU CORAÇÃO,     |",
               "acordes": [
                 {
                   "cifra": "Re-",
                   "palavra_alvo": "CORAÇÃO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
             {
-              "letra": "MINHA IRMÃ, ESPOSA,",
+              "letra": "MINHA IRMÃ, ESPOSA,         |  BIS A.",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "IRMÃ",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La",
                   "palavra_alvo": "ESPOSA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 15
                 }
               ]
             },
             {
-              "letra": "ROUBASTE,",
-              "acordes": []
+              "letra": "ROUBASTE,                   |",
+              "acordes": [
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "ROUBASTE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                }
+              ]
             },
             {
-              "letra": "ROUBASTE O MEU CORAÇÃO.",
+              "letra": "ROUBASTE O MEU CORAÇÃO.     |",
               "acordes": [
                 {
                   "cifra": "Re-",
                   "palavra_alvo": "CORAÇÃO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "COMO SÃO BELOS OS TEUS AMORES,",
-              "acordes": [
-                {
-                  "cifra": "Re-",
-                  "palavra_alvo": "COMO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Sol-",
-                  "palavra_alvo": "AMORES",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
             {
-              "letra": "COMO SÃO BELOS OS TEUS AMORES!",
+              "letra": "Como são belos os teus amores,",
               "acordes": [
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "AMORES",
+                  "palavra_alvo": "Como",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "amores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 25
                 }
               ]
             },
             {
-              "letra": "A FRANGÂNCIA DOS TEUS PERFUMES,",
+              "letra": "como são belos os teus amores!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "amores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 25
+                }
+              ]
+            },
+            {
+              "letra": "A frangância dos teus perfumes,",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "A",
+                  "palavra_alvo": "perfumes",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
+                  "posicao": 25
+                }
+              ]
+            },
+            {
+              "letra": "mais que todos os bálsamos de amor!",
+              "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "PERFUMES",
+                  "palavra_alvo": "todos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "MAIS QUE TODOS OS BÁLSAMOS DE AMOR!",
-              "acordes": [
+                  "posicao": 10
+                },
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "AMOR",
+                  "palavra_alvo": "amor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 32
                 }
               ]
             },
             {
-              "letra": "MEL DESTILAM OS TEUS LÁBIOS,",
+              "letra": "Mel destilam os teus lábios,",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "MEL",
+                  "palavra_alvo": "lábios",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
                 }
               ]
             },
             {
-              "letra": "MINHA ESPOSA, MINHA ESPOSA.",
+              "letra": "minha esposa, minha esposa.",
               "acordes": []
             },
             {
-              "letra": "MEL E LEITE SOB A TUA LÍNGUA.",
+              "letra": "Mel e leite sob a tua língua.",
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "MEL",
+                  "palavra_alvo": "leite",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 6
                 },
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "LÍNGUA",
+                  "palavra_alvo": "língua",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 23
                 }
               ]
             },
             {
-              "letra": "A FRAGRÂNCIA DOS TEUS VESTIDOS",
+              "letra": "A fragância dos teus vestidos",
               "acordes": []
             },
             {
-              "letra": "É A FRANGRÂNCIA DO LÍBANO, ESPOSA, ESPOSA MINHA,",
+              "letra": "é a frangância do Líbano, esposa, esposa minha,",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "LÍBANO",
+                  "palavra_alvo": "Líbano",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
+                  "posicao": 19
+                }
+              ]
+            },
+            {
+              "letra": "mais saborosos que o vinho, são teus amores!",
+              "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "ESPOSA",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "MAIS SABOROSOS QUE O VINHO, SÃO TEUS AMORES!",
-              "acordes": [
-                {
-                  "cifra": "Re-",
-                  "palavra_alvo": "AMORES",
+                  "palavra_alvo": "saborosos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "ÉS HORTO FECHADO, MINHA IRMÃ,",
-              "acordes": [
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "ÉS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 9
                 },
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "IRMÃ",
+                  "palavra_alvo": "amores",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 38
                 }
               ]
             },
             {
-              "letra": "FONTE SELADA, MINHA ESPOSA.",
+              "letra": "És horto fechado, minha irmã,",
               "acordes": [
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "FONTE",
+                  "palavra_alvo": "És",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "ESPOSA",
+                  "palavra_alvo": "irmã",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 26
                 }
               ]
             },
             {
-              "letra": "TEUS FRUTOS UM PARAÍSO DE ROMÃS,",
+              "letra": "fonte selada, minha esposa.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "fonte",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "esposa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 22
+                }
+              ]
+            },
+            {
+              "letra": "teus frutos um paraíso de romãs,",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "TEUS",
+                  "palavra_alvo": "teus",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "ROMÃS",
+                  "palavra_alvo": "romãs",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 28
                 }
               ]
             },
             {
-              "letra": "DE NARDOS E AÇAFRÃO, DE MIRRA E ALOÉS.",
+              "letra": "de nardos e açafráo, de mirra e aloés.",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "DE",
+                  "palavra_alvo": "de",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "ALOÉS",
+                  "palavra_alvo": "aloés",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 35
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
-              "letra": "LEVANTA-TE, VENTO NORTE, E VEM!",
+              "letra": "A ESPOSA",
+              "acordes": []
+            },
+            {
+              "letra": "Levanta-te, vento norte, e vem!",
               "acordes": [
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "LEVANTA-TE",
+                  "palavra_alvo": "Levanta-te",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "VEM",
+                  "palavra_alvo": "vem",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 28
                 }
               ]
             }
@@ -310,13 +302,13 @@
                   "cifra": "Do",
                   "palavra_alvo": "LEVANTA-TE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Fa",
                   "palavra_alvo": "VEM",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 26
                 }
               ]
             }
@@ -327,24 +319,24 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SOPRA NO MEU HORTO",
+              "letra": "Sopra no meu horto",
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "SOPRA",
+                  "palavra_alvo": "Sopra",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "PARA QUE EXALE OS SEUS AROMAS!",
+              "letra": "para que exale os seus aromas!",
               "acordes": [
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "AROMAS",
+                  "palavra_alvo": "aromas",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
                 }
               ]
             }
@@ -361,18 +353,7 @@
                   "cifra": "La",
                   "palavra_alvo": "SOPRA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "PARA QUE EXALE OS SEUS AROMAS!",
-              "acordes": [
-                {
-                  "cifra": "Re-",
-                  "palavra_alvo": "AROMAS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -383,127 +364,140 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "E POSSA ENTRAR O MEU AMADO NO SEU HORTO",
+              "letra": "PARA QUE EXALE OS SEUS AROMAS!",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "AROMAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 24
+                }
+              ]
+            },
+            {
+              "letra": "E possa entrar o meu amado no seu horto",
               "acordes": [
                 {
                   "cifra": "Do",
                   "palavra_alvo": "E",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "HORTO",
+                  "palavra_alvo": "horto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
                 }
               ]
             },
             {
-              "letra": "E COMA DE SEUS FRUTOS SABOROSOS.",
+              "letra": "e coma de seus frutos saborosos.",
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "E",
+                  "palavra_alvo": "e",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "SABOROSOS",
+                  "palavra_alvo": "saborosos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "JÁ ENTREI NO MEU HORTO, MINHA ESPOSA;",
-              "acordes": [
-                {
-                  "cifra": "Sol-",
-                  "palavra_alvo": "JÁ",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La",
-                  "palavra_alvo": "ESPOSA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 27
                 }
               ]
             },
             {
-              "letra": "COMI O MEU MEL DO SEU FAVO,",
+              "letra": "O ESPOSO",
+              "acordes": []
+            },
+            {
+              "letra": "Já entrei no meu horto, minha esposa;",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "COMI",
+                  "palavra_alvo": "Já",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La",
-                  "palavra_alvo": "FAVO",
+                  "palavra_alvo": "esposa",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 33
                 }
               ]
             },
             {
-              "letra": "BEBI O MEU VINHO E MEU LEITE",
+              "letra": "comi o meu mel do seu favo,",
               "acordes": [
                 {
                   "cifra": "Sol-",
-                  "palavra_alvo": "BEBI",
+                  "palavra_alvo": "comi",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "favo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 22
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
-              "letra": "AMIGOS, VINDE BEBEI,",
+              "letra": "bebi o meu vinho e meu leite",
+              "acordes": [
+                {
+                  "cifra": "Sol-",
+                  "palavra_alvo": "bebi",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La",
+                  "palavra_alvo": "leite",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "O POETA",
+              "acordes": []
+            },
+            {
+              "letra": "Amigos, vinde bebei,",
               "acordes": [
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "AMIGOS",
+                  "palavra_alvo": "Amigos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "VINDE",
+                  "palavra_alvo": "vinde",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 8
                 },
                 {
                   "cifra": "Sib",
-                  "palavra_alvo": "BEBEI",
+                  "palavra_alvo": "bebei",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 17
                 }
               ]
             },
             {
-              "letra": "Ó AMADOS E INEBRIÁI-VOS!",
+              "letra": "ó amados e inebriai-vos!",
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "INEBRIÁI-VOS",
+                  "palavra_alvo": "inebriai-vos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 17
                 }
               ]
             }
@@ -520,30 +514,36 @@
                   "cifra": "Re-",
                   "palavra_alvo": "AMIGOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Do",
                   "palavra_alvo": "VINDE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 8
                 },
                 {
                   "cifra": "Sib",
                   "palavra_alvo": "BEBEI",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 17
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
-              "letra": "Ó AMADOS E INEBRIÁI-VOS!",
+              "letra": "Ó AMADOS E INEBRIAI-VOS!",
               "acordes": [
                 {
                   "cifra": "La",
-                  "palavra_alvo": "INEBRIÁI-VOS",
+                  "palavra_alvo": "INEBRIAI-VOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 17
                 }
               ]
             }
@@ -560,13 +560,13 @@
                   "cifra": "Re-",
                   "palavra_alvo": "ROUBASTE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol-",
                   "palavra_alvo": "CORAÇÃO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             }

@@ -107,35 +107,6 @@ function suffixCandidates(restNorm: string, isMinor: boolean): string[] {
   return Array.from(new Set(cands));
 }
 
-function toChordShapesFromPositions(positions: any[]): ChordShape[] {
-  return (positions || []).map((p) => {
-    const baseFret: number | undefined = p?.baseFret || undefined;
-    const relFrets: number[] = (p?.frets ?? []).slice();
-    const absFrets = relFrets.map((f) => (f > 0 && baseFret ? f + baseFret - 1 : f));
-
-    // Detect barre from dataset if available
-    let barre: ChordShape['barre'] | null = null;
-    const barres: number[] = Array.isArray(p?.barres) ? p.barres : [];
-    if (barres.length) {
-      const bf = barres[0]; // choose first barre fret (relative)
-      const absBarreFret = baseFret ? bf + baseFret - 1 : bf;
-      const idxs = absFrets
-        .map((v, i) => (v === absBarreFret ? i : -1))
-        .filter((i) => i >= 0);
-      if (idxs.length >= 2) {
-        barre = { from: Math.min(...idxs), to: Math.max(...idxs), fret: absBarreFret };
-      }
-    }
-
-    return {
-      name: '',
-      strings: absFrets,
-      baseFret,
-      barre,
-    } as ChordShape;
-  });
-}
-
 function enharmonic(root: string): string | null {
   const sharpToFlat: Record<string, string> = { 'C#': 'Db', 'D#': 'Eb', 'F#': 'Gb', 'G#': 'Ab', 'A#': 'Bb' };
   const flatToSharp: Record<string, string> = { 'Db': 'C#', 'Eb': 'D#', 'Gb': 'F#', 'Ab': 'G#', 'Bb': 'A#' };
@@ -153,17 +124,18 @@ function displaySuffixFromDb(suf: string, isMinor?: boolean): string {
   return suf;
 }
 
-export type InstrumentType = 'guitar' | 'ukulele';
+export type InstrumentType = 'guitar' | 'ukulele' | 'charango';
 
 function loadChordDb(instrument: InstrumentType) {
+  const target = instrument === 'charango' ? 'ukulele' : instrument;
   // Try package entry first (if present)
   try {
     // eslint-disable-next-line @typescript-eslint/no-var-requires
     const db = require('@tombatossals/chords-db');
     const byInstr = (
-      db?.default?.instruments?.[instrument] ||
-      db?.instruments?.[instrument] ||
-      db?.[instrument] ||
+      db?.default?.instruments?.[target] ||
+      db?.instruments?.[target] ||
+      db?.[target] ||
       (db?.chords ? db : undefined)
     );
     if (byInstr?.chords) return byInstr;
@@ -174,7 +146,59 @@ function loadChordDb(instrument: InstrumentType) {
   const guitarJson = require('@tombatossals/chords-db/lib/guitar.json');
   // eslint-disable-next-line @typescript-eslint/no-var-requires
   const ukuleleJson = require('@tombatossals/chords-db/lib/ukulele.json');
-  return instrument === 'ukulele' ? ukuleleJson : guitarJson;
+  return target === 'ukulele' ? ukuleleJson : guitarJson;
+}
+
+function expandCharangoStrings(strings: number[]): number[] {
+  if (strings.length === 5) return strings;
+  if (strings.length === 4) {
+    let extra = strings[2];
+    if (extra === undefined || extra < 0) {
+      extra = strings[strings.length - 1];
+    }
+    if (extra === undefined || extra < 0) {
+      extra = 0;
+    }
+    return [...strings, extra];
+  }
+  if (strings.length > 5) {
+    return strings.slice(0, 5);
+  }
+  const padded = [...strings];
+  while (padded.length < 5) padded.push(0);
+  return padded;
+}
+
+function toChordShapesFromPositions(positions: any[], instrument: InstrumentType): ChordShape[] {
+  return (positions || []).map((p) => {
+    const baseFret: number | undefined = p?.baseFret || undefined;
+    const relFrets: number[] = (Array.isArray(p?.frets) ? p.frets : []).slice();
+    let absFrets = relFrets.map((f) => (f > 0 && baseFret ? f + baseFret - 1 : f));
+
+    if (instrument === 'charango') {
+      absFrets = expandCharangoStrings(absFrets);
+    }
+
+    let barre: ChordShape['barre'] | null = null;
+    const barres: number[] = Array.isArray(p?.barres) ? p.barres : [];
+    if (barres.length) {
+      const bf = barres[0];
+      const absBarreFret = baseFret ? bf + baseFret - 1 : bf;
+      const idxs = absFrets
+        .map((v, i) => (v === absBarreFret ? i : -1))
+        .filter((i) => i >= 0);
+      if (idxs.length >= 2) {
+        barre = { from: Math.min(...idxs), to: Math.max(...idxs), fret: absBarreFret };
+      }
+    }
+
+    return {
+      name: '',
+      strings: absFrets,
+      baseFret,
+      barre,
+    } as ChordShape;
+  });
 }
 
 export function getChordShapesFromDb(label: string, instrument: InstrumentType = 'guitar'): ChordShape[] {
@@ -211,10 +235,30 @@ export function getChordShapesFromDb(label: string, instrument: InstrumentType =
     for (const suf of suffixes) {
       const match = list.find((c: any) => (c?.suffix || '').toLowerCase() === String(suf).toLowerCase());
       if (match && Array.isArray(match.positions) && match.positions.length) {
-        let shapes = toChordShapesFromPositions(match.positions);
+        let shapes = toChordShapesFromPositions(match.positions, instrument);
         const dispSuf = displaySuffixFromDb(match.suffix, isMinor);
         shapes.forEach((s) => (s.name = `${parsed.displayRoot}${dispSuf}`));
         shapes = shapes.sort((a, b) => scoreShape(a) - scoreShape(b));
+        if (instrument === 'charango') {
+          shapes = shapes.map((s) => {
+            const strings = expandCharangoStrings(s.strings || []);
+            const originalBarre = s.barre;
+            let nextBarre: ChordShape['barre'] | null = null;
+            if (originalBarre) {
+              const matched = strings
+                .map((v, i) => (v === originalBarre.fret ? i : -1))
+                .filter((i) => i >= 0);
+              if (matched.length >= 2) {
+                nextBarre = {
+                  ...originalBarre,
+                  from: Math.min(...matched),
+                  to: Math.max(...matched),
+                };
+              }
+            }
+            return { ...s, strings, barre: nextBarre };
+          });
+        }
         return shapes;
       }
     }

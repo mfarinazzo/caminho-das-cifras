@@ -1,7 +1,8 @@
 {
-  "titulo_principal": "DAYENU",
-  "subtitulo": "Da Hagadá da Páscoa Hebraica",
-  "referencia": null,
+  "titulo_principal": "DAYENÚ",
+  "subtitulo": "",
+  "referencia": "60",
+  "pagina": null,
   "bracadeira": {
     "tem": false,
     "casa": null
@@ -15,25 +16,29 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "DE QUANTOS BENS CUMULOU-NOS O SENHOR.",
+              "letra": "Da Hagadá da Páscoa Hebráica",
+              "acordes": []
+            },
+            {
+              "letra": "De quantos bens cumulou-nos o Senhor.",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "DE",
+                  "palavra_alvo": "De",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "QUANTOS",
+                  "palavra_alvo": "bens",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SENHOR",
+                  "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
                 }
               ]
             }
@@ -50,25 +55,19 @@
                   "cifra": "Mi-",
                   "palavra_alvo": "DE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
-                  "cifra": "Re",
+                  "cifra": "La-",
                   "palavra_alvo": "BENS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "CUMULOU-NOS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 },
                 {
                   "cifra": "Mi-",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
                 }
               ]
             }
@@ -79,31 +78,31 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "DE QUANTOS BENS CUMULOU-NOS O SENHOR.",
+              "letra": "De quantos bens cumulou-nos o Senhor.",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "DE",
+                  "palavra_alvo": "De",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Re",
-                  "palavra_alvo": "BENS",
+                  "palavra_alvo": "bens",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "CUMULOU-NOS",
+                  "palavra_alvo": "cumulou-nos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 21
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SENHOR",
+                  "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
                 }
               ]
             }
@@ -120,25 +119,25 @@
                   "cifra": "Mi-",
                   "palavra_alvo": "DE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Re",
                   "palavra_alvo": "BENS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 },
                 {
                   "cifra": "Do",
                   "palavra_alvo": "CUMULOU-NOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 21
                 },
                 {
                   "cifra": "Mi-",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
                 }
               ]
             }
@@ -149,36 +148,36 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SE CRISTO NOS TIVESSE FEITO SAIR DO EGITO",
+              "letra": "Se Cristo nos tivesse feito sair do Egito",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "Se",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "CRISTO",
+                  "palavra_alvo": "feito",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
                 },
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "SAIR",
+                  "palavra_alvo": "Egito",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 38
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE FEITO JUSTIÇA COM O FARAÓ:",
+              "letra": "e não tivesse feito justiça com o Faraó:",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "FARAÓ",
+                  "palavra_alvo": "Faraó",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 38
                 }
               ]
             }
@@ -195,22 +194,28 @@
                   "cifra": "Re",
                   "palavra_alvo": "ISTO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "TERIA",
+                  "palavra_alvo": "BASTADO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 },
                 {
                   "cifra": "Mi-",
                   "palavra_alvo": "BASTADO",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 38
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "DAYENU, DAYENU, DAYENU.",
               "acordes": [
@@ -218,65 +223,59 @@
                   "cifra": "Re",
                   "palavra_alvo": "DAYENU",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 4
                 },
                 {
                   "cifra": "Do",
                   "palavra_alvo": "DAYENU",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 12
                 },
                 {
                   "cifra": "Mi-",
                   "palavra_alvo": "DAYENU",
                   "ocorrencia_palavra": 3,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "SE TIVESSSSE FEITO JUSTIÇA COM O FARAÓ",
-              "acordes": [
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "SE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Re",
-                  "palavra_alvo": "JUSTIÇA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "FARAÓ",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE LIBERTADO DE TODOS OS ÍDOLOS:",
+              "letra": "Se tivessse feito justiça com o Faraó",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "feito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Faraó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 36
+                }
+              ]
+            },
+            {
+              "letra": "e não nos tivesse libertado de todos os ídolos:",
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "TODOS",
+                  "palavra_alvo": "libertado",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "ÍDOLOS",
+                  "palavra_alvo": "ídolos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 40
                 }
               ]
             }
@@ -297,36 +296,36 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SE NOS TIVESSE LIBERTADO DE TODOS OS ÍDOLOS",
+              "letra": "Se nos tivesse libertado de todos os ídolos",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "Se",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "TODOS",
+                  "palavra_alvo": "libertado",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 21
                 },
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "ÍDOLOS",
+                  "palavra_alvo": "ídolos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 37
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE DADO AS SUAS RIQUEZAS:",
+              "letra": "e não nos tivesse dado as suas riquezas:",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "RIQUEZAS",
+                  "palavra_alvo": "riquezas",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 34
                 }
               ]
             }
@@ -347,42 +346,42 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SE NOS TIVESSE DADO AS RIQUEZAS DELES",
+              "letra": "Se nos tivesse dado as riquezas deles",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "Se",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Re",
-                  "palavra_alvo": "AS",
+                  "palavra_alvo": "dado",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 15
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "RIQUEZAS",
+                  "palavra_alvo": "deles",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 33
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE ABERTO O MAR PARA NÓS:",
+              "letra": "e não tivesse aberto o mar para nós:",
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "ABERTO",
+                  "palavra_alvo": "aberto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 16
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "NÓS",
+                  "palavra_alvo": "nós",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 32
                 }
               ]
             }
@@ -403,36 +402,36 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SE TIVESSE ABERTO O MAR PARA NÓS",
+              "letra": "Se tivesse aberto o mar para nós",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "Se",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "ABERTO",
+                  "palavra_alvo": "aberto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 13
                 },
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "NÓS",
+                  "palavra_alvo": "nós",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 29
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE AFUNDADO OS NOSSOS OPRESSORES:",
+              "letra": "e não tivesse afundado os nossos opressores:",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "OPRESSORES",
+                  "palavra_alvo": "opressores",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 38
                 }
               ]
             }
@@ -447,53 +446,48 @@
               "acordes": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
+        },
         {
           "indicador": "S.",
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SE TIVESSE AFUNDADO OS NOSSOS OPRESSORES",
+              "letra": "Se tivesse afundado os nossos opressores",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "Se",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Re",
-                  "palavra_alvo": "AFUNDADO",
+                  "palavra_alvo": "afundado",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 16
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "OPRESSORES",
+                  "palavra_alvo": "opressores",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 35
                 }
               ]
             },
             {
-              "letra": "E NÃO NOS TIVESSE ABERTO UM CAMINHO NO DESERTO:",
+              "letra": "e não nos tivesse aberto um caminho no deserto:",
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "CAMINHO",
+                  "palavra_alvo": "aberto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "DESERTO",
+                  "palavra_alvo": "deserto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 41
                 }
               ]
             }
@@ -514,36 +508,36 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SE NOS TIVESSE ABERTO UM CAMINHO NO DESERTO",
+              "letra": "Se nos tivesse aberto um caminho no deserto",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "Se",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "ABERTO",
+                  "palavra_alvo": "aberto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 16
                 },
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "DESERTO",
+                  "palavra_alvo": "deserto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 38
                 }
               ]
             },
             {
-              "letra": "E NÃO NOS TIVESSE NUTRIDO COM O PÃO DA VIDA:",
+              "letra": "e não nos tivesse nutrido com o pão da vida:",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "VIDA",
+                  "palavra_alvo": "vida",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 40
                 }
               ]
             }
@@ -564,254 +558,693 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SE NOS TIVESSE NUTRIDO COM O PÃO DA VIDA",
+              "letra": "Se nos tivesse nutrido com o pão da vida",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "SE",
+                  "palavra_alvo": "Se",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Re",
-                  "palavra_alvo": "NUTRIDO",
+                  "palavra_alvo": "nutrido",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "VIDA",
+                  "palavra_alvo": "vida",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 36
                 }
               ]
             },
             {
-              "letra": "E NÃO NOS TIVESSE DADO O DIA DO SENHOR:",
+              "letra": "e não nos tivesse dado o dia do Senhor:",
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "DIA",
+                  "palavra_alvo": "dado",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ISTO NOS TERIA BASTADO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Se nos tivesse dado o dia do Senhor",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "dado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 33
+                }
+              ]
+            },
+            {
+              "letra": "e não tivesse feito conosco a nova Aliança:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Aliança",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ISTO NOS TERIA BASTADO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Se tivesse feito conosco a nova Aliança",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "conosco",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 19
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Aliança",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 35
+                }
+              ]
+            },
+            {
+              "letra": "e não nos tivesse feito entrar na Igreja:",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "feito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 19
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Igreja",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 36
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ISTO NOS TERIA BASTADO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Se nos tivesse feito entrar na Igreja",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "feito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                },
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "Igreja",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 33
+                }
+              ]
+            },
+            {
+              "letra": "e não tivesse construído em nós o seu templo:",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "templo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ISTO NOS TERIA BASTADO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Se tivesse construído em nós o seu templo",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "Se",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "construído",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "templo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 36
+                }
+              ]
+            },
+            {
+              "letra": "e não nos tivesse enviado o seu Santo Espírito:",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "enviado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Espírito",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 41
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ISTO NOS TERIA BASTADO, ...",
+              "acordes": []
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Tanto mais nós temos que dar graças ao Senhor.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Tanto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "temos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 43
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TANTO MAIS NÓS TEMOS QUE",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "TEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAR GRAÇAS AO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "SENHOR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 18
+                }
+              ]
+            },
+            {
+              "letra": "Tanto mais nós temos que dar graças ao Senhor.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Tanto",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "temos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "graças",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 30
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 43
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "TANTO MAIS NÓS TEMOS QUE",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "TANTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "TEMOS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "DAR GRAÇAS AO SENHOR.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "GRAÇAS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
                 },
                 {
                   "cifra": "Mi-",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "ISTO NOS TERIA BASTADO, ...",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "SE NOS TIVESSE DADO O DIA DO SENHOR",
-              "acordes": [
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "SE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "DADO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Si7",
-                  "palavra_alvo": "SENHOR",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE FEITO CONOSCO A NOVA ALIANÇA:",
+              "letra": "Que nos fez sair do Egito.                BIS A.",
               "acordes": [
                 {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "ALIANÇA",
+                  "cifra": "La-",
+                  "palavra_alvo": "fez",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "ISTO NOS TERIA BASTADO, ...",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "SE TIVESSE FEITO CONOSCO A NOVA ALIANÇA",
-              "acordes": [
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "SE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 8
                 },
                 {
-                  "cifra": "Re",
-                  "palavra_alvo": "FEITO",
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Egito",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
+                }
+              ]
+            },
+            {
+              "letra": "Que fez justiça com o Faraó.              BIS A.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "justiça",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 11
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Faraó",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 26
+                }
+              ]
+            },
+            {
+              "letra": "Que nos libertou de todos os inimigos.    BIS A.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "libertou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "ALIANÇA",
+                  "palavra_alvo": "todos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "inimigos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 32
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE FEITO ENTRAR NA IGREJA:",
+              "letra": "Que nos deu as suas riquezas.             BIS A.",
               "acordes": [
-                {
-                  "cifra": "Si7",
-                  "palavra_alvo": "ENTRAR",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "IGREJA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "ISTO NOS TERIA BASTADO, ...",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "SE NOS TIVESSE FEITO ENTRAR NA IGREJA",
-              "acordes": [
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "SE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "ENTRAR",
+                  "palavra_alvo": "deu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 9
                 },
                 {
-                  "cifra": "Si7",
-                  "palavra_alvo": "IGREJA",
+                  "cifra": "Mi-",
+                  "palavra_alvo": "riquezas",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 23
                 }
               ]
             },
             {
-              "letra": "E NÃO TIVESSE CONSTRUÍDO EM NÓS O SEU TEMPLO:",
+              "letra": "Que abriu o mar, o mar para nós.          BIS A.",
               "acordes": [
                 {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "TEMPLO",
+                  "cifra": "La-",
+                  "palavra_alvo": "mar",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "ISTO NOS TERIA BASTADO, ...",
-              "acordes": []
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "SE TIVESSE CONSTRUÍDO EM NÓS O SEU TEMPLO",
-              "acordes": [
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "SE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 13
                 },
                 {
-                  "cifra": "Re",
-                  "palavra_alvo": "CONSTRUÍDO",
+                  "cifra": "Mi-",
+                  "palavra_alvo": "nós",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 28
+                }
+              ]
+            },
+            {
+              "letra": "Que nele afundou os nossos opressores.    BIS A.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "afundou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
                 },
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "TEMPLO",
+                  "palavra_alvo": "nossos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "opressores",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 33
                 }
               ]
             },
             {
-              "letra": "E NÃO NOS TIVESSE ENVIADO O SEU SANTO ESPÍRITO:",
+              "letra": "Que nos deu um caminho no deserto.        BIS A.",
               "acordes": [
                 {
-                  "cifra": "Si7",
-                  "palavra_alvo": "SANTO",
+                  "cifra": "La-",
+                  "palavra_alvo": "deu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 8
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "ESPÍRITO",
+                  "palavra_alvo": "deserto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 29
+                }
+              ]
+            },
+            {
+              "letra": "Que nos nutriu com o pão da vida.         BIS A.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "nutriu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 11
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "vida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            },
+            {
+              "letra": "Que nos deu o dia do Senhor.              BIS A.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "deu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "dia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Senhor",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 24
+                }
+              ]
+            },
+            {
+              "letra": "Que nos deu a nova Aliança.               BIS A.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "deu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Aliança",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 22
+                }
+              ]
+            },
+            {
+              "letra": "Que nos fez entrar na Igreja.             BIS A.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "fez",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 8
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Igreja",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 24
+                }
+              ]
+            },
+            {
+              "letra": "Que construiu em nós o seu templo.        BIS A.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "construiu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "nós",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "templo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            },
+            {
+              "letra": "Que nos enviou o seu Espírito Santo",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "enviou",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 11
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Santo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 30
+                }
+              ]
+            },
+            {
+              "letra": "para o perdão dos pecados.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "perdão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "pecados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
+                }
+              ]
+            },
+            {
+              "letra": "Cristo, nossa Páscoa, está ressuscitado.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Cristo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Páscoa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ressuscitado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 34
                 }
               ]
             }
@@ -822,8 +1255,247 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "ISTO NOS TERIA BASTADO, ...",
-              "acordes": []
+              "letra": "CRISTO, NOSSA PÁSCOA, ESTÁ RESSUSCITADO.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "CRISTO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "PÁSCOA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "RESSUSCITADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Cristo, nossa Páscoa, está ressuscitado.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Páscoa",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "está",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 24
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ressuscitado",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "CRISTO, NOSSA PÁSCOA, ESTÁ RESSUSCITADO.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "PÁSCOA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ESTÁ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 24
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "RESSUSCITADO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aleluia, aleluia,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Aleluia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Aleluia",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "aleluia",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA,",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 4
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aleluia, aleluia, aleluia.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "aleluia",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 9
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "aleluia",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 9
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Aleluia, aleluia, aleluia.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "aleluia",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 9
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "aleluia",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 18
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "aleluia",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 9
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 18
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 22
+                }
+              ]
             }
           ]
         }

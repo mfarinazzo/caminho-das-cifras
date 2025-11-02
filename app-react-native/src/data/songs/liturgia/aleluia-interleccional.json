@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "ALELUIA INTERLECIONAL",
-  "subtitulo": "Para os tempos do Advento, Natal e Comum",
-  "referencia": null,
+  "titulo_principal": "ALELUIA INTERLECCIONAL",
+  "subtitulo": "",
+  "referencia": "173",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -12,109 +12,131 @@
       "id": 1,
       "estrofes": [
         {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Apropriado para os tempos do Advento, Natal e Comum",
+              "acordes": []
+            }
+          ]
+        },
+        {
           "indicador": "A.",
           "repeticao": null,
           "linhas": [
             {
-              "letra": "ALELUIA, ALELUIA, ALELUIA, ALELUIA,",
+              "letra": "ALELUIA, ALELUIA, ALELUIA, ALELUIA.",
               "acordes": [
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
-                  "cifra": "Do Re",
+                  "cifra": "Do",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 3,
-                  "posicao": null
+                  "posicao": 21
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 24
                 },
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 4,
-                  "posicao": null
+                  "posicao": 32
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "ALELUIA, ALELUIA, ALELUIA, ALELUIA.",
               "acordes": [
                 {
-                  "cifra": "Do Re",
+                  "cifra": "Do",
                   "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "ocorrencia_palavra": 3,
+                  "posicao": 21
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 24
                 },
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "\"EU SOU A VIDEIRA, E VÓS OS RAMOS.",
-              "acordes": [
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "EU",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Re",
-                  "palavra_alvo": "VIDEIRA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "VÓS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "ocorrencia_palavra": 4,
+                  "posicao": 32
                 }
               ]
             },
             {
-              "letra": "O QUE PERMANECER EM MIM E EU NELE,",
+              "letra": "\"Eu sou a videira, e vós os ramos.",
               "acordes": [
                 {
-                  "cifra": "Re",
-                  "palavra_alvo": "QUE",
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Eu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "videira",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "MIM",
+                  "palavra_alvo": "ramos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 29
                 }
               ]
             },
             {
-              "letra": "ESSE DARÁ FRUTO ABUNDANTE.",
+              "letra": "O que permanecer em mim e eu nele,",
               "acordes": [
                 {
                   "cifra": "Re",
-                  "palavra_alvo": "ESSE",
+                  "palavra_alvo": "mim",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 21
                 },
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "FRUTO",
+                  "palavra_alvo": "nele",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 30
+                }
+              ]
+            },
+            {
+              "letra": "esse dará fruto abundante.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "esse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "abundante",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
                 }
               ]
             }
@@ -125,65 +147,13 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "ALELUIA...",
+              "letra": "ALELUIA, ...",
               "acordes": [
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "ALELUIA, ALELUIA, ALELUIA.",
-              "acordes": [
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 3,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "ALELUIA, ALELUIA, ALELUIA.",
-              "acordes": [
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 3,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -194,53 +164,13 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "\"EU SOU A VIDEIRA, E VÓS OS RAMOS.",
+              "letra": "Com a melodia do \"Aleluia já chegou o reino\"",
               "acordes": [
                 {
-                  "cifra": "Do",
-                  "palavra_alvo": "EU",
+                  "cifra": "do",
+                  "palavra_alvo": "Com",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "VIDEIRA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "VÓS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "O QUE PERMANECER EM MIM E EU NELE,",
-              "acordes": [
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "QUE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "MIM",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "ESSE DARÁ FRUTO ABUNDANTE.",
-              "acordes": [
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "ESSE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 2
                 }
               ]
             }
@@ -251,64 +181,25 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "ALELUIA...",
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
               "acordes": [
                 {
                   "cifra": "Do",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "ALELUIA, ALELUIA, ALELUIA,",
-              "acordes": [
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
-                  "cifra": "Re",
+                  "cifra": "Mi",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 13
                 },
                 {
-                  "cifra": "Mi-",
+                  "cifra": "La-",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 3,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "ALELUIA, ALELUIA, ALELUIA.",
-              "acordes": [
-                {
-                  "cifra": "Re",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "ALELUIA",
-                  "ocorrencia_palavra": 3,
-                  "posicao": null
+                  "posicao": 23
                 }
               ]
             }
@@ -319,47 +210,184 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "\"EU SOU A VIDEIRA, E VÓS OS RAMOS.",
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
               "acordes": [
                 {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "EU",
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 13
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "VIDEIRA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi-",
-                  "palavra_alvo": "VÓS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 23
                 }
               ]
             },
             {
-              "letra": "O QUE PERMANECER EM MIM E EU NELE,",
+              "letra": "\"Eu sou a videira, e vós os ramos.",
               "acordes": [
                 {
-                  "cifra": "La-",
-                  "palavra_alvo": "MIM",
+                  "cifra": "Do",
+                  "palavra_alvo": "Eu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "videira",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ramos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 29
                 }
               ]
             },
             {
-              "letra": "ESSE DARÁ FRUTO ABUNDANTE.",
+              "letra": "O que permanecer em mim e eu nele,",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "O",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "nele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 30
+                }
+              ]
+            },
+            {
+              "letra": "esse dará fruto abundante.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "abundante",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ...",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "FRUTO",
+                  "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 23
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ALELUIA, ALELUIA, ALELUIA.",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ALELUIA",
+                  "ocorrencia_palavra": 3,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "\"Eu sou a videira, e vós os ramos.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "Eu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "videira",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "ramos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 29
+                }
+              ]
+            },
+            {
+              "letra": "O que permanecer em mim e eu nele,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "nele",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 29
+                }
+              ]
+            },
+            {
+              "letra": "esse dará fruto abundante.",
+              "acordes": [
+                {
+                  "cifra": "Mi-",
+                  "palavra_alvo": "abundante",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
                 }
               ]
             }
@@ -376,7 +404,7 @@
                   "cifra": "Mi-",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -385,5 +413,5 @@
       ]
     }
   ],
-  "tom": "Mi menor"
+  "tom": "La menor"
 }

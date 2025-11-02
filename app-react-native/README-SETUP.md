@@ -61,7 +61,7 @@ npm run format
 ## 🎨 Stack Tecnológico
 
 - **React Native** 0.75.4
-- **Expo** SDK 52
+- **Expo** SDK 54
 - **TypeScript** 5.6
 - **NativeWind** 4.0 (TailwindCSS)
 - **React Native Paper** 5.12 (Material Design)

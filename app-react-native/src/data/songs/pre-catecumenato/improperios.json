@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "IMPROPÉRIOS",
-  "subtitulo": "Da Liturgia da Adoração da Cruz da Sexta-feira Santa",
-  "referencia": null,
+  "titulo_principal": "IMPROPERIOS",
+  "subtitulo": "",
+  "referencia": "96",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -12,6 +12,16 @@
       "id": 1,
       "estrofes": [
         {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Da Liturgia da Adoração da Cruz da Sexta-feira Santa",
+              "acordes": []
+            }
+          ]
+        },
+        {
           "indicador": "A.",
           "repeticao": null,
           "linhas": [
@@ -20,12 +30,18 @@
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "POVO",
+                  "palavra_alvo": "Ó",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "QUE MAL EU TE FIZ?",
               "acordes": []
@@ -35,14 +51,14 @@
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "MAL",
+                  "palavra_alvo": "QUE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "EM QUE TE CONTRISTEI!?",
+              "letra": "EM QUE TE CONTRISTEI?",
               "acordes": []
             },
             {
@@ -50,75 +66,69 @@
               "acordes": []
             },
             {
-              "letra": "EM QUE TE CONTRISTEI!?",
+              "letra": "EM QUE TE CONTRISTEI?",
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "CONTRISTEI",
+                  "palavra_alvo": "EM",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
-              "letra": "EU TE FIZ SAIR DO EGITO;",
+              "letra": "Eu te fiz sair do Egito;",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "TE",
+                  "palavra_alvo": "Eu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
-                  "cifra": "[La- 6]",
-                  "palavra_alvo": "EGITO",
+                  "cifra": "La-",
+                  "palavra_alvo": "Egito",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
             },
             {
-              "letra": "EU TE ABRI O MAR EM DUAS PARTES;",
+              "letra": "eu te abri o mar em duas partes;",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "TE",
+                  "palavra_alvo": "eu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
-                  "cifra": "[La- 6]",
-                  "palavra_alvo": "PARTES",
+                  "cifra": "La-",
+                  "palavra_alvo": "partes",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 26
                 }
               ]
             },
             {
-              "letra": "EU TE LIBERTEI DO FARAÓ,",
+              "letra": "eu te libertei do Faraó,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "TE",
+                  "palavra_alvo": "eu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "E TU, E TU PREPARASTE A CRUZ PARA MIM.",
+              "letra": "e tu, e tu preparaste a Cruz para mim.",
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "CRUZ",
+                  "palavra_alvo": "e",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -133,9 +143,9 @@
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "POVO",
+                  "palavra_alvo": "Ó",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -146,58 +156,58 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "PORQUE EU TE CONDUZI QUARENTA ANOS PELO DESERTO;",
+              "letra": "Porque eu te conduzi quarenta anos pelo deserto;",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "TE",
+                  "palavra_alvo": "Porque",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
-                  "cifra": "[La- 6]",
-                  "palavra_alvo": "DESERTO",
+                  "cifra": "La-",
+                  "palavra_alvo": "deserto",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 41
                 }
               ]
             },
             {
-              "letra": "E TE SACIEI COM O MANÁ;",
+              "letra": "e te saciei com o maná;",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "TE",
+                  "palavra_alvo": "e",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
-                  "cifra": "[La- 6]",
-                  "palavra_alvo": "MANÁ",
+                  "cifra": "La-",
+                  "palavra_alvo": "maná",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
             {
-              "letra": "EU TE INTRODUZI NA TERRA PROMETIDA,",
+              "letra": "eu te introduzi na Terra Prometida,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "TE",
+                  "palavra_alvo": "eu",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "E TU, E TU PREPARASTE A CRUZ PARA MIM.",
+              "letra": "e tu, e tu preparaste a Cruz para mim.",
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "CRUZ",
+                  "palavra_alvo": "e",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -212,64 +222,9 @@
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "POVO",
+                  "palavra_alvo": "Ó",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "QUE MAIS DEVERIA TER FEITO POR TI",
-              "acordes": [
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "QUE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "E NÃO FIZ?",
-              "acordes": [
-                {
-                  "cifra": "[La- 6]",
-                  "palavra_alvo": "NÃO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "EU TE CHAMEI: “MINHA VINHA AMADA”",
-              "acordes": [
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "TE",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "E TU, E TU TORNASTE AMARGA.",
-              "acordes": [
-                {
-                  "cifra": "Si7",
-                  "palavra_alvo": "AMARGA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -280,13 +235,57 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "HAGIOS O THÉOS,",
+              "letra": "Que mais deveria ter feito por ti",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "HAGIOS",
+                  "palavra_alvo": "Que",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e não fiz?",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "fiz",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 6
+                }
+              ]
+            },
+            {
+              "letra": "Eu te chamei: \"Minha vinha amada\",",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Eu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "e tu, e tu tornaste amarga.",
+              "acordes": [
+                {
+                  "cifra": "Si7",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                }
+              ]
+            },
+            {
+              "letra": "Hagios o Théos,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Hagios",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
                 }
               ]
             }
@@ -303,7 +302,7 @@
                   "cifra": "Si7",
                   "palavra_alvo": "DEUS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 9
                 }
               ]
             }
@@ -314,13 +313,13 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "HAGIOS ISCHYRÓS,",
+              "letra": "Hagios Ischyrós,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "HAGIOS",
+                  "palavra_alvo": "Hagios",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -337,7 +336,7 @@
                   "cifra": "Si7",
                   "palavra_alvo": "FORTIS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 }
               ]
             }
@@ -348,13 +347,13 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "HAGIOS ATHÁNATOS,",
+              "letra": "Hagios Athánatos,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "HAGIOS",
+                  "palavra_alvo": "Hagios",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -369,9 +368,9 @@
               "acordes": [
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "HIMÁS",
+                  "palavra_alvo": "ELÉISON",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 2
                 }
               ]
             }
@@ -382,13 +381,13 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SANCTUS ET INMORTALIS,",
+              "letra": "Sanctus et Inmortalis,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "SANCTUS",
+                  "palavra_alvo": "Sanctus",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -405,24 +404,18 @@
                   "cifra": "Si7",
                   "palavra_alvo": "NOBIS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 11
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "Ó POVO MEU, ...",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "POVO",
+                  "palavra_alvo": "Ó",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }

@@ -108,15 +108,21 @@ const SettingsScreen = () => {
             <View style={{ flexDirection: 'row', backgroundColor: '#F3F4F6', borderRadius: 10, padding: 4 }}>
               <TouchableOpacity
                 onPress={() => setInstrument('guitar')}
-                style={{ flex: 1, paddingVertical: 8, borderRadius: 8, alignItems: 'center', backgroundColor: instrument==='guitar' ? '#FF5252' : 'transparent' }}
+                style={{ flex: 1, marginHorizontal: 2, paddingVertical: 8, borderRadius: 8, alignItems: 'center', backgroundColor: instrument==='guitar' ? '#FF5252' : 'transparent' }}
               >
                 <Text variant="small" style={{ color: instrument==='guitar' ? '#FFFFFF' : '#1F2937' }}>Violão</Text>
               </TouchableOpacity>
               <TouchableOpacity
                 onPress={() => setInstrument('ukulele')}
-                style={{ flex: 1, paddingVertical: 8, borderRadius: 8, alignItems: 'center', backgroundColor: instrument==='ukulele' ? '#FF5252' : 'transparent' }}
+                style={{ flex: 1, marginHorizontal: 2, paddingVertical: 8, borderRadius: 8, alignItems: 'center', backgroundColor: instrument==='ukulele' ? '#FF5252' : 'transparent' }}
               >
                 <Text variant="small" style={{ color: instrument==='ukulele' ? '#FFFFFF' : '#1F2937' }}>Ukulele</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                onPress={() => setInstrument('charango')}
+                style={{ flex: 1, marginHorizontal: 2, paddingVertical: 8, borderRadius: 8, alignItems: 'center', backgroundColor: instrument==='charango' ? '#FF5252' : 'transparent' }}
+              >
+                <Text variant="small" style={{ color: instrument==='charango' ? '#FFFFFF' : '#1F2937' }}>Charango</Text>
               </TouchableOpacity>
             </View>
           </Card>

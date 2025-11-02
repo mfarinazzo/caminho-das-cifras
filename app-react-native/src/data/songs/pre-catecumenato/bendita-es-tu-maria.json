@@ -1,6 +1,6 @@
 {
-  "titulo_principal": "BENDITA ÉS TU, MARIA",
-  "subtitulo": null,
+  "titulo_principal": "BENDITA ÉS TÚ, MARIA",
+  "subtitulo": "",
   "referencia": "Lucas 1, 42-45",
   "pagina": null,
   "bracadeira": {
@@ -16,7 +16,11 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "BENDITA ÉS TU, MARIA,",
+              "letra": "Braçadeira 3ª traste",
+              "acordes": []
+            },
+            {
+              "letra": "Bendita és tu, Maria,",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -28,69 +32,69 @@
                   "cifra": "Sol",
                   "palavra_alvo": "tu",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 11
                 },
                 {
                   "cifra": "La-",
                   "palavra_alvo": "Maria",
                   "ocorrencia_palavra": 1,
-                  "posicao": 2
+                  "posicao": 18
                 }
               ]
             },
             {
-              "letra": "ENTRE TODAS AS MULHERES, MARIA.",
+              "letra": "entre todas as mulheres, Maria.",
               "acordes": [
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "mulheres",
                   "ocorrencia_palavra": 1,
-                  "posicao": 3
+                  "posicao": 19
                 },
                 {
                   "cifra": "La-",
                   "palavra_alvo": "Maria",
                   "ocorrencia_palavra": 1,
-                  "posicao": 2
+                  "posicao": 28
                 }
               ]
             },
             {
-              "letra": "BENDITO É O FRUTO, MARIA,",
+              "letra": "Bendito é o fruto, Maria,",
               "acordes": [
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "é",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 8
                 },
                 {
                   "cifra": "La-",
                   "palavra_alvo": "fruto",
                   "ocorrencia_palavra": 1,
-                  "posicao": 3
+                  "posicao": 16
                 }
               ]
             },
             {
-              "letra": "O FRUTO DO TEU VENTRE, JESUS.",
+              "letra": "o fruto do teu ventre, Jesus.",
               "acordes": [
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "ventre",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 16
                 },
                 {
                   "cifra": "La-",
                   "palavra_alvo": "Jesus",
                   "ocorrencia_palavra": 1,
-                  "posicao": 2
+                  "posicao": 26
                 }
               ]
             },
             {
-              "letra": "MARIA, TU ACREDITASTE!",
+              "letra": "Maria, tu acreditaste!",
               "acordes": [
                 {
                   "cifra": "Fa",
@@ -102,7 +106,7 @@
                   "cifra": "Mi",
                   "palavra_alvo": "acreditaste",
                   "ocorrencia_palavra": 1,
-                  "posicao": 6
+                  "posicao": 17
                 }
               ]
             }
@@ -110,7 +114,7 @@
         },
         {
           "indicador": "A.",
-          "repeticao": "bis",
+          "repeticao": null,
           "linhas": [
             {
               "letra": "MAS COMO É QUE A MÃE DO SENHOR",
@@ -122,23 +126,6 @@
                   "posicao": 0
                 }
               ]
-            },
-            {
-              "letra": "VEM A MIM, VEM A MIM?",
-              "acordes": [
-                {
-                  "cifra": "Sol",
-                  "palavra_alvo": "MIM",
-                  "ocorrencia_palavra": 1,
-                  "posicao": 0
-                },
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "MIM",
-                  "ocorrencia_palavra": 2,
-                  "posicao": 0
-                }
-              ]
             }
           ]
         },
@@ -147,7 +134,24 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "PORQUE APENAS EU OUVI A TUA VOZ,",
+              "letra": "VEM A MIM, VEM A MIM?",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MIM",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 18
+                }
+              ]
+            },
+            {
+              "letra": "Porque apenas eu ouvi a tua voz,",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -159,12 +163,12 @@
                   "cifra": "Mi",
                   "palavra_alvo": "voz",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 29
                 }
               ]
             },
             {
-              "letra": "ALGO ESTREMECEU DENTRO DE MIM,",
+              "letra": "algo estremeceu dentro de mim,",
               "acordes": [
                 {
                   "cifra": "Re-",
@@ -176,12 +180,12 @@
                   "cifra": "Mi",
                   "palavra_alvo": "mim",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 27
                 }
               ]
             },
             {
-              "letra": "A CRIANÇA EXULTOU DE ALEGRIA.",
+              "letra": "a criança exultou de alegria.",
               "acordes": [
                 {
                   "cifra": "Re-",
@@ -193,7 +197,7 @@
                   "cifra": "Mi",
                   "palavra_alvo": "alegria",
                   "ocorrencia_palavra": 1,
-                  "posicao": 4
+                  "posicao": 26
                 }
               ]
             }
@@ -201,10 +205,10 @@
         },
         {
           "indicador": "A.",
-          "repeticao": "bis",
+          "repeticao": null,
           "linhas": [
             {
-              "letra": "MARIA, BENDITA MARIA,",
+              "letra": "MARIA, BENDITA MARIA, |",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -216,22 +220,28 @@
                   "cifra": "Fa",
                   "palavra_alvo": "MARIA",
                   "ocorrencia_palavra": 2,
-                  "posicao": 2
+                  "posicao": 18
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
-              "letra": "TU ACREDITASTE",
+              "letra": "TU ACREDITASTE        | BIS",
               "acordes": []
             },
             {
-              "letra": "NA PALAVRA DO SENHOR.",
+              "letra": "NA PALAVRA DO SENHOR. |",
               "acordes": [
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "SENHOR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 }
               ]
             }
@@ -253,18 +263,13 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
+        },
         {
           "indicador": "S.",
           "repeticao": null,
           "linhas": [
             {
-              "letra": "PORQUE APENAS EU OUVI A TUA VOZ ...",
+              "letra": "Porque apenas eu ouvi a tua voz ...",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -276,7 +281,7 @@
                   "cifra": "Mi",
                   "palavra_alvo": "voz",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 29
                 }
               ]
             }
@@ -299,7 +304,7 @@
                   "cifra": "Fa",
                   "palavra_alvo": "MARIA",
                   "ocorrencia_palavra": 2,
-                  "posicao": 2
+                  "posicao": 18
                 }
               ]
             }

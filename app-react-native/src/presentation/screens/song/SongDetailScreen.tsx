@@ -84,7 +84,30 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
   const { file, title } = route.params;
   const song: SongJson | undefined = getSongByFile(file);
   const { instrument, capoBySong, setCapoForSong, clearCapoForSong, transposeBySong, setTransposeForSong, clearTransposeForSong, notesBySong, setNoteForSong, clearNoteForSong } = useAppStore();
-  const savedCapo = capoBySong[file] ?? 0;
+
+  const clampCapo = (value: number): number => Math.max(0, Math.min(12, Math.round(value)));
+  const parseCapoHouse = (raw: unknown): number => {
+    if (typeof raw === 'number' && Number.isFinite(raw)) {
+      return clampCapo(raw);
+    }
+    if (typeof raw === 'string') {
+      const match = raw.match(/\d+/);
+      if (match) {
+        return clampCapo(parseInt(match[0], 10));
+      }
+    }
+    return 0;
+  };
+
+  const defaultCapo = React.useMemo(() => {
+    if (!song?.bracadeira?.tem) return 0;
+    return parseCapoHouse((song.bracadeira as any).casa);
+  }, [song?.bracadeira]);
+
+  const manualCapo = Object.prototype.hasOwnProperty.call(capoBySong, file)
+    ? clampCapo(capoBySong[file] ?? 0)
+    : null;
+  const activeCapo = manualCapo ?? defaultCapo;
   const savedTranspose = transposeBySong[file] ?? 0;
 
   const [transpose, setTranspose] = useState(savedTranspose);
@@ -416,7 +439,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
       <Divider style={{ marginBottom: 8, backgroundColor: isDark ? '#333333' : '#E5E7EB' }} />
       <View className="flex-row flex-wrap items-center mb-2">
         {[0,1,2,3,4,5,6,7].map((f) => {
-          const selected = savedCapo === f;
+          const selected = activeCapo === f;
           return (
             <Pressable
               key={f}
@@ -499,7 +522,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
                 {activeRootIdx >= 0 ? `Tom: ${PT_NOTES[activeRootIdx]}${origMode ? ' ' + origMode : ''}` : (currentKey ? `Tom: ${currentKey}` : 'Tom: —')}{transpose ? `  (Transp. ${transpose>0?'+':''}${transpose})` : ''}
               </Chip>
               <Chip style={{ marginLeft: 8 }} onPress={() => setCapoPickerVisible(true)}>
-                Braçadeira: {savedCapo ? `${savedCapo}ª` : (song?.bracadeira?.tem ? `${song.bracadeira.casa}ª` : '—')}
+                Braçadeira: {activeCapo ? `${activeCapo}ª` : '—'}
               </Chip>
             </View>
             {/* Chord diagrams strip below tone/capo, expanded and not clickable */}
@@ -512,7 +535,7 @@ export default function SongDetailScreen({ route }: HomeStackScreenProps<'SongDe
                   return (
                     <View key={c} style={{ alignItems: 'center', marginRight: 20 }}>
                       {shape ? (
-                        <ChordDiagram chord={shape} capoFret={savedCapo || (song?.bracadeira?.tem ? song.bracadeira.casa : 0)} />
+                        <ChordDiagram chord={shape} capoFret={activeCapo} />
                       ) : (
                         <View style={{ width: 96, height: Math.round(96*1.2), alignItems: 'center', justifyContent: 'center' }}>
                           <Text variant="small" className="text-text-secondary">sem diagrama</Text>

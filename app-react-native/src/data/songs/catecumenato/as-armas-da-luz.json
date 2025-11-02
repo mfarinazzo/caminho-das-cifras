@@ -1,8 +1,8 @@
 {
-  "titulo_principal": "CATECUMENATO",
-  "subtitulo": "AS ARMAS DA LUZ",
-  "referencia": "Efésios 6, 11ss",
-  "pagina": 213,
+  "titulo_principal": "AS ARMAS DA LUZ",
+  "subtitulo": "",
+  "referencia": "213",
+  "pagina": null,
   "bracadeira": {
     "tem": true,
     "casa": "2ª"
@@ -13,10 +13,18 @@
       "estrofes": [
         {
           "indicador": "S.",
-          "repeticao": "bis a",
+          "repeticao": null,
           "linhas": [
             {
-              "letra": "REVESTI-VOS DA ARMADURA DE DEUS,",
+              "letra": "Efesios 6,11ss",
+              "acordes": []
+            },
+            {
+              "letra": "Braçadeira 2ª Traste",
+              "acordes": []
+            },
+            {
+              "letra": "REVESTI-VOS DA ARMADURA DE DEUS,  |",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -28,24 +36,36 @@
                   "cifra": "Re-6",
                   "palavra_alvo": "DEUS",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 28
                 }
               ]
             },
             {
-              "letra": "EMPUNHANDO AS ARMAS DA LUZ.",
+              "letra": "EMPUNHANDO AS ARMAS DA LUZ.       |",
               "acordes": [
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "EMPUNHANDO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 6
                 },
                 {
                   "cifra": "La-",
                   "palavra_alvo": "LUZ",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
+                },
+                {
+                  "cifra": "BIS",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 37
+                },
+                {
+                  "cifra": "A.",
+                  "palavra_alvo": "LUZ",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 41
                 }
               ]
             },
@@ -56,7 +76,7 @@
                   "cifra": "Fa",
                   "palavra_alvo": "A",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
@@ -67,7 +87,7 @@
                   "cifra": "Mi7",
                   "palavra_alvo": "sangue",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 28
                 }
               ]
             },
@@ -78,7 +98,7 @@
                   "cifra": "Fa",
                   "palavra_alvo": "mas",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
@@ -87,9 +107,9 @@
               "acordes": [
                 {
                   "cifra": "Mi7",
-                  "palavra_alvo": "mundo",
+                  "palavra_alvo": "tenebroso",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 25
                 }
               ]
             }
@@ -100,22 +120,28 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "CINGIDOS COM A VERDADE,",
+              "letra": "CINGIDOS COM A VERDADE",
               "acordes": [
                 {
                   "cifra": "La-",
                   "palavra_alvo": "CINGIDOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "VERDADE",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "REVESTIDOS DA",
               "acordes": []
@@ -127,16 +153,10 @@
                   "cifra": "La-",
                   "palavra_alvo": "CRUZ",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "Que não resiste ao mal,",
               "acordes": [
@@ -144,13 +164,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "Que",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "mal",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
@@ -161,18 +181,18 @@
                   "cifra": "Fa",
                   "palavra_alvo": "mas",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "os pecados dos outros.",
+              "letra": "os pecados dos outros",
               "acordes": [
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "outros",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 16
                 }
               ]
             }
@@ -189,10 +209,16 @@
                   "cifra": "La-",
                   "palavra_alvo": "CALÇADOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "POR ANUNCIAR O EVANGELHO,",
               "acordes": [
@@ -200,7 +226,7 @@
                   "cifra": "Mi7",
                   "palavra_alvo": "EVANGELHO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
@@ -215,21 +241,10 @@
                   "cifra": "La-",
                   "palavra_alvo": "FÉ",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 16
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "Que Cristo te ama certamente,",
               "acordes": [
@@ -237,13 +252,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "Que",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "certamente",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
                 }
               ]
             },
@@ -254,7 +269,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "que",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "ti",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
                 }
               ]
             },
@@ -262,10 +283,16 @@
               "letra": "quando eras malvado e pecador.",
               "acordes": [
                 {
+                  "cifra": "Fa",
+                  "palavra_alvo": "quando",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
                   "cifra": "Mi7",
                   "palavra_alvo": "pecador",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 26
                 }
               ]
             }
@@ -282,10 +309,16 @@
                   "cifra": "La-",
                   "palavra_alvo": "COM",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "QUE É A PALAVRA DE DEUS,",
               "acordes": [
@@ -293,7 +326,7 @@
                   "cifra": "Mi7",
                   "palavra_alvo": "DEUS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 20
                 }
               ]
             },
@@ -308,16 +341,10 @@
                   "cifra": "La-",
                   "palavra_alvo": "SALVAÇÃO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "Que Cristo Jesus ressuscitou,",
               "acordes": [
@@ -325,13 +352,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "Que",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "ressuscitou",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 25
                 }
               ]
             },
@@ -342,13 +369,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "que",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 15
                 }
               ]
             },
@@ -358,8 +385,8 @@
                 {
                   "cifra": "Re-",
                   "palavra_alvo": "voltará",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "ocorrencia_palavra": 1,
+                  "posicao": 10
                 }
               ]
             },
@@ -370,7 +397,7 @@
                   "cifra": "Mi7",
                   "palavra_alvo": "ele",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 }
               ]
             }
@@ -387,16 +414,22 @@
                   "cifra": "La-",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 },
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 28
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "ALELUIA, ALELU, ALELU, ALELUIA.",
               "acordes": [
@@ -404,13 +437,13 @@
                   "cifra": "La-",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 },
                 {
                   "cifra": "Mi7",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 28
                 }
               ]
             }

@@ -1,0 +1,608 @@
+{
+  "titulo_principal": "A ESPADA",
+  "subtitulo": "",
+  "referencia": "Ezequiel 21, 14-22",
+  "pagina": null,
+  "bracadeira": {
+    "tem": false,
+    "casa": null
+  },
+  "colunas": [
+    {
+      "id": 1,
+      "estrofes": [
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Espada, espada polida para matar.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Espada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "espada",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "polida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "matar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPADA, ESPADA POLIDA PARA MATAR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "POLIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "MATAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Maria, Maria mãe de Deus.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "Maria",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "mãe",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "Deus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MARIA MÃE DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "Grita, filho do homem.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Grita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                }
+              ]
+            },
+            {
+              "letra": "Grita, filho do homem,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                }
+              ]
+            },
+            {
+              "letra": "a espada é para meu povo,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "povo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
+                }
+              ]
+            },
+            {
+              "letra": "espada para meu povo.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "espada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "povo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPADA, ESPADA POLIDA PARA MATAR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "POLIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "MATAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MARIA MÃE DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "Vira a tua direita.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Vira",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "direita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
+                }
+              ]
+            },
+            {
+              "letra": "Vira para a tua esquerda,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Vira",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "esquerda",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 19
+                }
+              ]
+            },
+            {
+              "letra": "ali onde teus gumes ficarão saciados,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "saciados",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 32
+                }
+              ]
+            },
+            {
+              "letra": "ali onde se saciará a minha alma.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "alma",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPADA, ESPADA POLIDA PARA MATAR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "POLIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "MATAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MARIA MÃE DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "Polida para matar,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "Polida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "matar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                }
+              ]
+            },
+            {
+              "letra": "polida para matar.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "polida",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "matar",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 13
+                }
+              ]
+            },
+            {
+              "letra": "Grita, filho do homem.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Grita",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                }
+              ]
+            },
+            {
+              "letra": "Grita, filho do homem,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "homem",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                }
+              ]
+            },
+            {
+              "letra": "a espada é para meu povo,",
+              "acordes": [
+                {
+                  "cifra": "Re-",
+                  "palavra_alvo": "a",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "povo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 21
+                }
+              ]
+            },
+            {
+              "letra": "espada para meu povo.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "espada",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "povo",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "A.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "ESPADA, ESPADA POLIDA PARA MATAR.",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "ESPADA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "POLIDA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 17
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "MATAR",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "MARIA, MARIA MÃE DE DEUS.",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi7*",
+                  "palavra_alvo": "MARIA",
+                  "ocorrencia_palavra": 2,
+                  "posicao": 10
+                },
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "MÃE",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 16
+                },
+                {
+                  "cifra": "Mi7",
+                  "palavra_alvo": "DEUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "__________________________________________",
+              "acordes": []
+            },
+            {
+              "letra": "* Pode-se substituir por Sol9b",
+              "acordes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tom": "La menor"
+}

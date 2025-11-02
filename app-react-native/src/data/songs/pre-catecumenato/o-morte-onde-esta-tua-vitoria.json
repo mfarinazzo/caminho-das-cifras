@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "Ó MORTE, ONDE ESTÁ A TUA VITÓRIA?",
-  "subtitulo": null,
-  "referencia": "1ª Coríntios 15",
+  "titulo_principal": "Ó MORTE, ONDE ESTÁ TUA VITÓRIA",
+  "subtitulo": "",
+  "referencia": "119",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -16,74 +16,78 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "NUM MOMENTO, NUM ABRIR E FECHAR DE OLHOS,",
-              "acordes": [
-                {
-                  "cifra": "Re-5",
-                  "palavra_alvo": "NUM",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "AO SOM DA TROMBETA FINAL,",
-              "acordes": [
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "SOM",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "La-6",
-                  "palavra_alvo": "TROMBETA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Re7",
-                  "palavra_alvo": "FINAL",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "PORQUE SOARÁ A TROMBETA,",
+              "letra": "1ª Coríntios 15",
               "acordes": []
             },
             {
-              "letra": "E OS MORTOS RESSUSCITARÃO INCORRUPTÍVEIS",
+              "letra": "Num momento, num abrir e fechar de olhos,",
               "acordes": [
                 {
-                  "cifra": "Sol",
-                  "palavra_alvo": "RESSUSCITARÃO",
+                  "cifra": "Re-5",
+                  "palavra_alvo": "Num",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Si-",
-                  "palavra_alvo": "INCORRUPTÍVEIS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "E NÓS SEREMOS TRANSFORMADOS.",
+              "letra": "ao som da trombeta final,",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "ao",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "La-6",
+                  "palavra_alvo": "trombeta",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                },
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "final",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 22
+                }
+              ]
+            },
+            {
+              "letra": "porque soará a trombeta,",
+              "acordes": []
+            },
+            {
+              "letra": "e os mortos ressuscitarão incorruptíveis",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "e",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Si-",
+                  "palavra_alvo": "ressuscitarão",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 12
+                }
+              ]
+            },
+            {
+              "letra": "e nós seremos transformados.",
               "acordes": [
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "SEREMOS",
+                  "palavra_alvo": "nós",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 3
                 },
                 {
                   "cifra": "Si7",
-                  "palavra_alvo": "TRANSFORMADOS",
+                  "palavra_alvo": "transformados",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 23
                 }
               ]
             }
@@ -98,18 +102,24 @@
               "acordes": [
                 {
                   "cifra": "Re7",
-                  "palavra_alvo": "ISSO",
+                  "palavra_alvo": "POR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 1
                 },
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "CANTAMOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
             {
               "letra": "A MORTE É ABSORVIDA PELA VITÓRIA!",
               "acordes": []
@@ -125,7 +135,7 @@
                   "cifra": "Si",
                   "palavra_alvo": "VITÓRIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 28
                 }
               ]
             },
@@ -137,53 +147,47 @@
               "letra": "Ó MORTE, ONDE ESTÁ O TEU AGUILHÃO?",
               "acordes": [
                 {
-                  "cifra": "Mi-",
+                  "cifra": "Mi",
                   "palavra_alvo": "AGUILHÃO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 31
                 }
               ]
             },
             {
               "letra": "ALELUIA, ALELUIA.",
               "acordes": []
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
-              "letra": "O AGUILHÃO DA MORTE É O PECADO;",
+              "letra": "O aguilhão da morte é o pecado;",
               "acordes": [
                 {
                   "cifra": "Re",
-                  "palavra_alvo": "PECADO",
+                  "palavra_alvo": "O",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "E A FORÇA DO PECADO É A LEI.",
+              "letra": "e a força do pecado é a Lei.",
               "acordes": [
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "LEI",
+                  "palavra_alvo": "Lei",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
                 }
               ]
             },
             {
-              "letra": "MAS NÓS VENCEMOS EM CRISTO RESSUSCITADO!",
+              "letra": "Mas nós vencemos em Cristo ressuscitado!",
               "acordes": [
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "RESSUSCITADO",
+                  "palavra_alvo": "ressuscitado",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 36
                 }
               ]
             }
@@ -198,15 +202,15 @@
               "acordes": [
                 {
                   "cifra": "Re7",
-                  "palavra_alvo": "ISSO",
+                  "palavra_alvo": "POR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 1
                 },
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "CANTAMOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 }
               ]
             },
@@ -217,103 +221,92 @@
                   "cifra": "Re",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 4
                 },
                 {
                   "cifra": "Do",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 13
                 },
                 {
                   "cifra": "Si",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 3,
-                  "posicao": null
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
-            {
-              "letra": "EU VOS RECORDO, IRMÃOS,",
-              "acordes": [
-                {
-                  "cifra": "Re7",
-                  "palavra_alvo": "RECORDO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Sol",
-                  "palavra_alvo": "IRMÃOS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "O EVANGELHO QUE EU VOS ANUNCIEI,",
-              "acordes": [
-                {
-                  "cifra": "Re",
-                  "palavra_alvo": "ANUNCIEI",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "O MESMO QUE EU RECEBI.",
-              "acordes": [
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "RECEBI",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Si",
-                  "palavra_alvo": "RECEBI",
-                  "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 23
                 }
               ]
             }
           ]
         },
         {
-          "indicador": "A.",
+          "indicador": "S.",
           "repeticao": null,
           "linhas": [
             {
-              "letra": "A SABER:",
+              "letra": "Eu vos recordo, irmãos,",
+              "acordes": [
+                {
+                  "cifra": "Re7",
+                  "palavra_alvo": "Eu",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "irmãos",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 19
+                }
+              ]
+            },
+            {
+              "letra": "o Evangelho que eu vos anunciei,",
+              "acordes": [
+                {
+                  "cifra": "Re",
+                  "palavra_alvo": "Evangelho",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 7
+                },
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "anunciei",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 29
+                }
+              ]
+            },
+            {
+              "letra": "o mesmo que eu recebi.",
+              "acordes": [
+                {
+                  "cifra": "Si",
+                  "palavra_alvo": "recebi",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 19
+                }
+              ]
+            },
+            {
+              "letra": "A saber:",
               "acordes": [
                 {
                   "cifra": "Re7",
                   "palavra_alvo": "A",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "SABER",
+                  "palavra_alvo": "saber",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 }
               ]
             },
             {
-              "letra": "QUE CRISTO MORREU POR NOSSOS PECADOS,",
+              "letra": "que Cristo morreu por nossos pecados,",
               "acordes": []
             }
           ]
@@ -333,13 +326,13 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "QUE RESSUSCITOU,",
+              "letra": "que ressuscitou,",
               "acordes": [
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "RESSUSCITOU",
+                  "palavra_alvo": "ressuscitou",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 13
                 }
               ]
             }
@@ -360,46 +353,46 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "QUE APARECEU PRIMEIRO A PEDRO,",
+              "letra": "que apareceu primeiro a Pedro,",
               "acordes": [
                 {
                   "cifra": "Mi-",
-                  "palavra_alvo": "PEDRO",
+                  "palavra_alvo": "Pedro",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 25
                 }
               ]
             },
             {
-              "letra": "DEPOIS AOS DOZE; DEPOIS A MAIS DE",
+              "letra": "depois aos Doze; depois a mais de",
               "acordes": [
                 {
                   "cifra": "Re",
-                  "palavra_alvo": "DOZE",
+                  "palavra_alvo": "Doze",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 }
               ]
             },
             {
-              "letra": "QUINHENTOS IRMÃOS AO MESMO TEMPO.",
+              "letra": "quinhentos irmãos ao mesmo tempo.",
               "acordes": [
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "TEMPO",
+                  "palavra_alvo": "irmãos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 14
                 }
               ]
             },
             {
-              "letra": "E FINALMENTE APARECEU TAMBÉM A MIM.",
+              "letra": "E finalmente apareceu também a mim.",
               "acordes": [
                 {
                   "cifra": "Si",
-                  "palavra_alvo": "MIM",
+                  "palavra_alvo": "mim",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 32
                 }
               ]
             }
@@ -414,24 +407,18 @@
               "acordes": [
                 {
                   "cifra": "Re7",
-                  "palavra_alvo": "ISSO",
+                  "palavra_alvo": "POR",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 1
                 },
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "CANTAMOS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "ALELUIA, ALELUIA, ALELUIA.",
               "acordes": [
@@ -439,19 +426,19 @@
                   "cifra": "Re",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 4
                 },
                 {
                   "cifra": "Do",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 13
                 },
                 {
                   "cifra": "Si",
                   "palavra_alvo": "ALELUIA",
                   "ocorrencia_palavra": 3,
-                  "posicao": null
+                  "posicao": 23
                 }
               ]
             }

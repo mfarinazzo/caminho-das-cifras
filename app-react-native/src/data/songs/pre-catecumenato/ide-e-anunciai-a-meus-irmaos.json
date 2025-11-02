@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "IDE A ANUNCIAI A MEUS IRMÃOS",
-  "subtitulo": null,
-  "referencia": "Mateus 28, 7.10-16-20",
+  "titulo_principal": "IDE E ANUNCIAI A MEUS IRMÃOS",
+  "subtitulo": "",
+  "referencia": "Mateus 28,7-10.16-20",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -13,27 +13,16 @@
       "estrofes": [
         {
           "indicador": "A.",
-          "repeticao": "bis",
+          "repeticao": null,
           "linhas": [
             {
-              "letra": "IDE E ANUNCIAI A MEUS IRMÃOS,",
+              "letra": "IDE E ANUNCIAI A MEUS IRMÃOS,  |",
               "acordes": [
                 {
                   "cifra": "La-",
                   "palavra_alvo": "IDE",
                   "ocorrencia_palavra": 1,
                   "posicao": 0
-                }
-              ]
-            },
-            {
-              "letra": "QUE SE DIRIJAM À GALILÉIA;",
-              "acordes": [
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "GALILÉIA",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
                 }
               ]
             }
@@ -44,8 +33,38 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "QUE ALI ME VERÃO,",
-              "acordes": []
+              "letra": "QUE SE DIRIJAM À GALILÉIA;     |",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "DIRIJAM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 9
+                },
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "GALILÉIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 22
+                },
+                {
+                  "cifra": "BIS",
+                  "palavra_alvo": "GALILÉIA",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 34
+                }
+              ]
+            },
+            {
+              "letra": "que ali me verão,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "ali",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 5
+                }
+              ]
             }
           ]
         },
@@ -60,7 +79,7 @@
                   "cifra": "La-",
                   "palavra_alvo": "VERÃO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 13
                 }
               ]
             }
@@ -71,53 +90,98 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "OS DISCÍPULOS FORAM À GALILÉIA,",
+              "letra": "Os discípulos foram à Galiléia,",
               "acordes": [
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "DISCÍPULOS",
+                  "palavra_alvo": "foram",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 14
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "GALILÉIA",
+                  "palavra_alvo": "Galiléia",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 27
                 }
               ]
             },
             {
-              "letra": "AO MONTE QUE JESUS LHES HAVIA INDICADO.",
+              "letra": "ao monte que Jesus lhes havia indicado.",
               "acordes": [
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "MONTE",
+                  "palavra_alvo": "Jesus",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 15
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "INDICADO",
+                  "palavra_alvo": "indicado",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 33
                 }
               ]
             },
             {
-              "letra": "QUANDO O VIRAM O ADORARAM.",
+              "letra": "Quando o viram o adoraram.",
               "acordes": [
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "VIRAM",
+                  "palavra_alvo": "viram",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 9
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "ADORARAM",
+                  "palavra_alvo": "adoraram",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 21
+                }
+              ]
+            },
+            {
+              "letra": "E Jesus lhes disse:",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "Jesus",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 3
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "disse",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 14
+                }
+              ]
+            },
+            {
+              "letra": "\"Foi-me dado todo poder",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Foi-me",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "poder",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 18
+                }
+              ]
+            },
+            {
+              "letra": "no céu e na terra\".",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "terra",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 12
                 }
               ]
             }
@@ -128,30 +192,19 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "“FOI-ME DADO TODO PODER",
+              "letra": "FOI-ME DADO TODO PODER",
               "acordes": [
                 {
                   "cifra": "Do",
                   "palavra_alvo": "FOI-ME",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "PODER",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "NO CÉU E NA TERRA”.",
-              "acordes": [
-                {
-                  "cifra": "Do",
-                  "palavra_alvo": "CÉU",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 17
                 }
               ]
             }
@@ -162,97 +215,97 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "IDE POIS, E FAZEI DISCÍPULOS",
+              "letra": "NO CÉU E NA TERRA\".",
               "acordes": [
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "IDE",
+                  "palavra_alvo": "TERRA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 12
+                }
+              ]
+            },
+            {
+              "letra": "Ide pois, e fazei discípulos",
+              "acordes": [
+                {
+                  "cifra": "Do",
+                  "palavra_alvo": "Ide",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "DISCÍPULOS",
+                  "palavra_alvo": "discípulos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
                 }
               ]
             },
             {
-              "letra": "A TODAS AS NAÇÕES",
+              "letra": "a todas a nações",
               "acordes": [
                 {
                   "cifra": "Do",
-                  "palavra_alvo": "NAÇÕES",
+                  "palavra_alvo": "nações",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 13
                 }
               ]
             },
             {
-              "letra": "BATIZANDO-AS EM NOME DO PAI, E DO FILHO",
+              "letra": "batizando-as em nome do Pai, e do Filho",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "NOME",
+                  "palavra_alvo": "batizando-as",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "PAI",
+                  "palavra_alvo": "Pai",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
                 }
               ]
             },
             {
-              "letra": "E DO ESPÍRITO SANTO,",
+              "letra": "e do Espírito Santo,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "ESPÍRITO",
+                  "palavra_alvo": "Santo",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 14
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "estrofes": [
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
-              "letra": "E ENSINANDO-LHES A PÔR EM PRÁTICA",
+              "letra": "e ensinando-lhes a pôr em prática",
               "acordes": [
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "ENSINANDO-LHES",
+                  "palavra_alvo": "ensinando-lhes",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 6
                 }
               ]
             },
             {
-              "letra": "TUDO O QUE EU VOS ORDENOU.",
+              "letra": "tudo o que eu vos ordenei.",
               "acordes": [
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "TUDO",
+                  "palavra_alvo": "ordenei",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
                 },
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "ORDENOU",
+                  "palavra_alvo": "ordenei",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 25
                 }
               ]
             }
@@ -280,35 +333,35 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "EIS QUE EU ESTOU CONVOSCO,",
+              "letra": "Eis que eu estou convosco,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "EIS",
+                  "palavra_alvo": "Eis",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "EIS QUE EU ESTOU CONVOSCO",
+              "letra": "eis que eu estou convosco",
               "acordes": [
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "CONVOSCO",
+                  "palavra_alvo": "convosco",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 21
                 }
               ]
             },
             {
-              "letra": "TODOS OS DIAS.",
+              "letra": "todos os dias.",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "DIAS",
+                  "palavra_alvo": "dias",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 10
                 }
               ]
             }
@@ -325,35 +378,7 @@
                   "cifra": "La-",
                   "palavra_alvo": "EIS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Sol",
-                  "palavra_alvo": "CONVOSCO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "EIS QUE EU ESTOU CONVOSCO",
-              "acordes": [
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "CONVOSCO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "TODOS OS DIAS,",
-              "acordes": [
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "DIAS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
@@ -364,13 +389,35 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "ATÉ O FIM DO MUNDO,",
+              "letra": "EIS QUE EU ESTOU CONVOSCO",
+              "acordes": [
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "CONVOSCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 20
+                }
+              ]
+            },
+            {
+              "letra": "TODOS OS DIAS,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "MUNDO",
+                  "palavra_alvo": "DIAS",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 10
+                }
+              ]
+            },
+            {
+              "letra": "até o fim do mundo,",
+              "acordes": [
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "até",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
                 }
               ]
             }
@@ -387,16 +434,10 @@
                   "cifra": "La-",
                   "palavra_alvo": "MUNDO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 13
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "A.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "IDE E ANUNCIAI A MEUS IRMÃOS, ...",
               "acordes": [

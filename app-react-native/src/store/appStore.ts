@@ -3,7 +3,7 @@ import { persist, createJSONStorage } from 'zustand/middleware';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export type ThemeMode = 'light' | 'dark' | 'system';
-export type InstrumentType = 'guitar' | 'ukulele';
+export type InstrumentType = 'guitar' | 'ukulele' | 'charango';
 
 interface AppState {
   themeMode: ThemeMode;
@@ -33,7 +33,7 @@ export const useAppStore = create<AppState>()(
       setThemeMode: (mode) => set({ themeMode: mode }),
       textScale: 1,
       setTextScale: (scale) => set({ textScale: Math.max(0.8, Math.min(1.6, scale)) }),
-      instrument: 'guitar',
+  instrument: 'guitar',
       setInstrument: (i) => set({ instrument: i }),
       // capo state
       capoBySong: {},

@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "O MESSIAS, LEÃO PARA VENCER",
-  "subtitulo": "Inspirado num texto de S.Vitorino de Pettau †304",
-  "referencia": null,
+  "titulo_principal": "O MESSIAS LEÃO PARA VENCER",
+  "subtitulo": "",
+  "referencia": "254",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -13,10 +13,14 @@
       "estrofes": [
         {
           "indicador": "S.",
-          "repeticao": "bis a",
+          "repeticao": null,
           "linhas": [
             {
-              "letra": "O MESSIAS, LEÃO PARA VENCER,",
+              "letra": "Inspirado num texto de S. Vitorino de Pettau +304",
+              "acordes": []
+            },
+            {
+              "letra": "O MESSIAS, LEÃO PARA VENCER     |",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -28,27 +32,33 @@
                   "cifra": "Mi",
                   "palavra_alvo": "VENCER",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 22
                 }
               ]
             },
             {
-              "letra": "FEZ-SE CORDEIRO PARA SOFRER.¹",
+              "letra": "FEZ-SE CORDEIRO PARA SOFRER.*   |",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "FEZ-SE",
+                  "palavra_alvo": "PARA",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 19
+                },
+                {
+                  "cifra": "BIS",
+                  "palavra_alvo": "SOFRER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 35
+                },
+                {
+                  "cifra": "A.",
+                  "palavra_alvo": "SOFRER",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 39
                 }
               ]
-            }
-          ]
-        },
-        {
-          "indicador": "S.",
-          "repeticao": null,
-          "linhas": [
+            },
             {
               "letra": "Subiu ao madeiro para ser",
               "acordes": [
@@ -56,13 +66,13 @@
                   "cifra": "Do",
                   "palavra_alvo": "Subiu",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 1
                 },
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "ser",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 22
                 }
               ]
             },
@@ -73,13 +83,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "esposo",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 1
                 },
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "morrer",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 13
                 }
               ]
             },
@@ -88,32 +98,32 @@
               "acordes": [
                 {
                   "cifra": "Re-",
-                  "palavra_alvo": "seu",
+                  "palavra_alvo": "E",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 1
                 },
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "deixou",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 14
                 }
               ]
             },
             {
-              "letra": "dote, para a sua esposa virgem.²",
+              "letra": "dote, para a sua esposa virgem.*",
               "acordes": [
                 {
                   "cifra": "Fa",
                   "palavra_alvo": "dote",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "virgem",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 24
                 }
               ]
             }
@@ -124,7 +134,7 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "O MESSIAS, LEÃO PARA VENCER, ...",
+              "letra": "O MESSIAS, LEÃO PARA VENCER...",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -136,7 +146,7 @@
                   "cifra": "Mi",
                   "palavra_alvo": "VENCER",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 22
                 }
               ]
             }
@@ -153,13 +163,13 @@
                   "cifra": "Do",
                   "palavra_alvo": "E",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 1
                 },
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "infernos",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 16
                 }
               ]
             },
@@ -170,13 +180,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "em",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 1
                 },
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "perdida",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 21
                 }
               ]
             },
@@ -187,13 +197,13 @@
                   "cifra": "Re-",
                   "palavra_alvo": "E",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 1
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "Céu",
+                  "palavra_alvo": "ao",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 }
               ]
             },
@@ -204,13 +214,13 @@
                   "cifra": "Fa",
                   "palavra_alvo": "e",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Mi",
                   "palavra_alvo": "Pai",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 26
                 }
               ]
             }
@@ -221,7 +231,7 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "O MESSIAS, LEÃO PARA VENCER, ...",
+              "letra": "O MESSIAS, LEÃO PARA VENCER...",
               "acordes": [
                 {
                   "cifra": "La-",
@@ -233,14 +243,32 @@
                   "cifra": "Mi",
                   "palavra_alvo": "VENCER",
                   "ocorrencia_palavra": 1,
-                  "posicao": 0
+                  "posicao": 22
                 }
               ]
+            }
+          ]
+        },
+        {
+          "indicador": "S.",
+          "repeticao": null,
+          "linhas": [
+            {
+              "letra": "______________",
+              "acordes": []
+            },
+            {
+              "letra": "*1 Tirado de um texto de São Victorino de Pettau.",
+              "acordes": []
+            },
+            {
+              "letra": "*2 Tirado de uma homilia de São Quodvultdeus.",
+              "acordes": []
             }
           ]
         }
       ]
     }
   ],
-  "tom": "La menor"
+  "tom": "Mi maior"
 }

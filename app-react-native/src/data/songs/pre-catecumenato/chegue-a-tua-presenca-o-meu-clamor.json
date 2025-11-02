@@ -1,7 +1,7 @@
 {
-  "titulo_principal": "CHEGUE À TUA PRESENÇA MEU CLAMOR",
-  "subtitulo": null,
-  "referencia": "Salmo 119 (118)",
+  "titulo_principal": "CHEGUE À TUA PRESENÇA O MEU CLAMOR",
+  "subtitulo": "",
+  "referencia": "55",
   "pagina": null,
   "bracadeira": {
     "tem": false,
@@ -16,125 +16,129 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "SENHOR, SENHOR JESUS!",
+              "letra": "Salmo 119(118)",
+              "acordes": []
+            },
+            {
+              "letra": "Senhor, Senhor Jesus!",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "SENHOR",
+                  "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "SENHOR",
+                  "palavra_alvo": "Senhor",
                   "ocorrencia_palavra": 2,
-                  "posicao": null
+                  "posicao": 12
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "JESUS",
+                  "palavra_alvo": "Jesus",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 18
                 }
               ]
             },
             {
-              "letra": "CHEGUE À TUA PRESENÇA MEU CLAMOR,",
+              "letra": "Chegue à tua presença meu clamor,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "CHEGUE",
+                  "palavra_alvo": "Chegue",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "BROTE DE MEUS LÁBIOS TUA CANÇÃO,",
+              "letra": "brote de meus lábios tua canção,",
               "acordes": [
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "BROTE",
+                  "palavra_alvo": "brote",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "CANTE MINHA LÍNGUA TUAS PALAVRAS,",
+              "letra": "cante minha língua tuas palavras,",
               "acordes": [
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "CANTE",
+                  "palavra_alvo": "cante",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "ALMA MINHA, JESUS.",
+              "letra": "alma minha, Jesus.",
               "acordes": [
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "ALMA",
+                  "palavra_alvo": "minha",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 6
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "JESUS",
+                  "palavra_alvo": "Jesus",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 15
                 }
               ]
             },
             {
-              "letra": "ESTEJA COMIGO TUA MÃO PARA AJUDAR-ME",
+              "letra": "Esteja comigo tua mão para ajudar-me",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "ESTEJA",
+                  "palavra_alvo": "Esteja",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "DE TI ESPERO A SALVAÇÃO,",
+              "letra": "de ti espero a salvação,",
               "acordes": [
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "TI",
+                  "palavra_alvo": "ti",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 3
                 }
               ]
             },
             {
-              "letra": "VIVA MINHA ALMA PARA LOUVAR-TE,",
+              "letra": "viva minha alma para louvar-te,",
               "acordes": [
                 {
                   "cifra": "Sol",
-                  "palavra_alvo": "VIVA",
+                  "palavra_alvo": "viva",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             },
             {
-              "letra": "OLHA-ME, ANDO ERRANTE.",
+              "letra": "olha-me, ando errante.",
               "acordes": [
                 {
                   "cifra": "Fa",
-                  "palavra_alvo": "OLHA-ME",
+                  "palavra_alvo": "olha-me",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 5
                 },
                 {
                   "cifra": "Mi",
-                  "palavra_alvo": "ANDO",
+                  "palavra_alvo": "errante",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 17
                 }
               ]
             }
@@ -151,64 +155,13 @@
                   "cifra": "La-",
                   "palavra_alvo": "VEM",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 },
                 {
                   "cifra": "Sol",
                   "palavra_alvo": "SERVO",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "VEM, SENHOR JESUS.",
-              "acordes": [
-                {
-                  "cifra": "Fa",
-                  "palavra_alvo": "VEM",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "JESUS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "VEM, QUE EU SEM TI ME PERCO,",
-              "acordes": [
-                {
-                  "cifra": "La-",
-                  "palavra_alvo": "VEM",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Sol",
-                  "palavra_alvo": "PERCO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                }
-              ]
-            },
-            {
-              "letra": "VEM, SENHOR JESUS.",
-              "acordes": [
-                {
-                  "cifra": "Fa",
-                  "palavra_alvo": "VEM",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Mi",
-                  "palavra_alvo": "JESUS",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 22
                 }
               ]
             }
@@ -219,13 +172,64 @@
           "repeticao": null,
           "linhas": [
             {
-              "letra": "CHEGUE À TUA PRESENÇA ...",
+              "letra": "VEM, SENHOR JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                }
+              ]
+            },
+            {
+              "letra": "VEM, QUE EU SEM TI ME PERCO,",
               "acordes": [
                 {
                   "cifra": "La-",
-                  "palavra_alvo": "CHEGUE",
+                  "palavra_alvo": "VEM",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Sol",
+                  "palavra_alvo": "PERCO",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 23
+                }
+              ]
+            },
+            {
+              "letra": "VEM, SENHOR JESUS.",
+              "acordes": [
+                {
+                  "cifra": "Fa",
+                  "palavra_alvo": "VEM",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
+                },
+                {
+                  "cifra": "Mi",
+                  "palavra_alvo": "JESUS",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 15
+                }
+              ]
+            },
+            {
+              "letra": "Chegue à tua presença ...",
+              "acordes": [
+                {
+                  "cifra": "La-",
+                  "palavra_alvo": "Chegue",
+                  "ocorrencia_palavra": 1,
+                  "posicao": 0
                 }
               ]
             }
@@ -242,13 +246,7 @@
                   "cifra": "La-",
                   "palavra_alvo": "VEM",
                   "ocorrencia_palavra": 1,
-                  "posicao": null
-                },
-                {
-                  "cifra": "Sol",
-                  "palavra_alvo": "SERVO",
-                  "ocorrencia_palavra": 1,
-                  "posicao": null
+                  "posicao": 0
                 }
               ]
             }
